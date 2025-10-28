@@ -6,6 +6,10 @@ on:
     - cron: '0 9 * * *'
   workflow_dispatch: # Allow manual trigger
 
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -23,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scrape_test.py
+        run: python scrape_all.py
 
       - name: Configure git
         run: |
