@@ -1,0 +1,210 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-28T11:56:05.575432+00:00",
+  "postcode": "EC1V 2AS",
+  "id": 160298438,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "2 Bedroom | 2 Bathroom | 5th Floor | 800 sqft + internal | Balcony | Furnished | 24 hour Concierge | Gym | Swimming Pool | Sauna and Steam Room | Cinema Room | Landscape Gardens | Comfort Cooling | Underfloor Heating | 5* Amenities | Available 21st May",
+  "displayAddress": "Siena House, 250 City Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5233,
+    "longitude": -0.100071
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_00_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_01_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_02_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_03_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_04_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_05_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_06_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_07_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_08_0000_max_476x317.jpeg",
+      "url": "83k/82293/160298438/82293_411_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-05-21T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-04-05T10:46:07Z"
+  },
+  "price": {
+    "amount": 4000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3923 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 82293,
+    "brandPlusLogoURI": "/83k/82293/branch_rmchoice_logo_82293_0000.png",
+    "contactTelephone": "020 3667 9426",
+    "branchDisplayName": "EGRE, London",
+    "branchName": "London",
+    "brandTradingName": "EGRE",
+    "branchLandingPageUrl": "/estate-agents/agent/EGRE/London-82293.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-08T05:29:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/83k/82293/branch_rmchoice_logo_82293_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": ".",
+  "displaySize": "808 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/160298438#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=160298438",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-04-05T10:40:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-05-28T15:56:21Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_00_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_01_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_02_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_03_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_04_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_05_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_06_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_07_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_08_0000_max_476x317.jpeg",
+        "url": "83k/82293/160298438/82293_411_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/83k/82293/160298438/82293_411_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by EGRE, London",
+  "addedOrReduced": "Added on 05/04/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,200 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-28T15:39:43.017972+00:00",
+  "postcode": "N7 9EL",
+  "id": 87303810,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "This fantastic one-bedroom ground floor flat offers generous living space and a private garden, perfect for relaxing or entertaining. The property features a fully fitted kitchen, a large separate lounge, a double bedroom, and a fully tiled bathroom.",
+  "displayAddress": "Surr Street, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54967,
+    "longitude": -0.12259
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_00_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_01_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_02_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_03_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_04_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_05_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_06_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_07_0000_max_476x317.jpeg",
+      "url": "264k/263366/87303810/263366_SURRST_IMG_07_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-24T14:45:12Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 263366,
+    "brandPlusLogoURI": "/264k/263366/branch_rmchoice_logo_263366_0000.jpeg",
+    "contactTelephone": "020 3815 7523",
+    "branchDisplayName": "CSG Managed Properties, London",
+    "branchName": "London",
+    "brandTradingName": "CSG Managed Properties",
+    "branchLandingPageUrl": "/estate-agents/agent/CSG-Managed-Properties/London-263366.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-01-23T10:08:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/264k/263366/branch_rmchoice_logo_263366_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87303810#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87303810",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-14T13:11:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-24T14:45:13Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_00_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_01_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_02_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_03_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_04_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_05_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_06_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_07_0000_max_476x317.jpeg",
+        "url": "264k/263366/87303810/263366_SURRST_IMG_07_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/264k/263366/87303810/263366_SURRST_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CSG Managed Properties, London",
+  "addedOrReduced": "Reduced on 24/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

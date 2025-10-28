@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-28T16:00:45.316633+00:00",
+  "postcode": "WC1X 9PN",
+  "id": 166331123,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautifully presented one bedroom flat to rent over the ground floor of this beautiful period building in an enviable position between Islington and Kings Cross.",
+  "displayAddress": "Wharton Street, Islington, London, WC1X",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528214,
+    "longitude": -0.111213
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_03_0000.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_04_0000.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_05_0000.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_06_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_06_0000.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_07_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_07_0000.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_08_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_08_0000.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_09_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_09_0000.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_10_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_10_0000.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_11_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_11_0000.jpeg",
+      "caption": "Picture No. 25"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_02_0000.jpeg",
+      "caption": "1006221 (10)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_01_0000.jpeg",
+      "caption": "1006221 (9)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_12_0000_max_476x317.jpeg",
+      "url": "154k/153638/166331123/153638_KDC240105_L_IMG_12_0000.jpeg",
+      "caption": "Picture No. 11"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-22T13:09:14Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 153638,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_21877_0010.png",
+    "contactTelephone": "020 3889 9155",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Clerkenwell - Lettings",
+    "branchName": "Clerkenwell - Lettings",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Clerkenwell---Lettings-153638.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-29T12:14:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_21877_0010.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/166331123#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=166331123",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-08-28T19:15:56Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-24T19:16:20Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_03_0000.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_04_0000.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_05_0000.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_06_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_06_0000.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_07_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_07_0000.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_08_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_08_0000.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_09_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_09_0000.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_10_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_10_0000.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_11_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_11_0000.jpeg",
+        "caption": "Picture No. 25"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_02_0000.jpeg",
+        "caption": "1006221 (10)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_01_0000.jpeg",
+        "caption": "1006221 (9)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_12_0000_max_476x317.jpeg",
+        "url": "154k/153638/166331123/153638_KDC240105_L_IMG_12_0000.jpeg",
+        "caption": "Picture No. 11"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_03_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153638/166331123/153638_KDC240105_L_IMG_03_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Clerkenwell - Lettings",
+  "addedOrReduced": "Reduced on 22/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

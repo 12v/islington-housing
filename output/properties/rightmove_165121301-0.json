@@ -1,0 +1,200 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-28T15:27:25.621556+00:00",
+  "postcode": "N7 7RD",
+  "id": 165121301,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A spacious two/three-bedroom split-level flat ideally located just a short walk from Finsbury Park Station and local amenities. The property features a large kitchen, a bright lounge with access to a private terrace, two double bedrooms, a smaller bedroom/study, and a modern family bat...",
+  "displayAddress": "Ray Walk, Finsbury Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.563136,
+    "longitude": -0.114961
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_01_0000.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_02_0000.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_04_0000.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_07_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_07_0000.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_00_0000.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_03_0000.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_06_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_06_0000.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "55k/54616/165121301/54616_DAN200503_L_IMG_05_0000.jpeg",
+      "caption": "Picture No. 06"
+    }
+  ],
+  "propertySubType": "Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-09T14:41:43Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-15T13:25:08Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/165121301#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=165121301",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-07-30T12:05:57Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-27T19:40:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_01_0000.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_02_0000.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_04_0000.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_07_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_07_0000.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_00_0000.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_03_0000.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_06_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_06_0000.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "55k/54616/165121301/54616_DAN200503_L_IMG_05_0000.jpeg",
+        "caption": "Picture No. 06"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_01_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54616/165121301/54616_DAN200503_L_IMG_01_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Reduced on 09/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

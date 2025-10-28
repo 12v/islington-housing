@@ -1,0 +1,190 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-28T15:29:41.976307+00:00",
+  "postcode": "N7 8DD",
+  "id": 162562133,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A stunning one double bedroom spacious apartment with a large private terrace within this modern development in Holloway, within walking distance to Caledonian Road, Highbury& Islington and Drayton Park Stations, benefiting from excellent transport links and high specifications.",
+  "displayAddress": "Holloway Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551078,
+    "longitude": -0.109794
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_01_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_02_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_03_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_04_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_05_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_06_0000_max_476x317.jpeg",
+      "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_06_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-08-11T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-05-29T09:53:06Z"
+  },
+  "price": {
+    "amount": 2535,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,535 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3585 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 77197,
+    "brandPlusLogoURI": "/78k/77197/branch_rmchoice_logo_77197_0002.png",
+    "contactTelephone": "020 3834 7921",
+    "branchDisplayName": "Victorstone Property Consultants (GA PRINCIPAL BRANCH), City Road",
+    "branchName": "City Road",
+    "brandTradingName": "Victorstone Property Consultants (GA PRINCIPAL BRANCH)",
+    "branchLandingPageUrl": "/estate-agents/agent/Victorstone-Property-Consultants-GA-PRINCIPAL-BRANCH/City-Road-77197.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-24T09:49:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/78k/77197/branch_rmchoice_logo_77197_0002.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "516 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/162562133#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=162562133",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-05-29T09:47:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-28T13:18:43Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_01_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_02_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_03_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_04_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_05_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_06_0000_max_476x317.jpeg",
+        "url": "78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_06_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/78k/77197/162562133/77197_VCT_VCT_LFSYCL_465_633142026_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Victorstone Property Consultants (GA PRINCIPAL BRANCH), City Road",
+  "addedOrReduced": "Added on 29/05/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
