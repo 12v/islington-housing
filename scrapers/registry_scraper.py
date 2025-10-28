@@ -1,4 +1,3 @@
-import asyncio
 import json
 import logging
 from pathlib import Path
@@ -26,26 +25,9 @@ async def search_register(postcode: str, page: Page) -> List[Dict[str, Any]]:
     await page.wait_for_timeout(1000)
 
     logger.info(f"Entering postcode: {postcode}")
-    try:
-        await page.fill('input[placeholder*="postcode" i]', postcode, timeout=5000)
-    except Exception as e:
-        logger.warning(f"Could not fill postcode input: {e}")
-        inputs = await page.query_selector_all("input[type='search'], input[type='text']")
-        if inputs:
-            await inputs[0].fill(postcode)
-            logger.info("Filled first input field")
-        else:
-            logger.error("No input fields found")
-            return []
-
-    await asyncio.sleep(0.5)
-
-    try:
-        await page.press('input[placeholder*="postcode" i]', "Enter", timeout=5000)
-    except Exception:
-        inputs = await page.query_selector_all("input[type='search'], input[type='text']")
-        if inputs:
-            await inputs[0].press("Enter")
+    await page.fill('input#search_query', postcode, timeout=5000)
+    await page.wait_for_timeout(500)
+    await page.press('input#search_query', "Enter", timeout=5000)
     logger.info("Submitted search...")
 
     await page.wait_for_timeout(2000)
@@ -272,7 +254,7 @@ async def scrape_postcode(postcode: str, headless: bool = True) -> Path:
             for prop in properties:
                 details = await fetch_property_details(prop["detail_url"], page)
                 prop["details"] = details
-                await asyncio.sleep(0.5)
+                await page.wait_for_timeout(500)
 
             output_dir = await save_results(properties)
 
