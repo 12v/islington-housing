@@ -2,7 +2,7 @@
 """
 Extract all postcodes from property listings and save a sorted list.
 
-Scans output/properties/ for property files, extracts postcodes, and writes
+Scans rightmove-output/properties/ for property files, extracts postcodes, and writes
 a sorted list to config/property_listing_postcodes.txt.
 """
 
@@ -10,7 +10,7 @@ import json
 from pathlib import Path
 from typing import Set
 
-PROPERTIES_DIR = Path("output/properties")
+PROPERTIES_DIR = Path("rightmove-output/properties")
 CONFIG_DIR = Path("config")
 PROPERTY_POSTCODES_FILE = CONFIG_DIR / "property_listing_postcodes.txt"
 

@@ -36,7 +36,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add output/
+          git add rightmove-output/
           git commit -m "Update property listings and photos" || true
           git pull --rebase --autostash
           git push

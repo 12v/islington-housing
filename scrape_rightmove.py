@@ -33,7 +33,7 @@ async def main():
     logger.info(f"\n{'='*70}")
     logger.info(f"Scrape completed!")
     logger.info(f"Total properties found: {total_props}")
-    logger.info(f"Results saved to output/properties/")
+    logger.info(f"Results saved to rightmove-output/properties/")
     logger.info(f"{'='*70}")
 
 
