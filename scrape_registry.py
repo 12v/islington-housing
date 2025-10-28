@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Scrape the next postcode from the property listing postcodes list.
+Scrape the next 5 postcodes from the property listing postcodes list.
 
 Maintains state in config/registry_scraper_state.json to track which postcode
-was last scraped. On each run, scrapes the next postcode in the list, cycling
-back to the beginning when reaching the end.
+was last scraped. On each run, scrapes the next 5 postcodes in the list, with
+a 1-minute delay between each, cycling back to the beginning when reaching the end.
 """
 
 import asyncio
@@ -42,28 +42,31 @@ def save_state(state: dict):
         json.dump(state, f, indent=2)
 
 
-def get_next_postcode(postcodes: list[str]) -> str:
-    """Get the next postcode to scrape."""
+def get_next_postcodes(postcodes: list[str], count: int = 5) -> list[str]:
+    """Get the next N postcodes to scrape."""
     if not postcodes:
         raise ValueError("No postcodes available")
 
     state = load_state()
     last_postcode = state.get("last_postcode")
 
-    # If no last postcode, start with first
+    # Find starting index
     if last_postcode is None:
-        return postcodes[0]
+        start_index = 0
+    else:
+        try:
+            start_index = (postcodes.index(last_postcode) + 1) % len(postcodes)
+        except ValueError:
+            # Last postcode no longer in list, start over
+            start_index = 0
 
-    # Find last postcode in list
-    try:
-        current_index = postcodes.index(last_postcode)
-    except ValueError:
-        # Last postcode no longer in list, start over
-        return postcodes[0]
+    # Get next N postcodes, wrapping around if necessary
+    next_postcodes = []
+    for i in range(count):
+        index = (start_index + i) % len(postcodes)
+        next_postcodes.append(postcodes[index])
 
-    # Return next postcode, cycling back to start if at end
-    next_index = (current_index + 1) % len(postcodes)
-    return postcodes[next_index]
+    return next_postcodes
 
 
 async def main():
@@ -73,17 +76,22 @@ async def main():
         print("No postcodes to scrape")
         return
 
-    next_postcode = get_next_postcode(postcodes)
+    next_postcodes = get_next_postcodes(postcodes, count=5)
 
-    print(f"Scraping postcode: {next_postcode}")
+    for i, postcode in enumerate(next_postcodes):
+        print(f"Scraping postcode {i + 1}/5: {postcode}")
+        await scrape_postcode(postcode)
 
-    await scrape_postcode(next_postcode)
+        # Save state after each scrape
+        state = {"last_postcode": postcode}
+        save_state(state)
 
-    # Save state after successful scrape
-    state = {"last_postcode": next_postcode}
-    save_state(state)
+        # Wait 1 minute before next postcode (except after last one)
+        if i < len(next_postcodes) - 1:
+            print("Waiting 1 minute before next postcode...")
+            await asyncio.sleep(60)
 
-    print(f"State updated: {next_postcode}")
+    print("Completed scraping 5 postcodes")
 
 
 if __name__ == "__main__":
