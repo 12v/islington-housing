@@ -2,7 +2,7 @@ name: Update Property Listing Postcodes
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 concurrency:

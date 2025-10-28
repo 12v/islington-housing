@@ -2,8 +2,7 @@ name: Rightmove Scraper
 
 on:
   schedule:
-    # Run at 9 AM UTC daily
-    - cron: '0 9 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch: # Allow manual trigger
 
 concurrency:
