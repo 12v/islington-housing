@@ -1,0 +1,37 @@
+name: Update Property Listing Postcodes
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: postcodes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Extract postcodes from property listings
+        run: python extract_property_postcodes.py
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        run: |
+          git add config/property_listing_postcodes.txt
+          git commit -m "Update property listing postcodes" || true
+          git pull --rebase --autostash
+          git push
