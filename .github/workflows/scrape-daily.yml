@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scrape_all.py
+        run: python scrape_rightmove.py
 
       - name: Configure git
         run: |
