@@ -1,11 +1,16 @@
-name: Test Registry Scraper
+name: Registry Scraper
 
 on:
-  pull_request:
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: registry-scrape
+  cancel-in-progress: false
+
 jobs:
-  test:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,8 +28,8 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium
 
-      - name: Run registry scraper on test postcode
-        run: python scrape_registry.py "N19 3PF"
+      - name: Run registry scraper on next postcode
+        run: python scrape_registry.py
 
       - name: Configure git
         run: |
@@ -33,7 +38,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git add register-output/
-          git commit -m "Test registry scraper output" || true
+          git add register-output/ config/registry_scraper_state.json
+          git commit -m "Scrape registry for next postcode" || true
           git pull --rebase --autostash
           git push

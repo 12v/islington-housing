@@ -1,37 +1,89 @@
 #!/usr/bin/env python3
 """
-Scrape Islington property register for a given postcode.
+Scrape the next postcode from the property listing postcodes list.
 
-Usage: python scrape_registry.py <postcode>
-Example: python scrape_registry.py "N19 4JN"
+Maintains state in config/registry_scraper_state.json to track which postcode
+was last scraped. On each run, scrapes the next postcode in the list, cycling
+back to the beginning when reaching the end.
 """
 
 import asyncio
-import logging
-import sys
+import json
+from pathlib import Path
 from scrapers.registry_scraper import scrape_postcode
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
+CONFIG_DIR = Path("config")
+POSTCODES_FILE = CONFIG_DIR / "property_listing_postcodes.txt"
+STATE_FILE = CONFIG_DIR / "registry_scraper_state.json"
+
+
+def load_postcodes() -> list[str]:
+    """Load postcodes from file."""
+    if not POSTCODES_FILE.exists():
+        print(f"Postcodes file not found: {POSTCODES_FILE}")
+        return []
+
+    with open(POSTCODES_FILE) as f:
+        return [line.strip() for line in f if line.strip()]
+
+
+def load_state() -> dict:
+    """Load current state."""
+    if STATE_FILE.exists():
+        with open(STATE_FILE) as f:
+            return json.load(f)
+    return {"last_postcode": None}
+
+
+def save_state(state: dict):
+    """Save state to file."""
+    CONFIG_DIR.mkdir(exist_ok=True)
+    with open(STATE_FILE, "w") as f:
+        json.dump(state, f, indent=2)
+
+
+def get_next_postcode(postcodes: list[str]) -> str:
+    """Get the next postcode to scrape."""
+    if not postcodes:
+        raise ValueError("No postcodes available")
+
+    state = load_state()
+    last_postcode = state.get("last_postcode")
+
+    # If no last postcode, start with first
+    if last_postcode is None:
+        return postcodes[0]
+
+    # Find last postcode in list
+    try:
+        current_index = postcodes.index(last_postcode)
+    except ValueError:
+        # Last postcode no longer in list, start over
+        return postcodes[0]
+
+    # Return next postcode, cycling back to start if at end
+    next_index = (current_index + 1) % len(postcodes)
+    return postcodes[next_index]
 
 
 async def main():
-    if len(sys.argv) < 2:
-        print("Usage: python scrape_registry.py <postcode>")
-        print('Example: python scrape_registry.py "N19 4JN"')
-        sys.exit(1)
+    postcodes = load_postcodes()
 
-    postcode = sys.argv[1]
+    if not postcodes:
+        print("No postcodes to scrape")
+        return
 
-    output_dir = await scrape_postcode(postcode)
+    next_postcode = get_next_postcode(postcodes)
 
-    print(f"\n{'='*70}")
-    print(f"Register Search Results for {postcode}")
-    print(f"{'='*70}")
-    print(f"Output saved to: {output_dir}/")
-    print(f"{'='*70}\n")
+    print(f"Scraping postcode: {next_postcode}")
+
+    await scrape_postcode(next_postcode)
+
+    # Save state after successful scrape
+    state = {"last_postcode": next_postcode}
+    save_state(state)
+
+    print(f"State updated: {next_postcode}")
 
 
 if __name__ == "__main__":
