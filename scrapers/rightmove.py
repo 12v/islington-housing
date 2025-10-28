@@ -155,14 +155,13 @@ class RightMoveScraper:
             props_list = search_results.get("properties", [])
             logger.info(f"Extracted {len(props_list)} properties from JSON")
 
-            # Store full property objects with photos_local added
+            # Store full property objects
             # Filter out featured properties (premium is OK)
             for prop in props_list:
                 if prop.get("featuredProperty"):
                     logger.debug(f"Skipping featured property {prop.get('id')}")
                     continue
-                prop_with_locals = self._add_photos_local(prop)
-                properties.append(prop_with_locals)
+                properties.append(prop)
 
         except json.JSONDecodeError as e:
             logger.error(f"Error parsing __NEXT_DATA__ JSON: {e}")
@@ -171,20 +170,77 @@ class RightMoveScraper:
 
         return properties
 
-    def _add_photos_local(self, prop: Dict[str, Any]) -> Dict[str, Any]:
-        """Add photos_local field to property object based on images."""
-        photos_local = []
+    def _get_next_version(self, property_id: int) -> int:
+        """Get the next version number for a property.
 
-        if "images" in prop and prop["images"]:
-            property_id = prop.get("id")
-            for idx, image in enumerate(prop["images"]):
-                photos_local.append(f"rightmove/{property_id}/photo-{idx}.jpg")
+        Returns:
+            Next version number (0 for first, 1 for second, etc.)
+        """
+        props_dir = self.output_dir / "properties"
+        pattern = f"rightmove_{property_id}-*.json"
+        existing_files = sorted(props_dir.glob(pattern))
 
-        prop["photos_local"] = photos_local
-        return prop
+        if not existing_files:
+            return 0  # First pass
+
+        # Extract version numbers from existing files
+        versions = []
+        for f in existing_files:
+            match = re.search(r'-(\d+)\.json$', f.name)
+            if match:
+                versions.append(int(match.group(1)))
+
+        return max(versions) + 1 if versions else 0
+
+    def _has_changed(self, property_id: int, core_prop_data: Dict[str, Any]) -> bool:
+        """Check if property core data has changed compared to latest version.
+
+        Compares only the core property data, ignoring timestamp fields.
+
+        Args:
+            property_id: Property ID
+            core_prop_data: Property data without scraped_at/source/postcode
+
+        Returns:
+            True if property is new or has changed, False if identical to latest.
+        """
+        props_dir = self.output_dir / "properties"
+        pattern = f"rightmove_{property_id}-*.json"
+        existing_files = sorted(props_dir.glob(pattern))
+
+        if not existing_files:
+            return True  # New property
+
+        latest_file = existing_files[-1]
+
+        try:
+            with open(latest_file, "r") as f:
+                latest_prop_json = json.load(f)
+
+            # Extract just the core property data (everything except metadata and timestamps)
+            ignore_fields = {"source", "scraped_at", "postcode", "updateDate"}
+            latest_core = {
+                k: v
+                for k, v in latest_prop_json.items()
+                if k not in ignore_fields
+            }
+            new_core = {
+                k: v
+                for k, v in core_prop_data.items()
+                if k not in ignore_fields
+            }
+
+            # Compare JSON content (normalize by sorting keys)
+            latest_str = json.dumps(latest_core, sort_keys=True, default=str)
+            new_str = json.dumps(new_core, sort_keys=True, default=str)
+
+            return latest_str != new_str
+        except Exception as e:
+            logger.warning(f"Error comparing property {property_id}: {e}")
+            return True  # Default to saving on error
 
     async def download_photos(self, properties: List[Dict[str, Any]]):
-        """Download all photos for properties."""
+        """Download new photos for properties, skipping existing ones."""
         photo_dir = self.output_dir / "photos"
         photo_dir.mkdir(parents=True, exist_ok=True)
 
@@ -213,6 +269,13 @@ class RightMoveScraper:
 
                 photo_path = prop_photo_dir / f"photo-{idx}.jpg"
 
+                # Skip if photo already exists
+                if photo_path.exists():
+                    logger.debug(
+                        f"Photo {idx} already exists for property {property_id}, skipping"
+                    )
+                    continue
+
                 try:
                     await self._download_file(src_url, photo_path)
                     total_downloaded += 1
@@ -222,7 +285,7 @@ class RightMoveScraper:
                         f"Error downloading photo {idx} for property {property_id}: {e}"
                     )
 
-        logger.info(f"Downloaded {total_downloaded} photos total")
+        logger.info(f"Downloaded {total_downloaded} new photos")
 
     async def _download_file(self, url: str, file_path: Path):
         """Download a file from URL."""
@@ -257,30 +320,46 @@ class RightMoveScraper:
 
                 results.append(result)
 
-                # Save each property as a separate JSON file
+                # Save each property as a separate JSON file with versioning
                 props_dir = self.output_dir / "properties"
                 props_dir.mkdir(parents=True, exist_ok=True)
 
+                saved_count = 0
                 for prop in result["properties"]:
                     property_id = prop.get("id")
                     if not property_id:
                         continue
 
+                    # Check if property data has changed compared to latest version
+                    if not self._has_changed(property_id, prop):
+                        logger.debug(
+                            f"Property {property_id} unchanged, skipping new version"
+                        )
+                        continue
+
+                    # Get next version number and create versioned filename
+                    next_version = self._get_next_version(property_id)
+
                     # Create property JSON with source, scraped_at, postcode at root level
+                    # Exclude photos_local from output
+                    prop_data = {k: v for k, v in prop.items() if k != "photos_local"}
                     prop_json = {
                         "source": result["source"],
                         "scraped_at": result["scraped_at"],
                         "postcode": result["postcode"],
-                        **prop,  # Include all property data
+                        **prop_data,
                     }
 
-                    prop_file = props_dir / f"rightmove_{property_id}.json"
+                    prop_file = (
+                        props_dir / f"rightmove_{property_id}-{next_version}.json"
+                    )
                     with open(prop_file, "w") as f:
                         json.dump(prop_json, f, indent=2)
-                    logger.debug(f"Saved property {property_id} to {prop_file}")
+                    logger.debug(f"Saved property {property_id} v{next_version} to {prop_file}")
+                    saved_count += 1
 
                 logger.info(
-                    f"Saved {len(result['properties'])} property files for {postcode}"
+                    f"Saved {saved_count} property file versions for {postcode}"
                 )
 
                 # Add small delay between postcodes
