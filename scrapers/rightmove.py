@@ -156,10 +156,13 @@ class RightMoveScraper:
             logger.info(f"Extracted {len(props_list)} properties from JSON")
 
             # Store full property objects
-            # Filter out featured properties (premium is OK)
+            # Filter out featured properties (premium is OK) and parking
             for prop in props_list:
                 if prop.get("featuredProperty"):
                     logger.debug(f"Skipping featured property {prop.get('id')}")
+                    continue
+                if prop.get("propertySubType") == "Parking":
+                    logger.debug(f"Skipping parking listing {prop.get('id')}")
                     continue
                 properties.append(prop)
 
