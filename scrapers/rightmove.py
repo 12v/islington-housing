@@ -218,7 +218,7 @@ class RightMoveScraper:
                 latest_prop_json = json.load(f)
 
             # Extract just the core property data (everything except metadata and timestamps)
-            ignore_fields = {"source", "scraped_at", "postcode", "updateDate"}
+            ignore_fields = {"source", "scraped_at", "postcode", "updateDate", "addedOrReduced"}
             latest_core = {
                 k: v
                 for k, v in latest_prop_json.items()
