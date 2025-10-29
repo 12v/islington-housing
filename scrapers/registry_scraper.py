@@ -226,11 +226,8 @@ async def save_results(properties: List[Dict[str, Any]]) -> Path:
                     json.dump(prop_to_save, f, indent=2)
                 logger.info(f"Data changed, saved new version: {license_num}_{version}.json")
             else:
-                # Data unchanged, just update scraped_at in latest version
-                old_data["scraped_at"] = prop_to_save["scraped_at"]
-                with open(latest_file, "w") as f:
-                    json.dump(old_data, f, indent=2)
-                logger.info(f"No changes, updated scraped_at: {license_num}_{latest_version}.json")
+                # Data unchanged, skip writing
+                logger.info(f"No changes: {license_num}_{latest_version}.json")
         else:
             # First version
             new_file = OUTPUT_DIR / f"{license_num}_0.json"
