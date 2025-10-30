@@ -1,0 +1,534 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-29T22:45:58.646517+00:00",
+  "postcode": "N19 5RQ",
+  "id": 168642668,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 27,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "This pet-friendly 2 bed apartment benefits from access to roof terraces, an on-site gym, a work-from-home space and 24/7 resident services team. Located right above Archway station, Vantage Point has fast connections to the rest of London.Great location. Inclusive Wi-Fi. Managed Utilities. ",
+  "displayAddress": "Junction Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56543,
+    "longitude": -0.13507
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_00_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_00_0000.jpeg",
+      "caption": "Loungeroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_01_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_01_0000.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_02_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_02_0000.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_03_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_03_0000.jpeg",
+      "caption": "communal space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_04_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_04_0000.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_05_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_05_0000.jpeg",
+      "caption": "Dining and Lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_06_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_06_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_07_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_07_0000.jpeg",
+      "caption": "Bathroom "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_08_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_08_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_09_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_09_0000.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_10_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_10_0000.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_11_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_11_0000.jpeg",
+      "caption": "view"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_12_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_12_0000.jpeg",
+      "caption": "Loungeroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_13_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_13_0000.jpeg",
+      "caption": "Dining Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_14_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_14_0000.jpeg",
+      "caption": "Bathroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_15_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_15_0000.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_16_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_16_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_17_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_17_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_18_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_18_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_19_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_19_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_20_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_20_0000.jpeg",
+      "caption": "Loungeroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_21_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_21_0000.jpeg",
+      "caption": "loungeroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_22_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_22_0000.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_23_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_23_0000.jpeg",
+      "caption": "WFH space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_24_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_24_0000.jpeg",
+      "caption": "Communal Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_25_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_25_0000.jpeg",
+      "caption": "Communal Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_26_0000_max_476x317.jpeg",
+      "url": "208k/207218/168642668/207218_201VP_IMG_26_0000.jpeg",
+      "caption": "Games room"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-22T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-10-27T13:31:03Z"
+  },
+  "price": {
+    "amount": 3800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3877 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 207218,
+    "brandPlusLogoURI": "/brand/brand_rmchoice_logo_77120_0000.png",
+    "contactTelephone": "020 4572 3490",
+    "branchDisplayName": "Essential Living Management Limited, Vantage Point",
+    "branchName": "Vantage Point",
+    "brandTradingName": "Essential Living Management Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Essential-Living-Management-Limited/Vantage-Point-207218.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": true,
+    "buildToRentBenefits": [
+      {
+        "id": 24,
+        "label": "Pets allowed",
+        "icon": "dog",
+        "positionOnPage": 1
+      },
+      {
+        "id": 4,
+        "label": "Gym",
+        "icon": "gym",
+        "positionOnPage": 2
+      },
+      {
+        "id": 34,
+        "label": "Transport links",
+        "icon": "train",
+        "positionOnPage": 3
+      },
+      {
+        "id": 35,
+        "label": "Well connected",
+        "icon": "train",
+        "positionOnPage": 4
+      },
+      {
+        "id": 6,
+        "label": "On site maintenance",
+        "icon": "maintenance",
+        "positionOnPage": 5
+      },
+      {
+        "id": 31,
+        "label": "Shared workspace",
+        "icon": "desk",
+        "positionOnPage": 6
+      },
+      {
+        "id": 15,
+        "label": "Communal areas",
+        "icon": "communal-area",
+        "positionOnPage": 7
+      },
+      {
+        "id": 17,
+        "label": "Exclusive community",
+        "icon": "exclusive",
+        "positionOnPage": 8
+      },
+      {
+        "id": 18,
+        "label": "Flexible tenancies",
+        "icon": "note",
+        "positionOnPage": 9
+      },
+      {
+        "id": 9,
+        "label": "BBQ areas",
+        "icon": "bbq",
+        "positionOnPage": 10
+      },
+      {
+        "id": 3,
+        "label": "Parking",
+        "icon": "car-front",
+        "positionOnPage": 11
+      },
+      {
+        "id": 28,
+        "label": "Residents lounge",
+        "icon": "sofa",
+        "positionOnPage": 12
+      },
+      {
+        "id": 29,
+        "label": "Roof terrace",
+        "icon": "roof-terrace",
+        "positionOnPage": 13
+      },
+      {
+        "id": 26,
+        "label": "Private dining room",
+        "icon": "dining-room",
+        "positionOnPage": 14
+      },
+      {
+        "id": 2,
+        "label": "Concierge",
+        "icon": "concierge",
+        "positionOnPage": 15
+      },
+      {
+        "id": 8,
+        "label": "Balcony",
+        "icon": "balcony",
+        "positionOnPage": 16
+      },
+      {
+        "id": 10,
+        "label": "Bike storage",
+        "icon": "bike-storage",
+        "positionOnPage": 17
+      },
+      {
+        "id": 20,
+        "label": "Games room",
+        "icon": "game-controller",
+        "positionOnPage": 18
+      },
+      {
+        "id": 22,
+        "label": "Long term contracts",
+        "icon": "note",
+        "positionOnPage": 19
+      },
+      {
+        "id": 27,
+        "label": "Professional management",
+        "icon": "seal-tick",
+        "positionOnPage": 20
+      },
+      {
+        "id": 5,
+        "label": "Security",
+        "icon": "lock",
+        "positionOnPage": 21
+      },
+      {
+        "id": 32,
+        "label": "Social activities",
+        "icon": "social-activities",
+        "positionOnPage": 22
+      },
+      {
+        "id": 1,
+        "label": "WiFi included",
+        "icon": "wifi-included",
+        "positionOnPage": 23
+      }
+    ],
+    "updateDate": "2025-05-30T00:41:37Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/brand/brand_rmchoice_logo_77120_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Built for renters",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The Scheme Administrator of the Tenancy Deposit Scheme is:\nThe Dispute Service Limited, 1 The Progression Centre, 42 Mark Road, Hemel Hempstead HP2 7DW Phone:  \nEmail:  \nWeb:  ",
+  "displaySize": "912 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168642668#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168642668",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-27T13:25:41Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "BUILT_FOR_RENTERS",
+        "priority": 3
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-27T13:31:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_00_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_00_0000.jpeg",
+        "caption": "Loungeroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_01_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_01_0000.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_02_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_02_0000.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_03_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_03_0000.jpeg",
+        "caption": "communal space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_04_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_04_0000.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_05_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_05_0000.jpeg",
+        "caption": "Dining and Lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_06_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_06_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_07_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_07_0000.jpeg",
+        "caption": "Bathroom "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_08_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_08_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_09_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_09_0000.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_10_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_10_0000.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_11_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_11_0000.jpeg",
+        "caption": "view"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_12_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_12_0000.jpeg",
+        "caption": "Loungeroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_13_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_13_0000.jpeg",
+        "caption": "Dining Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_14_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_14_0000.jpeg",
+        "caption": "Bathroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_15_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_15_0000.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_16_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_16_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_17_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_17_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_18_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_18_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_19_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_19_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_20_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_20_0000.jpeg",
+        "caption": "Loungeroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_21_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_21_0000.jpeg",
+        "caption": "loungeroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_22_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_22_0000.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_23_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_23_0000.jpeg",
+        "caption": "WFH space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_24_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_24_0000.jpeg",
+        "caption": "Communal Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_25_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_25_0000.jpeg",
+        "caption": "Communal Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_26_0000_max_476x317.jpeg",
+        "url": "208k/207218/168642668/207218_201VP_IMG_26_0000.jpeg",
+        "caption": "Games room"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/208k/207218/168642668/207218_201VP_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Essential Living Management Limited, Vantage Point",
+  "addedOrReduced": "Added on 27/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
