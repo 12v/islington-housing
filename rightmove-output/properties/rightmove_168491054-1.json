@@ -1,0 +1,190 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-31T00:18:12.543558+00:00",
+  "postcode": "N7 8DD",
+  "id": 168491054,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "BRAND NEW SPACIOUS STUDIO APARTMENT WITH VERY HIGH CEILINGS ALONG HOLLOWAY ROAD, MOMENTS FROM HOLLOWAY ROAD TUBE STATION and DRAYTON PARK STATION. This COMPLETELY BRAND NEW STUDIO APARTMENT is OFFERED FULLY FURNISHED with BRAND NEW FURNITURE. The MODERN FULLY FITTED KITCHEN has GREAT WO...",
+  "displayAddress": "Holloway Road, Holloway Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55122,
+    "longitude": -0.109996
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_00_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_01_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_02_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_03_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_04_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_05_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_06_0000_max_476x317.jpeg",
+      "url": "64k/63309/168491054/63309_34258614_IMG_06_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-10-22T15:03:04Z"
+  },
+  "price": {
+    "amount": 1600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3369 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 63309,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_20370_0000.png",
+    "contactTelephone": "020 3909 6594",
+    "branchDisplayName": "Cavendish Parker, London",
+    "branchName": "London",
+    "brandTradingName": "Cavendish Parker",
+    "branchLandingPageUrl": "/estate-agents/agent/Cavendish-Parker/London-63309.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2023-06-12T13:09:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_20370_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168491054#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168491054",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-22T14:57:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-30T17:19:30Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_00_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_01_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_02_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_03_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_04_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_05_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_06_0000_max_476x317.jpeg",
+        "url": "64k/63309/168491054/63309_34258614_IMG_06_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/64k/63309/168491054/63309_34258614_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cavendish Parker, London",
+  "addedOrReduced": "Added on 22/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
