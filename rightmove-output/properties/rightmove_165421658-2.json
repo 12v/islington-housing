@@ -1,0 +1,200 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-10-31T22:29:52.852581+00:00",
+  "postcode": "N19 3HY",
+  "id": 165421658,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious, modern one-bedroom flat in a beautifully converted period house just off Holloway Road. Features include a fully fitted kitchen, tiled bathroom and hardwood flooring. Located on a quiet residential street with excellent transport links via Archway Tube and nearby. Unfurnished.",
+  "displayAddress": "Fairbridge Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.566028,
+    "longitude": -0.126921
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000.jpeg",
+      "caption": "COVER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_01_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_01_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_02_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_02_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_03_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_03_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_04_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_04_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_05_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_05_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_06_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_06_0000.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_07_0000_max_476x317.jpeg",
+      "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_07_0000.jpeg",
+      "caption": "PROPERTY"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-08-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-23T14:36:01Z"
+  },
+  "price": {
+    "amount": 1400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3323 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 260789,
+    "brandPlusLogoURI": "/261k/260789/branch_rmchoice_logo_260789_0001.png",
+    "contactTelephone": "01926 963087",
+    "branchDisplayName": "Rentr, Birmingham",
+    "branchName": "Birmingham",
+    "brandTradingName": "Rentr",
+    "branchLandingPageUrl": "/estate-agents/agent/Rentr/Birmingham-260789.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-31T11:33:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/261k/260789/branch_rmchoice_logo_260789_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/165421658#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=165421658",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-08-06T14:11:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-24T09:16:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000.jpeg",
+        "caption": "COVER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_01_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_01_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_02_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_02_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_03_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_03_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_04_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_04_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_05_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_05_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_06_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_06_0000.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_07_0000_max_476x317.jpeg",
+        "url": "261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_07_0000.jpeg",
+        "caption": "PROPERTY"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/261k/260789/165421658/260789_e37e410a-57fe-4f08-8b7f-2775c5654792_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rentr, Birmingham",
+  "addedOrReduced": "Reduced on 23/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
