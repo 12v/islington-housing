@@ -1,0 +1,210 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-01T23:46:14.866649+00:00",
+  "postcode": "N7 0QZ",
+  "id": 168601682,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious two-bedroom flat set on the top floor of a substantial three-storey Victorian villa. The property features two generous double bedrooms, a bright reception room with a period fireplace, a separate galley-style kitchen, and a family bathroom. Large windows throughout provide an abundanc...",
+  "displayAddress": "Carleton Road, Tufnell Park N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553184,
+    "longitude": -0.129928
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_00_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_00_0000.jpeg",
+      "caption": "Reception "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_01_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_01_0000.jpeg",
+      "caption": "Reception "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_02_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_02_0000.jpeg",
+      "caption": "Fireplace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_03_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_03_0000.jpeg",
+      "caption": "Master Bedroom "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_04_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_04_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_05_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_05_0000.jpeg",
+      "caption": "Kitchen "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_06_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_06_0000.jpeg",
+      "caption": "Bathroom "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_07_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_07_0000.jpeg",
+      "caption": "Exterior "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_08_0000_max_476x317.jpeg",
+      "url": "55k/54833/168601682/54833_52120_IMG_08_0000.jpeg",
+      "caption": "Communal Garden "
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-11-01T10:02:15Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 54833,
+    "brandPlusLogoURI": "/55k/54833/branch_rmchoice_logo_54833_0001.png",
+    "contactTelephone": "020 3835 3421",
+    "branchDisplayName": "Olivers Town, Kentish Town - Lettings",
+    "branchName": "Kentish Town - Lettings",
+    "brandTradingName": "Olivers Town",
+    "branchLandingPageUrl": "/estate-agents/agent/Olivers-Town/Kentish-Town---Lettings-54833.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-29T13:12:09Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/55k/54833/branch_rmchoice_logo_54833_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168601682#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168601682",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-24T20:11:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-01T10:15:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "addedOrReduced": "Reduced today",
+  "displayStatus": "",
+  "formattedBranchName": " by Olivers Town, Kentish Town - Lettings",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_00_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_00_0000.jpeg",
+        "caption": "Reception "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_01_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_01_0000.jpeg",
+        "caption": "Reception "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_02_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_02_0000.jpeg",
+        "caption": "Fireplace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_03_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_03_0000.jpeg",
+        "caption": "Master Bedroom "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_04_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_04_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_05_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_05_0000.jpeg",
+        "caption": "Kitchen "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_06_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_06_0000.jpeg",
+        "caption": "Bathroom "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_07_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_07_0000.jpeg",
+        "caption": "Exterior "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_08_0000_max_476x317.jpeg",
+        "url": "55k/54833/168601682/54833_52120_IMG_08_0000.jpeg",
+        "caption": "Communal Garden "
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54833/168601682/54833_52120_IMG_00_0000_max_296x197.jpeg"
+  },
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
