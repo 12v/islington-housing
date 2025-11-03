@@ -1,0 +1,180 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-02T23:55:01.899529+00:00",
+  "postcode": "N7 0EH",
+  "id": 168733805,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "DOUBLE ROOM - FIRST FLOOR - FURNISHED - GAS & WATER RATES INCLUDED - OWN KITCHEN - SHARED BATHROOM - CLOSE TO TUFNELL PARK STATION - AVAILABLE NOW",
+  "displayAddress": "Huddleston Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55824,
+    "longitude": -0.13565
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_01_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_02_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_00_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_04_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_03_0000_max_476x317.jpeg",
+      "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_03_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-31T08:56:08Z"
+  },
+  "price": {
+    "amount": 725,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3725 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3167 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 170759,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_53660_0001.jpeg",
+    "contactTelephone": "020 3865 5738",
+    "branchDisplayName": "Chase Residential, Wembley",
+    "branchName": "Wembley",
+    "brandTradingName": "Chase Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Residential/Wembley-170759.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2023-12-01T10:31:42Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_53660_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168733805#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168733805",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-29T09:36:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-31T08:56:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house share",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "formattedBranchName": " by Chase Residential, Wembley",
+  "addedOrReduced": "Reduced on 31/10/2025",
+  "displayStatus": "",
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_01_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_02_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_00_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_04_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_03_0000_max_476x317.jpeg",
+        "url": "171k/170759/168733805/170759_HuddlestonRoad4103_IMG_03_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/171k/170759/168733805/170759_HuddlestonRoad4103_IMG_05_0000_max_296x197.jpeg"
+  }
+}
