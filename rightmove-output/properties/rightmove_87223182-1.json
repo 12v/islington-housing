@@ -1,0 +1,200 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-07T20:46:48.572793+00:00",
+  "postcode": "EC1V 4LB",
+  "id": 87223182,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Lovely 1 bed apartment in Angel",
+  "displayAddress": "St. John Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52924,
+    "longitude": -0.10499
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_01_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_02_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_03_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_04_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_05_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_06_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_07_0000_max_476x317.jpeg",
+      "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_07_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-20T16:52:29Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 221711,
+    "brandPlusLogoURI": "/222k/221711/branch_rmchoice_logo_221711_0004.jpeg",
+    "contactTelephone": "020 3909 7829",
+    "branchDisplayName": "Hello Neighbour, London",
+    "branchName": "London",
+    "brandTradingName": "Hello Neighbour",
+    "branchLandingPageUrl": "/estate-agents/agent/Hello-Neighbour/London-221711.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-07T18:47:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/222k/221711/branch_rmchoice_logo_221711_0004.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "569 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87223182#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87223182",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-07-10T17:43:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-07T18:47:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_01_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_02_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_03_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_04_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_05_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_06_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_07_0000_max_476x317.jpeg",
+        "url": "222k/221711/87223182/221711_832_EAF_101249_IMG_07_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/222k/221711/87223182/221711_832_EAF_101249_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hello Neighbour, London",
+  "addedOrReduced": "Reduced on 20/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
