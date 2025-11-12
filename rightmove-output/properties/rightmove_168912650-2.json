@@ -1,0 +1,180 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-12T00:04:15.158695+00:00",
+  "postcode": "N7 6PH",
+  "id": 168912650,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Well presented and set on the ground floor of a four unit gated development is a large property to rent comprising of wood flooring, neutral d\u00e9cor & separate fitted kitchen. Furnished. The one bedroom apartment also offers high ceilings, fully tiled bathroom & double gla...",
+  "displayAddress": "Hertslet Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556955,
+    "longitude": -0.115733
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000.jpeg",
+      "caption": "651984 (2)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_01_0000.jpeg",
+      "caption": "651984 (4)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_00_0000.jpeg",
+      "caption": "651984 (3)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_02_0000.jpeg",
+      "caption": "651984 (5)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_03_0000.jpeg",
+      "caption": "651984 (6)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_04_0000.jpeg",
+      "caption": "651984 (1)"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-11-11T14:20:41Z"
+  },
+  "price": {
+    "amount": 1700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3392 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_21877_0010.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-29T12:16:27Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_21877_0010.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "427 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168912650#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168912650",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-03T10:59:01Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-11T16:04:43Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000.jpeg",
+        "caption": "651984 (2)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_01_0000.jpeg",
+        "caption": "651984 (4)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_00_0000.jpeg",
+        "caption": "651984 (3)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_02_0000.jpeg",
+        "caption": "651984 (5)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_03_0000.jpeg",
+        "caption": "651984 (6)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "58k/57949/168912650/57949_KDQ230094_L_IMG_04_0000.jpeg",
+        "caption": "651984 (1)"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/58k/57949/168912650/57949_KDQ230094_L_IMG_05_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
