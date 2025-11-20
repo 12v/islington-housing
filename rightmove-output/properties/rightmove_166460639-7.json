@@ -1,0 +1,237 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-19T22:38:34.834252+00:00",
+  "postcode": "N19 4RR",
+  "id": 166460639,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Are you searching for a bright and spacious room to rent in a well connected part of London? This furnished room on Foxham Road, N19 4RR, is now available for single occupancy and offers comfortable shared living in a large period property",
+  "displayAddress": "Foxham Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.559487,
+    "longitude": -0.132929
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_05_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_01_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_03_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_00_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_02_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_04_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_06_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_07_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_08_0000_max_476x317.jpeg",
+      "url": "280k/279869/166460639/279869_RX627775_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Terraced",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-11-10T20:29:49Z"
+  },
+  "price": {
+    "amount": 900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3208 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 279869,
+    "brandPlusLogoURI": "/280k/279869/branch_rmchoice_logo_279869_0000.jpeg",
+    "contactTelephone": "020 4572 2718",
+    "branchDisplayName": "& Co, Covering Nationwide",
+    "branchName": "Covering Nationwide",
+    "brandTradingName": "& Co",
+    "branchLandingPageUrl": "/estate-agents/agent/and-Co/Covering-Nationwide-279869.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-13T11:43:37Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/280k/279869/branch_rmchoice_logo_279869_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/166460639#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=166460639",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-09-01T17:40:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-17T17:55:19Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "WHEN CALLING TO ENQUIRE ABOUT THIS PROPERTY, PLEASE USE EXTENSION NUMBER 3003 WHEN REQUESTED."
+    },
+    {
+      "order": 2,
+      "description": "Furnished Room"
+    },
+    {
+      "order": 3,
+      "description": "Close to Tufnell Park Tube Station"
+    },
+    {
+      "order": 4,
+      "description": "Close to Holloway Road"
+    },
+    {
+      "order": 5,
+      "description": "Tufnell Park, N19"
+    },
+    {
+      "order": 6,
+      "description": "Deposit - 5 Week's Rent"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_05_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_01_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_03_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_00_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_02_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_04_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_06_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_07_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_08_0000_max_476x317.jpeg",
+        "url": "280k/279869/166460639/279869_RX627775_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_05_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/280k/279869/166460639/279869_RX627775_IMG_05_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by & Co, Covering Nationwide",
+  "addedOrReduced": "Reduced on 10/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom terraced house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

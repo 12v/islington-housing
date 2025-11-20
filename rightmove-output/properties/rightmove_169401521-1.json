@@ -1,0 +1,195 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-19T22:25:27.622673+00:00",
+  "postcode": "N19 3HY",
+  "id": 169401521,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A self-contained studio located in Archway, ideal for a single occupant seeking an affordable private living space. The studio features a kitchenette equipped with a washing machine, microwave, stainless-steel sink, countertop hob, and under-counter storage. ",
+  "displayAddress": "Fairbridge Road, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56602,
+    "longitude": -0.12696
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_00_0000_max_476x317.jpeg",
+      "url": "30k/29933/169401521/29933_101464005838_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_01_0000_max_476x317.jpeg",
+      "url": "30k/29933/169401521/29933_101464005838_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_02_0000_max_476x317.jpeg",
+      "url": "30k/29933/169401521/29933_101464005838_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_03_0000_max_476x317.jpeg",
+      "url": "30k/29933/169401521/29933_101464005838_IMG_03_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-26T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-17T12:56:06Z"
+  },
+  "price": {
+    "amount": 1400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3323 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 29933,
+    "brandPlusLogoURI": "/brand/brand_rmchoice_logo_1417_0002.jpeg",
+    "contactTelephone": "020 3862 2266",
+    "branchDisplayName": "JTM Homes, North London",
+    "branchName": "North London",
+    "brandTradingName": "JTM Homes",
+    "branchLandingPageUrl": "/estate-agents/agent/JTM-Homes/North-London-29933.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T08:52:36Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/brand/brand_rmchoice_logo_1417_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "215 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169401521#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169401521",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-17T12:49:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-17T12:56:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private Patio Garden"
+    },
+    {
+      "order": 2,
+      "description": "Easy Reach of Archway Station (Northern Line)"
+    },
+    {
+      "order": 3,
+      "description": "Separate W/C"
+    },
+    {
+      "order": 4,
+      "description": "Part-Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Available ASAP"
+    },
+    {
+      "order": 6,
+      "description": "Ground Floor"
+    },
+    {
+      "order": 7,
+      "description": "Period Conersion"
+    },
+    {
+      "order": 8,
+      "description": "Residential, Tree-lined Street"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_00_0000_max_476x317.jpeg",
+        "url": "30k/29933/169401521/29933_101464005838_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_01_0000_max_476x317.jpeg",
+        "url": "30k/29933/169401521/29933_101464005838_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_02_0000_max_476x317.jpeg",
+        "url": "30k/29933/169401521/29933_101464005838_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_03_0000_max_476x317.jpeg",
+        "url": "30k/29933/169401521/29933_101464005838_IMG_03_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/30k/29933/169401521/29933_101464005838_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by JTM Homes, North London",
+  "addedOrReduced": "Added on 17/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

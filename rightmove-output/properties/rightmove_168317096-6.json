@@ -1,0 +1,212 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-19T21:32:41.316395+00:00",
+  "postcode": "N1 1QB",
+  "id": 168317096,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A nicely presented one bedroom lower ground floor flat, featuring stylish interiors and a private courtyard. Islington Park Street is ideally placed in a highly sought after location off Upper Street, boasting a vast array of local shops, boutiques, bars and restaurants.",
+  "displayAddress": "Islington Park Street London N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.543005,
+    "longitude": -0.105182
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_04_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_01_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_02_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_00_0002_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_00_0002.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_03_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_05_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_06_0002_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_06_0002.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_07_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_08_0000_max_476x317.jpeg",
+      "url": "181k/180266/168317096/180266_1941_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-11-10T16:50:06Z"
+  },
+  "price": {
+    "amount": 1995,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,995 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3460 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 180266,
+    "brandPlusLogoURI": "/181k/180266/branch_rmchoice_logo_180266_0005.png",
+    "contactTelephone": "03455 610050",
+    "branchDisplayName": "Emoov, Chelmsford",
+    "branchName": "Chelmsford",
+    "brandTradingName": "Emoov",
+    "branchLandingPageUrl": "/estate-agents/agent/Emoov/Chelmsford-180266.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-12T12:18:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/181k/180266/branch_rmchoice_logo_180266_0005.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168317096#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168317096",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-17T15:35:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-18T02:30:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_04_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_01_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_02_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_00_0002_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_00_0002.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_03_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_05_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_06_0002_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_06_0002.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_07_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_08_0000_max_476x317.jpeg",
+        "url": "181k/180266/168317096/180266_1941_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_04_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/181k/180266/168317096/180266_1941_IMG_04_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Emoov, Chelmsford",
+  "addedOrReduced": "Reduced on 10/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

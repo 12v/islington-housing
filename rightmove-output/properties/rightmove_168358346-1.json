@@ -1,0 +1,241 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-20T00:13:13.796415+00:00",
+  "postcode": "N7 9JA",
+  "id": 168358346,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Three double bedroom flat located close to transport & shopping facilities within a conversion.",
+  "displayAddress": "Hillmarton Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.507218,
+    "longitude": -0.127586
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_00_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_00_0000.jpeg",
+      "caption": "Three bedroom flat"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_01_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_01_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_02_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_02_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_03_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_03_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_04_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_04_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_05_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_05_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_06_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_06_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_07_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_07_0000.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_08_0000_max_476x317.jpeg",
+      "url": "86k/85888/168358346/85888_michael_1336618089_IMG_08_0000.jpeg",
+      "caption": "Gallery"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-09-29T14:00:09Z"
+  },
+  "price": {
+    "amount": 3095,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,095 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3714 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 85888,
+    "brandPlusLogoURI": "/86k/85888/branch_rmchoice_logo_85888_0001.jpeg",
+    "contactTelephone": "020 3840 3967",
+    "branchDisplayName": "Michael Charles Lettings, London",
+    "branchName": "London",
+    "brandTradingName": "Michael Charles Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Michael-Charles-Lettings/London-85888.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-08-22T15:03:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/86k/85888/branch_rmchoice_logo_85888_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168358346#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168358346",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-18T17:17:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-10-18T17:32:13Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Modern Bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Fitted open plan kitchen to reception"
+    },
+    {
+      "order": 4,
+      "description": "Close to shopping facilities"
+    },
+    {
+      "order": 5,
+      "description": "Close to transport links"
+    },
+    {
+      "order": 6,
+      "description": "Conversion"
+    },
+    {
+      "order": 7,
+      "description": "Furnished or Unfurnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_00_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_00_0000.jpeg",
+        "caption": "Three bedroom flat"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_01_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_01_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_02_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_02_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_03_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_03_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_04_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_04_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_05_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_05_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_06_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_06_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_07_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_07_0000.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_08_0000_max_476x317.jpeg",
+        "url": "86k/85888/168358346/85888_michael_1336618089_IMG_08_0000.jpeg",
+        "caption": "Gallery"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/86k/85888/168358346/85888_michael_1336618089_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Michael Charles Lettings, London",
+  "addedOrReduced": "Added on 29/09/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
