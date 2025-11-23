@@ -1,0 +1,231 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-22T23:50:44.596722+00:00",
+  "postcode": "N7 7FH",
+  "id": 169605251,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Luxury studio suite apartment set on the 3rd floor of Islington\u2019s iconic Queensland Terrace, a striking residential development of three distinctive towers adjacent to Arsenal\u2019s world famous Emirates Stadium. Comprising a fully fitted German kitchen with Siemens appliances...",
+  "displayAddress": "Gillespie Court, 9 Queensland Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553234,
+    "longitude": -0.10693
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_00_0000.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_01_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_02_0000.jpeg",
+      "caption": "Bedspace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_03_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_04_0000.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_05_0000.jpeg",
+      "caption": "Lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_06_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_06_0000.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_07_0000_max_476x317.jpeg",
+      "url": "98k/97423/169605251/97423_CEI242194_L_IMG_07_0000.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-22T19:32:37Z"
+  },
+  "price": {
+    "amount": 410,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,777 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3410 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97423,
+    "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "contactTelephone": "020 3840 4014",
+    "branchDisplayName": "Chase Evans, City & Aldgate",
+    "branchName": "City & Aldgate",
+    "brandTradingName": "Chase Evans",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-08-08T12:45:28Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "364 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169605251#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169605251",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-22T19:26:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-22T19:32:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "LUXURY APARTMENT"
+    },
+    {
+      "order": 2,
+      "description": "STUDIO SUITE"
+    },
+    {
+      "order": 3,
+      "description": "3RD FLOOR"
+    },
+    {
+      "order": 4,
+      "description": "OPEN-PLAN LIVING AREA"
+    },
+    {
+      "order": 5,
+      "description": "RESIDENTS\u2019 GYMNASIUM"
+    },
+    {
+      "order": 6,
+      "description": "EXCELLENT LOCAL AMENITIES"
+    },
+    {
+      "order": 7,
+      "description": "0.2 MI TO HOLLOWAY STATION"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_00_0000.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_01_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_02_0000.jpeg",
+        "caption": "Bedspace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_03_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_04_0000.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_05_0000.jpeg",
+        "caption": "Lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_06_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_06_0000.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_07_0000_max_476x317.jpeg",
+        "url": "98k/97423/169605251/97423_CEI242194_L_IMG_07_0000.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/169605251/97423_CEI242194_L_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Evans, City & Aldgate",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
