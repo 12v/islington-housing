@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-24T22:31:08.736630+00:00",
+  "postcode": "N19 4BJ",
+  "id": 168855956,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Modern four-bedroom furnished house in a gated development near Upper Holloway and Archway Stations, featuring wood flooring, a stylish kitchen, two bathrooms, and a private garden",
+  "displayAddress": "Lotus Mews, LONDON",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.566363,
+    "longitude": -0.12451
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_00_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_01_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_02_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_03_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_04_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_06_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_07_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_08_0000_max_476x317.jpeg",
+      "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-10-31T16:30:05Z"
+  },
+  "price": {
+    "amount": 3900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,900 pcm",
+        "displayPriceQualifier": "Fixed Price"
+      },
+      {
+        "displayPrice": "\u00a3900 pw",
+        "displayPriceQualifier": "Fixed Price"
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 105152,
+    "brandPlusLogoURI": "/106k/105152/branch_rmchoice_logo_105152_0002.jpeg",
+    "contactTelephone": "020 3834 8638",
+    "branchDisplayName": "haart, Enfield - Lettings",
+    "branchName": "Enfield - Lettings",
+    "brandTradingName": "haart",
+    "branchLandingPageUrl": "/estate-agents/agent/haart/Enfield---Lettings-105152.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T07:53:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/106k/105152/branch_rmchoice_logo_105152_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168855956#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168855956",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-10-31T16:24:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-24T17:51:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Four Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Gated Development"
+    },
+    {
+      "order": 4,
+      "description": "Modern Finish"
+    },
+    {
+      "order": 5,
+      "description": "Available Now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_00_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_01_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_02_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_03_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_04_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_06_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_07_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_08_0000_max_476x317.jpeg",
+        "url": "106k/105152/168855956/105152_0628_HRT062800843_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/106k/105152/168855956/105152_0628_HRT062800843_IMG_05_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by haart, Enfield - Lettings",
+  "addedOrReduced": "Added on 31/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
