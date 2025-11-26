@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-25T23:34:12.009988+00:00",
+  "postcode": "N5 1RA",
+  "id": 153479327,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Two bedroom located in Highbury Corner, stones away from Highbury & Islington Station. The flat comprises of wooden flooring throughout, a semi-open plan kitchen along with two good sized double bedrooms and a modern bathroom.",
+  "displayAddress": "Highbury Corner, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5465,
+    "longitude": -0.10426
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_00_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_02_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_01_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_03_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_04_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_05_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_06_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_07_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_08_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_08_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_09_0000_max_476x317.jpeg",
+      "url": "154k/153164/153479327/153164_6_IMG_09_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-11-23T01:58:10Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 153164,
+    "brandPlusLogoURI": "/154k/153164/branch_rmchoice_logo_153164_0008.png",
+    "contactTelephone": "020 3897 0856",
+    "branchDisplayName": "NowProperty, London",
+    "branchName": "London",
+    "brandTradingName": "NowProperty",
+    "branchLandingPageUrl": "/estate-agents/agent/NowProperty/London-153164.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-06-24T09:37:18Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/154k/153164/branch_rmchoice_logo_153164_0008.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Letting Information<br />When renting a property, there are various costs that you will need to take into consideration when making an offer<br /><br />Prior to your Tenancy:<br />- Advance Rent: As a minimum, the first months rent is payable before your tenancy commences, (may differ dependent on the terms of your tenancy).<br />- Tenancy Deposit: Equivalent of 5 weeks rent (if annual rent is less than \u00a350,000) or 6 weeks rent (if annual rent is \u00a350,000 or more), payable before your tenancy commences.<br /><br />During your Tenancy:<br />- Late rental payment. Interest will be charged at 3% per annum over The Bank of England base rate.<br />- Lost keys or other security devices: The costs of replacing them plus if required, the costs of a locksmith, new lock and replacement keys for anyone requiring keys.<br /><br />Other fees that may apply:<br />- Tenancy Swap: \u00a350 (inc. VAT) plus any reasonable costs incurred if higher, will be payable by the tenant subject to the landlords consent and reference approval.<br />- Variation of Contract: \u00a350 (inc. VAT) per variation will be payable by the tenant subject to the landlords consent.<br />- Early Termination of Tenancy: All landlords costs in re-letting the property plus all rent, council tax and utilities due under the tenancy until the start date of the replacement tenancy. The costs will be no more than the maximum amount of rent outstanding on the tenancy.<br /><br />Additional Information<br />- Independent Redress: NowProperty is a member of The Property Ombudsman (TPO) scheme and subscribes to the TPO Code of Practice for Residential Lettings Agents.<br />- Client Money Protection: NowProperty is a member of the SafeAgent Money Protection Scheme, ensuring the security and protection of client funds.",
+  "displaySize": "561 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/153479327#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=153479327",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2024-10-08T00:05:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-23T01:58:27Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Shops and amenities nearby"
+    },
+    {
+      "order": 2,
+      "description": "Separate kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Wooden floor throughout"
+    },
+    {
+      "order": 4,
+      "description": "Fully furnished"
+    },
+    {
+      "order": 5,
+      "description": "Close to public transport"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_00_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_02_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_01_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_03_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_04_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_05_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_06_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_07_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_08_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_08_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_09_0000_max_476x317.jpeg",
+        "url": "154k/153164/153479327/153164_6_IMG_09_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/154k/153164/153479327/153164_6_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NowProperty, London",
+  "addedOrReduced": "Reduced on 23/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
