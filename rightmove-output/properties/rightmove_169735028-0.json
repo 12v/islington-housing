@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-26T22:39:08.637195+00:00",
+  "postcode": "N19 4PY",
+  "id": 169735028,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautiful and well maintained two bedroom split level conversion on the first floor offering a living room, fitted kitchen, two bedrooms, bathroom and private roof terrace. The property is located on a quiet side turning close to local shops and a short walk to Tufnell Park tube station as well...",
+  "displayAddress": "Mercers Road, Tufnell Park, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.558288,
+    "longitude": -0.131918
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_00_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_01_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_01_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_02_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_02_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_03_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_03_0000.jpeg",
+      "caption": "Main Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_04_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_05_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_05_0000.jpeg",
+      "caption": "Bedroom Two"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_06_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_07_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_07_0000.jpeg",
+      "caption": "Bathroom / W.C."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_08_0000_max_476x317.jpeg",
+      "url": "35k/34379/169735028/34379_33081018_IMG_08_0000.jpeg",
+      "caption": "Terrace"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-26T12:38:03Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 34379,
+    "brandPlusLogoURI": "/company/clogo_13160_0002.png",
+    "contactTelephone": "020 3879 5320",
+    "branchDisplayName": "Matthew James & Company, Kentish Town",
+    "branchName": "Kentish Town",
+    "brandTradingName": "Matthew James & Company",
+    "branchLandingPageUrl": "/estate-agents/agent/Matthew-James-and-Company/Kentish-Town-34379.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-29T13:12:00Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_13160_0002.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169735028#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169735028",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-26T12:32:42Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-26T12:38:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "First Floor"
+    },
+    {
+      "order": 3,
+      "description": "Bright, Generous Lounge"
+    },
+    {
+      "order": 4,
+      "description": "Separate Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Modern Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "A Quiet Side Turning"
+    },
+    {
+      "order": 7,
+      "description": "Outside Space"
+    },
+    {
+      "order": 8,
+      "description": "Good Transport Links"
+    },
+    {
+      "order": 9,
+      "description": "Available From 19th January"
+    },
+    {
+      "order": 10,
+      "description": "No HMO Licence"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_00_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_01_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_01_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_02_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_02_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_03_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_03_0000.jpeg",
+        "caption": "Main Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_04_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_05_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_05_0000.jpeg",
+        "caption": "Bedroom Two"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_06_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_07_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_07_0000.jpeg",
+        "caption": "Bathroom / W.C."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_08_0000_max_476x317.jpeg",
+        "url": "35k/34379/169735028/34379_33081018_IMG_08_0000.jpeg",
+        "caption": "Terrace"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/35k/34379/169735028/34379_33081018_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Matthew James & Company, Kentish Town",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
