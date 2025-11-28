@@ -1,0 +1,249 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-27T20:39:21.151189+00:00",
+  "postcode": "EC1V 1AP",
+  "id": 169118225,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stunning one bedroom apartment located in modern block, adjacent to the canal and moments from Angel, Old Street and Clerkenwell.",
+  "displayAddress": "City Road, Islington, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.530128,
+    "longitude": -0.09738
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_00_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_01_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_02_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_03_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_04_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_05_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_06_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_07_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_08_0000_max_476x317.jpeg",
+      "url": "108k/107294/169118225/107294_1795_PGES_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-27T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-07T13:21:05Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 107294,
+    "brandPlusLogoURI": "/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "contactTelephone": "020 3879 8986",
+    "branchDisplayName": "PG Estates, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "PG Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/PG-Estates/Islington-107294.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-01T05:15:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (DO2390)<br />Client Money Protection provided by: Propertymark (ARLA) (C0013958)",
+  "displaySize": "451 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169118225#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169118225",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-07T13:15:34Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-27T09:30:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Adjacent to canal"
+    },
+    {
+      "order": 3,
+      "description": "Well proportioned"
+    },
+    {
+      "order": 4,
+      "description": "Excellent transport links"
+    },
+    {
+      "order": 5,
+      "description": "Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Numerous amenities"
+    },
+    {
+      "order": 7,
+      "description": "Built in storage"
+    },
+    {
+      "order": 8,
+      "description": "Secure entry"
+    },
+    {
+      "order": 9,
+      "description": "Available 26th January 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_00_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_01_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_02_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_03_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_04_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_05_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_06_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_07_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_08_0000_max_476x317.jpeg",
+        "url": "108k/107294/169118225/107294_1795_PGES_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/108k/107294/169118225/107294_1795_PGES_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by PG Estates, Islington",
+  "addedOrReduced": "Added on 07/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
