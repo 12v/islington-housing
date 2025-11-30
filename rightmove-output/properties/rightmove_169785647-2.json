@@ -1,0 +1,285 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-29T21:16:32.927260+00:00",
+  "postcode": "N1 0HU",
+  "id": 169785647,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 13,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "*Available Now* A freshly redecorated lower ground floor flat, situated in an unbeatable Barnsbury location",
+  "displayAddress": "Cloudesley Street, London, N1 0HU",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53567,
+    "longitude": -0.108345
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_00_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_00_0000.jpeg",
+      "caption": "External Shot"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_01_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_01_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_02_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_02_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_03_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_03_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_04_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_04_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_05_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_05_0000.jpeg",
+      "caption": "Entrance Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_06_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_06_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_07_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_07_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_08_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_08_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_09_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_09_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_10_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_10_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_11_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_11_0000.jpeg",
+      "caption": "External"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_12_0000_max_476x317.jpeg",
+      "url": "88k/87247/169785647/87247_337848-2_IMG_12_0000.jpeg",
+      "caption": "Rear Patio"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2025-11-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-27T15:07:04Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 87247,
+    "brandPlusLogoURI": "/ama/branch-profile/1760090317/fea4819a-f324-4372-bc56-4d23dccc8213_max_135x135.jpg",
+    "contactTelephone": "020 3889 9013",
+    "branchDisplayName": "Daniel Watney, London",
+    "branchName": "London",
+    "brandTradingName": "Daniel Watney",
+    "branchLandingPageUrl": "/estate-agents/agent/Daniel-Watney/London-87247.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-22T11:56:14Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1760090317/fea4819a-f324-4372-bc56-4d23dccc8213_max_135x135.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "702 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169785647#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169785647",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-27T15:01:28Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-29T07:07:17Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available Now"
+    },
+    {
+      "order": 2,
+      "description": "Freshly Redecorated"
+    },
+    {
+      "order": 3,
+      "description": "Private Patio"
+    },
+    {
+      "order": 4,
+      "description": "Large Double Bedroom (221 sq. ft)"
+    },
+    {
+      "order": 5,
+      "description": "Sought-After Barnsbury Location"
+    },
+    {
+      "order": 6,
+      "description": "EPC - C75"
+    },
+    {
+      "order": 7,
+      "description": "Deposit - \u00a32,884"
+    },
+    {
+      "order": 8,
+      "description": "Zero Deposit Scheme Available"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_00_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_00_0000.jpeg",
+        "caption": "External Shot"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_01_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_01_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_02_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_02_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_03_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_03_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_04_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_04_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_05_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_05_0000.jpeg",
+        "caption": "Entrance Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_06_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_06_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_07_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_07_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_08_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_08_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_09_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_09_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_10_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_10_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_11_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_11_0000.jpeg",
+        "caption": "External"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_12_0000_max_476x317.jpeg",
+        "url": "88k/87247/169785647/87247_337848-2_IMG_12_0000.jpeg",
+        "caption": "Rear Patio"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/169785647/87247_337848-2_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Daniel Watney, London",
+  "addedOrReduced": "Added on 27/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
