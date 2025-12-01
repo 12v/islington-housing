@@ -1,0 +1,201 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-11-30T20:16:29.729143+00:00",
+  "postcode": "EC1M 7AH",
+  "id": 169833566,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly refurbished 1 bed apartment near Barbican tube. Features laminate flooring, new kitchen, white goods, door entry system, secure block, close to shops and restaurants.",
+  "displayAddress": "Goswell Road, London, EC1M",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.521679,
+    "longitude": -0.097588
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_01_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_02_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_03_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_04_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_05_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_06_0000_max_476x317.jpeg",
+      "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_06_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-28T16:57:07Z"
+  },
+  "price": {
+    "amount": 1800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3415 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 295751,
+    "brandPlusLogoURI": "/296k/295751/branch_rmchoice_logo_295751_0000.jpeg",
+    "contactTelephone": "020 7729 3344",
+    "branchDisplayName": "City & Urban, Shoreditch",
+    "branchName": "Shoreditch",
+    "brandTradingName": "City & Urban",
+    "branchLandingPageUrl": "/estate-agents/agent/City-and-Urban/Shoreditch-295751.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-21T15:07:17Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/296k/295751/branch_rmchoice_logo_295751_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted Payments\n\nBefore the tenancy starts (payable to City & Urban Shoreditch  the Agent )\n\nHolding Deposit: 1 week s rent\nDeposit: 5 weeks  rent\n\nDuring the tenancy (payable to the Agent)\n\nPayment of up to \u00a350.00 if you want to change the tenancy agreement.\nPayment of interest for the late payment of rent at a rate of 3% above the Base Rate.\nPayment of up to \u00a350.00 for the reasonably incurred costs for the loss of keys/security devices.\nPayment of any unpaid rent or other reasonable costs associated with your early termination of the tenancy.\n\nTenant Protection\nCity & Urban Shoreditch is a member of The Property Ombudsmen, which is a redress scheme.\nMembership Number: D/2745/3.\n\nCity & Urban Shoreditch is a member of Propertymark Client Money Protection which is a client\nmoney protection scheme.\nMembership Number: C0134660",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169833566#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169833566",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-28T16:51:50Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-28T16:57:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Newly refurbished"
+    },
+    {
+      "order": 2,
+      "description": "Available unfurnished from now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_01_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_02_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_03_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_04_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_05_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_06_0000_max_476x317.jpeg",
+        "url": "296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_06_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/296k/295751/169833566/295751_4cd96304-7bcf-4fd5-babc-031ab48eefe6_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by City & Urban, Shoreditch",
+  "addedOrReduced": "Added on 28/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
