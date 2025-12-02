@@ -1,0 +1,225 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-01T20:47:48.892873+00:00",
+  "postcode": "EC1V 4PH",
+  "id": 163842065,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well presented dual aspect two bedroom apartment located within an imposing period building within the heart of Clerkenwell, moments from Farringdon station for Elizabeth Line, Thameslink, Circle, Metropolitan and Hammersmith and City lines and a fine selection of cafes, bars and restaurants...",
+  "displayAddress": "246-252 St John Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526045,
+    "longitude": -0.104224
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089_max_476x317.jpeg",
+      "url": "property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/619ed4b43/163842065/619ed4b43a1ae71eda266f27c3d5683d_max_476x317.jpeg",
+      "url": "property-photo/619ed4b43/163842065/619ed4b43a1ae71eda266f27c3d5683d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ec65a217/163842065/1ec65a217f59910415bf3e936d4d716d_max_476x317.jpeg",
+      "url": "property-photo/1ec65a217/163842065/1ec65a217f59910415bf3e936d4d716d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7148ab7a8/163842065/7148ab7a8a6a01992ce2173b0bf2bf74_max_476x317.jpeg",
+      "url": "property-photo/7148ab7a8/163842065/7148ab7a8a6a01992ce2173b0bf2bf74.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/be2641289/163842065/be2641289a75959870625a50de78ba4d_max_476x317.jpeg",
+      "url": "property-photo/be2641289/163842065/be2641289a75959870625a50de78ba4d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf8651cb0/163842065/bf8651cb0659cb3cfb390aa131ab7434_max_476x317.jpeg",
+      "url": "property-photo/bf8651cb0/163842065/bf8651cb0659cb3cfb390aa131ab7434.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e508731f/163842065/9e508731fa139a3d8cd15d0e831d2864_max_476x317.jpeg",
+      "url": "property-photo/9e508731f/163842065/9e508731fa139a3d8cd15d0e831d2864.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2025-07-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-10-09T16:26:23Z"
+  },
+  "price": {
+    "amount": 756,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,276 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3756 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 14606,
+    "brandPlusLogoURI": "/company/clogo_4124_0005.jpeg",
+    "contactTelephone": "020 3873 5885",
+    "branchDisplayName": "Hastings International, London Bridge",
+    "branchName": "London Bridge",
+    "brandTradingName": "Hastings International",
+    "branchLandingPageUrl": "/estate-agents/agent/Hastings-International/London-Bridge-14606.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-15T16:44:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_4124_0005.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/163842065#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163842065",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-06-26T15:41:31Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-11-14T08:49:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "College Heights EC1V"
+    },
+    {
+      "order": 2,
+      "description": "Period Apartment"
+    },
+    {
+      "order": 3,
+      "description": "Two Bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Dual Aspect Apartment"
+    },
+    {
+      "order": 5,
+      "description": "Open Plan Reception Room"
+    },
+    {
+      "order": 6,
+      "description": "Second Floor"
+    },
+    {
+      "order": 7,
+      "description": "Chain Free"
+    },
+    {
+      "order": 8,
+      "description": "Excellent Location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089_max_476x317.jpeg",
+        "url": "property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/619ed4b43/163842065/619ed4b43a1ae71eda266f27c3d5683d_max_476x317.jpeg",
+        "url": "property-photo/619ed4b43/163842065/619ed4b43a1ae71eda266f27c3d5683d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ec65a217/163842065/1ec65a217f59910415bf3e936d4d716d_max_476x317.jpeg",
+        "url": "property-photo/1ec65a217/163842065/1ec65a217f59910415bf3e936d4d716d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7148ab7a8/163842065/7148ab7a8a6a01992ce2173b0bf2bf74_max_476x317.jpeg",
+        "url": "property-photo/7148ab7a8/163842065/7148ab7a8a6a01992ce2173b0bf2bf74.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/be2641289/163842065/be2641289a75959870625a50de78ba4d_max_476x317.jpeg",
+        "url": "property-photo/be2641289/163842065/be2641289a75959870625a50de78ba4d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf8651cb0/163842065/bf8651cb0659cb3cfb390aa131ab7434_max_476x317.jpeg",
+        "url": "property-photo/bf8651cb0/163842065/bf8651cb0659cb3cfb390aa131ab7434.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e508731f/163842065/9e508731fa139a3d8cd15d0e831d2864_max_476x317.jpeg",
+        "url": "property-photo/9e508731f/163842065/9e508731fa139a3d8cd15d0e831d2864.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec27d8f6/163842065/7ec27d8f68be87ce8553a262273c8089_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hastings International, London Bridge",
+  "addedOrReduced": "Reduced on 09/10/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

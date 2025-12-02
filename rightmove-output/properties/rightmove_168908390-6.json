@@ -1,0 +1,269 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-01T23:17:11.524921+00:00",
+  "postcode": "N4 2QQ",
+  "id": 168908390,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "AVAILABLE DECEMBER 2025 - TWO BEDROOM TWO BATHROOM - PRIVATE GARDEN AND PARKING SPACE INCLUDED. Bright and airy ground floor flat boasting two double bedrooms, an open plan living and kitchen area, two modern bathrooms (featuring both a bath and shower), a private garden to the rear of t...",
+  "displayAddress": "St. Thomas's Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.562316,
+    "longitude": -0.105188
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7_max_476x317.jpeg",
+      "url": "property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11213619f/168908390/11213619f987b8d2d5f66d6ced01bd12_max_476x317.jpeg",
+      "url": "property-photo/11213619f/168908390/11213619f987b8d2d5f66d6ced01bd12.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96b3cc0d5/168908390/96b3cc0d527b024ac446b7f2cf264340_max_476x317.jpeg",
+      "url": "property-photo/96b3cc0d5/168908390/96b3cc0d527b024ac446b7f2cf264340.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bc9f80e1/168908390/8bc9f80e1e6ed818cca035c554ab9e07_max_476x317.jpeg",
+      "url": "property-photo/8bc9f80e1/168908390/8bc9f80e1e6ed818cca035c554ab9e07.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e1791c11/168908390/6e1791c11e20aba9a2e3a6e7b45083d4_max_476x317.jpeg",
+      "url": "property-photo/6e1791c11/168908390/6e1791c11e20aba9a2e3a6e7b45083d4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6164d3be/168908390/e6164d3be4776e9b7f444f78757aca52_max_476x317.jpeg",
+      "url": "property-photo/e6164d3be/168908390/e6164d3be4776e9b7f444f78757aca52.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/004560ebf/168908390/004560ebf1a59a95c3550f9f17788c82_max_476x317.jpeg",
+      "url": "property-photo/004560ebf/168908390/004560ebf1a59a95c3550f9f17788c82.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f0571190/168908390/4f057119015eda15dbb51a0a843c72d7_max_476x317.jpeg",
+      "url": "property-photo/4f0571190/168908390/4f057119015eda15dbb51a0a843c72d7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/190b5081e/168908390/190b5081ee5307811f44f5060d93ab8f_max_476x317.jpeg",
+      "url": "property-photo/190b5081e/168908390/190b5081ee5307811f44f5060d93ab8f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6885e1b6/168908390/e6885e1b632ddc086d55f91394de9f9c_max_476x317.jpeg",
+      "url": "property-photo/e6885e1b6/168908390/e6885e1b632ddc086d55f91394de9f9c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4c7b16d3/168908390/b4c7b16d35e42e12109e0a25e5f4536d_max_476x317.jpeg",
+      "url": "property-photo/b4c7b16d3/168908390/b4c7b16d35e42e12109e0a25e5f4536d.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-27T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-11-26T10:45:30Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 126928,
+    "brandPlusLogoURI": "/127k/126928/branch_rmchoice_logo_126928_0000.jpeg",
+    "contactTelephone": "020 3907 2937",
+    "branchDisplayName": "Alwyne Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Alwyne Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alwyne-Estate-Agents/London-126928.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-06T16:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/127k/126928/branch_rmchoice_logo_126928_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/168908390#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=168908390",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-11-03T10:02:49Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-01T03:32:28Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bathrooms"
+    },
+    {
+      "order": 2,
+      "description": "En suite"
+    },
+    {
+      "order": 3,
+      "description": "Finsbury Park Tube"
+    },
+    {
+      "order": 4,
+      "description": "Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Fully Tiled Luxury Bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Garden"
+    },
+    {
+      "order": 7,
+      "description": "Open Plan Kitchen/Living Room"
+    },
+    {
+      "order": 8,
+      "description": "Private Court Yard"
+    },
+    {
+      "order": 9,
+      "description": "white goods"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7_max_476x317.jpeg",
+        "url": "property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11213619f/168908390/11213619f987b8d2d5f66d6ced01bd12_max_476x317.jpeg",
+        "url": "property-photo/11213619f/168908390/11213619f987b8d2d5f66d6ced01bd12.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96b3cc0d5/168908390/96b3cc0d527b024ac446b7f2cf264340_max_476x317.jpeg",
+        "url": "property-photo/96b3cc0d5/168908390/96b3cc0d527b024ac446b7f2cf264340.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bc9f80e1/168908390/8bc9f80e1e6ed818cca035c554ab9e07_max_476x317.jpeg",
+        "url": "property-photo/8bc9f80e1/168908390/8bc9f80e1e6ed818cca035c554ab9e07.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e1791c11/168908390/6e1791c11e20aba9a2e3a6e7b45083d4_max_476x317.jpeg",
+        "url": "property-photo/6e1791c11/168908390/6e1791c11e20aba9a2e3a6e7b45083d4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6164d3be/168908390/e6164d3be4776e9b7f444f78757aca52_max_476x317.jpeg",
+        "url": "property-photo/e6164d3be/168908390/e6164d3be4776e9b7f444f78757aca52.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/004560ebf/168908390/004560ebf1a59a95c3550f9f17788c82_max_476x317.jpeg",
+        "url": "property-photo/004560ebf/168908390/004560ebf1a59a95c3550f9f17788c82.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f0571190/168908390/4f057119015eda15dbb51a0a843c72d7_max_476x317.jpeg",
+        "url": "property-photo/4f0571190/168908390/4f057119015eda15dbb51a0a843c72d7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/190b5081e/168908390/190b5081ee5307811f44f5060d93ab8f_max_476x317.jpeg",
+        "url": "property-photo/190b5081e/168908390/190b5081ee5307811f44f5060d93ab8f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6885e1b6/168908390/e6885e1b632ddc086d55f91394de9f9c_max_476x317.jpeg",
+        "url": "property-photo/e6885e1b6/168908390/e6885e1b632ddc086d55f91394de9f9c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4c7b16d3/168908390/b4c7b16d35e42e12109e0a25e5f4536d_max_476x317.jpeg",
+        "url": "property-photo/b4c7b16d3/168908390/b4c7b16d35e42e12109e0a25e5f4536d.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1adac05/168908390/7c1adac05120a0d97abaa843eb8fbdf7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alwyne Estate Agents, London",
+  "addedOrReduced": "Added on 26/11/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
