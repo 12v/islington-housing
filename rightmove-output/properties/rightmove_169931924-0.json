@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-02T21:34:40.925770+00:00",
+  "postcode": "N1 1UL",
+  "id": 169931924,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A luxurious and modern one-bedroom apartment located on the fourth floor, set within the brand new Islington Square development",
+  "displayAddress": "Esther Anne Place, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539034,
+    "longitude": -0.103671
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_00_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_01_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_02_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_03_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_04_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_05_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_06_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_07_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_08_0000_max_476x317.jpeg",
+      "url": "80k/79914/169931924/79914_RX685492_IMG_08_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2026-01-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-02T17:06:07Z"
+  },
+  "price": {
+    "amount": 692,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,999 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79914,
+    "brandPlusLogoURI": "/80k/79914/branch_rmchoice_logo_79914_0000.jpeg",
+    "contactTelephone": "020 3834 8044",
+    "branchDisplayName": "Beauchamp Estates Ltd, St John's Wood",
+    "branchName": "St John's Wood",
+    "brandTradingName": "Beauchamp Estates Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Beauchamp-Estates-Ltd/St-Johns-Wood-79914.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-01T17:20:07Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/80k/79914/branch_rmchoice_logo_79914_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "575 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169931924#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169931924",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-02T17:00:40Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-02T17:06:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Onsite Amenities"
+    },
+    {
+      "order": 2,
+      "description": "Natural Light"
+    },
+    {
+      "order": 3,
+      "description": "Private Balcony"
+    },
+    {
+      "order": 4,
+      "description": "Communal Garden"
+    },
+    {
+      "order": 5,
+      "description": "New Development"
+    },
+    {
+      "order": 6,
+      "description": "Wood Flooring"
+    },
+    {
+      "order": 7,
+      "description": "Open Plan Living"
+    },
+    {
+      "order": 8,
+      "description": "Integrated Appliances"
+    },
+    {
+      "order": 9,
+      "description": "Excellent Transport Links"
+    },
+    {
+      "order": 10,
+      "description": "Contemporary Finishes"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_00_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_01_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_02_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_03_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_04_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_05_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_06_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_07_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_08_0000_max_476x317.jpeg",
+        "url": "80k/79914/169931924/79914_RX685492_IMG_08_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/80k/79914/169931924/79914_RX685492_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Beauchamp Estates Ltd, St John's Wood",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

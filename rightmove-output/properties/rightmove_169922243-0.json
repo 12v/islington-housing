@@ -1,0 +1,225 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-02T20:53:17.150494+00:00",
+  "postcode": "EC1V 9AY",
+  "id": 169922243,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Studio flat to rent on Old Street. The accommodation consists of an open plan living area, a fitted kitchen, and a separate shower room/ WC",
+  "displayAddress": "92A Old Street (4), Flat 4, Clerkenwell",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.524651,
+    "longitude": -0.093529
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_05_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_05_0000.jpeg",
+      "caption": "Picture 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_00_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_00_0000.jpeg",
+      "caption": "Picture 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_01_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_01_0000.jpeg",
+      "caption": "Picture 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_02_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_02_0000.jpeg",
+      "caption": "Picture 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_03_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_03_0000.jpeg",
+      "caption": "Picture 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_04_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_04_0000.jpeg",
+      "caption": "Picture 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_06_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_06_0000.jpeg",
+      "caption": "Picture 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_07_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_07_0000.jpeg",
+      "caption": "Picture 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_08_0000_max_476x317.jpeg",
+      "url": "55k/54010/169922243/54010_00006941_IMG_08_0000.jpeg",
+      "caption": "Picture 9"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-02T14:46:08Z"
+  },
+  "price": {
+    "amount": 300,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3300 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54010,
+    "brandPlusLogoURI": "/company/clogo_21334_0000.jpg",
+    "contactTelephone": "020 3907 2926",
+    "branchDisplayName": "Pearl & Coutts, London",
+    "branchName": "London",
+    "brandTradingName": "Pearl & Coutts",
+    "branchLandingPageUrl": "/estate-agents/agent/Pearl-and-Coutts/London-54010.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-16T09:24:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_21334_0000.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><u>Permitted payments</u><br />Before the tenancy starts, payable to Pearl & Coutts.<br />Holding Deposit: 1 week's rent.<br />Deposit: 5 weeks' rent on all tenancies up to \u00a350,000 per annum. 6 weeks' rent on any tenancy over \u00a350,000 per annum.<br /><br /><u>Tenant protection</u><br />Pearl & Coutts is a member of <b>Client Money Protect</b> and <b>My Deposits</b>, which are money protection schemes, and also a member of <b>The Property Redress Scheme (PRS)</b>.<br />You can find out more details on the About Us page on the Pearl & Coutts' website.</p>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169922243#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169922243",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-02T14:40:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-02T14:46:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Entry Phone System"
+    },
+    {
+      "order": 2,
+      "description": " Excellent Transport Links"
+    },
+    {
+      "order": 3,
+      "description": " Walking Distance From Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_05_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_05_0000.jpeg",
+        "caption": "Picture 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_00_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_00_0000.jpeg",
+        "caption": "Picture 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_01_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_01_0000.jpeg",
+        "caption": "Picture 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_02_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_02_0000.jpeg",
+        "caption": "Picture 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_03_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_03_0000.jpeg",
+        "caption": "Picture 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_04_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_04_0000.jpeg",
+        "caption": "Picture 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_06_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_06_0000.jpeg",
+        "caption": "Picture 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_07_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_07_0000.jpeg",
+        "caption": "Picture 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_08_0000_max_476x317.jpeg",
+        "url": "55k/54010/169922243/54010_00006941_IMG_08_0000.jpeg",
+        "caption": "Picture 9"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_05_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/55k/54010/169922243/54010_00006941_IMG_05_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Pearl & Coutts, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
