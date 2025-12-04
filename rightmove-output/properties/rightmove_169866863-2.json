@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-03T22:26:51.301227+00:00",
+  "postcode": "N19 3UZ",
+  "id": 169866863,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "4-bed furnished conversion on Cardinal Way, Archway. Featuring 3 bathrooms, separate WC, shower, garden, washing machine, gas central heating. Energy Rating D, Council Tax Band D. No parking or special accessibility. Ideal family home!",
+  "displayAddress": "Cardinal Way,",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.57014,
+    "longitude": -0.13184
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39_max_476x317.jpeg",
+      "url": "property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26f27f91d/169866863/26f27f91dd77e6c11ff18d94c78b78b6_max_476x317.jpeg",
+      "url": "property-photo/26f27f91d/169866863/26f27f91dd77e6c11ff18d94c78b78b6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f7699f57/169866863/5f7699f57ca554cbc51b5d60673e2cda_max_476x317.jpeg",
+      "url": "property-photo/5f7699f57/169866863/5f7699f57ca554cbc51b5d60673e2cda.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387874d88/169866863/387874d880c858e58cc2162b81a869fd_max_476x317.jpeg",
+      "url": "property-photo/387874d88/169866863/387874d880c858e58cc2162b81a869fd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37ed3ba76/169866863/37ed3ba766006296a7fb947f168419c2_max_476x317.jpeg",
+      "url": "property-photo/37ed3ba76/169866863/37ed3ba766006296a7fb947f168419c2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc09d8838/169866863/dc09d8838c6fb6f891f9a46848b8814a_max_476x317.jpeg",
+      "url": "property-photo/dc09d8838/169866863/dc09d8838c6fb6f891f9a46848b8814a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae033277d/169866863/ae033277dc55994982288a51fc93c92f_max_476x317.jpeg",
+      "url": "property-photo/ae033277d/169866863/ae033277dc55994982288a51fc93c92f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1b27870a/169866863/e1b27870ad29a4659ea2c98f754be1e5_max_476x317.jpeg",
+      "url": "property-photo/e1b27870a/169866863/e1b27870ad29a4659ea2c98f754be1e5.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-12-03T18:33:58Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 287924,
+    "brandPlusLogoURI": "/288k/287924/branch_rmchoice_logo_287924_0000.jpeg",
+    "contactTelephone": "020 3929 2677",
+    "branchDisplayName": "Northview Residential, London",
+    "branchName": "London",
+    "brandTradingName": "Northview Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/Northview-Residential/London-287924.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-06T23:41:27Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/288k/287924/branch_rmchoice_logo_287924_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted Payments \n\nRent - Calculated as Rent Per Week X 52 Weeks / 12 months\n\nRefundable Tenancy Deposit - Equivalent to Five weeks rent when total rent is under \u00a350,000. Six weeks rent when total rent is over \u00a350,000. \n\nRefundable Holding Deposit - Equivalent 1 weeks rent. \n\nPayments to Change the Tenancy - \u00a350, if agreed by the landlord. \n\nPayments Associated with Early Termination of the Tenancy - \u00a3300 per tenant, if agreed by the landlord. \n\nFee for Late Payment - Fixed penalty charges for late payment of rent and/or fees imposed for chasing up late rent are prohibited, for example: \n\n  Late payment of rent that has been outstanding for 14 days or more will be charged at 3%+ Bank of England's base rate for each day that the payment is outstanding. \n\n  Should it be necessary to send a letter with regards to late payment of rent, these are chargeable to the tenant at a rate of \u00a327.50. Personal visits are charged at \u00a390.\n\nFee For Replacement of a Lost Key/Security Device - \u00a336\n\n**All prices are inclusive of VAT**\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/169866863#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=169866863",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-01T12:02:46Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-03T18:34:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Conversion - Furnished"
+    },
+    {
+      "order": 2,
+      "description": "4 Beds"
+    },
+    {
+      "order": 3,
+      "description": "3 Bathrooms"
+    },
+    {
+      "order": 4,
+      "description": "Shower"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : D"
+    },
+    {
+      "order": 6,
+      "description": "Council Tax Band D"
+    },
+    {
+      "order": 7,
+      "description": "No special accessibility"
+    },
+    {
+      "order": 8,
+      "description": "No Parking"
+    },
+    {
+      "order": 9,
+      "description": "Separate WC"
+    },
+    {
+      "order": 10,
+      "description": "Garden"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39_max_476x317.jpeg",
+        "url": "property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26f27f91d/169866863/26f27f91dd77e6c11ff18d94c78b78b6_max_476x317.jpeg",
+        "url": "property-photo/26f27f91d/169866863/26f27f91dd77e6c11ff18d94c78b78b6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f7699f57/169866863/5f7699f57ca554cbc51b5d60673e2cda_max_476x317.jpeg",
+        "url": "property-photo/5f7699f57/169866863/5f7699f57ca554cbc51b5d60673e2cda.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387874d88/169866863/387874d880c858e58cc2162b81a869fd_max_476x317.jpeg",
+        "url": "property-photo/387874d88/169866863/387874d880c858e58cc2162b81a869fd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37ed3ba76/169866863/37ed3ba766006296a7fb947f168419c2_max_476x317.jpeg",
+        "url": "property-photo/37ed3ba76/169866863/37ed3ba766006296a7fb947f168419c2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc09d8838/169866863/dc09d8838c6fb6f891f9a46848b8814a_max_476x317.jpeg",
+        "url": "property-photo/dc09d8838/169866863/dc09d8838c6fb6f891f9a46848b8814a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae033277d/169866863/ae033277dc55994982288a51fc93c92f_max_476x317.jpeg",
+        "url": "property-photo/ae033277d/169866863/ae033277dc55994982288a51fc93c92f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1b27870a/169866863/e1b27870ad29a4659ea2c98f754be1e5_max_476x317.jpeg",
+        "url": "property-photo/e1b27870a/169866863/e1b27870ad29a4659ea2c98f754be1e5.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b30ca01e4/169866863/b30ca01e4daa26c8719fd1769519af39_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Northview Residential, London",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
