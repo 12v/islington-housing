@@ -1,0 +1,239 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-08T23:29:12.041571+00:00",
+  "postcode": "N5 1AL",
+  "id": 170106221,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Lovely one bedroom flat located on the top floor of this Victorian building situated on the sought after Highbury Hill. Benefiting from a bright and well proportioned, open-plan kitchen reception. The double Bedroom has large built in wardrobes and there is a modern shower room. Only a short walk...",
+  "displayAddress": "Highbury Hill, Highbury, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551998,
+    "longitude": -0.103225
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_00_0000.jpeg",
+      "caption": "Photo 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_01_0000.jpeg",
+      "caption": "Photo 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_02_0000.jpeg",
+      "caption": "Photo 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_03_0000.jpeg",
+      "caption": "Photo 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_04_0000.jpeg",
+      "caption": "Photo 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_05_0000.jpeg",
+      "caption": "Photo 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_06_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_06_0000.jpeg",
+      "caption": "Photo 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_07_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_07_0000.jpeg",
+      "caption": "Photo 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_08_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_08_0000.jpeg",
+      "caption": "Photo 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_09_0000_max_476x317.jpeg",
+      "url": "49k/48488/170106221/48488_HIG220265_L_IMG_09_0000.jpeg",
+      "caption": "Photo 10"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-08T14:46:05Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 48488,
+    "brandPlusLogoURI": "/49k/48488/branch_rmchoice_logo_48488_0004.png",
+    "contactTelephone": "020 3866 5533",
+    "branchDisplayName": "Hotblack Desiato, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "Hotblack Desiato",
+    "branchLandingPageUrl": "/estate-agents/agent/Hotblack-Desiato/Highbury-48488.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-22T12:54:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/49k/48488/branch_rmchoice_logo_48488_0004.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "350 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170106221#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170106221",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-08T14:40:26Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-08T15:45:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "AVAILABLE 1ST DECEMBER"
+    },
+    {
+      "order": 2,
+      "description": "PART FURNISHED"
+    },
+    {
+      "order": 3,
+      "description": "SHORT WALK TO ARSENAL, HIGHBURY & ISLINGTON OR DRAYTON PARK STATIONS"
+    },
+    {
+      "order": 4,
+      "description": "EPC BAND - C"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_00_0000.jpeg",
+        "caption": "Photo 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_01_0000.jpeg",
+        "caption": "Photo 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_02_0000.jpeg",
+        "caption": "Photo 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_03_0000.jpeg",
+        "caption": "Photo 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_04_0000.jpeg",
+        "caption": "Photo 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_05_0000.jpeg",
+        "caption": "Photo 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_06_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_06_0000.jpeg",
+        "caption": "Photo 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_07_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_07_0000.jpeg",
+        "caption": "Photo 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_08_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_08_0000.jpeg",
+        "caption": "Photo 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_09_0000_max_476x317.jpeg",
+        "url": "49k/48488/170106221/48488_HIG220265_L_IMG_09_0000.jpeg",
+        "caption": "Photo 10"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/49k/48488/170106221/48488_HIG220265_L_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hotblack Desiato, Highbury",
+  "addedOrReduced": "Added today"
+}
