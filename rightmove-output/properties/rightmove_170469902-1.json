@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-21T20:41:54.760020+00:00",
+  "postcode": "EC1V 2AE",
+  "id": 170469902,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Furnished | Available 9 March | 39th floor | Flooded with natural light | City skyline views | 24h concierge | Gym | Spa | Pool | Cinema | Business lounge | Yoga studio",
+  "displayAddress": "250 City Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529095,
+    "longitude": -0.09635
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736_max_476x317.jpeg",
+      "url": "property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a6dca0f8/170469902/7a6dca0f87c428de6257f7b35dd29733_max_476x317.jpeg",
+      "url": "property-photo/7a6dca0f8/170469902/7a6dca0f87c428de6257f7b35dd29733.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d455894c/170469902/8d455894cf2f2959bc084e145b1abaf4_max_476x317.jpeg",
+      "url": "property-photo/8d455894c/170469902/8d455894cf2f2959bc084e145b1abaf4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eea64281/170469902/2eea64281ed12cb10fe9b00f55239b32_max_476x317.jpeg",
+      "url": "property-photo/2eea64281/170469902/2eea64281ed12cb10fe9b00f55239b32.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa6873fe9/170469902/fa6873fe99a9a67262019db3745a27a4_max_476x317.jpeg",
+      "url": "property-photo/fa6873fe9/170469902/fa6873fe99a9a67262019db3745a27a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/282f7ec0b/170469902/282f7ec0beb604cfbac22495b573155a_max_476x317.jpeg",
+      "url": "property-photo/282f7ec0b/170469902/282f7ec0beb604cfbac22495b573155a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9043d05f/170469902/b9043d05f447ecc548a88b01e0d2dac5_max_476x317.jpeg",
+      "url": "property-photo/b9043d05f/170469902/b9043d05f447ecc548a88b01e0d2dac5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a897a125/170469902/2a897a125d5250d985cda009762b2171_max_476x317.jpeg",
+      "url": "property-photo/2a897a125/170469902/2a897a125d5250d985cda009762b2171.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-19T18:27:05Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97850,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_37541_0002.jpeg",
+    "contactTelephone": "020 3909 6757",
+    "branchDisplayName": "London Property Guru, London",
+    "branchName": "London",
+    "brandTradingName": "London Property Guru",
+    "branchLandingPageUrl": "/estate-agents/agent/London-Property-Guru/London-97850.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T07:44:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37541_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "635 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170469902#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170469902",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-19T18:21:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-19T18:27:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "24-hour concierge service",
+      "htmlDescription": "24-hour concierge service"
+    },
+    {
+      "order": 2,
+      "description": "Residents\u2019 gym, spa & swimming pool",
+      "htmlDescription": "Residents\u2019 gym, spa & swimming pool"
+    },
+    {
+      "order": 3,
+      "description": "Private cinema room & business lounge",
+      "htmlDescription": "Private cinema room & business lounge"
+    },
+    {
+      "order": 4,
+      "description": "Regent\u2019s Canal",
+      "htmlDescription": "Regent\u2019s Canal"
+    },
+    {
+      "order": 5,
+      "description": "Old Street 7 mins walk",
+      "htmlDescription": "Old Street 7 mins walk"
+    },
+    {
+      "order": 6,
+      "description": "Angel 10 mins walk",
+      "htmlDescription": "Angel 10 mins walk"
+    },
+    {
+      "order": 7,
+      "description": "Barbican 14 mins walk",
+      "htmlDescription": "Barbican 14 mins walk"
+    },
+    {
+      "order": 8,
+      "description": "Farringdon 18 mins walk",
+      "htmlDescription": "Farringdon 18 mins walk"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736_max_476x317.jpeg",
+        "url": "property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a6dca0f8/170469902/7a6dca0f87c428de6257f7b35dd29733_max_476x317.jpeg",
+        "url": "property-photo/7a6dca0f8/170469902/7a6dca0f87c428de6257f7b35dd29733.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d455894c/170469902/8d455894cf2f2959bc084e145b1abaf4_max_476x317.jpeg",
+        "url": "property-photo/8d455894c/170469902/8d455894cf2f2959bc084e145b1abaf4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eea64281/170469902/2eea64281ed12cb10fe9b00f55239b32_max_476x317.jpeg",
+        "url": "property-photo/2eea64281/170469902/2eea64281ed12cb10fe9b00f55239b32.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa6873fe9/170469902/fa6873fe99a9a67262019db3745a27a4_max_476x317.jpeg",
+        "url": "property-photo/fa6873fe9/170469902/fa6873fe99a9a67262019db3745a27a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/282f7ec0b/170469902/282f7ec0beb604cfbac22495b573155a_max_476x317.jpeg",
+        "url": "property-photo/282f7ec0b/170469902/282f7ec0beb604cfbac22495b573155a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9043d05f/170469902/b9043d05f447ecc548a88b01e0d2dac5_max_476x317.jpeg",
+        "url": "property-photo/b9043d05f/170469902/b9043d05f447ecc548a88b01e0d2dac5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a897a125/170469902/2a897a125d5250d985cda009762b2171_max_476x317.jpeg",
+        "url": "property-photo/2a897a125/170469902/2a897a125d5250d985cda009762b2171.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/865dc4438/170469902/865dc4438f206158238be00df48d0736_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by London Property Guru, London",
+  "addedOrReduced": "Added on 19/12/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
