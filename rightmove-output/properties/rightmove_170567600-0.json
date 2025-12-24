@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-24T00:04:34.086359+00:00",
+  "postcode": "N7 7FE",
+  "id": 170567600,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A large, modern two bedroom, two bathroom apartment on the 4th floor of Finsbury Court part of the impressive Queensland Terrace development located in Islington. This stylish property is offered furnished and features underfloor heating throughout, luxury fittings and appliances in b...",
+  "displayAddress": "Finsbury Court, 5 Queensland Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553566,
+    "longitude": -0.108094
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185_max_476x317.jpeg",
+      "url": "property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed9b1fd45/170567600/ed9b1fd45c17b97302b7e9b93da705a1_max_476x317.jpeg",
+      "url": "property-photo/ed9b1fd45/170567600/ed9b1fd45c17b97302b7e9b93da705a1.jpeg",
+      "caption": "Dining Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f15fc6448/170567600/f15fc6448191160c6185de34fa5eb25b_max_476x317.jpeg",
+      "url": "property-photo/f15fc6448/170567600/f15fc6448191160c6185de34fa5eb25b.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af27365e9/170567600/af27365e99954785f781381b28fddf49_max_476x317.jpeg",
+      "url": "property-photo/af27365e9/170567600/af27365e99954785f781381b28fddf49.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d60ad510c/170567600/d60ad510c4a2e83e165db64e04474b7c_max_476x317.jpeg",
+      "url": "property-photo/d60ad510c/170567600/d60ad510c4a2e83e165db64e04474b7c.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4f9fe007/170567600/b4f9fe007faeef0824b7a0e60e5a19a9_max_476x317.jpeg",
+      "url": "property-photo/b4f9fe007/170567600/b4f9fe007faeef0824b7a0e60e5a19a9.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/641d3372c/170567600/641d3372c9814f6bd6d2e03767912805_max_476x317.jpeg",
+      "url": "property-photo/641d3372c/170567600/641d3372c9814f6bd6d2e03767912805.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-23T20:24:11Z"
+  },
+  "price": {
+    "amount": 600,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97423,
+    "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "contactTelephone": "020 3840 4014",
+    "branchDisplayName": "Chase Evans, City & Aldgate",
+    "branchName": "City & Aldgate",
+    "brandTradingName": "Chase Evans",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-08-08T12:45:28Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "837 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170567600#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170567600",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-23T20:19:04Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-23T20:24:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "LUXURY TWO BEDROOM APARTMENT",
+      "htmlDescription": "LUXURY TWO BEDROOM APARTMENT"
+    },
+    {
+      "order": 2,
+      "description": "TWO BEDROOMS",
+      "htmlDescription": "TWO BEDROOMS"
+    },
+    {
+      "order": 3,
+      "description": "FURNISHED",
+      "htmlDescription": "FURNISHED"
+    },
+    {
+      "order": 4,
+      "description": "FITNESS SUITE",
+      "htmlDescription": "FITNESS SUITE"
+    },
+    {
+      "order": 5,
+      "description": "PRIVATE RESIDENTS' GARDEN",
+      "htmlDescription": "PRIVATE RESIDENTS' GARDEN"
+    },
+    {
+      "order": 6,
+      "description": "24-HOUR CONCIERGE",
+      "htmlDescription": "24-HOUR CONCIERGE"
+    },
+    {
+      "order": 7,
+      "description": "VIDEO ENTRY SYSTEM",
+      "htmlDescription": "VIDEO ENTRY SYSTEM"
+    },
+    {
+      "order": 8,
+      "description": "FANTASTIC TRANSPORT LINKS",
+      "htmlDescription": "FANTASTIC TRANSPORT LINKS"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185_max_476x317.jpeg",
+        "url": "property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed9b1fd45/170567600/ed9b1fd45c17b97302b7e9b93da705a1_max_476x317.jpeg",
+        "url": "property-photo/ed9b1fd45/170567600/ed9b1fd45c17b97302b7e9b93da705a1.jpeg",
+        "caption": "Dining Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f15fc6448/170567600/f15fc6448191160c6185de34fa5eb25b_max_476x317.jpeg",
+        "url": "property-photo/f15fc6448/170567600/f15fc6448191160c6185de34fa5eb25b.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af27365e9/170567600/af27365e99954785f781381b28fddf49_max_476x317.jpeg",
+        "url": "property-photo/af27365e9/170567600/af27365e99954785f781381b28fddf49.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d60ad510c/170567600/d60ad510c4a2e83e165db64e04474b7c_max_476x317.jpeg",
+        "url": "property-photo/d60ad510c/170567600/d60ad510c4a2e83e165db64e04474b7c.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4f9fe007/170567600/b4f9fe007faeef0824b7a0e60e5a19a9_max_476x317.jpeg",
+        "url": "property-photo/b4f9fe007/170567600/b4f9fe007faeef0824b7a0e60e5a19a9.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/641d3372c/170567600/641d3372c9814f6bd6d2e03767912805_max_476x317.jpeg",
+        "url": "property-photo/641d3372c/170567600/641d3372c9814f6bd6d2e03767912805.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5a79e0b1/170567600/f5a79e0b1ec08a687ecb8ed9137f4185_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Evans, City & Aldgate",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
