@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2025-12-28T21:37:42.974167+00:00",
+  "postcode": "N1 1NF",
+  "id": 170664137,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "This recently refurbished Studio apartment is set within an attractive period conversion and is well placed on the pretty tree-lined Liverpool road in the heart of Islington moment from Upper Street.",
+  "displayAddress": "Liverpool Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54168,
+    "longitude": -0.10662
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_476x317.jpeg",
+      "url": "property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b79857b0f/170664137/b79857b0f435dde6059b2f9e5fddf61c_max_476x317.jpeg",
+      "url": "property-photo/b79857b0f/170664137/b79857b0f435dde6059b2f9e5fddf61c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_476x317.jpeg",
+      "url": "property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eb88ebce/170664137/9eb88ebcef3c331cb496f6fa67d6ede3_max_476x317.jpeg",
+      "url": "property-photo/9eb88ebce/170664137/9eb88ebcef3c331cb496f6fa67d6ede3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9aee964a/170664137/c9aee964a72e0b9bc112e3f9bdc669d6_max_476x317.jpeg",
+      "url": "property-photo/c9aee964a/170664137/c9aee964a72e0b9bc112e3f9bdc669d6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da6ace6c6/170664137/da6ace6c62e71a5d339aff11275fca8b_max_476x317.jpeg",
+      "url": "property-photo/da6ace6c6/170664137/da6ace6c62e71a5d339aff11275fca8b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc115c144/170664137/fc115c144da970b40224dab89bb432ee_max_476x317.jpeg",
+      "url": "property-photo/fc115c144/170664137/fc115c144da970b40224dab89bb432ee.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/256925ae2/170664137/256925ae274ce729dc3448ca5234999f_max_476x317.jpeg",
+      "url": "property-photo/256925ae2/170664137/256925ae274ce729dc3448ca5234999f.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-28T20:42:02Z"
+  },
+  "price": {
+    "amount": 1875,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,875 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3433 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 256874,
+    "brandPlusLogoURI": "/257k/256874/branch_rmchoice_logo_256874_0000.jpeg",
+    "contactTelephone": "020 3984 8130",
+    "branchDisplayName": "DCS Residential, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "DCS Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/DCS-Residential/Covering-London-256874.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-19T09:42:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/257k/256874/branch_rmchoice_logo_256874_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "450 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170664137#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170664137",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-28T20:36:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2025-12-28T20:42:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Large Studio apartment",
+      "htmlDescription": "Large Studio apartment"
+    },
+    {
+      "order": 2,
+      "description": "Spacious living space",
+      "htmlDescription": "Spacious living space"
+    },
+    {
+      "order": 3,
+      "description": "Modern Fully fitted kitchen",
+      "htmlDescription": "Modern Fully fitted kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Second floor flat",
+      "htmlDescription": "Second floor flat"
+    },
+    {
+      "order": 6,
+      "description": "Close to Highbury & Islington and Angel Station",
+      "htmlDescription": "Close to Highbury & Islington and Angel Station"
+    },
+    {
+      "order": 7,
+      "description": "Sought after location",
+      "htmlDescription": "Sought after location"
+    },
+    {
+      "order": 8,
+      "description": "Close to local amenities",
+      "htmlDescription": "Close to local amenities"
+    },
+    {
+      "order": 9,
+      "description": "Available early January",
+      "htmlDescription": "Available early January"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_476x317.jpeg",
+        "url": "property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b79857b0f/170664137/b79857b0f435dde6059b2f9e5fddf61c_max_476x317.jpeg",
+        "url": "property-photo/b79857b0f/170664137/b79857b0f435dde6059b2f9e5fddf61c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_476x317.jpeg",
+        "url": "property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eb88ebce/170664137/9eb88ebcef3c331cb496f6fa67d6ede3_max_476x317.jpeg",
+        "url": "property-photo/9eb88ebce/170664137/9eb88ebcef3c331cb496f6fa67d6ede3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9aee964a/170664137/c9aee964a72e0b9bc112e3f9bdc669d6_max_476x317.jpeg",
+        "url": "property-photo/c9aee964a/170664137/c9aee964a72e0b9bc112e3f9bdc669d6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da6ace6c6/170664137/da6ace6c62e71a5d339aff11275fca8b_max_476x317.jpeg",
+        "url": "property-photo/da6ace6c6/170664137/da6ace6c62e71a5d339aff11275fca8b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc115c144/170664137/fc115c144da970b40224dab89bb432ee_max_476x317.jpeg",
+        "url": "property-photo/fc115c144/170664137/fc115c144da970b40224dab89bb432ee.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/256925ae2/170664137/256925ae274ce729dc3448ca5234999f_max_476x317.jpeg",
+        "url": "property-photo/256925ae2/170664137/256925ae274ce729dc3448ca5234999f.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a018a13/170664137/83a018a131a9d457c5dcadd2591527de_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by DCS Residential, Covering London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
