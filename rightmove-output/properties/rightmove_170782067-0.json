@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-02T22:32:25.172531+00:00",
+  "postcode": "N19 3QL",
+  "id": 170782067,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious one-bedroom flat on Hornsey Road, Archway. Featuring a large reception room, separate kitchen, modern shower room, high ceilings, and excellent transport links close to Archway Station, Upper Holloway Overground, local shops, and cafes.",
+  "displayAddress": "Hornsey Road, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56903,
+    "longitude": -0.1241
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab_max_476x317.jpeg",
+      "url": "property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4807ae0de/170782067/4807ae0de44dd0a975c98d420b504d5d_max_476x317.jpeg",
+      "url": "property-photo/4807ae0de/170782067/4807ae0de44dd0a975c98d420b504d5d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6046b2100/170782067/6046b21007b1607a59dcb54ebdbf7543_max_476x317.jpeg",
+      "url": "property-photo/6046b2100/170782067/6046b21007b1607a59dcb54ebdbf7543.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2bccf6a23/170782067/2bccf6a239570ad293825e8ff5f74a23_max_476x317.jpeg",
+      "url": "property-photo/2bccf6a23/170782067/2bccf6a239570ad293825e8ff5f74a23.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70862b4a0/170782067/70862b4a0fe6d7a54bf94e38f3737663_max_476x317.jpeg",
+      "url": "property-photo/70862b4a0/170782067/70862b4a0fe6d7a54bf94e38f3737663.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a9e816a6/170782067/9a9e816a650ecce67bb3377bb78ef47a_max_476x317.jpeg",
+      "url": "property-photo/9a9e816a6/170782067/9a9e816a650ecce67bb3377bb78ef47a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1e5caab9/170782067/a1e5caab9c9c12b1f93cf31da5f451dd_max_476x317.jpeg",
+      "url": "property-photo/a1e5caab9/170782067/a1e5caab9c9c12b1f93cf31da5f451dd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ef924dd1/170782067/5ef924dd16d32633100fa538e0d56709_max_476x317.jpeg",
+      "url": "property-photo/5ef924dd1/170782067/5ef924dd16d32633100fa538e0d56709.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0c02fae3/170782067/f0c02fae37ad99276a2c6cdc551f2ea6_max_476x317.jpeg",
+      "url": "property-photo/f0c02fae3/170782067/f0c02fae37ad99276a2c6cdc551f2ea6.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-02T17:55:07Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/22k/21035/branch_rmchoice_logo_21035_0004.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-10-21T16:35:39Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/22k/21035/branch_rmchoice_logo_21035_0004.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3380.77) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a31903.85) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "570 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170782067#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170782067",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-02T17:49:28Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-02T17:55:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1-Bedroom Flat",
+      "htmlDescription": "1-Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Close to Archway Station (Northern Line)",
+      "htmlDescription": "Close to Archway Station (Northern Line)"
+    },
+    {
+      "order": 3,
+      "description": "53 Sqm / 570 Sft",
+      "htmlDescription": "53 Sqm / 570 Sft"
+    },
+    {
+      "order": 4,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 5,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 6,
+      "description": "Washing Machine & Dryer Provided",
+      "htmlDescription": "Washing Machine & Dryer Provided"
+    },
+    {
+      "order": 7,
+      "description": "Fitted Kitchen with Dishwasher",
+      "htmlDescription": "Fitted Kitchen with Dishwasher"
+    },
+    {
+      "order": 8,
+      "description": "Shower with Wc",
+      "htmlDescription": "Shower with Wc"
+    },
+    {
+      "order": 9,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab_max_476x317.jpeg",
+        "url": "property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4807ae0de/170782067/4807ae0de44dd0a975c98d420b504d5d_max_476x317.jpeg",
+        "url": "property-photo/4807ae0de/170782067/4807ae0de44dd0a975c98d420b504d5d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6046b2100/170782067/6046b21007b1607a59dcb54ebdbf7543_max_476x317.jpeg",
+        "url": "property-photo/6046b2100/170782067/6046b21007b1607a59dcb54ebdbf7543.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2bccf6a23/170782067/2bccf6a239570ad293825e8ff5f74a23_max_476x317.jpeg",
+        "url": "property-photo/2bccf6a23/170782067/2bccf6a239570ad293825e8ff5f74a23.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70862b4a0/170782067/70862b4a0fe6d7a54bf94e38f3737663_max_476x317.jpeg",
+        "url": "property-photo/70862b4a0/170782067/70862b4a0fe6d7a54bf94e38f3737663.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a9e816a6/170782067/9a9e816a650ecce67bb3377bb78ef47a_max_476x317.jpeg",
+        "url": "property-photo/9a9e816a6/170782067/9a9e816a650ecce67bb3377bb78ef47a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1e5caab9/170782067/a1e5caab9c9c12b1f93cf31da5f451dd_max_476x317.jpeg",
+        "url": "property-photo/a1e5caab9/170782067/a1e5caab9c9c12b1f93cf31da5f451dd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ef924dd1/170782067/5ef924dd16d32633100fa538e0d56709_max_476x317.jpeg",
+        "url": "property-photo/5ef924dd1/170782067/5ef924dd16d32633100fa538e0d56709.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0c02fae3/170782067/f0c02fae37ad99276a2c6cdc551f2ea6_max_476x317.jpeg",
+        "url": "property-photo/f0c02fae3/170782067/f0c02fae37ad99276a2c6cdc551f2ea6.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc9575924/170782067/cc95759248b80b56d92960bca7419fab_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
