@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-03T22:55:15.790929+00:00",
+  "postcode": "N19 5NA",
+  "id": 170289065,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "New to the market, this modern apartment sits in a prime London location, offering 24h concierge, security, and professional management. Inside, a dedicated desk area provides an ideal work-from-home setup, while a dishwasher and in-unit washer/dryer add everyday convenience. Complete with bike s...",
+  "displayAddress": "Highgate Hill, London N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.568122,
+    "longitude": -0.139647
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b_max_476x317.jpeg",
+      "url": "property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b.jpeg",
+      "caption": "3.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df52893ad/170289065/df52893adb9e8e8d422b13e81d466d06_max_476x317.jpeg",
+      "url": "property-photo/df52893ad/170289065/df52893adb9e8e8d422b13e81d466d06.jpeg",
+      "caption": "1.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/465660ad4/170289065/465660ad48812aa0daddca2179b1648c_max_476x317.jpeg",
+      "url": "property-photo/465660ad4/170289065/465660ad48812aa0daddca2179b1648c.jpeg",
+      "caption": "2.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6c828d99/170289065/e6c828d9999d35ef1043c07baaf18ef3_max_476x317.jpeg",
+      "url": "property-photo/e6c828d99/170289065/e6c828d9999d35ef1043c07baaf18ef3.jpeg",
+      "caption": "4.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4e2afb6a/170289065/a4e2afb6ac591ee495c550ddd9489356_max_476x317.jpeg",
+      "url": "property-photo/a4e2afb6a/170289065/a4e2afb6ac591ee495c550ddd9489356.jpeg",
+      "caption": "5.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/438d55c44/170289065/438d55c44188a841e15d1fd540e0aa39_max_476x317.jpeg",
+      "url": "property-photo/438d55c44/170289065/438d55c44188a841e15d1fd540e0aa39.jpeg",
+      "caption": "6.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7416203f/170289065/e7416203ff9564309fbe0d61bdff41d9_max_476x317.jpeg",
+      "url": "property-photo/e7416203f/170289065/e7416203ff9564309fbe0d61bdff41d9.jpeg",
+      "caption": "7.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c2e624eb/170289065/2c2e624eb5b93953096f0b107433012f_max_476x317.jpeg",
+      "url": "property-photo/2c2e624eb/170289065/2c2e624eb5b93953096f0b107433012f.jpeg",
+      "caption": "8.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5152d03e7/170289065/5152d03e7086bb93a4adaf174a45cb69_max_476x317.jpeg",
+      "url": "property-photo/5152d03e7/170289065/5152d03e7086bb93a4adaf174a45cb69.jpeg",
+      "caption": "9.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88aba5ffd/170289065/88aba5ffdc2e8570f8864e6c1a5e54df_max_476x317.jpeg",
+      "url": "property-photo/88aba5ffd/170289065/88aba5ffdc2e8570f8864e6c1a5e54df.jpeg",
+      "caption": "10.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d7fdf62b/170289065/8d7fdf62b8a3de366de047cf574cc171_max_476x317.jpeg",
+      "url": "property-photo/8d7fdf62b/170289065/8d7fdf62b8a3de366de047cf574cc171.jpeg",
+      "caption": "11.jpg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-15T11:34:04Z"
+  },
+  "price": {
+    "amount": 1775,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,775 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3410 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 252785,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_78041_0009.png",
+    "contactTelephone": "020 8016 0527",
+    "branchDisplayName": "Flagstones Property Group, London",
+    "branchName": "London",
+    "brandTradingName": "Flagstones Property Group",
+    "branchLandingPageUrl": "/estate-agents/agent/Flagstones-Property-Group/London-252785.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-23T14:39:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_78041_0009.png",
+    "primaryBrandColour": "#daa351"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "400 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170289065#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170289065",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-15T11:28:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-03T05:31:35Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "New Listing",
+      "htmlDescription": "New Listing"
+    },
+    {
+      "order": 2,
+      "description": "Large Studio Apartment",
+      "htmlDescription": "Large Studio Apartment"
+    },
+    {
+      "order": 3,
+      "description": "24h Concierge",
+      "htmlDescription": "24h Concierge"
+    },
+    {
+      "order": 4,
+      "description": "Security",
+      "htmlDescription": "Security"
+    },
+    {
+      "order": 5,
+      "description": "Desk Space",
+      "htmlDescription": "Desk Space"
+    },
+    {
+      "order": 6,
+      "description": "Close to Supermarket",
+      "htmlDescription": "Close to Supermarket"
+    },
+    {
+      "order": 7,
+      "description": "Dishwasher",
+      "htmlDescription": "Dishwasher"
+    },
+    {
+      "order": 8,
+      "description": "Washer/Dryer",
+      "htmlDescription": "Washer/Dryer"
+    },
+    {
+      "order": 9,
+      "description": "Professional Management",
+      "htmlDescription": "Professional Management"
+    },
+    {
+      "order": 10,
+      "description": "Bike Storage Included",
+      "htmlDescription": "Bike Storage Included"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b_max_476x317.jpeg",
+        "url": "property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b.jpeg",
+        "caption": "3.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df52893ad/170289065/df52893adb9e8e8d422b13e81d466d06_max_476x317.jpeg",
+        "url": "property-photo/df52893ad/170289065/df52893adb9e8e8d422b13e81d466d06.jpeg",
+        "caption": "1.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/465660ad4/170289065/465660ad48812aa0daddca2179b1648c_max_476x317.jpeg",
+        "url": "property-photo/465660ad4/170289065/465660ad48812aa0daddca2179b1648c.jpeg",
+        "caption": "2.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6c828d99/170289065/e6c828d9999d35ef1043c07baaf18ef3_max_476x317.jpeg",
+        "url": "property-photo/e6c828d99/170289065/e6c828d9999d35ef1043c07baaf18ef3.jpeg",
+        "caption": "4.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4e2afb6a/170289065/a4e2afb6ac591ee495c550ddd9489356_max_476x317.jpeg",
+        "url": "property-photo/a4e2afb6a/170289065/a4e2afb6ac591ee495c550ddd9489356.jpeg",
+        "caption": "5.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/438d55c44/170289065/438d55c44188a841e15d1fd540e0aa39_max_476x317.jpeg",
+        "url": "property-photo/438d55c44/170289065/438d55c44188a841e15d1fd540e0aa39.jpeg",
+        "caption": "6.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7416203f/170289065/e7416203ff9564309fbe0d61bdff41d9_max_476x317.jpeg",
+        "url": "property-photo/e7416203f/170289065/e7416203ff9564309fbe0d61bdff41d9.jpeg",
+        "caption": "7.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c2e624eb/170289065/2c2e624eb5b93953096f0b107433012f_max_476x317.jpeg",
+        "url": "property-photo/2c2e624eb/170289065/2c2e624eb5b93953096f0b107433012f.jpeg",
+        "caption": "8.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5152d03e7/170289065/5152d03e7086bb93a4adaf174a45cb69_max_476x317.jpeg",
+        "url": "property-photo/5152d03e7/170289065/5152d03e7086bb93a4adaf174a45cb69.jpeg",
+        "caption": "9.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88aba5ffd/170289065/88aba5ffdc2e8570f8864e6c1a5e54df_max_476x317.jpeg",
+        "url": "property-photo/88aba5ffd/170289065/88aba5ffdc2e8570f8864e6c1a5e54df.jpeg",
+        "caption": "10.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d7fdf62b/170289065/8d7fdf62b8a3de366de047cf574cc171_max_476x317.jpeg",
+        "url": "property-photo/8d7fdf62b/170289065/8d7fdf62b8a3de366de047cf574cc171.jpeg",
+        "caption": "11.jpg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc486563e/170289065/bc486563eec16f47f46f151a17c1b01b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Flagstones Property Group, London",
+  "addedOrReduced": "Added on 15/12/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
