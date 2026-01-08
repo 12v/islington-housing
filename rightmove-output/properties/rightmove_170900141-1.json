@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-07T23:55:27.712141+00:00",
+  "postcode": "N7 0RA",
+  "id": 170900141,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "NO DEPOSIT OPTION AVAILABLE. Video tour available. Managed by Martyn Gerrard. Two bedroom period conversion situated within walking distance of Tufnell Park Underground Station.",
+  "displayAddress": "Pleshey Road, Tufnell Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553955,
+    "longitude": -0.132406
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004_max_476x317.jpeg",
+      "url": "property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004.jpeg",
+      "caption": "Picture No. 27"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/571bd7e72/170900141/571bd7e7251be0bb903704617cf0a81a_max_476x317.jpeg",
+      "url": "property-photo/571bd7e72/170900141/571bd7e7251be0bb903704617cf0a81a.jpeg",
+      "caption": "Picture No. 28"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7a32fee7/170900141/a7a32fee7f6a2591befa8e85527a2ea1_max_476x317.jpeg",
+      "url": "property-photo/a7a32fee7/170900141/a7a32fee7f6a2591befa8e85527a2ea1.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02c2136f4/170900141/02c2136f429dd6fe24c6840a68671756_max_476x317.jpeg",
+      "url": "property-photo/02c2136f4/170900141/02c2136f429dd6fe24c6840a68671756.jpeg",
+      "caption": "Picture No. 26"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4365612ef/170900141/4365612ef795ce911c651f090e140e13_max_476x317.jpeg",
+      "url": "property-photo/4365612ef/170900141/4365612ef795ce911c651f090e140e13.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba19f59d/170900141/5ba19f59da7643ca4011b025172521ef_max_476x317.jpeg",
+      "url": "property-photo/5ba19f59d/170900141/5ba19f59da7643ca4011b025172521ef.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80e1c6873/170900141/80e1c68735a17428654d76b5b741c8e5_max_476x317.jpeg",
+      "url": "property-photo/80e1c6873/170900141/80e1c68735a17428654d76b5b741c8e5.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d54cdecd/170900141/2d54cdecd812301059640e4a1b1de0ed_max_476x317.jpeg",
+      "url": "property-photo/2d54cdecd/170900141/2d54cdecd812301059640e4a1b1de0ed.jpeg",
+      "caption": "Picture No. 24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abb57dc9a/170900141/abb57dc9a5a19c4d0c98d5e22f407273_max_476x317.jpeg",
+      "url": "property-photo/abb57dc9a/170900141/abb57dc9a5a19c4d0c98d5e22f407273.jpeg",
+      "caption": "Picture No. 25"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c658819b3/170900141/c658819b3cee4fd81bdee5366bce4d70_max_476x317.jpeg",
+      "url": "property-photo/c658819b3/170900141/c658819b3cee4fd81bdee5366bce4d70.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/089a8e0f9/170900141/089a8e0f9880db09388c79a2821164ce_max_476x317.jpeg",
+      "url": "property-photo/089a8e0f9/170900141/089a8e0f9880db09388c79a2821164ce.jpeg",
+      "caption": "Picture No. 31"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T18:22:03Z"
+  },
+  "price": {
+    "amount": 1575,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,575 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3363 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 40491,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_4792_0010.png",
+    "contactTelephone": "020 3907 9969",
+    "branchDisplayName": "Martyn Gerrard, Kentish Town",
+    "branchName": "Kentish Town",
+    "brandTradingName": "Martyn Gerrard",
+    "branchLandingPageUrl": "/estate-agents/agent/Martyn-Gerrard/Kentish-Town-40491.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-04T15:46:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_4792_0010.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<b>When taking a property the only charges you will be liable for are:</b><br /><br />\r\ra)  The Rent<br /><br /> \r\rb)  A tenancy deposit equivalent to 5 weeks rent where the annual rent is less than \u00a350,000 or 6 weeks where the annual rent is in excess of \u00a350,000<br /><br /> \r\rc)  A refundable holding deposit equivalent to one weeks rent to reserve the property.<br /><br /> \r\rd)  Changes to the tenancy when requested by the tenant   no more than \u00a350 or reasonable costs incurred if higher<br /><br /> \r\re)  Payments associated with early termination of the tenancy when requested by the tenant.<br /><br /> \r\rf)  Payments in relation to Utilities, TV License, Communication Services and Council Tax.<br /><br /> \r\rg)  A default fee for late payment of rent and replacement of lost keys/security device, where required under the tenancy agreement.<br /><br /> \r\r<b>Please Note</b>: Costs and any default fees remain in place for all tenancies executed before 1st June 2019. This includes referencing fees of \u00a3100.00 per person; dilapidation deposit of 6 weeks rent; a Check-Out charge of between \u00a3140.00 & \u00a3190.00; any other fees or charges stipulated in the Tenancy Agreement.",
+  "displaySize": "517 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170900141#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170900141",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-06T18:16:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-07T16:40:39Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Double bedrooms",
+      "htmlDescription": "2 Double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "One reception room",
+      "htmlDescription": "One reception room"
+    },
+    {
+      "order": 3,
+      "description": "Bright",
+      "htmlDescription": "Bright"
+    },
+    {
+      "order": 4,
+      "description": "Open plan reception/kitchen",
+      "htmlDescription": "Open plan reception/kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Lightly furnished",
+      "htmlDescription": "Lightly furnished"
+    },
+    {
+      "order": 6,
+      "description": "Period conversion",
+      "htmlDescription": "Period conversion"
+    },
+    {
+      "order": 7,
+      "description": "Close to Tufnell Park Underground Station",
+      "htmlDescription": "Close to Tufnell Park Underground Station"
+    },
+    {
+      "order": 8,
+      "description": "Early viewing recommended",
+      "htmlDescription": "Early viewing recommended"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004_max_476x317.jpeg",
+        "url": "property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004.jpeg",
+        "caption": "Picture No. 27"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/571bd7e72/170900141/571bd7e7251be0bb903704617cf0a81a_max_476x317.jpeg",
+        "url": "property-photo/571bd7e72/170900141/571bd7e7251be0bb903704617cf0a81a.jpeg",
+        "caption": "Picture No. 28"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7a32fee7/170900141/a7a32fee7f6a2591befa8e85527a2ea1_max_476x317.jpeg",
+        "url": "property-photo/a7a32fee7/170900141/a7a32fee7f6a2591befa8e85527a2ea1.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02c2136f4/170900141/02c2136f429dd6fe24c6840a68671756_max_476x317.jpeg",
+        "url": "property-photo/02c2136f4/170900141/02c2136f429dd6fe24c6840a68671756.jpeg",
+        "caption": "Picture No. 26"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4365612ef/170900141/4365612ef795ce911c651f090e140e13_max_476x317.jpeg",
+        "url": "property-photo/4365612ef/170900141/4365612ef795ce911c651f090e140e13.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba19f59d/170900141/5ba19f59da7643ca4011b025172521ef_max_476x317.jpeg",
+        "url": "property-photo/5ba19f59d/170900141/5ba19f59da7643ca4011b025172521ef.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80e1c6873/170900141/80e1c68735a17428654d76b5b741c8e5_max_476x317.jpeg",
+        "url": "property-photo/80e1c6873/170900141/80e1c68735a17428654d76b5b741c8e5.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d54cdecd/170900141/2d54cdecd812301059640e4a1b1de0ed_max_476x317.jpeg",
+        "url": "property-photo/2d54cdecd/170900141/2d54cdecd812301059640e4a1b1de0ed.jpeg",
+        "caption": "Picture No. 24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abb57dc9a/170900141/abb57dc9a5a19c4d0c98d5e22f407273_max_476x317.jpeg",
+        "url": "property-photo/abb57dc9a/170900141/abb57dc9a5a19c4d0c98d5e22f407273.jpeg",
+        "caption": "Picture No. 25"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c658819b3/170900141/c658819b3cee4fd81bdee5366bce4d70_max_476x317.jpeg",
+        "url": "property-photo/c658819b3/170900141/c658819b3cee4fd81bdee5366bce4d70.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/089a8e0f9/170900141/089a8e0f9880db09388c79a2821164ce_max_476x317.jpeg",
+        "url": "property-photo/089a8e0f9/170900141/089a8e0f9880db09388c79a2821164ce.jpeg",
+        "caption": "Picture No. 31"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/516b088e6/170900141/516b088e6a532a1472193d844a245004_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Martyn Gerrard, Kentish Town",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
