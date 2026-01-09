@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-08T23:45:58.730126+00:00",
+  "postcode": "N7 0LG",
+  "id": 170898443,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Three bedroom flat with bathroom and fitted kitchen/diner.",
+  "displayAddress": "Camden Road, London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553076,
+    "longitude": -0.123409
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe_max_476x317.jpeg",
+      "url": "property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe.jpeg",
+      "caption": "Three bedroom flat with Kitchen/diner and bathroo"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ffafb836/170898443/3ffafb836c7b890446e0c081a42608c7_max_476x317.jpeg",
+      "url": "property-photo/3ffafb836/170898443/3ffafb836c7b890446e0c081a42608c7.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c532f07ec/170898443/c532f07ecfc02d64e347ea0f4802c808_max_476x317.jpeg",
+      "url": "property-photo/c532f07ec/170898443/c532f07ecfc02d64e347ea0f4802c808.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9470e841/170898443/b9470e84151dece814c8d1e9c9e75bde_max_476x317.jpeg",
+      "url": "property-photo/b9470e841/170898443/b9470e84151dece814c8d1e9c9e75bde.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7fc09c5c/170898443/f7fc09c5c9ebd4a99e6d75cfcb4398de_max_476x317.jpeg",
+      "url": "property-photo/f7fc09c5c/170898443/f7fc09c5c9ebd4a99e6d75cfcb4398de.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d0106d72/170898443/4d0106d729fd3851fc8ffc2e9de3583d_max_476x317.jpeg",
+      "url": "property-photo/4d0106d72/170898443/4d0106d729fd3851fc8ffc2e9de3583d.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d4f16d77/170898443/2d4f16d7798fa9a2a86da6735407bdd4_max_476x317.jpeg",
+      "url": "property-photo/2d4f16d77/170898443/2d4f16d7798fa9a2a86da6735407bdd4.jpeg",
+      "caption": "Gallery"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T17:30:06Z"
+  },
+  "price": {
+    "amount": 3600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3831 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 85888,
+    "brandPlusLogoURI": "/86k/85888/branch_rmchoice_logo_85888_0001.jpeg",
+    "contactTelephone": "020 3840 3967",
+    "branchDisplayName": "Michael Charles Lettings, London",
+    "branchName": "London",
+    "brandTradingName": "Michael Charles Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Michael-Charles-Lettings/London-85888.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-08-22T15:03:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/86k/85888/branch_rmchoice_logo_85888_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170898443#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170898443",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-06T17:24:34Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-08T11:48:59Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Four Bedrooms",
+      "htmlDescription": "Four Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    },
+    {
+      "order": 3,
+      "description": "Bathroom",
+      "htmlDescription": "Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Fitted kitchen",
+      "htmlDescription": "Fitted kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Furnished or Unfurnished",
+      "htmlDescription": "Furnished or Unfurnished"
+    },
+    {
+      "order": 6,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe_max_476x317.jpeg",
+        "url": "property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe.jpeg",
+        "caption": "Three bedroom flat with Kitchen/diner and bathroo"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ffafb836/170898443/3ffafb836c7b890446e0c081a42608c7_max_476x317.jpeg",
+        "url": "property-photo/3ffafb836/170898443/3ffafb836c7b890446e0c081a42608c7.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c532f07ec/170898443/c532f07ecfc02d64e347ea0f4802c808_max_476x317.jpeg",
+        "url": "property-photo/c532f07ec/170898443/c532f07ecfc02d64e347ea0f4802c808.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9470e841/170898443/b9470e84151dece814c8d1e9c9e75bde_max_476x317.jpeg",
+        "url": "property-photo/b9470e841/170898443/b9470e84151dece814c8d1e9c9e75bde.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7fc09c5c/170898443/f7fc09c5c9ebd4a99e6d75cfcb4398de_max_476x317.jpeg",
+        "url": "property-photo/f7fc09c5c/170898443/f7fc09c5c9ebd4a99e6d75cfcb4398de.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d0106d72/170898443/4d0106d729fd3851fc8ffc2e9de3583d_max_476x317.jpeg",
+        "url": "property-photo/4d0106d72/170898443/4d0106d729fd3851fc8ffc2e9de3583d.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d4f16d77/170898443/2d4f16d7798fa9a2a86da6735407bdd4_max_476x317.jpeg",
+        "url": "property-photo/2d4f16d77/170898443/2d4f16d7798fa9a2a86da6735407bdd4.jpeg",
+        "caption": "Gallery"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90ae2b659/170898443/90ae2b659d2d57a84ffbec9b4cc033fe_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Michael Charles Lettings, London",
+  "addedOrReduced": "Added on 06/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-08T23:39:29.952216+00:00",
+  "postcode": "N5 2SU",
+  "id": 170830379,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautifully presented split level, two double bedroom apartment on the top two floors of this beautiful mid-terraced house located on this much sought after road close to Clissold Park & Highbury.",
+  "displayAddress": "Riversdale Road, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.560238,
+    "longitude": -0.094064
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_01_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_02_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_03_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_04_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_05_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_06_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_07_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_08_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_08_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_09_0000_max_476x317.jpeg",
+      "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_09_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-05T12:07:17Z"
+  },
+  "price": {
+    "amount": 2650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3612 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80996,
+    "brandPlusLogoURI": "/81k/80996/branch_rmchoice_logo_80996_0004.png",
+    "contactTelephone": "020 3889 9038",
+    "branchDisplayName": "David Andrew, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Highbury-80996.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-30T08:23:37Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/81k/80996/branch_rmchoice_logo_80996_0004.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "743 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170830379#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170830379",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-05T12:01:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-08T13:07:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Arranged over the top two floors",
+      "htmlDescription": "Arranged over the top two floors"
+    },
+    {
+      "order": 2,
+      "description": "Two Bedrooms",
+      "htmlDescription": "Two Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Victorian conversion",
+      "htmlDescription": "Victorian conversion"
+    },
+    {
+      "order": 4,
+      "description": "Bright living space",
+      "htmlDescription": "Bright living space"
+    },
+    {
+      "order": 5,
+      "description": "Excellent Location",
+      "htmlDescription": "Excellent Location"
+    },
+    {
+      "order": 6,
+      "description": "Stripped wooden flooring",
+      "htmlDescription": "Stripped wooden flooring"
+    },
+    {
+      "order": 7,
+      "description": "Available 28th February 2026",
+      "htmlDescription": "Available 28th February 2026"
+    },
+    {
+      "order": 8,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_01_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_02_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_03_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_04_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_05_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_06_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_07_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_08_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_08_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_09_0000_max_476x317.jpeg",
+        "url": "81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_09_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/81k/80996/170830379/80996_e04dddf8-e194-43df-87b8-bd1579a98adb_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Highbury",
+  "addedOrReduced": "Added on 05/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

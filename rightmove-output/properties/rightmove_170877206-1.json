@@ -1,0 +1,212 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-08T23:32:21.419412+00:00",
+  "postcode": "N5 1TT",
+  "id": 170877206,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious one bedroom apartment situated on a quiet residential road in Highbury. the aparment offers a good sized reception with access to a large balcony, modern kitchen, large double bedroom and stylish bathroom. available 11th February and furnished or unfurnished.",
+  "displayAddress": "Aubert Park, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555539,
+    "longitude": -0.101773
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a_max_476x317.jpeg",
+      "url": "property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e21029893/170877206/e2102989310a0dbcc138e8d49740993b_max_476x317.jpeg",
+      "url": "property-photo/e21029893/170877206/e2102989310a0dbcc138e8d49740993b.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d74721dc/170877206/6d74721dcbb25e3982d925eb30b27c66_max_476x317.jpeg",
+      "url": "property-photo/6d74721dc/170877206/6d74721dcbb25e3982d925eb30b27c66.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bcbe272f/170877206/9bcbe272ff0c1240ae13b4355ac338a9_max_476x317.jpeg",
+      "url": "property-photo/9bcbe272f/170877206/9bcbe272ff0c1240ae13b4355ac338a9.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b82b974/170877206/46b82b974f1c7389022850cb5a26588d_max_476x317.jpeg",
+      "url": "property-photo/46b82b974/170877206/46b82b974f1c7389022850cb5a26588d.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0f645c0f/170877206/e0f645c0f228cac8a4499d41ed11e263_max_476x317.jpeg",
+      "url": "property-photo/e0f645c0f/170877206/e0f645c0f228cac8a4499d41ed11e263.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b615ab230/170877206/b615ab230eff707ea36de059303c9abb_max_476x317.jpeg",
+      "url": "property-photo/b615ab230/170877206/b615ab230eff707ea36de059303c9abb.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/645dadc64/170877206/645dadc64bdd40164d8424a689652e45_max_476x317.jpeg",
+      "url": "property-photo/645dadc64/170877206/645dadc64bdd40164d8424a689652e45.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55e874843/170877206/55e874843f58060809b1a97af21c7fb9_max_476x317.jpeg",
+      "url": "property-photo/55e874843/170877206/55e874843f58060809b1a97af21c7fb9.jpeg",
+      "caption": "Picture No. 09"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-11T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T12:20:04Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 48488,
+    "brandPlusLogoURI": "/49k/48488/branch_rmchoice_logo_48488_0004.png",
+    "contactTelephone": "020 3866 5533",
+    "branchDisplayName": "Hotblack Desiato, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "Hotblack Desiato",
+    "branchLandingPageUrl": "/estate-agents/agent/Hotblack-Desiato/Highbury-48488.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-22T12:54:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/49k/48488/branch_rmchoice_logo_48488_0004.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "506 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170877206#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170877206",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-06T12:14:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-06T12:20:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a_max_476x317.jpeg",
+        "url": "property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e21029893/170877206/e2102989310a0dbcc138e8d49740993b_max_476x317.jpeg",
+        "url": "property-photo/e21029893/170877206/e2102989310a0dbcc138e8d49740993b.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d74721dc/170877206/6d74721dcbb25e3982d925eb30b27c66_max_476x317.jpeg",
+        "url": "property-photo/6d74721dc/170877206/6d74721dcbb25e3982d925eb30b27c66.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bcbe272f/170877206/9bcbe272ff0c1240ae13b4355ac338a9_max_476x317.jpeg",
+        "url": "property-photo/9bcbe272f/170877206/9bcbe272ff0c1240ae13b4355ac338a9.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b82b974/170877206/46b82b974f1c7389022850cb5a26588d_max_476x317.jpeg",
+        "url": "property-photo/46b82b974/170877206/46b82b974f1c7389022850cb5a26588d.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0f645c0f/170877206/e0f645c0f228cac8a4499d41ed11e263_max_476x317.jpeg",
+        "url": "property-photo/e0f645c0f/170877206/e0f645c0f228cac8a4499d41ed11e263.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b615ab230/170877206/b615ab230eff707ea36de059303c9abb_max_476x317.jpeg",
+        "url": "property-photo/b615ab230/170877206/b615ab230eff707ea36de059303c9abb.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/645dadc64/170877206/645dadc64bdd40164d8424a689652e45_max_476x317.jpeg",
+        "url": "property-photo/645dadc64/170877206/645dadc64bdd40164d8424a689652e45.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55e874843/170877206/55e874843f58060809b1a97af21c7fb9_max_476x317.jpeg",
+        "url": "property-photo/55e874843/170877206/55e874843f58060809b1a97af21c7fb9.jpeg",
+        "caption": "Picture No. 09"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9e213ab1/170877206/f9e213ab11b329854b6fe77dea3e198a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hotblack Desiato, Highbury",
+  "addedOrReduced": "Added on 06/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

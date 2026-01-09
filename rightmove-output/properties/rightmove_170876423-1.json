@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-08T22:18:37.348081+00:00",
+  "postcode": "N1 9RS",
+  "id": 170876423,
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Gattis Wharf is a tucked away neighbourly courtyard of 24 former Victorian warehouse apartments in the very centre of Kings Cross. This duplex 1.5 bed loft apartment (please view images and floorplan) spans just under 700 sqft complete with mezzanine, whitewashed brickwork and timber floors. ",
+  "displayAddress": "New Wharf Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533944,
+    "longitude": -0.120392
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_00_0000.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_19_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_19_0000.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_01_0000.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_02_0000.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_03_0000.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_04_0000.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_05_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_05_0000.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_06_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_06_0000.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_07_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_07_0000.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_08_0000_max_476x317.jpeg",
+      "url": "132k/131029/170876423/131029_TBA200084_L_IMG_08_0000.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T12:10:04Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 131029,
+    "brandPlusLogoURI": "/132k/131029/branch_rmchoice_logo_131029_0001.jpeg",
+    "contactTelephone": "020 3834 8059",
+    "branchDisplayName": "The Bespoke Agent, London",
+    "branchName": "London",
+    "brandTradingName": "The Bespoke Agent",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Bespoke-Agent/London-131029.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T20:41:06Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/132k/131029/branch_rmchoice_logo_131029_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "700 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170876423#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170876423",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-06T12:04:12Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-06T23:08:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Duplex Loft Apartment",
+      "htmlDescription": "Duplex Loft Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Character",
+      "htmlDescription": "Character"
+    },
+    {
+      "order": 3,
+      "description": "Central Kings Cross",
+      "htmlDescription": "Central Kings Cross"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_00_0000.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_19_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_19_0000.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_01_0000.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_02_0000.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_03_0000.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_04_0000.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_05_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_05_0000.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_06_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_06_0000.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_07_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_07_0000.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_08_0000_max_476x317.jpeg",
+        "url": "132k/131029/170876423/131029_TBA200084_L_IMG_08_0000.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/132k/131029/170876423/131029_TBA200084_L_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Bespoke Agent, London",
+  "addedOrReduced": "Added on 06/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
