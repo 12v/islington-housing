@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-10T21:20:48.332155+00:00",
+  "postcode": "N1 0EB",
+  "id": 87411510,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 13,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Available 1st March. A superb house with private garden situated on a quiet residential street in the heart of London",
+  "displayAddress": "Cloudesley Road, London, N1 0EB",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.536044,
+    "longitude": -0.10967
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_00_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_00_0000.jpeg",
+      "caption": "Main bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_01_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_01_0000.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_02_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_02_0000.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_03_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_03_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_04_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_04_0000.jpeg",
+      "caption": "Breakfast Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_05_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_05_0000.jpeg",
+      "caption": "Snug"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_06_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_06_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_07_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_07_0000.jpeg",
+      "caption": "En-Suite"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_08_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_08_0000.jpeg",
+      "caption": "Wardrobes"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_09_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_09_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_10_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_10_0000.jpeg",
+      "caption": "Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_11_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_11_0000.jpeg",
+      "caption": "Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_12_0000_max_476x317.jpeg",
+      "url": "88k/87247/87411510/87247_347855-2_IMG_12_0000.jpeg",
+      "caption": "Front"
+    }
+  ],
+  "propertySubType": "Terraced",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2026-01-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-08T09:13:06Z"
+  },
+  "price": {
+    "amount": 6750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a36,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,558 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 87247,
+    "brandPlusLogoURI": "/ama/branch-profile/1760090317/fea4819a-f324-4372-bc56-4d23dccc8213_max_135x135.jpg",
+    "contactTelephone": "020 3889 9013",
+    "branchDisplayName": "Daniel Watney, London",
+    "branchName": "London",
+    "brandTradingName": "Daniel Watney",
+    "branchLandingPageUrl": "/estate-agents/agent/Daniel-Watney/London-87247.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-22T11:56:14Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1760090317/fea4819a-f324-4372-bc56-4d23dccc8213_max_135x135.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "1,862 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87411510#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87411510",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-08T09:07:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-10T07:34:57Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available 1st March",
+      "htmlDescription": "Available 1st March"
+    },
+    {
+      "order": 2,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 3,
+      "description": "Three Bedrooms",
+      "htmlDescription": "Three Bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Two Bathrooms + Additional W/C",
+      "htmlDescription": "Two Bathrooms + Additional W/C"
+    },
+    {
+      "order": 5,
+      "description": "EPC - D",
+      "htmlDescription": "EPC - D"
+    },
+    {
+      "order": 6,
+      "description": "Council Tax Band - G (Islington)",
+      "htmlDescription": "Council Tax Band - G (Islington)"
+    },
+    {
+      "order": 7,
+      "description": "Private Rear Garden",
+      "htmlDescription": "Private Rear Garden"
+    },
+    {
+      "order": 8,
+      "description": "Deposit - \u00a37,788",
+      "htmlDescription": "Deposit - \u00a37,788"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_00_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_00_0000.jpeg",
+        "caption": "Main bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_01_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_01_0000.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_02_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_02_0000.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_03_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_03_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_04_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_04_0000.jpeg",
+        "caption": "Breakfast Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_05_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_05_0000.jpeg",
+        "caption": "Snug"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_06_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_06_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_07_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_07_0000.jpeg",
+        "caption": "En-Suite"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_08_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_08_0000.jpeg",
+        "caption": "Wardrobes"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_09_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_09_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_10_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_10_0000.jpeg",
+        "caption": "Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_11_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_11_0000.jpeg",
+        "caption": "Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_12_0000_max_476x317.jpeg",
+        "url": "88k/87247/87411510/87247_347855-2_IMG_12_0000.jpeg",
+        "caption": "Front"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/88k/87247/87411510/87247_347855-2_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Daniel Watney, London",
+  "addedOrReduced": "Added on 08/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom terraced house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

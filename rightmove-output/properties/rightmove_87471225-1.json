@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-11T00:02:50.324381+00:00",
+  "postcode": "N7 0JE",
+  "id": 87471225,
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Large room\u00a0",
+  "displayAddress": "London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.552585,
+    "longitude": -0.129066
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c_max_476x317.jpeg",
+      "url": "property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c.jpeg",
+      "caption": "Large Apartment - Bills Included"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/097f72341/87471225/097f72341bb8eed9e64041310ef3f5dd_max_476x317.jpeg",
+      "url": "property-photo/097f72341/87471225/097f72341bb8eed9e64041310ef3f5dd.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a08662d1a/87471225/a08662d1a7c6614d6590ef65aac86b24_max_476x317.jpeg",
+      "url": "property-photo/a08662d1a/87471225/a08662d1a7c6614d6590ef65aac86b24.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa5af43d1/87471225/fa5af43d1cb3c06387f0de437ccbb3db_max_476x317.jpeg",
+      "url": "property-photo/fa5af43d1/87471225/fa5af43d1cb3c06387f0de437ccbb3db.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9553a2283/87471225/9553a2283e28080b97f86e39f92d9a5b_max_476x317.jpeg",
+      "url": "property-photo/9553a2283/87471225/9553a2283e28080b97f86e39f92d9a5b.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39a60939d/87471225/39a60939d7d249f67b470bf67179b0e3_max_476x317.jpeg",
+      "url": "property-photo/39a60939d/87471225/39a60939d7d249f67b470bf67179b0e3.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abdbffde0/87471225/abdbffde01df90173646fa5534f6bab9_max_476x317.jpeg",
+      "url": "property-photo/abdbffde0/87471225/abdbffde01df90173646fa5534f6bab9.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/839b503c5/87471225/839b503c5a1eca151b276394d1d34c08_max_476x317.jpeg",
+      "url": "property-photo/839b503c5/87471225/839b503c5a1eca151b276394d1d34c08.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c51f054f0/87471225/c51f054f0156e720f97bd22f9730b42d_max_476x317.jpeg",
+      "url": "property-photo/c51f054f0/87471225/c51f054f0156e720f97bd22f9730b42d.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2ae8d411/87471225/d2ae8d411597df8c4de47e6cc71a0a85_max_476x317.jpeg",
+      "url": "property-photo/d2ae8d411/87471225/d2ae8d411597df8c4de47e6cc71a0a85.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae292066c/87471225/ae292066cc2485a69f4ed2fa12d1d2a3_max_476x317.jpeg",
+      "url": "property-photo/ae292066c/87471225/ae292066cc2485a69f4ed2fa12d1d2a3.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/105d77903/87471225/105d77903edfbda2b530f283ac88729c_max_476x317.jpeg",
+      "url": "property-photo/105d77903/87471225/105d77903edfbda2b530f283ac88729c.jpeg",
+      "caption": "Gallery"
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2024-12-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-01-09T12:47:03Z"
+  },
+  "price": {
+    "amount": 225,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3975 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3225 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 298475,
+    "brandPlusLogoURI": "/299k/298475/branch_rmchoice_logo_298475_0000.png",
+    "contactTelephone": "01923 311501",
+    "branchDisplayName": "AADS Property Management, Watford",
+    "branchName": "Watford",
+    "brandTradingName": "AADS Property Management",
+    "branchLandingPageUrl": "/estate-agents/agent/AADS-Property-Management/Watford-298475.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-02T10:45:59Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/299k/298475/branch_rmchoice_logo_298475_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "0",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87471225#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87471225",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-09T12:41:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-09T12:47:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Kitchen-Diner",
+      "htmlDescription": "Kitchen-Diner"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Dryer",
+      "htmlDescription": "Dryer"
+    },
+    {
+      "order": 4,
+      "description": "Fridge Freezer",
+      "htmlDescription": "Fridge Freezer"
+    },
+    {
+      "order": 5,
+      "description": "Oven/Hob",
+      "htmlDescription": "Oven/Hob"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c_max_476x317.jpeg",
+        "url": "property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c.jpeg",
+        "caption": "Large Apartment - Bills Included"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/097f72341/87471225/097f72341bb8eed9e64041310ef3f5dd_max_476x317.jpeg",
+        "url": "property-photo/097f72341/87471225/097f72341bb8eed9e64041310ef3f5dd.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a08662d1a/87471225/a08662d1a7c6614d6590ef65aac86b24_max_476x317.jpeg",
+        "url": "property-photo/a08662d1a/87471225/a08662d1a7c6614d6590ef65aac86b24.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa5af43d1/87471225/fa5af43d1cb3c06387f0de437ccbb3db_max_476x317.jpeg",
+        "url": "property-photo/fa5af43d1/87471225/fa5af43d1cb3c06387f0de437ccbb3db.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9553a2283/87471225/9553a2283e28080b97f86e39f92d9a5b_max_476x317.jpeg",
+        "url": "property-photo/9553a2283/87471225/9553a2283e28080b97f86e39f92d9a5b.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39a60939d/87471225/39a60939d7d249f67b470bf67179b0e3_max_476x317.jpeg",
+        "url": "property-photo/39a60939d/87471225/39a60939d7d249f67b470bf67179b0e3.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abdbffde0/87471225/abdbffde01df90173646fa5534f6bab9_max_476x317.jpeg",
+        "url": "property-photo/abdbffde0/87471225/abdbffde01df90173646fa5534f6bab9.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/839b503c5/87471225/839b503c5a1eca151b276394d1d34c08_max_476x317.jpeg",
+        "url": "property-photo/839b503c5/87471225/839b503c5a1eca151b276394d1d34c08.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c51f054f0/87471225/c51f054f0156e720f97bd22f9730b42d_max_476x317.jpeg",
+        "url": "property-photo/c51f054f0/87471225/c51f054f0156e720f97bd22f9730b42d.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2ae8d411/87471225/d2ae8d411597df8c4de47e6cc71a0a85_max_476x317.jpeg",
+        "url": "property-photo/d2ae8d411/87471225/d2ae8d411597df8c4de47e6cc71a0a85.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae292066c/87471225/ae292066cc2485a69f4ed2fa12d1d2a3_max_476x317.jpeg",
+        "url": "property-photo/ae292066c/87471225/ae292066cc2485a69f4ed2fa12d1d2a3.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/105d77903/87471225/105d77903edfbda2b530f283ac88729c_max_476x317.jpeg",
+        "url": "property-photo/105d77903/87471225/105d77903edfbda2b530f283ac88729c.jpeg",
+        "caption": "Gallery"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/079ff7cd4/87471225/079ff7cd4dcfcd913be0af4bb29f906c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by AADS Property Management, Watford",
+  "addedOrReduced": "Reduced on 09/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house share",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
