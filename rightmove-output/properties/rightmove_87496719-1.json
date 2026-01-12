@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-11T21:05:33.095170+00:00",
+  "postcode": "EC1Y 8JL",
+  "id": 87496719,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright and contemporary one-bedroom apartment situated on the second floor of a well-maintained building in the heart of EC1. This thoughtfully designed flat offers open-plan living with a sleek... ** Property Reference: 2655746 **",
+  "displayAddress": "Whitecross Street, London, EC1Y",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52334,
+    "longitude": -0.093389
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_00_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_00_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_01_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_01_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_02_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_02_0000.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_03_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_03_0000.jpeg",
+      "caption": "Bedroom 1 Furnish"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_04_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_04_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_05_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_05_0000.jpeg",
+      "caption": "Bathroom Furnish"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_06_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_06_0000.jpeg",
+      "caption": "Building Front"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_07_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_07_0000.jpeg",
+      "caption": "Building From Whitecross Street"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_08_0000_max_476x317.jpeg",
+      "url": "97k/96668/87496719/96668_265574611102025_IMG_08_0000.jpeg",
+      "caption": "Building With Market"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-09T23:18:02Z"
+  },
+  "price": {
+    "amount": 459,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,989 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3459 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-05T14:37:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87496719#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87496719",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-09T23:13:00Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-09T23:18:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Property Reference Number: 2655746",
+      "htmlDescription": "Property Reference Number: 2655746"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_00_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_00_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_01_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_01_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_02_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_02_0000.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_03_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_03_0000.jpeg",
+        "caption": "Bedroom 1 Furnish"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_04_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_04_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_05_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_05_0000.jpeg",
+        "caption": "Bathroom Furnish"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_06_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_06_0000.jpeg",
+        "caption": "Building Front"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_07_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_07_0000.jpeg",
+        "caption": "Building From Whitecross Street"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_08_0000_max_476x317.jpeg",
+        "url": "97k/96668/87496719/96668_265574611102025_IMG_08_0000.jpeg",
+        "caption": "Building With Market"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/87496719/96668_265574611102025_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Added on 09/01/2026"
+}
