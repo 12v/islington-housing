@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-14T00:51:03.501736+00:00",
+  "postcode": "N7 9JQ",
+  "id": 170446394,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious 1 double bedroom conversion with a separate reception room, modern fitted kitchen, shower room and large storage cupboard. Further wood floors, sash windows, good natural light & high ceilings. Conveniently located for Caledonian Road tube station & Holloway Road. Easy access t...",
+  "displayAddress": "Hartham Road, Islington, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55021,
+    "longitude": -0.120359
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_07_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_07_0000.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_08_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_08_0000.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_09_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_09_0000.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_10_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_10_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_11_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_11_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_12_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_12_0000.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_13_0000_max_476x317.jpeg",
+      "url": "97k/96542/170446394/96542_ROCH_001026_IMG_13_0000.jpeg",
+      "caption": "Bedroom"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-19T12:01:04Z"
+  },
+  "price": {
+    "amount": 475,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,058 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3475 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96542,
+    "brandPlusLogoURI": "/company/clogo_37043_0002.jpeg",
+    "contactTelephone": "020 3909 6661",
+    "branchDisplayName": "Rochester Place, London",
+    "branchName": "London",
+    "brandTradingName": "Rochester Place",
+    "branchLandingPageUrl": "/estate-agents/agent/Rochester-Place/London-96542.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-29T13:12:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_37043_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<h3>TENANT INFORMATION</h3><table><tbody><tr><td>Holding deposit</td><td>1 weeks rent</td></tr><tr><td>Security deposit</td><td><p>Capped at 5 weeks rent for annual rental under \u00a350,000, </p><p>or 6 weeks rent for annual rental over \u00a350,000 </p></td></tr><tr><td>Rent</td><td>The agreed monthly rent</td></tr><tr><td>Changes to tenancy</td><td>\u00a350 inclusive of rent</td></tr><tr><td>Early termination charge</td><td>Not exceeding the landlord\u2019s financial losses\u00a0</td></tr><tr><td>\u00a0Late payment of rent</td><td><p>Interest of 3% above BoE base rate for each day the rent is late, </p><p>once it is 14 days overdue\u00a0</p></td></tr><tr><td>Client Money Protection Scheme</td><td>Safeagent<br />Member: A2850</td></tr><tr><td><p>Property Redress Scheme\u00a0 </p></td><td><p>The Property Redress Scheme</p>Member: PRS012995<p>\u00a0</p></td></tr></tbody></table>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170446394#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170446394",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-19T11:55:32Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-13T13:31:51Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Very Spacious",
+      "htmlDescription": "Very Spacious"
+    },
+    {
+      "order": 2,
+      "description": "Modern",
+      "htmlDescription": "Modern"
+    },
+    {
+      "order": 3,
+      "description": "Separate Reception",
+      "htmlDescription": "Separate Reception"
+    },
+    {
+      "order": 4,
+      "description": "Wood Floors",
+      "htmlDescription": "Wood Floors"
+    },
+    {
+      "order": 5,
+      "description": "Bright",
+      "htmlDescription": "Bright"
+    },
+    {
+      "order": 6,
+      "description": "Convenient Location",
+      "htmlDescription": "Convenient Location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_07_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_07_0000.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_08_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_08_0000.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_09_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_09_0000.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_10_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_10_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_11_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_11_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_12_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_12_0000.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_13_0000_max_476x317.jpeg",
+        "url": "97k/96542/170446394/96542_ROCH_001026_IMG_13_0000.jpeg",
+        "caption": "Bedroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_07_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96542/170446394/96542_ROCH_001026_IMG_07_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rochester Place, London",
+  "addedOrReduced": "Added on 19/12/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
