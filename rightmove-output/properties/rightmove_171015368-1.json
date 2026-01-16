@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-15T22:26:26.963427+00:00",
+  "postcode": "N19 3EP",
+  "id": 171015368,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Studio flat to rent in Fairbridge Road. Positioned within a period conversion. Ideally located close to Archway Station.",
+  "displayAddress": "Fairbridge Road, Archway, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56614,
+    "longitude": -0.12732
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be_max_476x317.jpeg",
+      "url": "property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be.jpeg",
+      "caption": "NDB02543-Edit"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66928b567/171015368/66928b56739efdbfd7c0b82b9c766edd_max_476x317.jpeg",
+      "url": "property-photo/66928b567/171015368/66928b56739efdbfd7c0b82b9c766edd.jpeg",
+      "caption": "NDB02540"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dcea4551/171015368/8dcea45516c50754d3732209b3828268_max_476x317.jpeg",
+      "url": "property-photo/8dcea4551/171015368/8dcea45516c50754d3732209b3828268.jpeg",
+      "caption": "NDB02539"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3769528/171015368/4a3769528affc4bfa96482d35eaf0ab1_max_476x317.jpeg",
+      "url": "property-photo/4a3769528/171015368/4a3769528affc4bfa96482d35eaf0ab1.jpeg",
+      "caption": "NDB02542"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/72e2531ce/171015368/72e2531cea2602aa649d15af1734f2f1_max_476x317.jpeg",
+      "url": "property-photo/72e2531ce/171015368/72e2531cea2602aa649d15af1734f2f1.jpeg",
+      "caption": "NDB02537"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19b06964d/171015368/19b06964df4130a2cba4dc65fd6d6bc9_max_476x317.jpeg",
+      "url": "property-photo/19b06964d/171015368/19b06964df4130a2cba4dc65fd6d6bc9.jpeg",
+      "caption": "NDB02538"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6b13cca1/171015368/a6b13cca1862a25841c71f9bf3584dd9_max_476x317.jpeg",
+      "url": "property-photo/a6b13cca1/171015368/a6b13cca1862a25841c71f9bf3584dd9.jpeg",
+      "caption": "NDB02536"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/234eb2384/171015368/234eb2384a53ba69a330cf83adae24bb_max_476x317.jpeg",
+      "url": "property-photo/234eb2384/171015368/234eb2384a53ba69a330cf83adae24bb.jpeg",
+      "caption": "NDB02541"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-14T17:43:01Z"
+  },
+  "price": {
+    "amount": 1000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3231 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 176261,
+    "brandPlusLogoURI": "/177k/176261/branch_rmchoice_logo_176261_0003.jpeg",
+    "contactTelephone": "020 3889 9033",
+    "branchDisplayName": "David Astburys Ltd, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "David Astburys Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys-Ltd/Crouch-End-176261.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-15T09:28:58Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/177k/176261/branch_rmchoice_logo_176261_0003.jpeg",
+    "primaryBrandColour": "#9b2743"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171015368#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171015368",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-14T17:37:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-15T05:31:25Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Studio Flat",
+      "htmlDescription": "Studio Flat"
+    },
+    {
+      "order": 2,
+      "description": "Period Conversion",
+      "htmlDescription": "Period Conversion"
+    },
+    {
+      "order": 3,
+      "description": "Close to Archway Station",
+      "htmlDescription": "Close to Archway Station"
+    },
+    {
+      "order": 4,
+      "description": "Laminate Floors",
+      "htmlDescription": "Laminate Floors"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be_max_476x317.jpeg",
+        "url": "property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be.jpeg",
+        "caption": "NDB02543-Edit"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66928b567/171015368/66928b56739efdbfd7c0b82b9c766edd_max_476x317.jpeg",
+        "url": "property-photo/66928b567/171015368/66928b56739efdbfd7c0b82b9c766edd.jpeg",
+        "caption": "NDB02540"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dcea4551/171015368/8dcea45516c50754d3732209b3828268_max_476x317.jpeg",
+        "url": "property-photo/8dcea4551/171015368/8dcea45516c50754d3732209b3828268.jpeg",
+        "caption": "NDB02539"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3769528/171015368/4a3769528affc4bfa96482d35eaf0ab1_max_476x317.jpeg",
+        "url": "property-photo/4a3769528/171015368/4a3769528affc4bfa96482d35eaf0ab1.jpeg",
+        "caption": "NDB02542"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/72e2531ce/171015368/72e2531cea2602aa649d15af1734f2f1_max_476x317.jpeg",
+        "url": "property-photo/72e2531ce/171015368/72e2531cea2602aa649d15af1734f2f1.jpeg",
+        "caption": "NDB02537"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19b06964d/171015368/19b06964df4130a2cba4dc65fd6d6bc9_max_476x317.jpeg",
+        "url": "property-photo/19b06964d/171015368/19b06964df4130a2cba4dc65fd6d6bc9.jpeg",
+        "caption": "NDB02538"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6b13cca1/171015368/a6b13cca1862a25841c71f9bf3584dd9_max_476x317.jpeg",
+        "url": "property-photo/a6b13cca1/171015368/a6b13cca1862a25841c71f9bf3584dd9.jpeg",
+        "caption": "NDB02536"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/234eb2384/171015368/234eb2384a53ba69a330cf83adae24bb_max_476x317.jpeg",
+        "url": "property-photo/234eb2384/171015368/234eb2384a53ba69a330cf83adae24bb.jpeg",
+        "caption": "NDB02541"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75ed0042b/171015368/75ed0042b88968859e9a18e0a49209be_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys Ltd, Crouch End",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
