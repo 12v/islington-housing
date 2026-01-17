@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-16T22:03:35.442542+00:00",
+  "postcode": "N1 4PR",
+  "id": 170552288,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented One Double bedroom period property located on a quiet residential road in N1, moments from Newington Green and the shops and restaurants on Upper Street. The property is within easy walking distance of both Canonbury and Dalston Overground Stations and there are also buses...",
+  "displayAddress": "Mildmay Park, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.549419,
+    "longitude": -0.082739
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294_max_476x317.jpeg",
+      "url": "property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/428f62b2d/170552288/428f62b2d97c9ee1af2cafa226678a97_max_476x317.jpeg",
+      "url": "property-photo/428f62b2d/170552288/428f62b2d97c9ee1af2cafa226678a97.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e4a7e2f8/170552288/3e4a7e2f885681b5e206122bc3f91630_max_476x317.jpeg",
+      "url": "property-photo/3e4a7e2f8/170552288/3e4a7e2f885681b5e206122bc3f91630.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7618140c5/170552288/7618140c5e548a5e531944441dc34322_max_476x317.jpeg",
+      "url": "property-photo/7618140c5/170552288/7618140c5e548a5e531944441dc34322.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20f8e94fc/170552288/20f8e94fc440354e12de0b8bacab482e_max_476x317.jpeg",
+      "url": "property-photo/20f8e94fc/170552288/20f8e94fc440354e12de0b8bacab482e.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e664c41fb/170552288/e664c41fb6c8a1bb42b34b4054e39563_max_476x317.jpeg",
+      "url": "property-photo/e664c41fb/170552288/e664c41fb6c8a1bb42b34b4054e39563.jpeg",
+      "caption": "EPC"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-01-16T17:11:48Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_21877_0010.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-12T09:51:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_21877_0010.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170552288#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170552288",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-23T14:46:40Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-16T17:11:50Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "- Large double bedroom",
+      "htmlDescription": "-\tLarge double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "- Period Property",
+      "htmlDescription": "-\tPeriod Property"
+    },
+    {
+      "order": 3,
+      "description": "- Large reception",
+      "htmlDescription": "-\tLarge reception"
+    },
+    {
+      "order": 4,
+      "description": "- Neutral d\u00e9cor throughout",
+      "htmlDescription": "-\tNeutral d\u00e9cor throughout"
+    },
+    {
+      "order": 5,
+      "description": "- Modern kitchen & bathroom",
+      "htmlDescription": "-\tModern kitchen & bathroom"
+    },
+    {
+      "order": 6,
+      "description": "- Great Location close to Canonbury station",
+      "htmlDescription": "-\tGreat Location close to Canonbury station"
+    },
+    {
+      "order": 7,
+      "description": "- Unfurnished",
+      "htmlDescription": "-\tUnfurnished"
+    },
+    {
+      "order": 8,
+      "description": "- Available 10th January 2026",
+      "htmlDescription": "-\tAvailable 10th January 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294_max_476x317.jpeg",
+        "url": "property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/428f62b2d/170552288/428f62b2d97c9ee1af2cafa226678a97_max_476x317.jpeg",
+        "url": "property-photo/428f62b2d/170552288/428f62b2d97c9ee1af2cafa226678a97.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e4a7e2f8/170552288/3e4a7e2f885681b5e206122bc3f91630_max_476x317.jpeg",
+        "url": "property-photo/3e4a7e2f8/170552288/3e4a7e2f885681b5e206122bc3f91630.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7618140c5/170552288/7618140c5e548a5e531944441dc34322_max_476x317.jpeg",
+        "url": "property-photo/7618140c5/170552288/7618140c5e548a5e531944441dc34322.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20f8e94fc/170552288/20f8e94fc440354e12de0b8bacab482e_max_476x317.jpeg",
+        "url": "property-photo/20f8e94fc/170552288/20f8e94fc440354e12de0b8bacab482e.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e664c41fb/170552288/e664c41fb6c8a1bb42b34b4054e39563_max_476x317.jpeg",
+        "url": "property-photo/e664c41fb/170552288/e664c41fb6c8a1bb42b34b4054e39563.jpeg",
+        "caption": "EPC"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c0d8b48c/170552288/4c0d8b48c48c27f9913eec1a27539294_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
