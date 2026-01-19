@@ -1,0 +1,203 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-18T21:55:41.197143+00:00",
+  "postcode": "N1 2LL",
+  "id": 171101360,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "One Bedroom Apartment in the Heart of Highbury St Paul's Road, N1Located in a Victorian terrace, ",
+  "displayAddress": "St. Pauls Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54728,
+    "longitude": -0.09716
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893_max_476x317.jpeg",
+      "url": "property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24c056ae8/171101360/24c056ae824cd10c46eb9fd1193b58c8_max_476x317.jpeg",
+      "url": "property-photo/24c056ae8/171101360/24c056ae824cd10c46eb9fd1193b58c8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5ecdb39f/171101360/a5ecdb39fe0a4db576ef68f2fac2d1f8_max_476x317.jpeg",
+      "url": "property-photo/a5ecdb39f/171101360/a5ecdb39fe0a4db576ef68f2fac2d1f8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/393a456c9/171101360/393a456c9dd83d8624370c2f830804bd_max_476x317.jpeg",
+      "url": "property-photo/393a456c9/171101360/393a456c9dd83d8624370c2f830804bd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cf6e3999/171101360/2cf6e3999d29ba92bc4eb04ec96bbb88_max_476x317.jpeg",
+      "url": "property-photo/2cf6e3999/171101360/2cf6e3999d29ba92bc4eb04ec96bbb88.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f3af7df2/171101360/6f3af7df2ca7f2b31f07869b21218e39_max_476x317.jpeg",
+      "url": "property-photo/6f3af7df2/171101360/6f3af7df2ca7f2b31f07869b21218e39.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e28dd69ae/171101360/e28dd69ae8f182cbc64545b664555802_max_476x317.jpeg",
+      "url": "property-photo/e28dd69ae/171101360/e28dd69ae8f182cbc64545b664555802.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-16T15:07:06Z"
+  },
+  "price": {
+    "amount": 415,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,798 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3415 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80899,
+    "brandPlusLogoURI": "/81k/80899/branch_logo_80899_0000.jpeg",
+    "contactTelephone": "020 3866 6767",
+    "branchDisplayName": "Berns & Co, West Hampstead",
+    "branchName": "West Hampstead",
+    "brandTradingName": "Berns & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Berns-and-Co/West-Hampstead-80899.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-04-02T16:41:14Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/81k/80899/branch_logo_80899_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171101360#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171101360",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-16T15:01:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-16T15:07:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Great location",
+      "htmlDescription": "Great location "
+    },
+    {
+      "order": 2,
+      "description": "Wood Floors",
+      "htmlDescription": "Wood Floors "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893_max_476x317.jpeg",
+        "url": "property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24c056ae8/171101360/24c056ae824cd10c46eb9fd1193b58c8_max_476x317.jpeg",
+        "url": "property-photo/24c056ae8/171101360/24c056ae824cd10c46eb9fd1193b58c8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5ecdb39f/171101360/a5ecdb39fe0a4db576ef68f2fac2d1f8_max_476x317.jpeg",
+        "url": "property-photo/a5ecdb39f/171101360/a5ecdb39fe0a4db576ef68f2fac2d1f8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/393a456c9/171101360/393a456c9dd83d8624370c2f830804bd_max_476x317.jpeg",
+        "url": "property-photo/393a456c9/171101360/393a456c9dd83d8624370c2f830804bd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cf6e3999/171101360/2cf6e3999d29ba92bc4eb04ec96bbb88_max_476x317.jpeg",
+        "url": "property-photo/2cf6e3999/171101360/2cf6e3999d29ba92bc4eb04ec96bbb88.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f3af7df2/171101360/6f3af7df2ca7f2b31f07869b21218e39_max_476x317.jpeg",
+        "url": "property-photo/6f3af7df2/171101360/6f3af7df2ca7f2b31f07869b21218e39.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e28dd69ae/171101360/e28dd69ae8f182cbc64545b664555802_max_476x317.jpeg",
+        "url": "property-photo/e28dd69ae/171101360/e28dd69ae8f182cbc64545b664555802.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7780cb3e/171101360/b7780cb3ea20a64073085f4ad7ff0893_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Berns & Co, West Hampstead",
+  "addedOrReduced": "Added on 16/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
