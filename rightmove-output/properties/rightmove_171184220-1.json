@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-21T21:23:35.517561+00:00",
+  "postcode": "N1 0EQ",
+  "id": 171184220,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Nestled in the charming area of Cloudesley Road, London, this delightful flat offers a perfect blend of comfort and convenience. Built in 1960, the property boasts a timeless appeal while providing modern living essentials. Upon entering, you are welcomed into a spacious reception room,...",
+  "displayAddress": "Cloudesley Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53495,
+    "longitude": -0.108909
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5_max_476x317.jpeg",
+      "url": "property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fe7b8f0/171184220/65fe7b8f085d67f2e5f32ae6e8332e2d_max_476x317.jpeg",
+      "url": "property-photo/65fe7b8f0/171184220/65fe7b8f085d67f2e5f32ae6e8332e2d.jpeg",
+      "caption": "Terrace / Patio"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f5ed77c9/171184220/9f5ed77c97a2b60cea1c439a66ddd7e7_max_476x317.jpeg",
+      "url": "property-photo/9f5ed77c9/171184220/9f5ed77c97a2b60cea1c439a66ddd7e7.jpeg",
+      "caption": "Study"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dff5eb38e/171184220/dff5eb38e3e9a08b9fad1e99f8cff68e_max_476x317.jpeg",
+      "url": "property-photo/dff5eb38e/171184220/dff5eb38e3e9a08b9fad1e99f8cff68e.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90d888a3c/171184220/90d888a3c7480fbfec6639579fe1dada_max_476x317.jpeg",
+      "url": "property-photo/90d888a3c/171184220/90d888a3c7480fbfec6639579fe1dada.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc1cdf9eb/171184220/dc1cdf9eb15cf5f0072a69654be95a5a_max_476x317.jpeg",
+      "url": "property-photo/dc1cdf9eb/171184220/dc1cdf9eb15cf5f0072a69654be95a5a.jpeg",
+      "caption": "Hallway"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-19T16:02:04Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 190457,
+    "brandPlusLogoURI": "/191k/190457/branch_rmchoice_logo_190457_0001.jpeg",
+    "contactTelephone": "020 3909 8950",
+    "branchDisplayName": "Star Estates & Lettings Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Star Estates & Lettings Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Star-Estates-and-Lettings-Ltd/London-190457.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T15:32:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/191k/190457/branch_rmchoice_logo_190457_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "FEES<br />\nSALES FEES<br />\nSole agency sales fee 1%<br />\nMultiple Agency Sales Fee 2%<br />\nLETTINGS FEE<br />\nLet and Management fee (monthly charged) 12%<br />\nMinimum Commission fee 2 weeks<br />\nINVENTORY CHECK IN/OUT.<br />\nINVENTORY FEE \u00a3150<br />\nCHECK OUT FEE \u00a3150<br />\nLANDLORDS ADDITIONAL CHARGES<br />\n? Gas safety check and certificate : \u00a380<br />\n? NIC EIC Electrical check & certificate \u00a3130<br />\n? Portable Appliances Test (PAT): \u00a3120<br />\n? Energy performance certificate (EPC) \u00a3120<br />\n? Fitting one battery smoke alarm \u00a3100<br />\n? Fitting additional battery smoke alarm (per alarm) \u00a340<br />\n? Fitting one battery CO2 alarm \u00a3100<br />\n? Reference admin fee(per tenant/Guarantor) \u00a360<br />\n? Legal immigration Right to Rent Check ( per tenant) \u00a310<br />\n? MyDeposits insured deposit/ re-protection and admin fee \u00a330<br />\n? Download of land registry proof of ownership \u00a315<br />\n? Let only renewal \u00a3300<br />\n? Chaps and International payments \u00a315<br />\n? Serve S21 Notice \u00a3100<br />\n? Serve",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171184220#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171184220",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-19T16:00:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-19T16:06:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 bed flat on 2 floors with a garden",
+      "htmlDescription": "2 bed flat on 2 floors with a garden"
+    },
+    {
+      "order": 2,
+      "description": "Spacious reception room",
+      "htmlDescription": "Spacious reception room"
+    },
+    {
+      "order": 3,
+      "description": "Modern kitchen design",
+      "htmlDescription": "Modern kitchen design"
+    },
+    {
+      "order": 4,
+      "description": "Private garden access",
+      "htmlDescription": "Private garden access"
+    },
+    {
+      "order": 5,
+      "description": "Two cosy bedrooms",
+      "htmlDescription": "Two cosy bedrooms"
+    },
+    {
+      "order": 6,
+      "description": "Contemporary bathroom",
+      "htmlDescription": "Contemporary bathroom"
+    },
+    {
+      "order": 7,
+      "description": "Flat on two floors",
+      "htmlDescription": "Flat on two floors"
+    },
+    {
+      "order": 8,
+      "description": "Built in 1960",
+      "htmlDescription": "Built in 1960"
+    },
+    {
+      "order": 9,
+      "description": "Near transport links",
+      "htmlDescription": "Near transport links"
+    },
+    {
+      "order": 10,
+      "description": "Viewing recommended",
+      "htmlDescription": "Viewing recommended"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5_max_476x317.jpeg",
+        "url": "property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fe7b8f0/171184220/65fe7b8f085d67f2e5f32ae6e8332e2d_max_476x317.jpeg",
+        "url": "property-photo/65fe7b8f0/171184220/65fe7b8f085d67f2e5f32ae6e8332e2d.jpeg",
+        "caption": "Terrace / Patio"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f5ed77c9/171184220/9f5ed77c97a2b60cea1c439a66ddd7e7_max_476x317.jpeg",
+        "url": "property-photo/9f5ed77c9/171184220/9f5ed77c97a2b60cea1c439a66ddd7e7.jpeg",
+        "caption": "Study"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dff5eb38e/171184220/dff5eb38e3e9a08b9fad1e99f8cff68e_max_476x317.jpeg",
+        "url": "property-photo/dff5eb38e/171184220/dff5eb38e3e9a08b9fad1e99f8cff68e.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90d888a3c/171184220/90d888a3c7480fbfec6639579fe1dada_max_476x317.jpeg",
+        "url": "property-photo/90d888a3c/171184220/90d888a3c7480fbfec6639579fe1dada.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc1cdf9eb/171184220/dc1cdf9eb15cf5f0072a69654be95a5a_max_476x317.jpeg",
+        "url": "property-photo/dc1cdf9eb/171184220/dc1cdf9eb15cf5f0072a69654be95a5a.jpeg",
+        "caption": "Hallway"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c6fbc38/171184220/d7c6fbc38a5a5a6deba8bd1c685ddaf5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Star Estates & Lettings Ltd, London",
+  "addedOrReduced": "Added on 19/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

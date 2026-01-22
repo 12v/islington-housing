@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-21T20:18:05.219195+00:00",
+  "postcode": "EC1M 5PX",
+  "id": 171155171,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "You'll love this charming Farringdon furnished one bedroom apartment with its modern decor, fully equipped kitchen, and beautiful living room with great views. Ideally located, you're close to all the best that London has to offer!",
+  "displayAddress": "Clerkenwell Road, London, EC1M",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52271,
+    "longitude": -0.10135
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b_max_476x317.jpeg",
+      "url": "property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e1a81039/171155171/3e1a81039c62bb54b75ccea570820ab5_max_476x317.jpeg",
+      "url": "property-photo/3e1a81039/171155171/3e1a81039c62bb54b75ccea570820ab5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7d006a30/171155171/b7d006a3001dde1635752407ee387b3f_max_476x317.jpeg",
+      "url": "property-photo/b7d006a30/171155171/b7d006a3001dde1635752407ee387b3f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ceb24b440/171155171/ceb24b4409f72a3ce36b215b8d36221f_max_476x317.jpeg",
+      "url": "property-photo/ceb24b440/171155171/ceb24b4409f72a3ce36b215b8d36221f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95cf34927/171155171/95cf34927bbeb5380c8ccb767edf0b0f_max_476x317.jpeg",
+      "url": "property-photo/95cf34927/171155171/95cf34927bbeb5380c8ccb767edf0b0f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f886952f/171155171/8f886952f467f3b45685eb6df31512d4_max_476x317.jpeg",
+      "url": "property-photo/8f886952f/171155171/8f886952f467f3b45685eb6df31512d4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df82fca75/171155171/df82fca75d9388d33c73a969306e654c_max_476x317.jpeg",
+      "url": "property-photo/df82fca75/171155171/df82fca75d9388d33c73a969306e654c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fdb24a13d/171155171/fdb24a13dca2cdc79292457904a635cf_max_476x317.jpeg",
+      "url": "property-photo/fdb24a13d/171155171/fdb24a13dca2cdc79292457904a635cf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8605518ac/171155171/8605518ac9b02eb37c8a1049982fd0ad_max_476x317.jpeg",
+      "url": "property-photo/8605518ac/171155171/8605518ac9b02eb37c8a1049982fd0ad.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8a93ada9/171155171/d8a93ada97b180096ff1ded4c0115048_max_476x317.jpeg",
+      "url": "property-photo/d8a93ada9/171155171/d8a93ada97b180096ff1ded4c0115048.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f29de1fc/171155171/0f29de1fc5aba11c292c58967c2fa784_max_476x317.jpeg",
+      "url": "property-photo/0f29de1fc/171155171/0f29de1fc5aba11c292c58967c2fa784.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48591aca6/171155171/48591aca682be796f018744696678489_max_476x317.jpeg",
+      "url": "property-photo/48591aca6/171155171/48591aca682be796f018744696678489.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-19T11:01:04Z"
+  },
+  "price": {
+    "amount": 3300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3762 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78429,
+    "brandPlusLogoURI": "/79k/78429/branch_rmchoice_logo_78429_0002.jpeg",
+    "contactTelephone": "020 3319 6480",
+    "branchDisplayName": "BLUEGROUND FURNISHED APARTMENTS UK LTD, London",
+    "branchName": "London",
+    "brandTradingName": "BLUEGROUND FURNISHED APARTMENTS UK LTD",
+    "branchLandingPageUrl": "/estate-agents/agent/BLUEGROUND-FURNISHED-APARTMENTS-UK-LTD/London-78429.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-02T14:11:59Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/79k/78429/branch_rmchoice_logo_78429_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "515 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171155171#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171155171",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-19T10:55:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-19T11:01:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Dishwasher",
+      "htmlDescription": "Dishwasher"
+    },
+    {
+      "order": 2,
+      "description": "Washer Dryer 2 in 1",
+      "htmlDescription": "Washer Dryer 2 in 1"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b_max_476x317.jpeg",
+        "url": "property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e1a81039/171155171/3e1a81039c62bb54b75ccea570820ab5_max_476x317.jpeg",
+        "url": "property-photo/3e1a81039/171155171/3e1a81039c62bb54b75ccea570820ab5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7d006a30/171155171/b7d006a3001dde1635752407ee387b3f_max_476x317.jpeg",
+        "url": "property-photo/b7d006a30/171155171/b7d006a3001dde1635752407ee387b3f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ceb24b440/171155171/ceb24b4409f72a3ce36b215b8d36221f_max_476x317.jpeg",
+        "url": "property-photo/ceb24b440/171155171/ceb24b4409f72a3ce36b215b8d36221f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95cf34927/171155171/95cf34927bbeb5380c8ccb767edf0b0f_max_476x317.jpeg",
+        "url": "property-photo/95cf34927/171155171/95cf34927bbeb5380c8ccb767edf0b0f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f886952f/171155171/8f886952f467f3b45685eb6df31512d4_max_476x317.jpeg",
+        "url": "property-photo/8f886952f/171155171/8f886952f467f3b45685eb6df31512d4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df82fca75/171155171/df82fca75d9388d33c73a969306e654c_max_476x317.jpeg",
+        "url": "property-photo/df82fca75/171155171/df82fca75d9388d33c73a969306e654c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fdb24a13d/171155171/fdb24a13dca2cdc79292457904a635cf_max_476x317.jpeg",
+        "url": "property-photo/fdb24a13d/171155171/fdb24a13dca2cdc79292457904a635cf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8605518ac/171155171/8605518ac9b02eb37c8a1049982fd0ad_max_476x317.jpeg",
+        "url": "property-photo/8605518ac/171155171/8605518ac9b02eb37c8a1049982fd0ad.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8a93ada9/171155171/d8a93ada97b180096ff1ded4c0115048_max_476x317.jpeg",
+        "url": "property-photo/d8a93ada9/171155171/d8a93ada97b180096ff1ded4c0115048.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f29de1fc/171155171/0f29de1fc5aba11c292c58967c2fa784_max_476x317.jpeg",
+        "url": "property-photo/0f29de1fc/171155171/0f29de1fc5aba11c292c58967c2fa784.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48591aca6/171155171/48591aca682be796f018744696678489_max_476x317.jpeg",
+        "url": "property-photo/48591aca6/171155171/48591aca682be796f018744696678489.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c74e6196a/171155171/c74e6196a3831bc549a920b23584793b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by BLUEGROUND FURNISHED APARTMENTS UK LTD, London",
+  "addedOrReduced": "Added on 19/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

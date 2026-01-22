@@ -1,0 +1,136 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-21T22:08:19.231196+00:00",
+  "postcode": "N1 7BA",
+  "id": 171266525,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 0,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Social housing Property. Adapted one bed self contained flat. Wheelchair adapted property with level access shower room",
+  "displayAddress": "Arlington Avenue, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53445,
+    "longitude": -0.09351
+  },
+  "images": [],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-21T17:35:05Z"
+  },
+  "price": {
+    "amount": 205,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3888 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3205 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 214244,
+    "brandPlusLogoURI": "/215k/214244/branch_rmchoice_logo_214244_0000.jpeg",
+    "contactTelephone": "01243 210317",
+    "branchDisplayName": "The Hyde Group, The Hyde Group - Sussex",
+    "branchName": "The Hyde Group - Sussex",
+    "brandTradingName": "The Hyde Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Hyde-Group/The-Hyde-Group---Sussex-214244.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-23T14:22:36Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/215k/214244/branch_rmchoice_logo_214244_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": false,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171266525#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171266525",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-21T17:29:49Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-21T17:59:29Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Door entry system",
+      "htmlDescription": "Door entry system"
+    },
+    {
+      "order": 2,
+      "description": "self contained",
+      "htmlDescription": "self contained"
+    },
+    {
+      "order": 3,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [],
+    "mainImageSrc": "",
+    "mainMapImageSrc": ""
+  },
+  "formattedBranchName": " by The Hyde Group, The Hyde Group - Sussex",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
