@@ -1,0 +1,183 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-22T23:55:59.711795+00:00",
+  "postcode": "N7 0BH",
+  "id": 171219620,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-proportioned three-bedroom apartment located on Rowstock Gardens, N7, arranged over two floors and offering practical, well-balanced accommodation throughout.",
+  "displayAddress": "Rowstock Gardens, Holloway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54983,
+    "longitude": -0.12719
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04_max_476x317.jpeg",
+      "url": "property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-20T13:09:04Z"
+  },
+  "price": {
+    "amount": 3400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3785 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 102122,
+    "brandPlusLogoURI": "/103k/102122/branch_rmchoice_logo_102122_0000.jpeg",
+    "contactTelephone": "020 3834 8137",
+    "branchDisplayName": "Alex Crown Lettings & Estate Agents, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Alex Crown Lettings & Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Crown-Lettings-and-Estate-Agents/Islington-102122.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-06T10:09:06Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/103k/102122/branch_rmchoice_logo_102122_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3784.62) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a33923.08) \n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n\nAlex Crown Lettings & Estate Agents is a member of PI+CMP which is a client money protection scheme, and also a member of The Property Ombudsman which is a redress scheme.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171219620#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171219620",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-20T13:03:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-20T13:10:42Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three bedroom apartment arranged over two floors",
+      "htmlDescription": "Three bedroom apartment arranged over two floors"
+    },
+    {
+      "order": 2,
+      "description": "Located on Rowstock Gardens, N7",
+      "htmlDescription": "Located on Rowstock Gardens, N7"
+    },
+    {
+      "order": 3,
+      "description": "Two double bedrooms and one single bedroom",
+      "htmlDescription": "Two double bedrooms and one single bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Separate living room with access to a private balcony",
+      "htmlDescription": "Separate living room with access to a private balcony"
+    },
+    {
+      "order": 5,
+      "description": "Separate fitted kitchen",
+      "htmlDescription": "Separate fitted kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Wooden flooring throughout the ground floor",
+      "htmlDescription": "Wooden flooring throughout the ground floor"
+    },
+    {
+      "order": 7,
+      "description": "Bathroom with bath and wash basin",
+      "htmlDescription": "Bathroom with bath and wash basin"
+    },
+    {
+      "order": 8,
+      "description": "Separate WC",
+      "htmlDescription": "Separate WC"
+    },
+    {
+      "order": 9,
+      "description": "Well-balanced layout over two levels",
+      "htmlDescription": "Well-balanced layout over two levels"
+    },
+    {
+      "order": 10,
+      "description": "Good natural light throughout",
+      "htmlDescription": "Good natural light throughout"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04_max_476x317.jpeg",
+        "url": "property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b27ecc1de/171219620/b27ecc1dedb962fc75679da1df8e1d04_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Crown Lettings & Estate Agents, Islington",
+  "addedOrReduced": "Added on 20/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
