@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-24T00:05:15.040027+00:00",
+  "postcode": "N7 6BL",
+  "id": 171287027,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "One bedroom flat located in Axminster Road N7 close to a superb selection of shops and amenities on Holloway Road with an even more comprehensive range of trendy bars and restaurants on the popular Upper Street. Holloway Road Underground Station is nearby.",
+  "displayAddress": "Axminster Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55975,
+    "longitude": -0.11727
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94_max_476x317.jpeg",
+      "url": "property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0303d5a4f/171287027/0303d5a4f2f0d4e99be5f64dcec1d580_max_476x317.jpeg",
+      "url": "property-photo/0303d5a4f/171287027/0303d5a4f2f0d4e99be5f64dcec1d580.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6745a4154/171287027/6745a4154781bda226d3273e35b8edb4_max_476x317.jpeg",
+      "url": "property-photo/6745a4154/171287027/6745a4154781bda226d3273e35b8edb4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b69ff36b0/171287027/b69ff36b04dd44789e19e7e4ae8ea5da_max_476x317.jpeg",
+      "url": "property-photo/b69ff36b0/171287027/b69ff36b04dd44789e19e7e4ae8ea5da.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56ac0cb1c/171287027/56ac0cb1cef3c5566ba3ec4db3c7ed03_max_476x317.jpeg",
+      "url": "property-photo/56ac0cb1c/171287027/56ac0cb1cef3c5566ba3ec4db3c7ed03.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6be1750e8/171287027/6be1750e82448e08392ea729c14a2643_max_476x317.jpeg",
+      "url": "property-photo/6be1750e8/171287027/6be1750e82448e08392ea729c14a2643.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-22T10:18:04Z"
+  },
+  "price": {
+    "amount": 1900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3438 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 58151,
+    "brandPlusLogoURI": "/company/clogo_13940_0000.jpg",
+    "contactTelephone": "020 3889 5238",
+    "branchDisplayName": "NEWAY ESTATE AGENTS, Hampden Square",
+    "branchName": "Hampden Square",
+    "brandTradingName": "NEWAY ESTATE AGENTS",
+    "branchLandingPageUrl": "/estate-agents/agent/NEWAY-ESTATE-AGENTS/Hampden-Square-58151.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-02-14T11:14:07Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_13940_0000.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171287027#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171287027",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-22T10:12:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-22T10:18:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94_max_476x317.jpeg",
+        "url": "property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0303d5a4f/171287027/0303d5a4f2f0d4e99be5f64dcec1d580_max_476x317.jpeg",
+        "url": "property-photo/0303d5a4f/171287027/0303d5a4f2f0d4e99be5f64dcec1d580.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6745a4154/171287027/6745a4154781bda226d3273e35b8edb4_max_476x317.jpeg",
+        "url": "property-photo/6745a4154/171287027/6745a4154781bda226d3273e35b8edb4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b69ff36b0/171287027/b69ff36b04dd44789e19e7e4ae8ea5da_max_476x317.jpeg",
+        "url": "property-photo/b69ff36b0/171287027/b69ff36b04dd44789e19e7e4ae8ea5da.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56ac0cb1c/171287027/56ac0cb1cef3c5566ba3ec4db3c7ed03_max_476x317.jpeg",
+        "url": "property-photo/56ac0cb1c/171287027/56ac0cb1cef3c5566ba3ec4db3c7ed03.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6be1750e8/171287027/6be1750e82448e08392ea729c14a2643_max_476x317.jpeg",
+        "url": "property-photo/6be1750e8/171287027/6be1750e82448e08392ea729c14a2643.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44951ac34/171287027/44951ac34ed53a8746546970eecd1f94_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NEWAY ESTATE AGENTS, Hampden Square",
+  "addedOrReduced": "Added on 22/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

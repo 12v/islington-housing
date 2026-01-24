@@ -1,0 +1,217 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-23T20:43:47.331426+00:00",
+  "postcode": "EC1V 2AG",
+  "id": 171262952,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Beautifully presented, BRIGHT one double bedroom apartment located in the sought after luxury development 250 City Road, EC1V. Located in a prime location close to both Angel & Old Street stations, The City and Shoreditch. 250 City Road is a landmark development designed by wo...",
+  "displayAddress": "Carrara Tower, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5292,
+    "longitude": -0.09676
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2_max_476x317.jpeg",
+      "url": "property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb487c85/171262952/5bb487c851935b27278a5028cc8e0a4a_max_476x317.jpeg",
+      "url": "property-photo/5bb487c85/171262952/5bb487c851935b27278a5028cc8e0a4a.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ea2663c4/171262952/6ea2663c4a54efa86b0640e5b2e0aad5_max_476x317.jpeg",
+      "url": "property-photo/6ea2663c4/171262952/6ea2663c4a54efa86b0640e5b2e0aad5.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3bd03a64/171262952/f3bd03a64490cfa29c9965fcea162a6f_max_476x317.jpeg",
+      "url": "property-photo/f3bd03a64/171262952/f3bd03a64490cfa29c9965fcea162a6f.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/682db987e/171262952/682db987ed3511d53e73c1d9b5d23efe_max_476x317.jpeg",
+      "url": "property-photo/682db987e/171262952/682db987ed3511d53e73c1d9b5d23efe.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/115e4393e/171262952/115e4393e2a748d3605a718b209aaebd_max_476x317.jpeg",
+      "url": "property-photo/115e4393e/171262952/115e4393e2a748d3605a718b209aaebd.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/977501ee5/171262952/977501ee56a621e0201838d8fa327b0e_max_476x317.jpeg",
+      "url": "property-photo/977501ee5/171262952/977501ee56a621e0201838d8fa327b0e.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d918f728d/171262952/d918f728d28e4c9011be3aa4d71a332f_max_476x317.jpeg",
+      "url": "property-photo/d918f728d/171262952/d918f728d28e4c9011be3aa4d71a332f.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f9f1960b/171262952/6f9f1960b7d82418f5bd45dcf4b89506_max_476x317.jpeg",
+      "url": "property-photo/6f9f1960b/171262952/6f9f1960b7d82418f5bd45dcf4b89506.jpeg",
+      "caption": "Picture No. 04"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-21T15:52:03Z"
+  },
+  "price": {
+    "amount": 3200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3738 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 163088,
+    "brandPlusLogoURI": "/164k/163088/branch_rmchoice_logo_163088_0000.jpeg",
+    "contactTelephone": "020 3909 8922",
+    "branchDisplayName": "Fraser & Co, Shoreditch",
+    "branchName": "Shoreditch",
+    "brandTradingName": "Fraser & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Fraser-and-Co/Shoreditch-163088.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-04T12:25:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/164k/163088/branch_rmchoice_logo_163088_0000.jpeg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<b>Letting fees information   Permitted Payments</b><br />  \r<b>New Assured Shorthold Tenancies (AST's) signed on or after 1st June 2019</b><br /><br /> \r\rThe following charges are payable or potentially payable by a tenant:<br /> \r- Holding deposit - A maximum of one week's rent<br />\r- Security deposit - Five weeks' rent, rising to six week's rent when the annual rent is in excess of \u00a350,000<br />\r- Rent and Utility bills - Payable as outlined in the Tenancy Agreement<br />\r- Unpaid rent - Interest at 3% above the Bank of England base rate when the rent is late by 14 days, as outlined in the Tenancy Agreement<br />\r- Lost Keys - Tenants are liable for the cost of replacing any lost keys or security device, including a change of lock or replacement of device if required<br />\r- Amendments of Tenancy Agreement at Tenant's Request - \u00a350 per change<br />\r- Early Surrender of the AST at Tenant's Request - Should a tenant need to surrender the tenancy early and the Landlord agrees to re-let the property, the liability for the payment of rent will end once a new tenant is found and takes up occupation. However, the tenant will still need to cover the Landlord's costs in surrendering the tenancy and re-letting the property<br /><br />\r\r<b>Non AST's signed on or after 1st June 2019<b><br />\r\rFor any individual tenant not renting a property under an Assured Shorthold Tenancy the following charges are also payable:<br />\r- Tenancy Administration charge - \u00a3200 per tenancy<br />\r- Reference charge - \u00a360 per tenant or guarantor<br />\r- Check out charge - \u00a3100 - \u00a3250 per tenancy depending on size and if furnished/unfurnished<br /> \r- Renewal charge - \u00a3100 per renewal<br /><br />\r\r<b>If a tenant decides to rent a property through us in the name of a business or company the tenancy administration and reference charge will be \u00a3200 for a new tenancy and \u00a3100 for every renewal.</b><br /><br />\r\rAll prices are inclusive of VAT.<br /><br />\r\rAs a member of The Property Ombudsman (TPO) for sales and lettings we subscribe to TPO s Codes of Practice. This Government approved independent redress scheme gives consumers additional protection beyond that required by law. Our clients have peace of mind that there is free and fair redress available in the unlikely event of an unresolved dispute involving our agency.<br /><br />\r\rAs regulated members of Safe Agent this means that any monies we hold is insured. This gives our clients peace of mind and financial protection that their money will always be safe in our hands.</b></b>",
+  "displaySize": "683 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171262952#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171262952",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-21T15:46:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-21T15:52:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2_max_476x317.jpeg",
+        "url": "property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb487c85/171262952/5bb487c851935b27278a5028cc8e0a4a_max_476x317.jpeg",
+        "url": "property-photo/5bb487c85/171262952/5bb487c851935b27278a5028cc8e0a4a.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ea2663c4/171262952/6ea2663c4a54efa86b0640e5b2e0aad5_max_476x317.jpeg",
+        "url": "property-photo/6ea2663c4/171262952/6ea2663c4a54efa86b0640e5b2e0aad5.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3bd03a64/171262952/f3bd03a64490cfa29c9965fcea162a6f_max_476x317.jpeg",
+        "url": "property-photo/f3bd03a64/171262952/f3bd03a64490cfa29c9965fcea162a6f.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/682db987e/171262952/682db987ed3511d53e73c1d9b5d23efe_max_476x317.jpeg",
+        "url": "property-photo/682db987e/171262952/682db987ed3511d53e73c1d9b5d23efe.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/115e4393e/171262952/115e4393e2a748d3605a718b209aaebd_max_476x317.jpeg",
+        "url": "property-photo/115e4393e/171262952/115e4393e2a748d3605a718b209aaebd.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/977501ee5/171262952/977501ee56a621e0201838d8fa327b0e_max_476x317.jpeg",
+        "url": "property-photo/977501ee5/171262952/977501ee56a621e0201838d8fa327b0e.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d918f728d/171262952/d918f728d28e4c9011be3aa4d71a332f_max_476x317.jpeg",
+        "url": "property-photo/d918f728d/171262952/d918f728d28e4c9011be3aa4d71a332f.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f9f1960b/171262952/6f9f1960b7d82418f5bd45dcf4b89506_max_476x317.jpeg",
+        "url": "property-photo/6f9f1960b/171262952/6f9f1960b7d82418f5bd45dcf4b89506.jpeg",
+        "caption": "Picture No. 04"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcb49860/171262952/1bcb49860a639a1c246dff37aa5f2fe2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Fraser & Co, Shoreditch",
+  "addedOrReduced": "Added on 21/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
