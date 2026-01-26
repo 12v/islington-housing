@@ -1,0 +1,393 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-25T22:28:01.373285+00:00",
+  "postcode": "N1 9FT",
+  "id": 171358418,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 22,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A superb modern apartment boasting a large south-facing balcony and access to exceptional residents' amenities including a pool and cinema. Perfectly located between Angel and Kings Cross for an unrivalled London lifestyle.",
+  "displayAddress": "Eyre Court, Kings Cross, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53149,
+    "longitude": -0.11365
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330_max_476x317.jpeg",
+      "url": "property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330.jpeg",
+      "caption": "DSC_2853_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/deff0336a/171358418/deff0336acfb739c37ed7d2e1432a801_max_476x317.jpeg",
+      "url": "property-photo/deff0336a/171358418/deff0336acfb739c37ed7d2e1432a801.jpeg",
+      "caption": "DSC_2845_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/194da3d04/171358418/194da3d04f693e639853089d44e76415_max_476x317.jpeg",
+      "url": "property-photo/194da3d04/171358418/194da3d04f693e639853089d44e76415.jpeg",
+      "caption": "DSC_2877_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c6f9595/171358418/e0c6f9595ee71f78062ee5663e0c76fb_max_476x317.jpeg",
+      "url": "property-photo/e0c6f9595/171358418/e0c6f9595ee71f78062ee5663e0c76fb.jpeg",
+      "caption": "DSC_2866_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a9a337f5/171358418/4a9a337f5021385bc268174b129b435e_max_476x317.jpeg",
+      "url": "property-photo/4a9a337f5/171358418/4a9a337f5021385bc268174b129b435e.jpeg",
+      "caption": "DSC_2869_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/955a0ad62/171358418/955a0ad62c050c69ec9eb6db399449a8_max_476x317.jpeg",
+      "url": "property-photo/955a0ad62/171358418/955a0ad62c050c69ec9eb6db399449a8.jpeg",
+      "caption": "DSC_2889_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6906632d/171358418/b6906632d02037ed9005166215e79162_max_476x317.jpeg",
+      "url": "property-photo/b6906632d/171358418/b6906632d02037ed9005166215e79162.jpeg",
+      "caption": "DSC_2897_A_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c86a85b/171358418/33c86a85bb1c92d003fddf5c6f6bd8c6_max_476x317.jpeg",
+      "url": "property-photo/33c86a85b/171358418/33c86a85bb1c92d003fddf5c6f6bd8c6.jpeg",
+      "caption": "DSC_2848_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34014b321/171358418/34014b321a64aad464b0b2a329020dd5_max_476x317.jpeg",
+      "url": "property-photo/34014b321/171358418/34014b321a64aad464b0b2a329020dd5.jpeg",
+      "caption": "DSC_2840_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77ebab303/171358418/77ebab30302ea62d10b1d3dc19bf0c94_max_476x317.jpeg",
+      "url": "property-photo/77ebab303/171358418/77ebab30302ea62d10b1d3dc19bf0c94.jpeg",
+      "caption": "DSC_2833_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09046f3eb/171358418/09046f3eb74b26bad2bf48fc0d43169f_max_476x317.jpeg",
+      "url": "property-photo/09046f3eb/171358418/09046f3eb74b26bad2bf48fc0d43169f.jpeg",
+      "caption": "DSC_2882_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/691c783cf/171358418/691c783cfd08f3833dc1dfa132032d5b_max_476x317.jpeg",
+      "url": "property-photo/691c783cf/171358418/691c783cfd08f3833dc1dfa132032d5b.jpeg",
+      "caption": "DSC_2886_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/098e17d95/171358418/098e17d95705a82218452be0a40d49c2_max_476x317.jpeg",
+      "url": "property-photo/098e17d95/171358418/098e17d95705a82218452be0a40d49c2.jpeg",
+      "caption": "DSC_2862_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7cf17b409/171358418/7cf17b409a66755a903c720634c8743a_max_476x317.jpeg",
+      "url": "property-photo/7cf17b409/171358418/7cf17b409a66755a903c720634c8743a.jpeg",
+      "caption": "DSC_2897_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4aa16cdea/171358418/4aa16cdea39dc51c6e695ee1e39ad096_max_476x317.jpeg",
+      "url": "property-photo/4aa16cdea/171358418/4aa16cdea39dc51c6e695ee1e39ad096.jpeg",
+      "caption": "DSC_2893_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57934030d/171358418/57934030d8f9c4005d4ccac5342059f5_max_476x317.jpeg",
+      "url": "property-photo/57934030d/171358418/57934030d8f9c4005d4ccac5342059f5.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4449211c7/171358418/4449211c75aa3c8e1018598ed17a1578_max_476x317.jpeg",
+      "url": "property-photo/4449211c7/171358418/4449211c75aa3c8e1018598ed17a1578.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c61dfbe45/171358418/c61dfbe450051afd76ff9a94683d0e95_max_476x317.jpeg",
+      "url": "property-photo/c61dfbe45/171358418/c61dfbe450051afd76ff9a94683d0e95.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f657edb5/171358418/1f657edb5a1db8f2ccc8215b05e3060d_max_476x317.jpeg",
+      "url": "property-photo/1f657edb5/171358418/1f657edb5a1db8f2ccc8215b05e3060d.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b25fd2b/171358418/e8b25fd2baf5cc9125cc40120a4181ff_max_476x317.jpeg",
+      "url": "property-photo/e8b25fd2b/171358418/e8b25fd2baf5cc9125cc40120a4181ff.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11065382/171358418/d1106538295472bb854ac4d3e0c33968_max_476x317.jpeg",
+      "url": "property-photo/d11065382/171358418/d1106538295472bb854ac4d3e0c33968.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dad58a15b/171358418/dad58a15b5ba707f7ec27f766be36059_max_476x317.jpeg",
+      "url": "property-photo/dad58a15b/171358418/dad58a15b5ba707f7ec27f766be36059.jpeg",
+      "caption": "Picture No. 09"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-26T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-23T12:05:03Z"
+  },
+  "price": {
+    "amount": 935,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,052 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3935 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 212384,
+    "brandPlusLogoURI": "/213k/212384/branch_rmchoice_logo_212384_0000.png",
+    "contactTelephone": "020 3889 9029",
+    "branchDisplayName": "JLL, The City, Central London",
+    "branchName": "The City, Central London",
+    "brandTradingName": "JLL",
+    "branchLandingPageUrl": "/estate-agents/agent/JLL/The-City-Central-London-212384.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-19T15:44:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/213k/212384/branch_rmchoice_logo_212384_0000.png",
+    "primaryBrandColour": "#e0c6ad"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "JLL Tenant Fee Charges in England\n \nCharges for an Assured Shorthold Tenancy (AST):\n \tHolding deposit: One weeks  rent per tenancy\n \tSecurity Deposit: 5 weeks  rent for tenancies up to \u00a350,000 per year. 6 weeks  rent for tenancies over \u00a350,000 per year\n \tUnpaid rent: Interest at 3% above the bank of England base rate where rent is more than 14 days in arrears\n \tLost keys or security devices   Actual cost of replacement\n \tVariation of Contract (Tenant Request): \u00a350 per agreed variation\n \tChange of Sharer (Tenant Request): \u00a350 per replacement tenant or any reasonable costs incurred if higher\n \tEarly Termination (Tenant Request): Tenants will be liable for the Landlord s costs in re-letting the property, as well as rent due under the tenancy until the start date of the replacement tenancy. The costs will be no more than the maximum amount of rent outstanding on the tenancy\n \tStamp Duty: Only applicable to tenancies over \u00a3125,000\n \nCharges for a Non-Housing Act Tenancy\n \tHolding deposit: One weeks  rent per tenancy\n \tSecurity Deposit: 6 weeks  rent per tenancy\n \tTenant and Guarantor Referencing Fee: \u00a360 per tenant / guarantor\n \tTenancy and Paperwork Preparation Fee: \u00a3480 per tenancy\n \tInventory Check-In Fee: A maximum of \u00a3208.80, determined by the size of the property\n \tAmendment Fee: \u00a3480 per amendment (if applicable)\n \tLate Payments and Standing Orders: \u00a360 per late payment\n \tUnpaid Rent: Interest at 3% above the base rate of the Bank of England from due date\n \tRenewal Fee: \u00a3250 per renewal\n \tEarly Termination (Tenant Request): \u00a3480 per tenancy. Tenants will also be liable for the Landlord s costs in re-letting the property, as well as rent due under the tenancy until the start date of the replacement tenancy\n \tEnd of Tenancy Clean: A maximum of \u00a3720, determined by the size and condition of the property\n \tStamp Duty: Only applicable to tenancies over \u00a3125,000\n \n(all prices shown above include VAT)\n \nDuring the tenancy you will also be responsible for paying charges for:\n \tCouncil Tax\n \tUtilities (gas, electric, water)\n \tContents insurance\n \tBroadband\n \tTelevision licence\n \tCable/satellite providers\n \tParking permits\n \nClient money protection scheme:  JLL is regulated by RICS and a member of the RICS Client Money Protection Scheme.\nRedress scheme:  JLL s redress scheme is operated by The Property Ombudsman Limited   further details are available on The Property Ombudsman website.\n",
+  "displaySize": "892 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171358418#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171358418",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-23T11:59:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-23T12:05:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two modern bathrooms",
+      "htmlDescription": "Two modern bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Large south-facing balcony",
+      "htmlDescription": "Large south-facing balcony"
+    },
+    {
+      "order": 4,
+      "description": "Residents' gymnasium",
+      "htmlDescription": "Residents' gymnasium"
+    },
+    {
+      "order": 5,
+      "description": "Residents' swimming pool",
+      "htmlDescription": "Residents' swimming pool"
+    },
+    {
+      "order": 6,
+      "description": "Private cinema room",
+      "htmlDescription": "Private cinema room"
+    },
+    {
+      "order": 7,
+      "description": "24-hour concierge",
+      "htmlDescription": "24-hour concierge"
+    },
+    {
+      "order": 8,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 9,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 10,
+      "description": "Close to Angel and Kings Cross",
+      "htmlDescription": "Close to Angel and Kings Cross"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330_max_476x317.jpeg",
+        "url": "property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330.jpeg",
+        "caption": "DSC_2853_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/deff0336a/171358418/deff0336acfb739c37ed7d2e1432a801_max_476x317.jpeg",
+        "url": "property-photo/deff0336a/171358418/deff0336acfb739c37ed7d2e1432a801.jpeg",
+        "caption": "DSC_2845_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/194da3d04/171358418/194da3d04f693e639853089d44e76415_max_476x317.jpeg",
+        "url": "property-photo/194da3d04/171358418/194da3d04f693e639853089d44e76415.jpeg",
+        "caption": "DSC_2877_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c6f9595/171358418/e0c6f9595ee71f78062ee5663e0c76fb_max_476x317.jpeg",
+        "url": "property-photo/e0c6f9595/171358418/e0c6f9595ee71f78062ee5663e0c76fb.jpeg",
+        "caption": "DSC_2866_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a9a337f5/171358418/4a9a337f5021385bc268174b129b435e_max_476x317.jpeg",
+        "url": "property-photo/4a9a337f5/171358418/4a9a337f5021385bc268174b129b435e.jpeg",
+        "caption": "DSC_2869_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/955a0ad62/171358418/955a0ad62c050c69ec9eb6db399449a8_max_476x317.jpeg",
+        "url": "property-photo/955a0ad62/171358418/955a0ad62c050c69ec9eb6db399449a8.jpeg",
+        "caption": "DSC_2889_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6906632d/171358418/b6906632d02037ed9005166215e79162_max_476x317.jpeg",
+        "url": "property-photo/b6906632d/171358418/b6906632d02037ed9005166215e79162.jpeg",
+        "caption": "DSC_2897_A_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c86a85b/171358418/33c86a85bb1c92d003fddf5c6f6bd8c6_max_476x317.jpeg",
+        "url": "property-photo/33c86a85b/171358418/33c86a85bb1c92d003fddf5c6f6bd8c6.jpeg",
+        "caption": "DSC_2848_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34014b321/171358418/34014b321a64aad464b0b2a329020dd5_max_476x317.jpeg",
+        "url": "property-photo/34014b321/171358418/34014b321a64aad464b0b2a329020dd5.jpeg",
+        "caption": "DSC_2840_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77ebab303/171358418/77ebab30302ea62d10b1d3dc19bf0c94_max_476x317.jpeg",
+        "url": "property-photo/77ebab303/171358418/77ebab30302ea62d10b1d3dc19bf0c94.jpeg",
+        "caption": "DSC_2833_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09046f3eb/171358418/09046f3eb74b26bad2bf48fc0d43169f_max_476x317.jpeg",
+        "url": "property-photo/09046f3eb/171358418/09046f3eb74b26bad2bf48fc0d43169f.jpeg",
+        "caption": "DSC_2882_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/691c783cf/171358418/691c783cfd08f3833dc1dfa132032d5b_max_476x317.jpeg",
+        "url": "property-photo/691c783cf/171358418/691c783cfd08f3833dc1dfa132032d5b.jpeg",
+        "caption": "DSC_2886_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/098e17d95/171358418/098e17d95705a82218452be0a40d49c2_max_476x317.jpeg",
+        "url": "property-photo/098e17d95/171358418/098e17d95705a82218452be0a40d49c2.jpeg",
+        "caption": "DSC_2862_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7cf17b409/171358418/7cf17b409a66755a903c720634c8743a_max_476x317.jpeg",
+        "url": "property-photo/7cf17b409/171358418/7cf17b409a66755a903c720634c8743a.jpeg",
+        "caption": "DSC_2897_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4aa16cdea/171358418/4aa16cdea39dc51c6e695ee1e39ad096_max_476x317.jpeg",
+        "url": "property-photo/4aa16cdea/171358418/4aa16cdea39dc51c6e695ee1e39ad096.jpeg",
+        "caption": "DSC_2893_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57934030d/171358418/57934030d8f9c4005d4ccac5342059f5_max_476x317.jpeg",
+        "url": "property-photo/57934030d/171358418/57934030d8f9c4005d4ccac5342059f5.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4449211c7/171358418/4449211c75aa3c8e1018598ed17a1578_max_476x317.jpeg",
+        "url": "property-photo/4449211c7/171358418/4449211c75aa3c8e1018598ed17a1578.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c61dfbe45/171358418/c61dfbe450051afd76ff9a94683d0e95_max_476x317.jpeg",
+        "url": "property-photo/c61dfbe45/171358418/c61dfbe450051afd76ff9a94683d0e95.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f657edb5/171358418/1f657edb5a1db8f2ccc8215b05e3060d_max_476x317.jpeg",
+        "url": "property-photo/1f657edb5/171358418/1f657edb5a1db8f2ccc8215b05e3060d.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b25fd2b/171358418/e8b25fd2baf5cc9125cc40120a4181ff_max_476x317.jpeg",
+        "url": "property-photo/e8b25fd2b/171358418/e8b25fd2baf5cc9125cc40120a4181ff.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11065382/171358418/d1106538295472bb854ac4d3e0c33968_max_476x317.jpeg",
+        "url": "property-photo/d11065382/171358418/d1106538295472bb854ac4d3e0c33968.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dad58a15b/171358418/dad58a15b5ba707f7ec27f766be36059_max_476x317.jpeg",
+        "url": "property-photo/dad58a15b/171358418/dad58a15b5ba707f7ec27f766be36059.jpeg",
+        "caption": "Picture No. 09"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81cc6cf35/171358418/81cc6cf3514e2d5de99c56600ff9b330_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by JLL, The City, Central London",
+  "addedOrReduced": "Added on 23/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
