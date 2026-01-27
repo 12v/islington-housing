@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-26T21:51:25.042346+00:00",
+  "postcode": "N1 2NA",
+  "id": 171429443,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "One bedroom flat to rent in Highbury & Islington. A smart, modern one-bedroom first-floor flat available to rent, ideally situated above commercial premises",
+  "displayAddress": "99 St Pauls Road, Highbury, Islington",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.546033,
+    "longitude": -0.101722
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08_max_476x317.jpeg",
+      "url": "property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08.jpeg",
+      "caption": "Picture 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7056b03be/171429443/7056b03be2969bbd9f29a024309235d9_max_476x317.jpeg",
+      "url": "property-photo/7056b03be/171429443/7056b03be2969bbd9f29a024309235d9.jpeg",
+      "caption": "Picture 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0745bbd/171429443/fb0745bbd8868d06870dfc9ee38fb06f_max_476x317.jpeg",
+      "url": "property-photo/fb0745bbd/171429443/fb0745bbd8868d06870dfc9ee38fb06f.jpeg",
+      "caption": "Picture 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05b496d64/171429443/05b496d6461d7088b06929a77b2ea800_max_476x317.jpeg",
+      "url": "property-photo/05b496d64/171429443/05b496d6461d7088b06929a77b2ea800.jpeg",
+      "caption": "Picture 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7aacaceac/171429443/7aacaceacdb9003f5f03b162679c26d5_max_476x317.jpeg",
+      "url": "property-photo/7aacaceac/171429443/7aacaceacdb9003f5f03b162679c26d5.jpeg",
+      "caption": "Picture 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/062421982/171429443/062421982a0f2f254839f39b2e7f8fd8_max_476x317.jpeg",
+      "url": "property-photo/062421982/171429443/062421982a0f2f254839f39b2e7f8fd8.jpeg",
+      "caption": "Picture 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84685512d/171429443/84685512df49f71bfbefe073ed517931_max_476x317.jpeg",
+      "url": "property-photo/84685512d/171429443/84685512df49f71bfbefe073ed517931.jpeg",
+      "caption": "Picture 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1cbc22ec/171429443/d1cbc22eca95c521d3dd37330e28201a_max_476x317.jpeg",
+      "url": "property-photo/d1cbc22ec/171429443/d1cbc22eca95c521d3dd37330e28201a.jpeg",
+      "caption": "Picture 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/059b4a01b/171429443/059b4a01b355e5d14e9973d783fdae58_max_476x317.jpeg",
+      "url": "property-photo/059b4a01b/171429443/059b4a01b355e5d14e9973d783fdae58.jpeg",
+      "caption": "Picture 9"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T10:00:11Z"
+  },
+  "price": {
+    "amount": 450,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54010,
+    "brandPlusLogoURI": "/company/clogo_21334_0000.jpg",
+    "contactTelephone": "020 3907 2926",
+    "branchDisplayName": "Pearl & Coutts, London",
+    "branchName": "London",
+    "brandTradingName": "Pearl & Coutts",
+    "branchLandingPageUrl": "/estate-agents/agent/Pearl-and-Coutts/London-54010.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-16T09:24:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_21334_0000.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><u>Permitted payments</u><br />Before the tenancy starts, payable to Pearl & Coutts.<br />Holding Deposit: 1 week's rent.<br />Deposit: 5 weeks' rent on all tenancies up to \u00a350,000 per annum. 6 weeks' rent on any tenancy over \u00a350,000 per annum.<br /><br /><u>Tenant protection</u><br />Pearl & Coutts is a member of <b>Client Money Protect</b> and <b>My Deposits</b>, which are money protection schemes, and also a member of <b>The Property Redress Scheme (PRS)</b>.<br />You can find out more details on the About Us page on the Pearl & Coutts' website.</p>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171429443#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171429443",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-26T09:46:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-26T09:52:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Central Heating",
+      "htmlDescription": "Central Heating"
+    },
+    {
+      "order": 2,
+      "description": "Double Glazing",
+      "htmlDescription": " Double Glazing"
+    },
+    {
+      "order": 3,
+      "description": "Entry Phone System",
+      "htmlDescription": " Entry Phone System"
+    },
+    {
+      "order": 4,
+      "description": "Excellent Transport Links",
+      "htmlDescription": " Excellent Transport Links"
+    },
+    {
+      "order": 5,
+      "description": "Hard Wood Flooring In Living Room",
+      "htmlDescription": " Hard Wood Flooring In Living Room"
+    },
+    {
+      "order": 6,
+      "description": "High Quality Carpet in Bedroom",
+      "htmlDescription": " High Quality Carpet in Bedroom"
+    },
+    {
+      "order": 7,
+      "description": "Separate Bathroom",
+      "htmlDescription": " Separate Bathroom"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance From Station",
+      "htmlDescription": " Walking Distance From Station"
+    },
+    {
+      "order": 9,
+      "description": "Wooden Floors",
+      "htmlDescription": " Wooden Floors"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08_max_476x317.jpeg",
+        "url": "property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08.jpeg",
+        "caption": "Picture 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7056b03be/171429443/7056b03be2969bbd9f29a024309235d9_max_476x317.jpeg",
+        "url": "property-photo/7056b03be/171429443/7056b03be2969bbd9f29a024309235d9.jpeg",
+        "caption": "Picture 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0745bbd/171429443/fb0745bbd8868d06870dfc9ee38fb06f_max_476x317.jpeg",
+        "url": "property-photo/fb0745bbd/171429443/fb0745bbd8868d06870dfc9ee38fb06f.jpeg",
+        "caption": "Picture 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05b496d64/171429443/05b496d6461d7088b06929a77b2ea800_max_476x317.jpeg",
+        "url": "property-photo/05b496d64/171429443/05b496d6461d7088b06929a77b2ea800.jpeg",
+        "caption": "Picture 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7aacaceac/171429443/7aacaceacdb9003f5f03b162679c26d5_max_476x317.jpeg",
+        "url": "property-photo/7aacaceac/171429443/7aacaceacdb9003f5f03b162679c26d5.jpeg",
+        "caption": "Picture 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/062421982/171429443/062421982a0f2f254839f39b2e7f8fd8_max_476x317.jpeg",
+        "url": "property-photo/062421982/171429443/062421982a0f2f254839f39b2e7f8fd8.jpeg",
+        "caption": "Picture 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84685512d/171429443/84685512df49f71bfbefe073ed517931_max_476x317.jpeg",
+        "url": "property-photo/84685512d/171429443/84685512df49f71bfbefe073ed517931.jpeg",
+        "caption": "Picture 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1cbc22ec/171429443/d1cbc22eca95c521d3dd37330e28201a_max_476x317.jpeg",
+        "url": "property-photo/d1cbc22ec/171429443/d1cbc22eca95c521d3dd37330e28201a.jpeg",
+        "caption": "Picture 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/059b4a01b/171429443/059b4a01b355e5d14e9973d783fdae58_max_476x317.jpeg",
+        "url": "property-photo/059b4a01b/171429443/059b4a01b355e5d14e9973d783fdae58.jpeg",
+        "caption": "Picture 9"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/255988abe/171429443/255988abe6dade51b1d0256853fded08_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Pearl & Coutts, London",
+  "addedOrReduced": "Added on 06/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
