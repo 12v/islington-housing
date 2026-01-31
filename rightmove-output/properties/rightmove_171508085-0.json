@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-31T00:23:36.766715+00:00",
+  "postcode": "N7 8DD",
+  "id": 171508085,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "O.I.G Real Estate are delighted to bring to market this one bedroom apartment.",
+  "displayAddress": "Holloway Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551078,
+    "longitude": -0.109794
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32_max_476x317.jpeg",
+      "url": "property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6f635b57/171508085/d6f635b57ef57013f765b210663aef34_max_476x317.jpeg",
+      "url": "property-photo/d6f635b57/171508085/d6f635b57ef57013f765b210663aef34.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5960b5ef0/171508085/5960b5ef029d9b5f3f0fe6a06f9cb668_max_476x317.jpeg",
+      "url": "property-photo/5960b5ef0/171508085/5960b5ef029d9b5f3f0fe6a06f9cb668.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a359e5984/171508085/a359e598457962b3442d8b3bce1aea50_max_476x317.jpeg",
+      "url": "property-photo/a359e5984/171508085/a359e598457962b3442d8b3bce1aea50.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38a982cf5/171508085/38a982cf5874c5bebe82ba3be5d9ff70_max_476x317.jpeg",
+      "url": "property-photo/38a982cf5/171508085/38a982cf5874c5bebe82ba3be5d9ff70.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/634ec5d89/171508085/634ec5d89859d2bb88979d40341690d7_max_476x317.jpeg",
+      "url": "property-photo/634ec5d89/171508085/634ec5d89859d2bb88979d40341690d7.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8d743c27/171508085/c8d743c278e7a0e1580a8f990f2a8afc_max_476x317.jpeg",
+      "url": "property-photo/c8d743c27/171508085/c8d743c278e7a0e1580a8f990f2a8afc.jpeg",
+      "caption": "Picture No. 06"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-05-28T18:06:03Z"
+  },
+  "price": {
+    "amount": 585,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,535 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3585 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 285305,
+    "brandPlusLogoURI": "/286k/285305/branch_rmchoice_logo_285305_0000.jpeg",
+    "contactTelephone": "020 3697 0209",
+    "branchDisplayName": "OIG Real Estate Limited, London",
+    "branchName": "London",
+    "brandTradingName": "OIG Real Estate Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/OIG-Real-Estate-Limited/London-285305.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": false,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-30T10:14:51Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/286k/285305/branch_rmchoice_logo_285305_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "527 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171508085#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171508085",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-30T10:14:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-30T10:20:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 2,
+      "description": "Wooden Flooring",
+      "htmlDescription": "Wooden Flooring"
+    },
+    {
+      "order": 3,
+      "description": "Bright",
+      "htmlDescription": "Bright"
+    },
+    {
+      "order": 4,
+      "description": "Fully Fitted Kitchen",
+      "htmlDescription": "Fully Fitted Kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32_max_476x317.jpeg",
+        "url": "property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6f635b57/171508085/d6f635b57ef57013f765b210663aef34_max_476x317.jpeg",
+        "url": "property-photo/d6f635b57/171508085/d6f635b57ef57013f765b210663aef34.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5960b5ef0/171508085/5960b5ef029d9b5f3f0fe6a06f9cb668_max_476x317.jpeg",
+        "url": "property-photo/5960b5ef0/171508085/5960b5ef029d9b5f3f0fe6a06f9cb668.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a359e5984/171508085/a359e598457962b3442d8b3bce1aea50_max_476x317.jpeg",
+        "url": "property-photo/a359e5984/171508085/a359e598457962b3442d8b3bce1aea50.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38a982cf5/171508085/38a982cf5874c5bebe82ba3be5d9ff70_max_476x317.jpeg",
+        "url": "property-photo/38a982cf5/171508085/38a982cf5874c5bebe82ba3be5d9ff70.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/634ec5d89/171508085/634ec5d89859d2bb88979d40341690d7_max_476x317.jpeg",
+        "url": "property-photo/634ec5d89/171508085/634ec5d89859d2bb88979d40341690d7.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8d743c27/171508085/c8d743c278e7a0e1580a8f990f2a8afc_max_476x317.jpeg",
+        "url": "property-photo/c8d743c27/171508085/c8d743c278e7a0e1580a8f990f2a8afc.jpeg",
+        "caption": "Picture No. 06"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11f0a885a/171508085/11f0a885ae91e7422e91b562b569bc32_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OIG Real Estate Limited, London",
+  "addedOrReduced": "Added on 28/05/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": false
+}

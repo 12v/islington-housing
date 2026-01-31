@@ -1,0 +1,193 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-01-31T00:23:36.766715+00:00",
+  "postcode": "N7 8DD",
+  "id": 171508223,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 5,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "O.I.G Real Estate are delighted to bring to market this one bedroom apartment.",
+  "displayAddress": "Holloway Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551075,
+    "longitude": -0.10982
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_00_0000_max_476x317.jpeg",
+      "url": "286k/285305/171508223/285305_OIL230229_L_IMG_00_0000.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_01_0000_max_476x317.jpeg",
+      "url": "286k/285305/171508223/285305_OIL230229_L_IMG_01_0000.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_02_0000_max_476x317.jpeg",
+      "url": "286k/285305/171508223/285305_OIL230229_L_IMG_02_0000.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_03_0000_max_476x317.jpeg",
+      "url": "286k/285305/171508223/285305_OIL230229_L_IMG_03_0000.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_04_0000_max_476x317.jpeg",
+      "url": "286k/285305/171508223/285305_OIL230229_L_IMG_04_0000.jpeg",
+      "caption": "Picture No. 03"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-30T10:20:10Z"
+  },
+  "price": {
+    "amount": 553,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,396 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3553 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 285305,
+    "brandPlusLogoURI": "/286k/285305/branch_rmchoice_logo_285305_0000.jpeg",
+    "contactTelephone": "020 3697 0209",
+    "branchDisplayName": "OIG Real Estate Limited, London",
+    "branchName": "London",
+    "brandTradingName": "OIG Real Estate Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/OIG-Real-Estate-Limited/London-285305.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": false,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-30T10:14:51Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/286k/285305/branch_rmchoice_logo_285305_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "559 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171508223#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171508223",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-30T10:14:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-30T10:20:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Wooden Flooring",
+      "htmlDescription": "Wooden Flooring"
+    },
+    {
+      "order": 2,
+      "description": "Bright",
+      "htmlDescription": "Bright"
+    },
+    {
+      "order": 3,
+      "description": "Ample Storage",
+      "htmlDescription": "Ample Storage"
+    },
+    {
+      "order": 4,
+      "description": "Open Plan",
+      "htmlDescription": "Open Plan"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_00_0000_max_476x317.jpeg",
+        "url": "286k/285305/171508223/285305_OIL230229_L_IMG_00_0000.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_01_0000_max_476x317.jpeg",
+        "url": "286k/285305/171508223/285305_OIL230229_L_IMG_01_0000.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_02_0000_max_476x317.jpeg",
+        "url": "286k/285305/171508223/285305_OIL230229_L_IMG_02_0000.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_03_0000_max_476x317.jpeg",
+        "url": "286k/285305/171508223/285305_OIL230229_L_IMG_03_0000.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_04_0000_max_476x317.jpeg",
+        "url": "286k/285305/171508223/285305_OIL230229_L_IMG_04_0000.jpeg",
+        "caption": "Picture No. 03"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/171508223/285305_OIL230229_L_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OIG Real Estate Limited, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": false
+}
