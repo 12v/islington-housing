@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-01T21:02:39.913586+00:00",
+  "postcode": "EC1Y 8JU",
+  "id": 171627005,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented one bedroom ground floor apartment set within a modern, well-maintained building on Banner Street, ideally located in the heart of EC1Y.",
+  "displayAddress": "Banner Street, London, EC1Y",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.523637,
+    "longitude": -0.094526
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4_max_476x317.jpeg",
+      "url": "property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50df42e7c/171627005/50df42e7c5f26796904458bd61751f83_max_476x317.jpeg",
+      "url": "property-photo/50df42e7c/171627005/50df42e7c5f26796904458bd61751f83.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/138feff5c/171627005/138feff5c79b15fb47c30c73048f601c_max_476x317.jpeg",
+      "url": "property-photo/138feff5c/171627005/138feff5c79b15fb47c30c73048f601c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca2e7b83b/171627005/ca2e7b83bf6bdcaca616d093d7c610ca_max_476x317.jpeg",
+      "url": "property-photo/ca2e7b83b/171627005/ca2e7b83bf6bdcaca616d093d7c610ca.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66b3a9f79/171627005/66b3a9f79046607ce8e90f5f8dc0eee4_max_476x317.jpeg",
+      "url": "property-photo/66b3a9f79/171627005/66b3a9f79046607ce8e90f5f8dc0eee4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f5e43a8d/171627005/6f5e43a8d3b5861076fc50c2d825a05e_max_476x317.jpeg",
+      "url": "property-photo/6f5e43a8d/171627005/6f5e43a8d3b5861076fc50c2d825a05e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76f543b52/171627005/76f543b523bccfbc57274c62bf8553a8_max_476x317.jpeg",
+      "url": "property-photo/76f543b52/171627005/76f543b523bccfbc57274c62bf8553a8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c3699136/171627005/9c36991366bfd7b40edfd113a6ca6b18_max_476x317.jpeg",
+      "url": "property-photo/9c3699136/171627005/9c36991366bfd7b40edfd113a6ca6b18.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-30T10:52:02Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78489,
+    "brandPlusLogoURI": "/79k/78489/branch_logo_78489_4.jpg",
+    "contactTelephone": "020 8106 4719",
+    "branchDisplayName": "Charles Henry Peppiatt Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Charles Henry Peppiatt Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Charles-Henry-Peppiatt-Ltd/London-78489.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-05T13:20:10Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/79k/78489/branch_logo_78489_4.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "388 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171627005#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171627005",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-30T10:46:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-30T10:52:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1 Bedroom apartment",
+      "htmlDescription": "1 Bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Open-plan reception/kitchen",
+      "htmlDescription": "Open-plan reception/kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Fully fitted kitchen with integrated appliances",
+      "htmlDescription": "Fully fitted kitchen with integrated appliances"
+    },
+    {
+      "order": 4,
+      "description": "Wooden flooring throughout",
+      "htmlDescription": "Wooden flooring throughout"
+    },
+    {
+      "order": 5,
+      "description": "Modern bathroom with full-size bath and shower",
+      "htmlDescription": "Modern bathroom with full-size bath and shower"
+    },
+    {
+      "order": 6,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 7,
+      "description": "Double-glazed windows",
+      "htmlDescription": "Double-glazed windows"
+    },
+    {
+      "order": 8,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 9,
+      "description": "Close to Old Street, Barbican & Moorgate stations",
+      "htmlDescription": "Close to Old Street, Barbican & Moorgate stations"
+    },
+    {
+      "order": 10,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4_max_476x317.jpeg",
+        "url": "property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50df42e7c/171627005/50df42e7c5f26796904458bd61751f83_max_476x317.jpeg",
+        "url": "property-photo/50df42e7c/171627005/50df42e7c5f26796904458bd61751f83.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/138feff5c/171627005/138feff5c79b15fb47c30c73048f601c_max_476x317.jpeg",
+        "url": "property-photo/138feff5c/171627005/138feff5c79b15fb47c30c73048f601c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca2e7b83b/171627005/ca2e7b83bf6bdcaca616d093d7c610ca_max_476x317.jpeg",
+        "url": "property-photo/ca2e7b83b/171627005/ca2e7b83bf6bdcaca616d093d7c610ca.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66b3a9f79/171627005/66b3a9f79046607ce8e90f5f8dc0eee4_max_476x317.jpeg",
+        "url": "property-photo/66b3a9f79/171627005/66b3a9f79046607ce8e90f5f8dc0eee4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f5e43a8d/171627005/6f5e43a8d3b5861076fc50c2d825a05e_max_476x317.jpeg",
+        "url": "property-photo/6f5e43a8d/171627005/6f5e43a8d3b5861076fc50c2d825a05e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/76f543b52/171627005/76f543b523bccfbc57274c62bf8553a8_max_476x317.jpeg",
+        "url": "property-photo/76f543b52/171627005/76f543b523bccfbc57274c62bf8553a8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c3699136/171627005/9c36991366bfd7b40edfd113a6ca6b18_max_476x317.jpeg",
+        "url": "property-photo/9c3699136/171627005/9c36991366bfd7b40edfd113a6ca6b18.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628d6de51/171627005/628d6de51de8f92da6e204a74a6248b4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Charles Henry Peppiatt Ltd, London",
+  "addedOrReduced": "Added on 30/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
