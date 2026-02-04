@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-03T20:58:47.765248+00:00",
+  "postcode": "EC1V 7JX",
+  "id": 171441743,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "1 bedroom flat - enclosed garden in a quiet location by Angel station, in a gated development with 24/7 concierge, discounted membership to Health Club and additional parking spaces available to rent",
+  "displayAddress": "Owen Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53069,
+    "longitude": -0.10563
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e_max_476x317.jpeg",
+      "url": "property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62f873f0f/171441743/62f873f0fe3c6359adc9497507dad714_max_476x317.jpeg",
+      "url": "property-photo/62f873f0f/171441743/62f873f0fe3c6359adc9497507dad714.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f944890b5/171441743/f944890b5b9bae27ea86ca6a3c9e8dc3_max_476x317.jpeg",
+      "url": "property-photo/f944890b5/171441743/f944890b5b9bae27ea86ca6a3c9e8dc3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffbe50d5b/171441743/ffbe50d5b0edcb6a383b2b0ae33e11a4_max_476x317.jpeg",
+      "url": "property-photo/ffbe50d5b/171441743/ffbe50d5b0edcb6a383b2b0ae33e11a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fceb4daed/171441743/fceb4daedac829303bc245397ef9d5a9_max_476x317.jpeg",
+      "url": "property-photo/fceb4daed/171441743/fceb4daedac829303bc245397ef9d5a9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4336e0f4c/171441743/4336e0f4c188026e9905988788f4da04_max_476x317.jpeg",
+      "url": "property-photo/4336e0f4c/171441743/4336e0f4c188026e9905988788f4da04.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e82eff6c/171441743/0e82eff6cebf37fb00ee5dd123df73f1_max_476x317.jpeg",
+      "url": "property-photo/0e82eff6c/171441743/0e82eff6cebf37fb00ee5dd123df73f1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f23abaab/171441743/9f23abaab463d1aa43a11174ee933edc_max_476x317.jpeg",
+      "url": "property-photo/9f23abaab/171441743/9f23abaab463d1aa43a11174ee933edc.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-26T12:45:04Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 294155,
+    "brandPlusLogoURI": "/295k/294155/branch_rmchoice_logo_294155_0000.png",
+    "contactTelephone": "020 4634 0878",
+    "branchDisplayName": "Novaclub, London",
+    "branchName": "London",
+    "brandTradingName": "Novaclub",
+    "branchLandingPageUrl": "/estate-agents/agent/Novaclub/London-294155.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:27Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/295k/294155/branch_rmchoice_logo_294155_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171441743#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171441743",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-26T12:39:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-26T12:45:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e_max_476x317.jpeg",
+        "url": "property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62f873f0f/171441743/62f873f0fe3c6359adc9497507dad714_max_476x317.jpeg",
+        "url": "property-photo/62f873f0f/171441743/62f873f0fe3c6359adc9497507dad714.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f944890b5/171441743/f944890b5b9bae27ea86ca6a3c9e8dc3_max_476x317.jpeg",
+        "url": "property-photo/f944890b5/171441743/f944890b5b9bae27ea86ca6a3c9e8dc3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffbe50d5b/171441743/ffbe50d5b0edcb6a383b2b0ae33e11a4_max_476x317.jpeg",
+        "url": "property-photo/ffbe50d5b/171441743/ffbe50d5b0edcb6a383b2b0ae33e11a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fceb4daed/171441743/fceb4daedac829303bc245397ef9d5a9_max_476x317.jpeg",
+        "url": "property-photo/fceb4daed/171441743/fceb4daedac829303bc245397ef9d5a9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4336e0f4c/171441743/4336e0f4c188026e9905988788f4da04_max_476x317.jpeg",
+        "url": "property-photo/4336e0f4c/171441743/4336e0f4c188026e9905988788f4da04.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e82eff6c/171441743/0e82eff6cebf37fb00ee5dd123df73f1_max_476x317.jpeg",
+        "url": "property-photo/0e82eff6c/171441743/0e82eff6cebf37fb00ee5dd123df73f1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f23abaab/171441743/9f23abaab463d1aa43a11174ee933edc_max_476x317.jpeg",
+        "url": "property-photo/9f23abaab/171441743/9f23abaab463d1aa43a11174ee933edc.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6509c1a78/171441743/6509c1a78212aba102cf25684620019e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Novaclub, London",
+  "addedOrReduced": "Added on 26/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
