@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-05T00:14:02.940147+00:00",
+  "postcode": "N7 7DD",
+  "id": 171632126,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented studio flat set within a purpose-built development, ideally located just a short walk from Holloway and Drayton Park. The property offers spacious living and sleeping accommodation, a practical kitchenette, and a private bathroom. Offered fully furnished, it provides a...",
+  "displayAddress": "Hornsey Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553831,
+    "longitude": -0.111035
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7_max_476x317.jpeg",
+      "url": "property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/817bb5a9d/171632126/817bb5a9d4982f603d4f47bf3f3cbeba_max_476x317.jpeg",
+      "url": "property-photo/817bb5a9d/171632126/817bb5a9d4982f603d4f47bf3f3cbeba.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81e479ec7/171632126/81e479ec7532eec7cc686693f6884332_max_476x317.jpeg",
+      "url": "property-photo/81e479ec7/171632126/81e479ec7532eec7cc686693f6884332.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0049adbee/171632126/0049adbee0936de96f494f5bbf8f183c_max_476x317.jpeg",
+      "url": "property-photo/0049adbee/171632126/0049adbee0936de96f494f5bbf8f183c.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e890c79a/171632126/8e890c79a49eb18a970cd5291edd43e8_max_476x317.jpeg",
+      "url": "property-photo/8e890c79a/171632126/8e890c79a49eb18a970cd5291edd43e8.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8a87952e/171632126/f8a87952e2fd8b30c91667736431d157_max_476x317.jpeg",
+      "url": "property-photo/f8a87952e/171632126/f8a87952e2fd8b30c91667736431d157.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f58949dc/171632126/0f58949dc56a0a930d3ba6cd33434836_max_476x317.jpeg",
+      "url": "property-photo/0f58949dc/171632126/0f58949dc56a0a930d3ba6cd33434836.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4536ed46/171632126/a4536ed4676be6bdf07237f25c629b28_max_476x317.jpeg",
+      "url": "property-photo/a4536ed46/171632126/a4536ed4676be6bdf07237f25c629b28.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9520eebe6/171632126/9520eebe6a9947153d58fac4dbb2421a_max_476x317.jpeg",
+      "url": "property-photo/9520eebe6/171632126/9520eebe6a9947153d58fac4dbb2421a.jpeg",
+      "caption": "Picture No. 21"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-26T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-30T12:04:04Z"
+  },
+  "price": {
+    "amount": 1250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3288 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-31T03:45:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171632126#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171632126",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-30T11:58:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-04T07:48:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Water Bill and Electric Included in Rent",
+      "htmlDescription": "Water Bill and Electric Included in Rent"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Close to Station",
+      "htmlDescription": "Close to Station"
+    },
+    {
+      "order": 4,
+      "description": "Part-Time Concierge",
+      "htmlDescription": "Part-Time Concierge"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7_max_476x317.jpeg",
+        "url": "property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/817bb5a9d/171632126/817bb5a9d4982f603d4f47bf3f3cbeba_max_476x317.jpeg",
+        "url": "property-photo/817bb5a9d/171632126/817bb5a9d4982f603d4f47bf3f3cbeba.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81e479ec7/171632126/81e479ec7532eec7cc686693f6884332_max_476x317.jpeg",
+        "url": "property-photo/81e479ec7/171632126/81e479ec7532eec7cc686693f6884332.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0049adbee/171632126/0049adbee0936de96f494f5bbf8f183c_max_476x317.jpeg",
+        "url": "property-photo/0049adbee/171632126/0049adbee0936de96f494f5bbf8f183c.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e890c79a/171632126/8e890c79a49eb18a970cd5291edd43e8_max_476x317.jpeg",
+        "url": "property-photo/8e890c79a/171632126/8e890c79a49eb18a970cd5291edd43e8.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8a87952e/171632126/f8a87952e2fd8b30c91667736431d157_max_476x317.jpeg",
+        "url": "property-photo/f8a87952e/171632126/f8a87952e2fd8b30c91667736431d157.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f58949dc/171632126/0f58949dc56a0a930d3ba6cd33434836_max_476x317.jpeg",
+        "url": "property-photo/0f58949dc/171632126/0f58949dc56a0a930d3ba6cd33434836.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4536ed46/171632126/a4536ed4676be6bdf07237f25c629b28_max_476x317.jpeg",
+        "url": "property-photo/a4536ed46/171632126/a4536ed4676be6bdf07237f25c629b28.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9520eebe6/171632126/9520eebe6a9947153d58fac4dbb2421a_max_476x317.jpeg",
+        "url": "property-photo/9520eebe6/171632126/9520eebe6a9947153d58fac4dbb2421a.jpeg",
+        "caption": "Picture No. 21"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f7e6bb7b/171632126/2f7e6bb7b2d06f21a87c988ce273b5e7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Added on 30/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

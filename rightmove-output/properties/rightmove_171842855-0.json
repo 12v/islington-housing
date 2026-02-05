@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-05T00:13:07.438367+00:00",
+  "postcode": "N7 6RT",
+  "id": 171842855,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "**Large private garden** Nestled on the sought-after Sussex Way, this charming one-bedroom flat offers a wonderful blend of character and comfortable modern living. Set within a period property dating back to 1900, the flat retains a sense of warmth and charm while providing well-propor...",
+  "displayAddress": "Sussex Way, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.561241,
+    "longitude": -0.117469
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_00_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_00_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_01_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_01_0000.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_02_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_02_0000.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_03_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_03_0000.jpeg",
+      "caption": "Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_04_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_04_0000.jpeg",
+      "caption": "Utility Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_05_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_05_0000.jpeg",
+      "caption": "WC"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_06_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_06_0000.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_07_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_07_0000.jpeg",
+      "caption": "Rear Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_08_0000_max_476x317.jpeg",
+      "url": "294k/293183/171842855/293183_34412142_IMG_08_0000.jpeg",
+      "caption": "Rear Garden"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-04T14:43:04Z"
+  },
+  "price": {
+    "amount": 1565,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,565 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3361 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 293183,
+    "brandPlusLogoURI": "/294k/293183/branch_rmchoice_logo_293183_0000.jpeg",
+    "contactTelephone": "020 7362 4101",
+    "branchDisplayName": "Christopher Mark Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Christopher Mark Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Christopher-Mark-Estate-Agents/London-293183.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-08T10:12:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/294k/293183/branch_rmchoice_logo_293183_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "400 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171842855#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171842855",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-04T14:37:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-04T18:03:18Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private garden",
+      "htmlDescription": "Private garden"
+    },
+    {
+      "order": 2,
+      "description": "Charming period features",
+      "htmlDescription": "Charming period features"
+    },
+    {
+      "order": 3,
+      "description": "Large, bright kitchen",
+      "htmlDescription": "Large, bright kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Cosy living room",
+      "htmlDescription": "Cosy living room"
+    },
+    {
+      "order": 5,
+      "description": "Victorian-style",
+      "htmlDescription": "Victorian-style"
+    },
+    {
+      "order": 6,
+      "description": "Close to local schools",
+      "htmlDescription": "Close to local schools"
+    },
+    {
+      "order": 7,
+      "description": "0.4m to Finsbury Park Station",
+      "htmlDescription": "0.4m to Finsbury Park Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_00_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_00_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_01_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_01_0000.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_02_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_02_0000.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_03_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_03_0000.jpeg",
+        "caption": "Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_04_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_04_0000.jpeg",
+        "caption": "Utility Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_05_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_05_0000.jpeg",
+        "caption": "WC"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_06_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_06_0000.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_07_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_07_0000.jpeg",
+        "caption": "Rear Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_08_0000_max_476x317.jpeg",
+        "url": "294k/293183/171842855/293183_34412142_IMG_08_0000.jpeg",
+        "caption": "Rear Garden"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/294k/293183/171842855/293183_34412142_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Christopher Mark Estate Agents, London",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
