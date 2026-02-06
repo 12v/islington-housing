@@ -1,0 +1,188 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-06T00:16:51.017246+00:00",
+  "postcode": "N7 0JE",
+  "id": 170865377,
+  "bedrooms": 0,
+  "bathrooms": 0,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious Studio Apartment \u2013 Bills Included | Prime Location",
+  "displayAddress": "Hilldrop Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55239,
+    "longitude": -0.1294
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc_max_476x317.png",
+      "url": "property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc.png",
+      "caption": "COVER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/050f64011/170865377/050f640114074986fc0f27d7aa8cbf29_max_476x317.png",
+      "url": "property-photo/050f64011/170865377/050f640114074986fc0f27d7aa8cbf29.png",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b6d4bf3/170865377/e8b6d4bf333114eaf92728d151a6d0e6_max_476x317.png",
+      "url": "property-photo/e8b6d4bf3/170865377/e8b6d4bf333114eaf92728d151a6d0e6.png",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc13a0ee9/170865377/cc13a0ee93ac47b90e14c696f100b693_max_476x317.png",
+      "url": "property-photo/cc13a0ee9/170865377/cc13a0ee93ac47b90e14c696f100b693.png",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9f102e5f/170865377/b9f102e5f87f242b300a4eca530bbce0_max_476x317.png",
+      "url": "property-photo/b9f102e5f/170865377/b9f102e5f87f242b300a4eca530bbce0.png",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b25313f6b/170865377/b25313f6b86820b85e8502b00ea5592a_max_476x317.png",
+      "url": "property-photo/b25313f6b/170865377/b25313f6b86820b85e8502b00ea5592a.png",
+      "caption": "PROPERTY"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-06T09:34:04Z"
+  },
+  "price": {
+    "amount": 1425,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,425 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3329 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260789,
+    "brandPlusLogoURI": "/261k/260789/branch_rmchoice_logo_260789_0001.png",
+    "contactTelephone": "01926 963087",
+    "branchDisplayName": "Rentr, covering Nationwide",
+    "branchName": "covering Nationwide",
+    "brandTradingName": "Rentr",
+    "branchLandingPageUrl": "/estate-agents/agent/Rentr/covering-Nationwide-260789.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-05T16:24:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/261k/260789/branch_rmchoice_logo_260789_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170865377#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170865377",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-06T09:28:50Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-07T12:59:28Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Property Reference: PY8C",
+      "htmlDescription": "Property Reference: PY8C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc_max_476x317.png",
+        "url": "property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc.png",
+        "caption": "COVER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/050f64011/170865377/050f640114074986fc0f27d7aa8cbf29_max_476x317.png",
+        "url": "property-photo/050f64011/170865377/050f640114074986fc0f27d7aa8cbf29.png",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b6d4bf3/170865377/e8b6d4bf333114eaf92728d151a6d0e6_max_476x317.png",
+        "url": "property-photo/e8b6d4bf3/170865377/e8b6d4bf333114eaf92728d151a6d0e6.png",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc13a0ee9/170865377/cc13a0ee93ac47b90e14c696f100b693_max_476x317.png",
+        "url": "property-photo/cc13a0ee9/170865377/cc13a0ee93ac47b90e14c696f100b693.png",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9f102e5f/170865377/b9f102e5f87f242b300a4eca530bbce0_max_476x317.png",
+        "url": "property-photo/b9f102e5f/170865377/b9f102e5f87f242b300a4eca530bbce0.png",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b25313f6b/170865377/b25313f6b86820b85e8502b00ea5592a_max_476x317.png",
+        "url": "property-photo/b25313f6b/170865377/b25313f6b86820b85e8502b00ea5592a.png",
+        "caption": "PROPERTY"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676d77320/170865377/676d77320008be41eb2acc6d0ae6d0cc_max_296x197.png"
+  },
+  "formattedBranchName": " by Rentr, covering Nationwide",
+  "addedOrReduced": "Added on 06/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

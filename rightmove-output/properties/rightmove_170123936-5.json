@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-05T22:45:31.305046+00:00",
+  "postcode": "N19 3FA",
+  "id": 170123936,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "SHORT LET - Situated on a private road in a converted joinery, this exceptionally bright and spacious three bedroom apartment features airy rooms with high ceilings and large windows, along with a stunning open plan reception room and modern kitchen with exposed brickwork.",
+  "displayAddress": "Charles Street, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.568615,
+    "longitude": -0.124749
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1_max_476x317.jpeg",
+      "url": "property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a814401b/170123936/6a814401b5af33471665ccc03796ccfa_max_476x317.jpeg",
+      "url": "property-photo/6a814401b/170123936/6a814401b5af33471665ccc03796ccfa.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b88a146a/170123936/4b88a146a5834fde8b41d471ba2cfcc0_max_476x317.jpeg",
+      "url": "property-photo/4b88a146a/170123936/4b88a146a5834fde8b41d471ba2cfcc0.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/001cd8071/170123936/001cd807142359ad11952de8df5db08e_max_476x317.jpeg",
+      "url": "property-photo/001cd8071/170123936/001cd807142359ad11952de8df5db08e.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a5c93c2b/170123936/8a5c93c2bebebdea212bb99bb7f9d231_max_476x317.jpeg",
+      "url": "property-photo/8a5c93c2b/170123936/8a5c93c2bebebdea212bb99bb7f9d231.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d67b7b454/170123936/d67b7b45418ddb0a7adbbb0136e26714_max_476x317.jpeg",
+      "url": "property-photo/d67b7b454/170123936/d67b7b45418ddb0a7adbbb0136e26714.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9383126c1/170123936/9383126c1d949b4df758170981abdf19_max_476x317.jpeg",
+      "url": "property-photo/9383126c1/170123936/9383126c1d949b4df758170981abdf19.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a076b53ee/170123936/a076b53ee0ed88dcf9552e5000eed15a_max_476x317.jpeg",
+      "url": "property-photo/a076b53ee/170123936/a076b53ee0ed88dcf9552e5000eed15a.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3e33ee8d/170123936/b3e33ee8d6f4bb5ee4ac76734d4be67a_max_476x317.jpeg",
+      "url": "property-photo/b3e33ee8d/170123936/b3e33ee8d6f4bb5ee4ac76734d4be67a.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39163e179/170123936/39163e179dc9d34a15879209bf9821ba_max_476x317.jpeg",
+      "url": "property-photo/39163e179/170123936/39163e179dc9d34a15879209bf9821ba.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fde388af5/170123936/fde388af5b8ebc740c7af0d8a0124936_max_476x317.jpeg",
+      "url": "property-photo/fde388af5/170123936/fde388af5b8ebc740c7af0d8a0124936.jpeg",
+      "caption": "Picture No. 10"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-12-09T09:18:04Z"
+  },
+  "price": {
+    "amount": 3900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3900 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 111325,
+    "brandPlusLogoURI": "/brand/brand_rmchoice_logo_119657_0000.png",
+    "contactTelephone": "020 3834 8289",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Highgate",
+    "branchName": "Highgate",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Highgate-111325.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-29T12:16:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/brand/brand_rmchoice_logo_119657_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170123936#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170123936",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-09T09:12:41Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-14T08:47:17Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "SHORT LET",
+      "htmlDescription": "SHORT LET"
+    },
+    {
+      "order": 2,
+      "description": "Three Bedrooms",
+      "htmlDescription": "Three Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Modern open plan living",
+      "htmlDescription": "Modern open plan living"
+    },
+    {
+      "order": 4,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 5,
+      "description": "Lift Access",
+      "htmlDescription": "Lift Access"
+    },
+    {
+      "order": 6,
+      "description": "Bike Storage",
+      "htmlDescription": "Bike Storage"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1_max_476x317.jpeg",
+        "url": "property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a814401b/170123936/6a814401b5af33471665ccc03796ccfa_max_476x317.jpeg",
+        "url": "property-photo/6a814401b/170123936/6a814401b5af33471665ccc03796ccfa.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b88a146a/170123936/4b88a146a5834fde8b41d471ba2cfcc0_max_476x317.jpeg",
+        "url": "property-photo/4b88a146a/170123936/4b88a146a5834fde8b41d471ba2cfcc0.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/001cd8071/170123936/001cd807142359ad11952de8df5db08e_max_476x317.jpeg",
+        "url": "property-photo/001cd8071/170123936/001cd807142359ad11952de8df5db08e.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a5c93c2b/170123936/8a5c93c2bebebdea212bb99bb7f9d231_max_476x317.jpeg",
+        "url": "property-photo/8a5c93c2b/170123936/8a5c93c2bebebdea212bb99bb7f9d231.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d67b7b454/170123936/d67b7b45418ddb0a7adbbb0136e26714_max_476x317.jpeg",
+        "url": "property-photo/d67b7b454/170123936/d67b7b45418ddb0a7adbbb0136e26714.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9383126c1/170123936/9383126c1d949b4df758170981abdf19_max_476x317.jpeg",
+        "url": "property-photo/9383126c1/170123936/9383126c1d949b4df758170981abdf19.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a076b53ee/170123936/a076b53ee0ed88dcf9552e5000eed15a_max_476x317.jpeg",
+        "url": "property-photo/a076b53ee/170123936/a076b53ee0ed88dcf9552e5000eed15a.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3e33ee8d/170123936/b3e33ee8d6f4bb5ee4ac76734d4be67a_max_476x317.jpeg",
+        "url": "property-photo/b3e33ee8d/170123936/b3e33ee8d6f4bb5ee4ac76734d4be67a.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39163e179/170123936/39163e179dc9d34a15879209bf9821ba_max_476x317.jpeg",
+        "url": "property-photo/39163e179/170123936/39163e179dc9d34a15879209bf9821ba.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fde388af5/170123936/fde388af5b8ebc740c7af0d8a0124936_max_476x317.jpeg",
+        "url": "property-photo/fde388af5/170123936/fde388af5b8ebc740c7af0d8a0124936.jpeg",
+        "caption": "Picture No. 10"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a19e290cf/170123936/a19e290cf4950a972806508ff481a3e1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Highgate",
+  "addedOrReduced": "Added on 09/12/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
