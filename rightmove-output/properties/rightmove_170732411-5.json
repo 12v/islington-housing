@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-06T20:50:22.259971+00:00",
+  "postcode": "EC1V 3QY",
+  "id": 170732411,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Don't miss out on this stunning two-bedroom, two-bathroom apartment in Central London. Tastefully furnished with a private garden, it's a perfect home for sharers and students.",
+  "displayAddress": "Lever Street, Clerkenwell, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526586,
+    "longitude": -0.098972
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0_max_476x317.png",
+      "url": "property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa80b78a9/170732411/aa80b78a98ca292eab1d506459e9eff5_max_476x317.jpeg",
+      "url": "property-photo/aa80b78a9/170732411/aa80b78a98ca292eab1d506459e9eff5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55b75062b/170732411/55b75062b905b3dd85df4245417aa1dc_max_476x317.jpeg",
+      "url": "property-photo/55b75062b/170732411/55b75062b905b3dd85df4245417aa1dc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26baaee1c/170732411/26baaee1c931f40efa306c1682b98806_max_476x317.jpeg",
+      "url": "property-photo/26baaee1c/170732411/26baaee1c931f40efa306c1682b98806.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0a1c1c2e/170732411/e0a1c1c2ecb9546718e4ebbad2a75e6a_max_476x317.jpeg",
+      "url": "property-photo/e0a1c1c2e/170732411/e0a1c1c2ecb9546718e4ebbad2a75e6a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e59fb1baf/170732411/e59fb1baf90a87b0feb7e1f8343f37b8_max_476x317.jpeg",
+      "url": "property-photo/e59fb1baf/170732411/e59fb1baf90a87b0feb7e1f8343f37b8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cbe329bbd/170732411/cbe329bbde86716fa461cdc80004ca1a_max_476x317.jpeg",
+      "url": "property-photo/cbe329bbd/170732411/cbe329bbde86716fa461cdc80004ca1a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b29996993/170732411/b299969938ff0ea008ebd1d4c446ca6a_max_476x317.jpeg",
+      "url": "property-photo/b29996993/170732411/b299969938ff0ea008ebd1d4c446ca6a.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-11-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-01-28T14:42:06Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 77197,
+    "brandPlusLogoURI": "/78k/77197/branch_rmchoice_logo_77197_0002.png",
+    "contactTelephone": "020 3834 7921",
+    "branchDisplayName": "Victorstone Property Consultants (GA PRINCIPAL BRANCH), City Road",
+    "branchName": "City Road",
+    "brandTradingName": "Victorstone Property Consultants (GA PRINCIPAL BRANCH)",
+    "branchLandingPageUrl": "/estate-agents/agent/Victorstone-Property-Consultants-GA-PRINCIPAL-BRANCH/City-Road-77197.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-09T11:54:33Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/78k/77197/branch_rmchoice_logo_77197_0002.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<h4><br /></h4>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170732411#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170732411",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-01T09:05:49Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-06T03:29:26Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Stunning Two Bedroom Apartment Available In Clerkenwell, EC1V",
+      "htmlDescription": "Stunning Two Bedroom Apartment Available In Clerkenwell, EC1V"
+    },
+    {
+      "order": 2,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 3,
+      "description": "Plethora of Natural Light",
+      "htmlDescription": "Plethora of Natural Light"
+    },
+    {
+      "order": 4,
+      "description": "Private Spacious Garden",
+      "htmlDescription": "Private Spacious Garden"
+    },
+    {
+      "order": 5,
+      "description": "Tastefully Furnished",
+      "htmlDescription": "Tastefully Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Around The Corner Restaurants, Parks, Bars, Stores And Other Amenities",
+      "htmlDescription": "Around The Corner Restaurants, Parks, Bars, Stores And Other Amenities"
+    },
+    {
+      "order": 7,
+      "description": "Lever Street, Clerkenwell, London, EC1V",
+      "htmlDescription": "Lever Street, Clerkenwell, London, EC1V"
+    },
+    {
+      "order": 8,
+      "description": "Ideal For Sharers And Students",
+      "htmlDescription": "Ideal For Sharers And Students"
+    },
+    {
+      "order": 9,
+      "description": "Stone Throws Away From Old Street Tube Station",
+      "htmlDescription": "Stone Throws Away From Old Street Tube Station"
+    },
+    {
+      "order": 10,
+      "description": "Fully Integrated Modern Kitchen",
+      "htmlDescription": "Fully Integrated Modern Kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0_max_476x317.png",
+        "url": "property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa80b78a9/170732411/aa80b78a98ca292eab1d506459e9eff5_max_476x317.jpeg",
+        "url": "property-photo/aa80b78a9/170732411/aa80b78a98ca292eab1d506459e9eff5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55b75062b/170732411/55b75062b905b3dd85df4245417aa1dc_max_476x317.jpeg",
+        "url": "property-photo/55b75062b/170732411/55b75062b905b3dd85df4245417aa1dc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26baaee1c/170732411/26baaee1c931f40efa306c1682b98806_max_476x317.jpeg",
+        "url": "property-photo/26baaee1c/170732411/26baaee1c931f40efa306c1682b98806.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0a1c1c2e/170732411/e0a1c1c2ecb9546718e4ebbad2a75e6a_max_476x317.jpeg",
+        "url": "property-photo/e0a1c1c2e/170732411/e0a1c1c2ecb9546718e4ebbad2a75e6a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e59fb1baf/170732411/e59fb1baf90a87b0feb7e1f8343f37b8_max_476x317.jpeg",
+        "url": "property-photo/e59fb1baf/170732411/e59fb1baf90a87b0feb7e1f8343f37b8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cbe329bbd/170732411/cbe329bbde86716fa461cdc80004ca1a_max_476x317.jpeg",
+        "url": "property-photo/cbe329bbd/170732411/cbe329bbde86716fa461cdc80004ca1a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b29996993/170732411/b299969938ff0ea008ebd1d4c446ca6a_max_476x317.jpeg",
+        "url": "property-photo/b29996993/170732411/b299969938ff0ea008ebd1d4c446ca6a.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cda601d6e/170732411/cda601d6eaf914270f39c82dd6b9e2d0_max_296x197.png"
+  },
+  "formattedBranchName": " by Victorstone Property Consultants (GA PRINCIPAL BRANCH), City Road",
+  "addedOrReduced": "Reduced on 28/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

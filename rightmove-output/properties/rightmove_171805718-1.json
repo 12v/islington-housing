@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-06T22:26:11.111168+00:00",
+  "postcode": "N1 9PR",
+  "id": 171805718,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Amazing two double bedroom, two bathroom flat to rent. The property is offered furnished located on the second floor & complimented with neutral d\u00e9cor throughout. Recently refurbished with a private balcony.This bright and airy apartment is situated at a moments walk from Angel station ...",
+  "displayAddress": "Pentonville Road, Angel, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53194,
+    "longitude": -0.11048
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b_max_476x317.jpeg",
+      "url": "property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc14870c3/171805718/bc14870c3b23b0f8dd2d31de3548debb_max_476x317.jpeg",
+      "url": "property-photo/bc14870c3/171805718/bc14870c3b23b0f8dd2d31de3548debb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffee498a3/171805718/ffee498a3475c972d9a641f60448369f_max_476x317.jpeg",
+      "url": "property-photo/ffee498a3/171805718/ffee498a3475c972d9a641f60448369f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fda3e194f/171805718/fda3e194f0d172f2a323e3edaf79c1b7_max_476x317.jpeg",
+      "url": "property-photo/fda3e194f/171805718/fda3e194f0d172f2a323e3edaf79c1b7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e0178d10/171805718/5e0178d10b88fb47b90d03fd0693cd04_max_476x317.jpeg",
+      "url": "property-photo/5e0178d10/171805718/5e0178d10b88fb47b90d03fd0693cd04.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d18d2c3d6/171805718/d18d2c3d6bcb7e65c1edd4aaffcaa4f8_max_476x317.jpeg",
+      "url": "property-photo/d18d2c3d6/171805718/d18d2c3d6bcb7e65c1edd4aaffcaa4f8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/015e9d97c/171805718/015e9d97c4f1e394af8887c807ad2774_max_476x317.jpeg",
+      "url": "property-photo/015e9d97c/171805718/015e9d97c4f1e394af8887c807ad2774.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f60d1714/171805718/5f60d17142d89946b175fd0ff2a8e17e_max_476x317.jpeg",
+      "url": "property-photo/5f60d1714/171805718/5f60d17142d89946b175fd0ff2a8e17e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc83c33c4/171805718/dc83c33c409bb4ecb67b6a7404f544f8_max_476x317.jpeg",
+      "url": "property-photo/dc83c33c4/171805718/dc83c33c409bb4ecb67b6a7404f544f8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e60d2b3d/171805718/4e60d2b3debba424001ee6c871a038b0_max_476x317.jpeg",
+      "url": "property-photo/4e60d2b3d/171805718/4e60d2b3debba424001ee6c871a038b0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37f260318/171805718/37f26031837e045826253c2e50b60d39_max_476x317.jpeg",
+      "url": "property-photo/37f260318/171805718/37f26031837e045826253c2e50b60d39.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-03T14:41:03Z"
+  },
+  "price": {
+    "amount": 2800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3646 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 247697,
+    "brandPlusLogoURI": "/248k/247697/branch_rmchoice_logo_247697_0000.png",
+    "contactTelephone": "020 3870 5045",
+    "branchDisplayName": "David Astburys, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "David Astburys",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys/Islington-247697.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-11-12T14:29:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/248k/247697/branch_rmchoice_logo_247697_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171805718#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171805718",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-03T14:35:22Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-06T15:46:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Flat",
+      "htmlDescription": "Two Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "En Suite",
+      "htmlDescription": "En Suite"
+    },
+    {
+      "order": 4,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony "
+    },
+    {
+      "order": 5,
+      "description": "Wood Flooring Throughout",
+      "htmlDescription": "Wood Flooring Throughout "
+    },
+    {
+      "order": 6,
+      "description": "Close To Angel Station",
+      "htmlDescription": "Close To Angel Station "
+    },
+    {
+      "order": 7,
+      "description": "Close To Local Amenities",
+      "htmlDescription": "Close To Local Amenities"
+    },
+    {
+      "order": 8,
+      "description": "Private Parking",
+      "htmlDescription": "Private Parking "
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b_max_476x317.jpeg",
+        "url": "property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc14870c3/171805718/bc14870c3b23b0f8dd2d31de3548debb_max_476x317.jpeg",
+        "url": "property-photo/bc14870c3/171805718/bc14870c3b23b0f8dd2d31de3548debb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffee498a3/171805718/ffee498a3475c972d9a641f60448369f_max_476x317.jpeg",
+        "url": "property-photo/ffee498a3/171805718/ffee498a3475c972d9a641f60448369f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fda3e194f/171805718/fda3e194f0d172f2a323e3edaf79c1b7_max_476x317.jpeg",
+        "url": "property-photo/fda3e194f/171805718/fda3e194f0d172f2a323e3edaf79c1b7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e0178d10/171805718/5e0178d10b88fb47b90d03fd0693cd04_max_476x317.jpeg",
+        "url": "property-photo/5e0178d10/171805718/5e0178d10b88fb47b90d03fd0693cd04.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d18d2c3d6/171805718/d18d2c3d6bcb7e65c1edd4aaffcaa4f8_max_476x317.jpeg",
+        "url": "property-photo/d18d2c3d6/171805718/d18d2c3d6bcb7e65c1edd4aaffcaa4f8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/015e9d97c/171805718/015e9d97c4f1e394af8887c807ad2774_max_476x317.jpeg",
+        "url": "property-photo/015e9d97c/171805718/015e9d97c4f1e394af8887c807ad2774.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f60d1714/171805718/5f60d17142d89946b175fd0ff2a8e17e_max_476x317.jpeg",
+        "url": "property-photo/5f60d1714/171805718/5f60d17142d89946b175fd0ff2a8e17e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc83c33c4/171805718/dc83c33c409bb4ecb67b6a7404f544f8_max_476x317.jpeg",
+        "url": "property-photo/dc83c33c4/171805718/dc83c33c409bb4ecb67b6a7404f544f8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e60d2b3d/171805718/4e60d2b3debba424001ee6c871a038b0_max_476x317.jpeg",
+        "url": "property-photo/4e60d2b3d/171805718/4e60d2b3debba424001ee6c871a038b0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37f260318/171805718/37f26031837e045826253c2e50b60d39_max_476x317.jpeg",
+        "url": "property-photo/37f260318/171805718/37f26031837e045826253c2e50b60d39.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5448d67/171805718/1b5448d67f59baaf761385baf1a8b14b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys, Islington",
+  "addedOrReduced": "Added on 03/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

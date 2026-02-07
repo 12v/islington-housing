@@ -1,0 +1,218 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-06T22:24:17.917897+00:00",
+  "postcode": "N1 9HE",
+  "id": 171541034,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Fully furnished 2 bedroom flat, 5min walk from Kings Cross Station. Available now",
+  "displayAddress": "Railway Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.532718,
+    "longitude": -0.12138
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da_max_476x317.jpeg",
+      "url": "property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28029cb52/171541034/28029cb52f6d51d93fa2e5835b5acff8_max_476x317.jpeg",
+      "url": "property-photo/28029cb52/171541034/28029cb52f6d51d93fa2e5835b5acff8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c19ebd55/171541034/1c19ebd555c70091ca6244c1b652053c_max_476x317.jpeg",
+      "url": "property-photo/1c19ebd55/171541034/1c19ebd555c70091ca6244c1b652053c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/962e7c9c0/171541034/962e7c9c0d472c9f36481a33824abfda_max_476x317.jpeg",
+      "url": "property-photo/962e7c9c0/171541034/962e7c9c0d472c9f36481a33824abfda.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27ca3a5e6/171541034/27ca3a5e6d866546b81909f931666d9f_max_476x317.jpeg",
+      "url": "property-photo/27ca3a5e6/171541034/27ca3a5e6d866546b81909f931666d9f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1e4dc58e/171541034/b1e4dc58e21854934446c9010b870870_max_476x317.jpeg",
+      "url": "property-photo/b1e4dc58e/171541034/b1e4dc58e21854934446c9010b870870.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6a291de7/171541034/e6a291de7318beb22b137e0f19dc7448_max_476x317.jpeg",
+      "url": "property-photo/e6a291de7/171541034/e6a291de7318beb22b137e0f19dc7448.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-28T13:07:04Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 7354,
+    "brandPlusLogoURI": "/8k/7354/branch_rmchoice_logo_7354_0007.png",
+    "contactTelephone": "03309 129964",
+    "branchDisplayName": "The Letting Experts, London",
+    "branchName": "London",
+    "brandTradingName": "The Letting Experts",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Letting-Experts/London-7354.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-16T09:46:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/8k/7354/branch_rmchoice_logo_7354_0007.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171541034#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171541034",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-28T13:01:14Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-01-28T16:54:01Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bedrooms",
+      "htmlDescription": "2 Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 3,
+      "description": "Fully Furnished",
+      "htmlDescription": "Fully Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 5,
+      "description": "Close To Kings Cross Station",
+      "htmlDescription": "Close To Kings Cross Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da_max_476x317.jpeg",
+        "url": "property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28029cb52/171541034/28029cb52f6d51d93fa2e5835b5acff8_max_476x317.jpeg",
+        "url": "property-photo/28029cb52/171541034/28029cb52f6d51d93fa2e5835b5acff8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c19ebd55/171541034/1c19ebd555c70091ca6244c1b652053c_max_476x317.jpeg",
+        "url": "property-photo/1c19ebd55/171541034/1c19ebd555c70091ca6244c1b652053c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/962e7c9c0/171541034/962e7c9c0d472c9f36481a33824abfda_max_476x317.jpeg",
+        "url": "property-photo/962e7c9c0/171541034/962e7c9c0d472c9f36481a33824abfda.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27ca3a5e6/171541034/27ca3a5e6d866546b81909f931666d9f_max_476x317.jpeg",
+        "url": "property-photo/27ca3a5e6/171541034/27ca3a5e6d866546b81909f931666d9f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1e4dc58e/171541034/b1e4dc58e21854934446c9010b870870_max_476x317.jpeg",
+        "url": "property-photo/b1e4dc58e/171541034/b1e4dc58e21854934446c9010b870870.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6a291de7/171541034/e6a291de7318beb22b137e0f19dc7448_max_476x317.jpeg",
+        "url": "property-photo/e6a291de7/171541034/e6a291de7318beb22b137e0f19dc7448.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac74f9012/171541034/ac74f9012d1c2499e764fd1db6b301da_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Letting Experts, London",
+  "addedOrReduced": "Added on 28/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

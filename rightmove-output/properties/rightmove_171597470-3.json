@@ -1,0 +1,363 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-06T22:43:29.120820+00:00",
+  "postcode": "N19 4EE",
+  "id": 171597470,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 23,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Clean and Bright 2-Bedroom Flat in Quiet Residential Street A well-maintained 2-bedroom flat on a peaceful street, conveniently located near local shops and within walking distance of Upper Hollow... ** Property Reference: 918463 **",
+  "displayAddress": "Hornsey Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.566742,
+    "longitude": -0.121343
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0_max_476x317.jpeg",
+      "url": "property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc76d072/171597470/8cc76d072fdf3c62c6aafdee3ed1fe1f_max_476x317.jpeg",
+      "url": "property-photo/8cc76d072/171597470/8cc76d072fdf3c62c6aafdee3ed1fe1f.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dd585b2e/171597470/6dd585b2e9dba41ffe5120851edd4292_max_476x317.jpeg",
+      "url": "property-photo/6dd585b2e/171597470/6dd585b2e9dba41ffe5120851edd4292.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f74dc83d/171597470/7f74dc83d2e7844a33f7be25cf1e034d_max_476x317.jpeg",
+      "url": "property-photo/7f74dc83d/171597470/7f74dc83d2e7844a33f7be25cf1e034d.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bd1d6c62/171597470/1bd1d6c62179bb7da81199a7125d7435_max_476x317.jpeg",
+      "url": "property-photo/1bd1d6c62/171597470/1bd1d6c62179bb7da81199a7125d7435.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a9d4c54d/171597470/7a9d4c54d6a972b24ac0cc17e47e6cef_max_476x317.jpeg",
+      "url": "property-photo/7a9d4c54d/171597470/7a9d4c54d6a972b24ac0cc17e47e6cef.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b70fb6a6c/171597470/b70fb6a6c183e10401d175530618de14_max_476x317.jpeg",
+      "url": "property-photo/b70fb6a6c/171597470/b70fb6a6c183e10401d175530618de14.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74fa00942/171597470/74fa00942792685c29e083bad2c641be_max_476x317.jpeg",
+      "url": "property-photo/74fa00942/171597470/74fa00942792685c29e083bad2c641be.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f50aecbed/171597470/f50aecbeddf836222474ad25da77dd5d_max_476x317.jpeg",
+      "url": "property-photo/f50aecbed/171597470/f50aecbeddf836222474ad25da77dd5d.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb64161f4/171597470/bb64161f451f8e8c55e8f14263830a0f_max_476x317.jpeg",
+      "url": "property-photo/bb64161f4/171597470/bb64161f451f8e8c55e8f14263830a0f.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f70983ed/171597470/8f70983eda604b567e63b8880776106b_max_476x317.jpeg",
+      "url": "property-photo/8f70983ed/171597470/8f70983eda604b567e63b8880776106b.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/845c571ad/171597470/845c571ad7a3e0cadda3d8b126f1546a_max_476x317.jpeg",
+      "url": "property-photo/845c571ad/171597470/845c571ad7a3e0cadda3d8b126f1546a.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb530f65e/171597470/eb530f65e77bc662cd9fdbc2f4cece12_max_476x317.jpeg",
+      "url": "property-photo/eb530f65e/171597470/eb530f65e77bc662cd9fdbc2f4cece12.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4636ab541/171597470/4636ab541b33ee18b329cfc261003bfa_max_476x317.jpeg",
+      "url": "property-photo/4636ab541/171597470/4636ab541b33ee18b329cfc261003bfa.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0986f2700/171597470/0986f2700cc6786b9d6ef960e68b4705_max_476x317.jpeg",
+      "url": "property-photo/0986f2700/171597470/0986f2700cc6786b9d6ef960e68b4705.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/04972ad82/171597470/04972ad82068ae67c7a2210b1d51d2d0_max_476x317.jpeg",
+      "url": "property-photo/04972ad82/171597470/04972ad82068ae67c7a2210b1d51d2d0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2a33a8e4/171597470/b2a33a8e46f70d40a47dd89c130d7585_max_476x317.jpeg",
+      "url": "property-photo/b2a33a8e4/171597470/b2a33a8e46f70d40a47dd89c130d7585.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2805acd53/171597470/2805acd53e1cd821adf81c68b895071d_max_476x317.jpeg",
+      "url": "property-photo/2805acd53/171597470/2805acd53e1cd821adf81c68b895071d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e20c55117/171597470/e20c55117a2c8899328d99252b973267_max_476x317.jpeg",
+      "url": "property-photo/e20c55117/171597470/e20c55117a2c8899328d99252b973267.jpeg",
+      "caption": "Carpark"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/818b29f26/171597470/818b29f269924bae0d11cc51159ba955_max_476x317.jpeg",
+      "url": "property-photo/818b29f26/171597470/818b29f269924bae0d11cc51159ba955.jpeg",
+      "caption": "Carpark"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba26e47ba/171597470/ba26e47ba9265bff54615031fbb3d152_max_476x317.jpeg",
+      "url": "property-photo/ba26e47ba/171597470/ba26e47ba9265bff54615031fbb3d152.jpeg",
+      "caption": "Carpark"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd5806691/171597470/dd5806691209f2890d07eff4c5623614_max_476x317.jpeg",
+      "url": "property-photo/dd5806691/171597470/dd5806691209f2890d07eff4c5623614.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7fd70676/171597470/b7fd7067600741dadffde8b86d8acfc1_max_476x317.jpeg",
+      "url": "property-photo/b7fd70676/171597470/b7fd7067600741dadffde8b86d8acfc1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-06T12:28:31Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-05T14:37:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171597470#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171597470",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-29T14:43:47Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-06T12:28:34Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Property Reference Number: 918463",
+      "htmlDescription": "Property Reference Number: 918463"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0_max_476x317.jpeg",
+        "url": "property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc76d072/171597470/8cc76d072fdf3c62c6aafdee3ed1fe1f_max_476x317.jpeg",
+        "url": "property-photo/8cc76d072/171597470/8cc76d072fdf3c62c6aafdee3ed1fe1f.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dd585b2e/171597470/6dd585b2e9dba41ffe5120851edd4292_max_476x317.jpeg",
+        "url": "property-photo/6dd585b2e/171597470/6dd585b2e9dba41ffe5120851edd4292.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f74dc83d/171597470/7f74dc83d2e7844a33f7be25cf1e034d_max_476x317.jpeg",
+        "url": "property-photo/7f74dc83d/171597470/7f74dc83d2e7844a33f7be25cf1e034d.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bd1d6c62/171597470/1bd1d6c62179bb7da81199a7125d7435_max_476x317.jpeg",
+        "url": "property-photo/1bd1d6c62/171597470/1bd1d6c62179bb7da81199a7125d7435.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a9d4c54d/171597470/7a9d4c54d6a972b24ac0cc17e47e6cef_max_476x317.jpeg",
+        "url": "property-photo/7a9d4c54d/171597470/7a9d4c54d6a972b24ac0cc17e47e6cef.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b70fb6a6c/171597470/b70fb6a6c183e10401d175530618de14_max_476x317.jpeg",
+        "url": "property-photo/b70fb6a6c/171597470/b70fb6a6c183e10401d175530618de14.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74fa00942/171597470/74fa00942792685c29e083bad2c641be_max_476x317.jpeg",
+        "url": "property-photo/74fa00942/171597470/74fa00942792685c29e083bad2c641be.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f50aecbed/171597470/f50aecbeddf836222474ad25da77dd5d_max_476x317.jpeg",
+        "url": "property-photo/f50aecbed/171597470/f50aecbeddf836222474ad25da77dd5d.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb64161f4/171597470/bb64161f451f8e8c55e8f14263830a0f_max_476x317.jpeg",
+        "url": "property-photo/bb64161f4/171597470/bb64161f451f8e8c55e8f14263830a0f.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f70983ed/171597470/8f70983eda604b567e63b8880776106b_max_476x317.jpeg",
+        "url": "property-photo/8f70983ed/171597470/8f70983eda604b567e63b8880776106b.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/845c571ad/171597470/845c571ad7a3e0cadda3d8b126f1546a_max_476x317.jpeg",
+        "url": "property-photo/845c571ad/171597470/845c571ad7a3e0cadda3d8b126f1546a.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb530f65e/171597470/eb530f65e77bc662cd9fdbc2f4cece12_max_476x317.jpeg",
+        "url": "property-photo/eb530f65e/171597470/eb530f65e77bc662cd9fdbc2f4cece12.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4636ab541/171597470/4636ab541b33ee18b329cfc261003bfa_max_476x317.jpeg",
+        "url": "property-photo/4636ab541/171597470/4636ab541b33ee18b329cfc261003bfa.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0986f2700/171597470/0986f2700cc6786b9d6ef960e68b4705_max_476x317.jpeg",
+        "url": "property-photo/0986f2700/171597470/0986f2700cc6786b9d6ef960e68b4705.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/04972ad82/171597470/04972ad82068ae67c7a2210b1d51d2d0_max_476x317.jpeg",
+        "url": "property-photo/04972ad82/171597470/04972ad82068ae67c7a2210b1d51d2d0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2a33a8e4/171597470/b2a33a8e46f70d40a47dd89c130d7585_max_476x317.jpeg",
+        "url": "property-photo/b2a33a8e4/171597470/b2a33a8e46f70d40a47dd89c130d7585.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2805acd53/171597470/2805acd53e1cd821adf81c68b895071d_max_476x317.jpeg",
+        "url": "property-photo/2805acd53/171597470/2805acd53e1cd821adf81c68b895071d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e20c55117/171597470/e20c55117a2c8899328d99252b973267_max_476x317.jpeg",
+        "url": "property-photo/e20c55117/171597470/e20c55117a2c8899328d99252b973267.jpeg",
+        "caption": "Carpark"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/818b29f26/171597470/818b29f269924bae0d11cc51159ba955_max_476x317.jpeg",
+        "url": "property-photo/818b29f26/171597470/818b29f269924bae0d11cc51159ba955.jpeg",
+        "caption": "Carpark"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba26e47ba/171597470/ba26e47ba9265bff54615031fbb3d152_max_476x317.jpeg",
+        "url": "property-photo/ba26e47ba/171597470/ba26e47ba9265bff54615031fbb3d152.jpeg",
+        "caption": "Carpark"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd5806691/171597470/dd5806691209f2890d07eff4c5623614_max_476x317.jpeg",
+        "url": "property-photo/dd5806691/171597470/dd5806691209f2890d07eff4c5623614.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7fd70676/171597470/b7fd7067600741dadffde8b86d8acfc1_max_476x317.jpeg",
+        "url": "property-photo/b7fd70676/171597470/b7fd7067600741dadffde8b86d8acfc1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf124f8f8/171597470/cf124f8f8340fe70424e951cc378eca0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
