@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-07T22:47:57.427134+00:00",
+  "postcode": "N19 5SQ",
+  "id": 170609000,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "An impressive two-bedroom apartment situated in Archway, conveniently located just a short walk from the underground station and a range of local amenities.",
+  "displayAddress": "Witley Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56464,
+    "longitude": -0.133392
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_00_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_00_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_01_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_01_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_02_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_02_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_03_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_03_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_04_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_04_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_05_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_05_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_06_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_06_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_07_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_07_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_08_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_08_0000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_09_0000_max_476x317.jpeg",
+      "url": "68k/67576/170609000/67576_RL0453_IMG_09_0000.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-05T19:44:26Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 67576,
+    "brandPlusLogoURI": "/68k/67576/branch_rmchoice_logo_67576_0001.jpeg",
+    "contactTelephone": "020 7263 3555",
+    "branchDisplayName": "Stelfort, London",
+    "branchName": "London",
+    "brandTradingName": "Stelfort",
+    "branchLandingPageUrl": "/estate-agents/agent/Stelfort/London-67576.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-08-29T12:39:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/68k/67576/branch_rmchoice_logo_67576_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p>Relevant letting payments that may occur apart from a month rent and tenant protection information.</p><br /><p>Permitted payments</p><br /><p><br /> Before the tenancy starts (payable to Stelfort 'The Agent')<br /> Holding Deposit: 1 week's rent<br /> Deposit: 5 weeks' rent</p><br /><p>\u00a0</p><br /><p>During the tenancy</p><br /><p>Changes to the tenancy agreement: \u00a350<br /> Payment of interest for the late payment of rent at a rate of 3%<br /> Lost key or security device: Equivalent to cost incurred.</p><br /><p>\u00a0</p><br /><p>\u00a0</p><br /><p>Stelfort is a member of Safeagent Scheme and Safeagent Client Money Protection Scheme, and also a member of The Property Ombudsman which is a redress scheme. You can find out more details on the agent's website or by contacting the agent directly.\u00a0</p><br /><br />",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170609000#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170609000",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-26T01:08:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-07T01:18:00Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Moments to Archway tube zone 2 Northern line",
+      "htmlDescription": "Moments to Archway tube zone 2 Northern line"
+    },
+    {
+      "order": 2,
+      "description": "Moments to local shops and amenities",
+      "htmlDescription": "Moments to local shops and amenities"
+    },
+    {
+      "order": 3,
+      "description": "Within easy reach of Waterlow Park and Hampstead Heath",
+      "htmlDescription": "Within easy reach of Waterlow Park and Hampstead Heath"
+    },
+    {
+      "order": 4,
+      "description": "Easy access to Camden",
+      "htmlDescription": "Easy access to Camden "
+    },
+    {
+      "order": 5,
+      "description": "Private outside space",
+      "htmlDescription": "Private outside space"
+    },
+    {
+      "order": 6,
+      "description": "Two bathrooms",
+      "htmlDescription": "Two bathrooms"
+    },
+    {
+      "order": 7,
+      "description": "Great neighbourhood",
+      "htmlDescription": "Great neighbourhood"
+    },
+    {
+      "order": 8,
+      "description": "Perfect transport links to centre of London",
+      "htmlDescription": "Perfect transport links to centre of London"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_00_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_00_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_01_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_01_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_02_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_02_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_03_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_03_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_04_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_04_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_05_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_05_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_06_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_06_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_07_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_07_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_08_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_08_0000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_09_0000_max_476x317.jpeg",
+        "url": "68k/67576/170609000/67576_RL0453_IMG_09_0000.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_00_0000_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/68k/67576/170609000/67576_RL0453_IMG_00_0000_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Stelfort, London",
+  "addedOrReduced": "Reduced on 05/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

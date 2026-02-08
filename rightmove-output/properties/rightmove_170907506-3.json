@@ -1,0 +1,203 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-07T23:46:30.998340+00:00",
+  "postcode": "N7 0ET",
+  "id": 170907506,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": ".A well-presented one bedroom top floor flat set within an attractive house conversion, ideally located just a short walk from Tufnell Park Station. The property features a stylish open-plan kitchen and lounge, a comfortable double bedroom, and a modern bathroom. Offered furnished, thi...",
+  "displayAddress": "Carleton Road, Tufnell Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555335,
+    "longitude": -0.127603
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad_max_476x317.jpeg",
+      "url": "property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60dc194d6/170907506/60dc194d6c99e29ed1c71e5a6e80d986_max_476x317.jpeg",
+      "url": "property-photo/60dc194d6/170907506/60dc194d6c99e29ed1c71e5a6e80d986.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/553239183/170907506/553239183e98e6026ef5e0cf50e24c3e_max_476x317.jpeg",
+      "url": "property-photo/553239183/170907506/553239183e98e6026ef5e0cf50e24c3e.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4573eb2/170907506/7c4573eb23bf28a73a052a03bab0b68a_max_476x317.jpeg",
+      "url": "property-photo/7c4573eb2/170907506/7c4573eb23bf28a73a052a03bab0b68a.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11cf237f/170907506/d11cf237f6fc7ba0dacde654e71eb43c_max_476x317.jpeg",
+      "url": "property-photo/d11cf237f/170907506/d11cf237f6fc7ba0dacde654e71eb43c.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92d6405a6/170907506/92d6405a6a67f13e1c76f27b835cba48_max_476x317.jpeg",
+      "url": "property-photo/92d6405a6/170907506/92d6405a6a67f13e1c76f27b835cba48.jpeg",
+      "caption": "Picture No. 06"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-01-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-05T12:47:18Z"
+  },
+  "price": {
+    "amount": 1500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3346 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-31T03:45:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/55k/54616/branch_rmchoice_logo_54616_0006.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170907506#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170907506",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-07T09:16:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-05T19:40:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "- Fixed Cost \u00a3200 Bills",
+      "htmlDescription": "- Fixed Cost \u00a3200 Bills"
+    },
+    {
+      "order": 2,
+      "description": "- Open Plan",
+      "htmlDescription": "- Open Plan"
+    },
+    {
+      "order": 3,
+      "description": "- Double Bedroom",
+      "htmlDescription": "- Double Bedroom"
+    },
+    {
+      "order": 4,
+      "description": "- Close to Station",
+      "htmlDescription": "- Close to Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad_max_476x317.jpeg",
+        "url": "property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60dc194d6/170907506/60dc194d6c99e29ed1c71e5a6e80d986_max_476x317.jpeg",
+        "url": "property-photo/60dc194d6/170907506/60dc194d6c99e29ed1c71e5a6e80d986.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/553239183/170907506/553239183e98e6026ef5e0cf50e24c3e_max_476x317.jpeg",
+        "url": "property-photo/553239183/170907506/553239183e98e6026ef5e0cf50e24c3e.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4573eb2/170907506/7c4573eb23bf28a73a052a03bab0b68a_max_476x317.jpeg",
+        "url": "property-photo/7c4573eb2/170907506/7c4573eb23bf28a73a052a03bab0b68a.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11cf237f/170907506/d11cf237f6fc7ba0dacde654e71eb43c_max_476x317.jpeg",
+        "url": "property-photo/d11cf237f/170907506/d11cf237f6fc7ba0dacde654e71eb43c.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92d6405a6/170907506/92d6405a6a67f13e1c76f27b835cba48_max_476x317.jpeg",
+        "url": "property-photo/92d6405a6/170907506/92d6405a6a67f13e1c76f27b835cba48.jpeg",
+        "caption": "Picture No. 06"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0b36519a/170907506/b0b36519a6c04cafdfa092d0cd2ebaad_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Reduced on 05/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
