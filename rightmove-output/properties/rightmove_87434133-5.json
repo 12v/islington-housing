@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-08T23:45:22.092371+00:00",
+  "postcode": "N5 1BJ",
+  "id": 87434133,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A delightful and recently refurbished studio apartment with ample space for living and sleeping on the ground floor of this purpose built building. This apartment has had a full re-decoration, spacious new kitchen fitted as well as a new three piece bathroom and is available to rent unfurnished a...",
+  "displayAddress": "Avenell Road, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.557823,
+    "longitude": -0.101787
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132_max_476x317.jpeg",
+      "url": "property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75fa51cc5/87434133/75fa51cc50ffeb4dfa0c6e709d67a681_max_476x317.jpeg",
+      "url": "property-photo/75fa51cc5/87434133/75fa51cc50ffeb4dfa0c6e709d67a681.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d31d609b/87434133/3d31d609b530727dafd053870417372d_max_476x317.jpeg",
+      "url": "property-photo/3d31d609b/87434133/3d31d609b530727dafd053870417372d.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d04e415a/87434133/6d04e415ade802bcbd0b364cbaae0b55_max_476x317.jpeg",
+      "url": "property-photo/6d04e415a/87434133/6d04e415ade802bcbd0b364cbaae0b55.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a59e438de/87434133/a59e438de443106233f80485698ed948_max_476x317.jpeg",
+      "url": "property-photo/a59e438de/87434133/a59e438de443106233f80485698ed948.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebf6d6908/87434133/ebf6d6908926807210b63775cd6c7e8f_max_476x317.jpeg",
+      "url": "property-photo/ebf6d6908/87434133/ebf6d6908926807210b63775cd6c7e8f.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/165a6822a/87434133/165a6822a5b5000f9921170ac67a136b_max_476x317.jpeg",
+      "url": "property-photo/165a6822a/87434133/165a6822a5b5000f9921170ac67a136b.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f640eec8/87434133/1f640eec8026d0d3d28c6d991ca5e2eb_max_476x317.jpeg",
+      "url": "property-photo/1f640eec8/87434133/1f640eec8026d0d3d28c6d991ca5e2eb.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed92d53ec/87434133/ed92d53ecfde7fb317f90a872df67296_max_476x317.jpeg",
+      "url": "property-photo/ed92d53ec/87434133/ed92d53ecfde7fb317f90a872df67296.jpeg",
+      "caption": "Picture No. 02"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-14T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-06T10:30:34Z"
+  },
+  "price": {
+    "amount": 1475,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,475 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3340 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 52785,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_3294_0014.jpeg",
+    "contactTelephone": "020 3889 9071",
+    "branchDisplayName": "Winkworth, Highbury Park",
+    "branchName": "Highbury Park",
+    "brandTradingName": "Winkworth",
+    "branchLandingPageUrl": "/estate-agents/agent/Winkworth/Highbury-Park-52785.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-01T05:15:05Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_3294_0014.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p>Winkworth Highbury & Islington</p>\n\t\t<p><b>Tenant Fees Schedule</b></p>\n\t\t<p>NEW ASSURED SHORTHOLD TENANCIES (ASTs) SIGNED ON OR AFTER 1 JUNE 2019</p>\n\t\t<p><b>Holding Deposit (per tenancy) </b></p>\n\t\t<p>One week's rent. This is to reserve a property. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).</p>\n\t\t<p><b>Security Deposit </b>(per tenancy. Rent under \u00a350,000 per year)</p>\n\t\t<p>Five weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\n\t\t<p><b>Security Deposit </b>(per tenancy. Rent of \u00a350,000 or over per year)</p>\n\t\t<p>Six weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\n\t\t<p><b>Unpaid Rent</b></p>\n\t\t<p>Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears.</p>\n\t\t<p><b>Lost Key(s) or other Security Device(s)</b></p>\n\t\t<p>Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant. If extra costs are incurred there will be a charge of \u00a315 per hour (inc. VAT) for the time taken replacing lost key(s) or other security device(s).</p>\n\t\t<p><b>Variation of Contract </b>(Tenant's Request)</p>\n\t\t<p>\u00a350 (inc. VAT) per agreed variation. To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents.</p>\n\t\t<p><b>Change of Sharer </b>(Tenant's Request)</p>\n\t\t<p>\u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents.</p>\n\t\t<p><b>Early Termination </b>(Tenant's Request)</p>\n\t\t<p>Should the tenant wish to leave their contract early, they shall be liable to the landlord's costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy.</p>\n\t\t<p>If you have any questions on our fees, please ask a member of staff.</p>\n\t\t<p>Client Money Protection (CMP)<br />The office stated above protect their client money through \n\t\t PropertyMark.</p>\n\t\t <p><i>All Winkworth offices are registered with Property Redress Scheme and a copy of our Dispute Resolution Procedure is available on request.</i></p>",
+  "displaySize": "405 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87434133#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87434133",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-08T14:51:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-06T10:30:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "EPC BAND: D",
+      "htmlDescription": "EPC BAND: D"
+    },
+    {
+      "order": 2,
+      "description": "COUNCIL TAX BAND: B",
+      "htmlDescription": "COUNCIL TAX BAND: B"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132_max_476x317.jpeg",
+        "url": "property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75fa51cc5/87434133/75fa51cc50ffeb4dfa0c6e709d67a681_max_476x317.jpeg",
+        "url": "property-photo/75fa51cc5/87434133/75fa51cc50ffeb4dfa0c6e709d67a681.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d31d609b/87434133/3d31d609b530727dafd053870417372d_max_476x317.jpeg",
+        "url": "property-photo/3d31d609b/87434133/3d31d609b530727dafd053870417372d.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d04e415a/87434133/6d04e415ade802bcbd0b364cbaae0b55_max_476x317.jpeg",
+        "url": "property-photo/6d04e415a/87434133/6d04e415ade802bcbd0b364cbaae0b55.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a59e438de/87434133/a59e438de443106233f80485698ed948_max_476x317.jpeg",
+        "url": "property-photo/a59e438de/87434133/a59e438de443106233f80485698ed948.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebf6d6908/87434133/ebf6d6908926807210b63775cd6c7e8f_max_476x317.jpeg",
+        "url": "property-photo/ebf6d6908/87434133/ebf6d6908926807210b63775cd6c7e8f.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/165a6822a/87434133/165a6822a5b5000f9921170ac67a136b_max_476x317.jpeg",
+        "url": "property-photo/165a6822a/87434133/165a6822a5b5000f9921170ac67a136b.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f640eec8/87434133/1f640eec8026d0d3d28c6d991ca5e2eb_max_476x317.jpeg",
+        "url": "property-photo/1f640eec8/87434133/1f640eec8026d0d3d28c6d991ca5e2eb.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed92d53ec/87434133/ed92d53ecfde7fb317f90a872df67296_max_476x317.jpeg",
+        "url": "property-photo/ed92d53ec/87434133/ed92d53ecfde7fb317f90a872df67296.jpeg",
+        "caption": "Picture No. 02"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603dfd861/87434133/603dfd86188bbab98eab54305b5e8132_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Winkworth, Highbury Park",
+  "addedOrReduced": "Reduced on 06/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
