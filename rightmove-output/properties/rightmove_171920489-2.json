@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-09T21:05:34.167025+00:00",
+  "postcode": "EC1V 9NT",
+  "id": 171920489,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 2,
+  "numberOfVirtualTours": 0,
+  "summary": "LONG LET. This 8th floor studio flat offers open-plan living space with private balcony, moments from the amenities and transport links of Old Street.",
+  "displayAddress": "Bath Street, Old Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526164,
+    "longitude": -0.090177
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf_max_476x317.jpeg",
+      "url": "property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44ec118ae/171920489/44ec118ae58d7f7f71508c6089a2fc43_max_476x317.jpeg",
+      "url": "property-photo/44ec118ae/171920489/44ec118ae58d7f7f71508c6089a2fc43.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b08c9fece/171920489/b08c9fece929e266a8ef4883f5a48132_max_476x317.jpeg",
+      "url": "property-photo/b08c9fece/171920489/b08c9fece929e266a8ef4883f5a48132.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e697b13e4/171920489/e697b13e4e07b0764a9e72e945d49a7c_max_476x317.jpeg",
+      "url": "property-photo/e697b13e4/171920489/e697b13e4e07b0764a9e72e945d49a7c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6969471d5/171920489/6969471d55b2e4c078833c475a4238bd_max_476x317.jpeg",
+      "url": "property-photo/6969471d5/171920489/6969471d55b2e4c078833c475a4238bd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec0be189/171920489/7ec0be1891f07b32ddae408a7d27e81d_max_476x317.jpeg",
+      "url": "property-photo/7ec0be189/171920489/7ec0be1891f07b32ddae408a7d27e81d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f170a684/171920489/9f170a6841239ce23ff7ec9a04254810_max_476x317.jpeg",
+      "url": "property-photo/9f170a684/171920489/9f170a6841239ce23ff7ec9a04254810.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d28572fb7/171920489/d28572fb73b052d8ac8858842bdf3410_max_476x317.jpeg",
+      "url": "property-photo/d28572fb7/171920489/d28572fb73b052d8ac8858842bdf3410.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2025-08-05T14:57:05Z"
+  },
+  "price": {
+    "amount": 2059,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,059 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3475 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 73120,
+    "brandPlusLogoURI": "/74k/73120/branch_rmchoice_logo_73120_0000.jpeg",
+    "contactTelephone": "020 3909 6448",
+    "branchDisplayName": "Foxtons, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Clerkenwell-73120.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-19T12:30:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/74k/73120/branch_rmchoice_logo_73120_0000.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a32,375</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy,including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rentchecks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy wherethere are more than four individuals taking occupation of the property. The charge will not exceed this sum unless yourequest or cause one of the specific additional services or  fees  set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "431 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171920489#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171920489",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-06T06:50:14Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-09T11:41:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "8th floor floor studio flat",
+      "htmlDescription": "8th floor floor studio flat"
+    },
+    {
+      "order": 2,
+      "description": "Generous living space throughout",
+      "htmlDescription": "Generous living space throughout"
+    },
+    {
+      "order": 3,
+      "description": "Bright studio room with adjoining balcony",
+      "htmlDescription": "Bright studio room with adjoining balcony"
+    },
+    {
+      "order": 4,
+      "description": "Fantastic far reaching City views",
+      "htmlDescription": "Fantastic far reaching City views"
+    },
+    {
+      "order": 5,
+      "description": "Fully fitted kitchen, stylish bathroom",
+      "htmlDescription": "Fully fitted kitchen, stylish bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Secure and well-maintained building with concierge",
+      "htmlDescription": "Secure and well-maintained building with concierge"
+    },
+    {
+      "order": 7,
+      "description": "Moments from trendy Old Street",
+      "htmlDescription": "Moments from trendy Old Street"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf_max_476x317.jpeg",
+        "url": "property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44ec118ae/171920489/44ec118ae58d7f7f71508c6089a2fc43_max_476x317.jpeg",
+        "url": "property-photo/44ec118ae/171920489/44ec118ae58d7f7f71508c6089a2fc43.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b08c9fece/171920489/b08c9fece929e266a8ef4883f5a48132_max_476x317.jpeg",
+        "url": "property-photo/b08c9fece/171920489/b08c9fece929e266a8ef4883f5a48132.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e697b13e4/171920489/e697b13e4e07b0764a9e72e945d49a7c_max_476x317.jpeg",
+        "url": "property-photo/e697b13e4/171920489/e697b13e4e07b0764a9e72e945d49a7c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6969471d5/171920489/6969471d55b2e4c078833c475a4238bd_max_476x317.jpeg",
+        "url": "property-photo/6969471d5/171920489/6969471d55b2e4c078833c475a4238bd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec0be189/171920489/7ec0be1891f07b32ddae408a7d27e81d_max_476x317.jpeg",
+        "url": "property-photo/7ec0be189/171920489/7ec0be1891f07b32ddae408a7d27e81d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f170a684/171920489/9f170a6841239ce23ff7ec9a04254810_max_476x317.jpeg",
+        "url": "property-photo/9f170a684/171920489/9f170a6841239ce23ff7ec9a04254810.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d28572fb7/171920489/d28572fb73b052d8ac8858842bdf3410_max_476x317.jpeg",
+        "url": "property-photo/d28572fb7/171920489/d28572fb73b052d8ac8858842bdf3410.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/764be9657/171920489/764be9657ea8d9ce28e983b8807fbccf_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Clerkenwell",
+  "addedOrReduced": "Added on 05/08/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

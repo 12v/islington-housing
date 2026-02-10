@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-09T22:28:27.863380+00:00",
+  "postcode": "N1 9RW",
+  "id": 170461217,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Experience a truly convenient lifestyle in the heart of the city at Ice Wharf. This two-bed, two-bath apartment boasts a private balcony with views of Regents Canal. Plus, the location is unbeatable, Ice Wharf is just steps away from the shops, restaurants, and entertainment of King's Cross and U...",
+  "displayAddress": "Ice Wharf, Kings Cross, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.534301,
+    "longitude": -0.121264
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039_max_476x317.jpeg",
+      "url": "property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9371d76b8/170461217/9371d76b804002148374897400575557_max_476x317.jpeg",
+      "url": "property-photo/9371d76b8/170461217/9371d76b804002148374897400575557.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f336987c/170461217/3f336987c3a07cc895e09c7197e60e6e_max_476x317.jpeg",
+      "url": "property-photo/3f336987c/170461217/3f336987c3a07cc895e09c7197e60e6e.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7267ab237/170461217/7267ab237b492aaf25b5515db526102b_max_476x317.jpeg",
+      "url": "property-photo/7267ab237/170461217/7267ab237b492aaf25b5515db526102b.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5cbbe4586/170461217/5cbbe45862137b3295917a0212ebad45_max_476x317.jpeg",
+      "url": "property-photo/5cbbe4586/170461217/5cbbe45862137b3295917a0212ebad45.jpeg",
+      "caption": "Bathroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44056f988/170461217/44056f988d7b0e940c5dd93cf43bf2aa_max_476x317.jpeg",
+      "url": "property-photo/44056f988/170461217/44056f988d7b0e940c5dd93cf43bf2aa.jpeg",
+      "caption": "Balcony"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/302ec55dd/170461217/302ec55ddc3ecf4c16d1d16fe025df3b_max_476x317.jpeg",
+      "url": "property-photo/302ec55dd/170461217/302ec55ddc3ecf4c16d1d16fe025df3b.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/084c675ff/170461217/084c675ff1cba4095a9b1a4098101c8d_max_476x317.jpeg",
+      "url": "property-photo/084c675ff/170461217/084c675ff1cba4095a9b1a4098101c8d.jpeg",
+      "caption": "Bathroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcbbb7ce6/170461217/dcbbb7ce697e1ae7de7f70d335e1343d_max_476x317.jpeg",
+      "url": "property-photo/dcbbb7ce6/170461217/dcbbb7ce697e1ae7de7f70d335e1343d.jpeg",
+      "caption": "Bathroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f20272558/170461217/f2027255820e898be8cf3f78ac271ebe_max_476x317.jpeg",
+      "url": "property-photo/f20272558/170461217/f2027255820e898be8cf3f78ac271ebe.jpeg",
+      "caption": "Communal Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42d2de87e/170461217/42d2de87e99e26c733679f2d7b1699be_max_476x317.jpeg",
+      "url": "property-photo/42d2de87e/170461217/42d2de87e99e26c733679f2d7b1699be.jpeg",
+      "caption": "Building"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-12-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-07T11:26:43Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 34047,
+    "brandPlusLogoURI": "/brand/brand_rmchoice_logo_11250_0007.jpeg",
+    "contactTelephone": "020 3856 4182",
+    "branchDisplayName": "Chase Apartments, London",
+    "branchName": "London",
+    "brandTradingName": "Chase Apartments",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Apartments/London-34047.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-19T12:57:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/brand/brand_rmchoice_logo_11250_0007.jpeg",
+    "primaryBrandColour": "#1c1c1c"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Available Now",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "758 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/170461217#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=170461217",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-12-19T16:22:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-09T03:41:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two bedrooms, two bathrooms",
+      "htmlDescription": "Two bedrooms, two bathrooms"
+    },
+    {
+      "order": 2,
+      "description": "Private gated development",
+      "htmlDescription": "Private gated development"
+    },
+    {
+      "order": 3,
+      "description": "24/7 security",
+      "htmlDescription": "24/7 security"
+    },
+    {
+      "order": 4,
+      "description": "Concierge services",
+      "htmlDescription": "Concierge services"
+    },
+    {
+      "order": 5,
+      "description": "Large reception room",
+      "htmlDescription": "Large reception room"
+    },
+    {
+      "order": 6,
+      "description": "Unbeatable location",
+      "htmlDescription": "Unbeatable location"
+    },
+    {
+      "order": 7,
+      "description": "758 sq. ft.",
+      "htmlDescription": "758 sq. ft."
+    },
+    {
+      "order": 8,
+      "description": "Garden space",
+      "htmlDescription": "Garden space"
+    },
+    {
+      "order": 9,
+      "description": "Walking distance to King's Cross",
+      "htmlDescription": "Walking distance to King's Cross"
+    },
+    {
+      "order": 10,
+      "description": "Bars & restaurants nearby",
+      "htmlDescription": "Bars & restaurants nearby"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039_max_476x317.jpeg",
+        "url": "property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9371d76b8/170461217/9371d76b804002148374897400575557_max_476x317.jpeg",
+        "url": "property-photo/9371d76b8/170461217/9371d76b804002148374897400575557.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f336987c/170461217/3f336987c3a07cc895e09c7197e60e6e_max_476x317.jpeg",
+        "url": "property-photo/3f336987c/170461217/3f336987c3a07cc895e09c7197e60e6e.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7267ab237/170461217/7267ab237b492aaf25b5515db526102b_max_476x317.jpeg",
+        "url": "property-photo/7267ab237/170461217/7267ab237b492aaf25b5515db526102b.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5cbbe4586/170461217/5cbbe45862137b3295917a0212ebad45_max_476x317.jpeg",
+        "url": "property-photo/5cbbe4586/170461217/5cbbe45862137b3295917a0212ebad45.jpeg",
+        "caption": "Bathroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44056f988/170461217/44056f988d7b0e940c5dd93cf43bf2aa_max_476x317.jpeg",
+        "url": "property-photo/44056f988/170461217/44056f988d7b0e940c5dd93cf43bf2aa.jpeg",
+        "caption": "Balcony"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/302ec55dd/170461217/302ec55ddc3ecf4c16d1d16fe025df3b_max_476x317.jpeg",
+        "url": "property-photo/302ec55dd/170461217/302ec55ddc3ecf4c16d1d16fe025df3b.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/084c675ff/170461217/084c675ff1cba4095a9b1a4098101c8d_max_476x317.jpeg",
+        "url": "property-photo/084c675ff/170461217/084c675ff1cba4095a9b1a4098101c8d.jpeg",
+        "caption": "Bathroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcbbb7ce6/170461217/dcbbb7ce697e1ae7de7f70d335e1343d_max_476x317.jpeg",
+        "url": "property-photo/dcbbb7ce6/170461217/dcbbb7ce697e1ae7de7f70d335e1343d.jpeg",
+        "caption": "Bathroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f20272558/170461217/f2027255820e898be8cf3f78ac271ebe_max_476x317.jpeg",
+        "url": "property-photo/f20272558/170461217/f2027255820e898be8cf3f78ac271ebe.jpeg",
+        "caption": "Communal Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42d2de87e/170461217/42d2de87e99e26c733679f2d7b1699be_max_476x317.jpeg",
+        "url": "property-photo/42d2de87e/170461217/42d2de87e99e26c733679f2d7b1699be.jpeg",
+        "caption": "Building"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32f5b9fe4/170461217/32f5b9fe432bdf69bfd83a7abe459039_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Apartments, London",
+  "addedOrReduced": "Reduced on 07/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
