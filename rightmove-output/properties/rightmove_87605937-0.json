@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-11T00:17:59.704322+00:00",
+  "postcode": "N7 6RP",
+  "id": 87605937,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "This brand new, fully refurbished two-bedroom ground-floor flat is available to rent and offers contemporary living in a popular North London location. Finished to a high standard throughout, the property provides approximately 60 sq. m. (645.8 sq. ft.) of well-planned accommodation, ideal for pr...",
+  "displayAddress": "Tollington Way, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56266,
+    "longitude": -0.119629
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e683856a7/87605937/e683856a7979db749556730524368af1_max_476x317.png",
+      "url": "property-photo/e683856a7/87605937/e683856a7979db749556730524368af1.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e5a75bb8/87605937/8e5a75bb88c4636beb191b9d1ab295b5_max_476x317.jpeg",
+      "url": "property-photo/8e5a75bb8/87605937/8e5a75bb88c4636beb191b9d1ab295b5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2374dbf82/87605937/2374dbf82df417a17b863e9a4b640ee4_max_476x317.jpeg",
+      "url": "property-photo/2374dbf82/87605937/2374dbf82df417a17b863e9a4b640ee4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ca59f97/87605937/a1ca59f9752168b42d638d3fc51809a2_max_476x317.jpeg",
+      "url": "property-photo/a1ca59f97/87605937/a1ca59f9752168b42d638d3fc51809a2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf8683b67/87605937/bf8683b676faf2cd24e98fd41f72f8a8_max_476x317.jpeg",
+      "url": "property-photo/bf8683b67/87605937/bf8683b676faf2cd24e98fd41f72f8a8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17224b1d5/87605937/17224b1d562e4df9a1c33b9c53c1c66d_max_476x317.jpeg",
+      "url": "property-photo/17224b1d5/87605937/17224b1d562e4df9a1c33b9c53c1c66d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe668fef1/87605937/fe668fef11cdeeb3c1fa86e29e8dd7d3_max_476x317.jpeg",
+      "url": "property-photo/fe668fef1/87605937/fe668fef11cdeeb3c1fa86e29e8dd7d3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c641e4cb7/87605937/c641e4cb7c300e8d882d021730d9d117_max_476x317.jpeg",
+      "url": "property-photo/c641e4cb7/87605937/c641e4cb7c300e8d882d021730d9d117.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-10T14:20:10Z"
+  },
+  "price": {
+    "amount": 2350,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,350 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3542 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 229781,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_70331_0001.jpeg",
+    "contactTelephone": "020 3834 8111",
+    "branchDisplayName": "Mays Management, London",
+    "branchName": "London",
+    "brandTradingName": "Mays Management",
+    "branchLandingPageUrl": "/estate-agents/agent/Mays-Management/London-229781.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:21Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_70331_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "645 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87605937#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87605937",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-10T14:14:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-10T14:20:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Brand new, fully refurbished ground-floor apartment",
+      "htmlDescription": "Brand new, fully refurbished ground-floor apartment"
+    },
+    {
+      "order": 2,
+      "description": "Two well-sized bedrooms",
+      "htmlDescription": "Two well-sized bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Fully fitted modern kitchen with integrated appliances",
+      "htmlDescription": "Fully fitted modern kitchen with integrated appliances"
+    },
+    {
+      "order": 4,
+      "description": "Bright living space with large double-glazed windows",
+      "htmlDescription": "Bright living space with large double-glazed windows"
+    },
+    {
+      "order": 5,
+      "description": "Contemporary tiled bathroom with bath/shower and accessories",
+      "htmlDescription": "Contemporary tiled bathroom with bath/shower and accessories"
+    },
+    {
+      "order": 6,
+      "description": "Private rear garden",
+      "htmlDescription": "Private rear garden"
+    },
+    {
+      "order": 7,
+      "description": "Excellent transport links and vibrant local amenities",
+      "htmlDescription": "Excellent transport links and vibrant local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e683856a7/87605937/e683856a7979db749556730524368af1_max_476x317.png",
+        "url": "property-photo/e683856a7/87605937/e683856a7979db749556730524368af1.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e5a75bb8/87605937/8e5a75bb88c4636beb191b9d1ab295b5_max_476x317.jpeg",
+        "url": "property-photo/8e5a75bb8/87605937/8e5a75bb88c4636beb191b9d1ab295b5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2374dbf82/87605937/2374dbf82df417a17b863e9a4b640ee4_max_476x317.jpeg",
+        "url": "property-photo/2374dbf82/87605937/2374dbf82df417a17b863e9a4b640ee4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ca59f97/87605937/a1ca59f9752168b42d638d3fc51809a2_max_476x317.jpeg",
+        "url": "property-photo/a1ca59f97/87605937/a1ca59f9752168b42d638d3fc51809a2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf8683b67/87605937/bf8683b676faf2cd24e98fd41f72f8a8_max_476x317.jpeg",
+        "url": "property-photo/bf8683b67/87605937/bf8683b676faf2cd24e98fd41f72f8a8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17224b1d5/87605937/17224b1d562e4df9a1c33b9c53c1c66d_max_476x317.jpeg",
+        "url": "property-photo/17224b1d5/87605937/17224b1d562e4df9a1c33b9c53c1c66d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe668fef1/87605937/fe668fef11cdeeb3c1fa86e29e8dd7d3_max_476x317.jpeg",
+        "url": "property-photo/fe668fef1/87605937/fe668fef11cdeeb3c1fa86e29e8dd7d3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c641e4cb7/87605937/c641e4cb7c300e8d882d021730d9d117_max_476x317.jpeg",
+        "url": "property-photo/c641e4cb7/87605937/c641e4cb7c300e8d882d021730d9d117.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e683856a7/87605937/e683856a7979db749556730524368af1_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e683856a7/87605937/e683856a7979db749556730524368af1_max_296x197.png"
+  },
+  "formattedBranchName": " by Mays Management, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

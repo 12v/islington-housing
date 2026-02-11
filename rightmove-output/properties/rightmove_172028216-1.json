@@ -1,0 +1,343 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-11T00:02:21.856188+00:00",
+  "postcode": "N5 2XG",
+  "id": 172028216,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 18,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Element Properties & Co are delighted to present this beautifully refurbished and well-maintained one-bedroom apartment, ideally located in the very heart of Highbury. Set on the raised ground floor of an elegant and well-preserved Georgian building, the property offers in excess o...",
+  "displayAddress": "Highbury Park, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55557,
+    "longitude": -0.09786
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3_max_476x317.jpeg",
+      "url": "property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ecc71d0/172028216/a1ecc71d0771425941d5784c21fdcafa_max_476x317.jpeg",
+      "url": "property-photo/a1ecc71d0/172028216/a1ecc71d0771425941d5784c21fdcafa.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2b4674ff/172028216/d2b4674ff028e0d969600cb8e006541c_max_476x317.jpeg",
+      "url": "property-photo/d2b4674ff/172028216/d2b4674ff028e0d969600cb8e006541c.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3224f9735/172028216/3224f9735ca0d644c65f50470882c660_max_476x317.jpeg",
+      "url": "property-photo/3224f9735/172028216/3224f9735ca0d644c65f50470882c660.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20585a476/172028216/20585a4767346ca4b28dff6aaa86bdb3_max_476x317.jpeg",
+      "url": "property-photo/20585a476/172028216/20585a4767346ca4b28dff6aaa86bdb3.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b178613df/172028216/b178613df3fa0050d86f04a10b17865a_max_476x317.jpeg",
+      "url": "property-photo/b178613df/172028216/b178613df3fa0050d86f04a10b17865a.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1493b037/172028216/d1493b037d2760a9406594ae5efdf2fe_max_476x317.jpeg",
+      "url": "property-photo/d1493b037/172028216/d1493b037d2760a9406594ae5efdf2fe.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cd38847f/172028216/8cd38847f7009540a3dc3c7445119548_max_476x317.jpeg",
+      "url": "property-photo/8cd38847f/172028216/8cd38847f7009540a3dc3c7445119548.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/070fab962/172028216/070fab96285323017968c7f1af6ff501_max_476x317.jpeg",
+      "url": "property-photo/070fab962/172028216/070fab96285323017968c7f1af6ff501.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9510ccf06/172028216/9510ccf06de12cabf9e28e56757e28a3_max_476x317.jpeg",
+      "url": "property-photo/9510ccf06/172028216/9510ccf06de12cabf9e28e56757e28a3.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fea37918b/172028216/fea37918b33d191c4c60eea482b1ded8_max_476x317.jpeg",
+      "url": "property-photo/fea37918b/172028216/fea37918b33d191c4c60eea482b1ded8.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70caf18cc/172028216/70caf18cc42a6e2f1c3cbbcf45f6c15a_max_476x317.jpeg",
+      "url": "property-photo/70caf18cc/172028216/70caf18cc42a6e2f1c3cbbcf45f6c15a.jpeg",
+      "caption": "Picture No. 24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c03963d8/172028216/2c03963d8630e7b523e57e0e8dae74d1_max_476x317.jpeg",
+      "url": "property-photo/2c03963d8/172028216/2c03963d8630e7b523e57e0e8dae74d1.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251ead75e/172028216/251ead75eaa963756840012331ce3264_max_476x317.jpeg",
+      "url": "property-photo/251ead75e/172028216/251ead75eaa963756840012331ce3264.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/509709a7a/172028216/509709a7a2c8bdcae5aeda43e6ceb21f_max_476x317.jpeg",
+      "url": "property-photo/509709a7a/172028216/509709a7a2c8bdcae5aeda43e6ceb21f.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa3e91675/172028216/aa3e91675b69e618f5be3c46eeff8fbd_max_476x317.jpeg",
+      "url": "property-photo/aa3e91675/172028216/aa3e91675b69e618f5be3c46eeff8fbd.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/499b32a7b/172028216/499b32a7b8b1f7c01e1757bc5c853b6f_max_476x317.jpeg",
+      "url": "property-photo/499b32a7b/172028216/499b32a7b8b1f7c01e1757bc5c853b6f.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b53a74594/172028216/b53a74594f99f882804b0c22ac043c4f_max_476x317.jpeg",
+      "url": "property-photo/b53a74594/172028216/b53a74594f99f882804b0c22ac043c4f.jpeg",
+      "caption": "Picture No. 22"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-09T16:55:05Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 221111,
+    "brandPlusLogoURI": "/222k/221111/branch_rmchoice_logo_221111_0002.jpeg",
+    "contactTelephone": "020 3906 2955",
+    "branchDisplayName": "Element Properties & Co, London",
+    "branchName": "London",
+    "brandTradingName": "Element Properties & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Element-Properties-and-Co/London-221111.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-01T04:17:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/222k/221111/branch_rmchoice_logo_221111_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "As well as paying the rent, you may also be required to make the following permitted payments. Permitted payments for properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments:<br /><br />\rOnce an offer has been accepted, preliminary monies equivalent to one weeks rent is payable which if you successfully enter into a tenancy agreement will be credited towards your Advance Rent.<br /><br />\rRent is payable in advance for each tenancy. You will therefore need to pay, as a minimum, the first months rent prior to the commencement of your tenancy, although the amount payable may differ dependent on the terms of your tenancy.<br /><br />\rDeposit: This is the equivalent of 5 weeks rent (if the annual rent is less than \u00a350,000) or 6 weeks rent (if the annual rent is \u00a350,000 or more), payable prior to the commencement of your tenancy.<br /><br />\rOther fees - Assured Shorthold Tenancies<br /><br />\rInterest on late payment of rent will be charged at a rate of 3% per annum over The Bank of England s base lending rate. This will not be levied until the rent is more than 14 days late.<br /><br />\rLost keys or other security devices: In the event that any keys or other security devices are lost and need to be replaced, you will be required to pay the costs of replacing them. If the loss results in locks needing to be changed, you will be required to pay the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys. If extra costs are incurred there will be a charge of \u00a35 per key (inc. VAT).<br /><br />\rContract variation, novation, amendment or change of occupant at the tenants request within an existing tenancy a contract fee of \u00a350 (inc. VAT), will be payable by the tenant. All requests will be subject to the landlords consent and approval.<br /><br />\rIn the event that you wish to leave your contract early, you will be required to pay the landlord s costs in re-letting the property as well as all rent, council tax and utilities due under the tenancy until the start date of the replacement tenancy. The costs will be no more than the maximum amount of rent outstanding on the tenancy.<br /><br />\rPayments to service providers in respect of utilities, communication services, TV licence and council tax.<br /><br />\rAdditional Information<br /><br />\rElement Properties are members of CMP membership number 003658 and PRS membership number PRS008137.<br /><br />",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172028216#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172028216",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-09T16:49:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-10T00:10:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "VIRTUAL TOUR AVAILABLE",
+      "htmlDescription": "VIRTUAL TOUR AVAILABLE"
+    },
+    {
+      "order": 2,
+      "description": "RECENTLY RENNOVATED",
+      "htmlDescription": "RECENTLY RENNOVATED"
+    },
+    {
+      "order": 3,
+      "description": "SEPARATE KITCHEN",
+      "htmlDescription": "SEPARATE KITCHEN"
+    },
+    {
+      "order": 4,
+      "description": "WELL KEPT BUILDING",
+      "htmlDescription": "WELL KEPT BUILDING"
+    },
+    {
+      "order": 5,
+      "description": "EPC BAND - C",
+      "htmlDescription": "EPC BAND - C"
+    },
+    {
+      "order": 6,
+      "description": "MOMENTS FROM 'HIGHBURY BARN'",
+      "htmlDescription": "MOMENTS FROM 'HIGHBURY BARN'"
+    },
+    {
+      "order": 7,
+      "description": "UNFURNISHED",
+      "htmlDescription": "UNFURNISHED"
+    },
+    {
+      "order": 8,
+      "description": "AVAILABLE 12TH APRIL",
+      "htmlDescription": "AVAILABLE 12TH APRIL"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3_max_476x317.jpeg",
+        "url": "property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ecc71d0/172028216/a1ecc71d0771425941d5784c21fdcafa_max_476x317.jpeg",
+        "url": "property-photo/a1ecc71d0/172028216/a1ecc71d0771425941d5784c21fdcafa.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2b4674ff/172028216/d2b4674ff028e0d969600cb8e006541c_max_476x317.jpeg",
+        "url": "property-photo/d2b4674ff/172028216/d2b4674ff028e0d969600cb8e006541c.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3224f9735/172028216/3224f9735ca0d644c65f50470882c660_max_476x317.jpeg",
+        "url": "property-photo/3224f9735/172028216/3224f9735ca0d644c65f50470882c660.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20585a476/172028216/20585a4767346ca4b28dff6aaa86bdb3_max_476x317.jpeg",
+        "url": "property-photo/20585a476/172028216/20585a4767346ca4b28dff6aaa86bdb3.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b178613df/172028216/b178613df3fa0050d86f04a10b17865a_max_476x317.jpeg",
+        "url": "property-photo/b178613df/172028216/b178613df3fa0050d86f04a10b17865a.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1493b037/172028216/d1493b037d2760a9406594ae5efdf2fe_max_476x317.jpeg",
+        "url": "property-photo/d1493b037/172028216/d1493b037d2760a9406594ae5efdf2fe.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cd38847f/172028216/8cd38847f7009540a3dc3c7445119548_max_476x317.jpeg",
+        "url": "property-photo/8cd38847f/172028216/8cd38847f7009540a3dc3c7445119548.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/070fab962/172028216/070fab96285323017968c7f1af6ff501_max_476x317.jpeg",
+        "url": "property-photo/070fab962/172028216/070fab96285323017968c7f1af6ff501.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9510ccf06/172028216/9510ccf06de12cabf9e28e56757e28a3_max_476x317.jpeg",
+        "url": "property-photo/9510ccf06/172028216/9510ccf06de12cabf9e28e56757e28a3.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fea37918b/172028216/fea37918b33d191c4c60eea482b1ded8_max_476x317.jpeg",
+        "url": "property-photo/fea37918b/172028216/fea37918b33d191c4c60eea482b1ded8.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70caf18cc/172028216/70caf18cc42a6e2f1c3cbbcf45f6c15a_max_476x317.jpeg",
+        "url": "property-photo/70caf18cc/172028216/70caf18cc42a6e2f1c3cbbcf45f6c15a.jpeg",
+        "caption": "Picture No. 24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c03963d8/172028216/2c03963d8630e7b523e57e0e8dae74d1_max_476x317.jpeg",
+        "url": "property-photo/2c03963d8/172028216/2c03963d8630e7b523e57e0e8dae74d1.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251ead75e/172028216/251ead75eaa963756840012331ce3264_max_476x317.jpeg",
+        "url": "property-photo/251ead75e/172028216/251ead75eaa963756840012331ce3264.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/509709a7a/172028216/509709a7a2c8bdcae5aeda43e6ceb21f_max_476x317.jpeg",
+        "url": "property-photo/509709a7a/172028216/509709a7a2c8bdcae5aeda43e6ceb21f.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa3e91675/172028216/aa3e91675b69e618f5be3c46eeff8fbd_max_476x317.jpeg",
+        "url": "property-photo/aa3e91675/172028216/aa3e91675b69e618f5be3c46eeff8fbd.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/499b32a7b/172028216/499b32a7b8b1f7c01e1757bc5c853b6f_max_476x317.jpeg",
+        "url": "property-photo/499b32a7b/172028216/499b32a7b8b1f7c01e1757bc5c853b6f.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b53a74594/172028216/b53a74594f99f882804b0c22ac043c4f_max_476x317.jpeg",
+        "url": "property-photo/b53a74594/172028216/b53a74594f99f882804b0c22ac043c4f.jpeg",
+        "caption": "Picture No. 22"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/035c2df7c/172028216/035c2df7c2bc382892cc9d61fe3593d3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Element Properties & Co, London",
+  "addedOrReduced": "Added on 09/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

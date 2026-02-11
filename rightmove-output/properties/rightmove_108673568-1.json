@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-11T00:03:05.297140+00:00",
+  "postcode": "N6 5LT",
+  "id": 108673568,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "A spacious first floor studio apartment set within an impressive period property, located about 10 minutes walk from Highgate tube station. This property features a large studio room with large sash windows, newly fitted kitchen, newly fitted fully tiled bathroom.",
+  "displayAddress": "Hornsey Lane, Highgate, N6",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.571646,
+    "longitude": -0.135301
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54_max_476x317.jpeg",
+      "url": "property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98ab52d8b/108673568/98ab52d8b6f4bc4dd0aae6a249d45ab9_max_476x317.jpeg",
+      "url": "property-photo/98ab52d8b/108673568/98ab52d8b6f4bc4dd0aae6a249d45ab9.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3df45c5d4/108673568/3df45c5d4c73a9c42ad08b7e5c084868_max_476x317.jpeg",
+      "url": "property-photo/3df45c5d4/108673568/3df45c5d4c73a9c42ad08b7e5c084868.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c570e0e09/108673568/c570e0e09409ba1bc7f22267bd9332c8_max_476x317.jpeg",
+      "url": "property-photo/c570e0e09/108673568/c570e0e09409ba1bc7f22267bd9332c8.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8927c86/108673568/fc8927c869dddc067ccf714156be9376_max_476x317.jpeg",
+      "url": "property-photo/fc8927c86/108673568/fc8927c869dddc067ccf714156be9376.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1281ac60/108673568/f1281ac60fa665d41df8b098d50c9244_max_476x317.jpeg",
+      "url": "property-photo/f1281ac60/108673568/f1281ac60fa665d41df8b098d50c9244.jpeg",
+      "caption": "Photo 6"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-21T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-09T07:56:43Z"
+  },
+  "price": {
+    "amount": 282,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,222 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3282 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57714,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_18078_0001.png",
+    "contactTelephone": "020 3910 6265",
+    "branchDisplayName": "Robert Lehrer Properties, London",
+    "branchName": "London",
+    "brandTradingName": "Robert Lehrer Properties",
+    "branchLandingPageUrl": "/estate-agents/agent/Robert-Lehrer-Properties/London-57714.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2023-03-13T14:47:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_18078_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/108673568#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=108673568",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2021-06-12T10:55:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-09T07:56:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54_max_476x317.jpeg",
+        "url": "property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98ab52d8b/108673568/98ab52d8b6f4bc4dd0aae6a249d45ab9_max_476x317.jpeg",
+        "url": "property-photo/98ab52d8b/108673568/98ab52d8b6f4bc4dd0aae6a249d45ab9.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3df45c5d4/108673568/3df45c5d4c73a9c42ad08b7e5c084868_max_476x317.jpeg",
+        "url": "property-photo/3df45c5d4/108673568/3df45c5d4c73a9c42ad08b7e5c084868.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c570e0e09/108673568/c570e0e09409ba1bc7f22267bd9332c8_max_476x317.jpeg",
+        "url": "property-photo/c570e0e09/108673568/c570e0e09409ba1bc7f22267bd9332c8.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8927c86/108673568/fc8927c869dddc067ccf714156be9376_max_476x317.jpeg",
+        "url": "property-photo/fc8927c86/108673568/fc8927c869dddc067ccf714156be9376.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1281ac60/108673568/f1281ac60fa665d41df8b098d50c9244_max_476x317.jpeg",
+        "url": "property-photo/f1281ac60/108673568/f1281ac60fa665d41df8b098d50c9244.jpeg",
+        "caption": "Photo 6"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18d364ec3/108673568/18d364ec304aa2869a1f38d7bc85ca54_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Robert Lehrer Properties, London",
+  "addedOrReduced": "Added on 09/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
