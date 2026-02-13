@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-12T20:51:48.143589+00:00",
+  "postcode": "EC1V 3RF",
+  "id": 45685774,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented and generously proportioned one-bedroom apartment extending to approximately 520 sq ft, set within a secure and well-maintained modern development on a quiet residential turning",
+  "displayAddress": "Seward Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526306,
+    "longitude": -0.098234
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c_max_476x317.jpeg",
+      "url": "property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37bc48514/45685774/37bc48514d7553eb0838250e2a7dbefe_max_476x317.jpeg",
+      "url": "property-photo/37bc48514/45685774/37bc48514d7553eb0838250e2a7dbefe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20518c380/45685774/20518c3801d544b2f9847cae744534b0_max_476x317.jpeg",
+      "url": "property-photo/20518c380/45685774/20518c3801d544b2f9847cae744534b0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab0f0c3a7/45685774/ab0f0c3a711579c1157e5f4abedd9ffb_max_476x317.jpeg",
+      "url": "property-photo/ab0f0c3a7/45685774/ab0f0c3a711579c1157e5f4abedd9ffb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16dd9566b/45685774/16dd9566b31785fcfeceba026d86cb14_max_476x317.jpeg",
+      "url": "property-photo/16dd9566b/45685774/16dd9566b31785fcfeceba026d86cb14.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69a53536f/45685774/69a53536fa695901dcc9d4069e6048d0_max_476x317.jpeg",
+      "url": "property-photo/69a53536f/45685774/69a53536fa695901dcc9d4069e6048d0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d38b23c3a/45685774/d38b23c3af3ee5d30065467a83b987be_max_476x317.jpeg",
+      "url": "property-photo/d38b23c3a/45685774/d38b23c3af3ee5d30065467a83b987be.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-12T09:08:00Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 11478,
+    "brandPlusLogoURI": "/brand/brand_rmchoice_logo_6729_0001.jpeg",
+    "contactTelephone": "020 3840 3862",
+    "branchDisplayName": "Felicity J Lord, Clerkenwell Lettings",
+    "branchName": "Clerkenwell Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Clerkenwell-Lettings-11478.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-30T00:22:24Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/brand/brand_rmchoice_logo_6729_0001.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/45685774#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=45685774",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2014-08-05T14:39:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-12T09:08:01Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious one bedroom flat",
+      "htmlDescription": "Spacious one bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Wood floors throughout",
+      "htmlDescription": "Wood floors throughout"
+    },
+    {
+      "order": 3,
+      "description": "Located between Angel and Barbican stations",
+      "htmlDescription": "Located between Angel and Barbican stations"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c_max_476x317.jpeg",
+        "url": "property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37bc48514/45685774/37bc48514d7553eb0838250e2a7dbefe_max_476x317.jpeg",
+        "url": "property-photo/37bc48514/45685774/37bc48514d7553eb0838250e2a7dbefe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20518c380/45685774/20518c3801d544b2f9847cae744534b0_max_476x317.jpeg",
+        "url": "property-photo/20518c380/45685774/20518c3801d544b2f9847cae744534b0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab0f0c3a7/45685774/ab0f0c3a711579c1157e5f4abedd9ffb_max_476x317.jpeg",
+        "url": "property-photo/ab0f0c3a7/45685774/ab0f0c3a711579c1157e5f4abedd9ffb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16dd9566b/45685774/16dd9566b31785fcfeceba026d86cb14_max_476x317.jpeg",
+        "url": "property-photo/16dd9566b/45685774/16dd9566b31785fcfeceba026d86cb14.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69a53536f/45685774/69a53536fa695901dcc9d4069e6048d0_max_476x317.jpeg",
+        "url": "property-photo/69a53536f/45685774/69a53536fa695901dcc9d4069e6048d0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d38b23c3a/45685774/d38b23c3af3ee5d30065467a83b987be_max_476x317.jpeg",
+        "url": "property-photo/d38b23c3a/45685774/d38b23c3af3ee5d30065467a83b987be.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91f7e7994/45685774/91f7e79949927102eea821db2ba3fa4c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Clerkenwell Lettings",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
