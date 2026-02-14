@@ -1,0 +1,417 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-14T00:10:31.990477+00:00",
+  "postcode": "N7 0LT",
+  "id": 172182059,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 19,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Generous 3-bedroom apartment in Bakersfield Estate, Holloway. Includes modern interiors, off-street parking, lift access, and communal gardens. Located in a quiet gated development with excellent links to Central London.",
+  "displayAddress": "Crayford Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55556,
+    "longitude": -0.125889
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487_max_476x317.jpeg",
+      "url": "property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c59e38ff5/172182059/c59e38ff5f75593c00258eedaaec60f3_max_476x317.jpeg",
+      "url": "property-photo/c59e38ff5/172182059/c59e38ff5f75593c00258eedaaec60f3.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea166ff1e/172182059/ea166ff1e0ee9c370ce1a7703938c083_max_476x317.jpeg",
+      "url": "property-photo/ea166ff1e/172182059/ea166ff1e0ee9c370ce1a7703938c083.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5475eb2a/172182059/d5475eb2a1ddc7e6c0c4971282c1bbf5_max_476x317.jpeg",
+      "url": "property-photo/d5475eb2a/172182059/d5475eb2a1ddc7e6c0c4971282c1bbf5.jpeg",
+      "caption": "Picture No. 34"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51a429fd4/172182059/51a429fd4d4cf830af697390b1a82e74_max_476x317.jpeg",
+      "url": "property-photo/51a429fd4/172182059/51a429fd4d4cf830af697390b1a82e74.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfa20dbd/172182059/7dfa20dbdb146c9934d123b7ee626ae3_max_476x317.jpeg",
+      "url": "property-photo/7dfa20dbd/172182059/7dfa20dbdb146c9934d123b7ee626ae3.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec6989dd/172182059/7ec6989dd81e7bf5d5229a23b8d61e23_max_476x317.jpeg",
+      "url": "property-photo/7ec6989dd/172182059/7ec6989dd81e7bf5d5229a23b8d61e23.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa6ccb759/172182059/fa6ccb759c0bd5f366f6942f326084e3_max_476x317.jpeg",
+      "url": "property-photo/fa6ccb759/172182059/fa6ccb759c0bd5f366f6942f326084e3.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/197abc221/172182059/197abc221d83cd11f260763ba75071eb_max_476x317.jpeg",
+      "url": "property-photo/197abc221/172182059/197abc221d83cd11f260763ba75071eb.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/977f3884f/172182059/977f3884f759697383f175d0ff1f64f1_max_476x317.jpeg",
+      "url": "property-photo/977f3884f/172182059/977f3884f759697383f175d0ff1f64f1.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a49d5560c/172182059/a49d5560c67bae17ea0e24f88b77547f_max_476x317.jpeg",
+      "url": "property-photo/a49d5560c/172182059/a49d5560c67bae17ea0e24f88b77547f.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d605159c/172182059/9d605159c82bbe193d2c9a0fc2d06abb_max_476x317.jpeg",
+      "url": "property-photo/9d605159c/172182059/9d605159c82bbe193d2c9a0fc2d06abb.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/954ec9ff8/172182059/954ec9ff86c792a6d87de7dbaa502d00_max_476x317.jpeg",
+      "url": "property-photo/954ec9ff8/172182059/954ec9ff86c792a6d87de7dbaa502d00.jpeg",
+      "caption": "Picture No. 27"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ea4c8492/172182059/1ea4c8492d7ce4802d1217b04e1f5c15_max_476x317.jpeg",
+      "url": "property-photo/1ea4c8492/172182059/1ea4c8492d7ce4802d1217b04e1f5c15.jpeg",
+      "caption": "Picture No. 28"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91e22a509/172182059/91e22a50990b7fc5297836388141673d_max_476x317.jpeg",
+      "url": "property-photo/91e22a509/172182059/91e22a50990b7fc5297836388141673d.jpeg",
+      "caption": "Picture No. 29"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12eea1d91/172182059/12eea1d9178321b886eb186a89f9888b_max_476x317.jpeg",
+      "url": "property-photo/12eea1d91/172182059/12eea1d9178321b886eb186a89f9888b.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d92965dd5/172182059/d92965dd58ca4d70d1899be490a61ab8_max_476x317.jpeg",
+      "url": "property-photo/d92965dd5/172182059/d92965dd58ca4d70d1899be490a61ab8.jpeg",
+      "caption": "Picture No. 36"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96adbca22/172182059/96adbca22ad3ef719d4baf75fea93f2b_max_476x317.jpeg",
+      "url": "property-photo/96adbca22/172182059/96adbca22ad3ef719d4baf75fea93f2b.jpeg",
+      "caption": "Picture No. 35"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eb00829d/172182059/2eb00829d924f282fe3a3d85bf2667d1_max_476x317.jpeg",
+      "url": "property-photo/2eb00829d/172182059/2eb00829d924f282fe3a3d85bf2667d1.jpeg",
+      "caption": "Picture No. 17"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-09T13:23:05Z"
+  },
+  "price": {
+    "amount": 2475,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,475 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3571 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97670,
+    "brandPlusLogoURI": "/98k/97670/branch_rmchoice_logo_97670_0003.png",
+    "contactTelephone": "020 3893 8970",
+    "branchDisplayName": "Folio London, London",
+    "branchName": "London",
+    "brandTradingName": "Folio London",
+    "branchLandingPageUrl": "/estate-agents/agent/Folio-London/London-97670.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": true,
+    "buildToRentBenefits": [
+      {
+        "id": 24,
+        "label": "Pets allowed",
+        "icon": "dog",
+        "positionOnPage": 1
+      },
+      {
+        "id": 18,
+        "label": "Flexible tenancies",
+        "icon": "note",
+        "positionOnPage": 2
+      },
+      {
+        "id": 27,
+        "label": "Professional management",
+        "icon": "seal-tick",
+        "positionOnPage": 3
+      },
+      {
+        "id": 35,
+        "label": "Well connected",
+        "icon": "train",
+        "positionOnPage": 4
+      },
+      {
+        "id": 5,
+        "label": "Security",
+        "icon": "lock",
+        "positionOnPage": 5
+      },
+      {
+        "id": 17,
+        "label": "Exclusive community",
+        "icon": "exclusive",
+        "positionOnPage": 6
+      },
+      {
+        "id": 19,
+        "label": "Fully managed",
+        "icon": "seal-tick",
+        "positionOnPage": 7
+      },
+      {
+        "id": 34,
+        "label": "Transport links",
+        "icon": "train",
+        "positionOnPage": 8
+      }
+    ],
+    "updateDate": "2026-02-02T12:10:39Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/98k/97670/branch_rmchoice_logo_97670_0003.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Built for renters",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": false,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172182059#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172182059",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-13T15:27:08Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "BUILT_FOR_RENTERS",
+        "priority": 3
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-13T15:33:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "Pet Friendly",
+      "htmlDescription": "Pet Friendly"
+    },
+    {
+      "order": 3,
+      "description": "Peaceful & Quiet Gated Estate",
+      "htmlDescription": "Peaceful & Quiet Gated Estate"
+    },
+    {
+      "order": 4,
+      "description": "Off-Street Parking",
+      "htmlDescription": "Off-Street Parking"
+    },
+    {
+      "order": 5,
+      "description": "Lift Access",
+      "htmlDescription": "Lift Access"
+    },
+    {
+      "order": 6,
+      "description": "Communal Gardens",
+      "htmlDescription": "Communal Gardens"
+    },
+    {
+      "order": 7,
+      "description": "Secure Intercom System Linked to Mobile Phones",
+      "htmlDescription": "Secure Intercom System Linked to Mobile Phones"
+    },
+    {
+      "order": 8,
+      "description": "10-Minute Walk to Tufnell Park Station",
+      "htmlDescription": "10-Minute Walk to Tufnell Park Station"
+    },
+    {
+      "order": 9,
+      "description": "15-Minute Walk to Upper Holloway & Holloway Road Stations",
+      "htmlDescription": "15-Minute Walk to Upper Holloway & Holloway Road Stations"
+    },
+    {
+      "order": 10,
+      "description": "Excellent Local Amenities",
+      "htmlDescription": "Excellent Local Amenities"
+    }
+  ],
+  "formattedBranchName": " by Folio London, London",
+  "addedOrReduced": "Added on 09/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487_max_476x317.jpeg",
+        "url": "property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c59e38ff5/172182059/c59e38ff5f75593c00258eedaaec60f3_max_476x317.jpeg",
+        "url": "property-photo/c59e38ff5/172182059/c59e38ff5f75593c00258eedaaec60f3.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea166ff1e/172182059/ea166ff1e0ee9c370ce1a7703938c083_max_476x317.jpeg",
+        "url": "property-photo/ea166ff1e/172182059/ea166ff1e0ee9c370ce1a7703938c083.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5475eb2a/172182059/d5475eb2a1ddc7e6c0c4971282c1bbf5_max_476x317.jpeg",
+        "url": "property-photo/d5475eb2a/172182059/d5475eb2a1ddc7e6c0c4971282c1bbf5.jpeg",
+        "caption": "Picture No. 34"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51a429fd4/172182059/51a429fd4d4cf830af697390b1a82e74_max_476x317.jpeg",
+        "url": "property-photo/51a429fd4/172182059/51a429fd4d4cf830af697390b1a82e74.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfa20dbd/172182059/7dfa20dbdb146c9934d123b7ee626ae3_max_476x317.jpeg",
+        "url": "property-photo/7dfa20dbd/172182059/7dfa20dbdb146c9934d123b7ee626ae3.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ec6989dd/172182059/7ec6989dd81e7bf5d5229a23b8d61e23_max_476x317.jpeg",
+        "url": "property-photo/7ec6989dd/172182059/7ec6989dd81e7bf5d5229a23b8d61e23.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa6ccb759/172182059/fa6ccb759c0bd5f366f6942f326084e3_max_476x317.jpeg",
+        "url": "property-photo/fa6ccb759/172182059/fa6ccb759c0bd5f366f6942f326084e3.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/197abc221/172182059/197abc221d83cd11f260763ba75071eb_max_476x317.jpeg",
+        "url": "property-photo/197abc221/172182059/197abc221d83cd11f260763ba75071eb.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/977f3884f/172182059/977f3884f759697383f175d0ff1f64f1_max_476x317.jpeg",
+        "url": "property-photo/977f3884f/172182059/977f3884f759697383f175d0ff1f64f1.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a49d5560c/172182059/a49d5560c67bae17ea0e24f88b77547f_max_476x317.jpeg",
+        "url": "property-photo/a49d5560c/172182059/a49d5560c67bae17ea0e24f88b77547f.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d605159c/172182059/9d605159c82bbe193d2c9a0fc2d06abb_max_476x317.jpeg",
+        "url": "property-photo/9d605159c/172182059/9d605159c82bbe193d2c9a0fc2d06abb.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/954ec9ff8/172182059/954ec9ff86c792a6d87de7dbaa502d00_max_476x317.jpeg",
+        "url": "property-photo/954ec9ff8/172182059/954ec9ff86c792a6d87de7dbaa502d00.jpeg",
+        "caption": "Picture No. 27"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ea4c8492/172182059/1ea4c8492d7ce4802d1217b04e1f5c15_max_476x317.jpeg",
+        "url": "property-photo/1ea4c8492/172182059/1ea4c8492d7ce4802d1217b04e1f5c15.jpeg",
+        "caption": "Picture No. 28"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91e22a509/172182059/91e22a50990b7fc5297836388141673d_max_476x317.jpeg",
+        "url": "property-photo/91e22a509/172182059/91e22a50990b7fc5297836388141673d.jpeg",
+        "caption": "Picture No. 29"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12eea1d91/172182059/12eea1d9178321b886eb186a89f9888b_max_476x317.jpeg",
+        "url": "property-photo/12eea1d91/172182059/12eea1d9178321b886eb186a89f9888b.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d92965dd5/172182059/d92965dd58ca4d70d1899be490a61ab8_max_476x317.jpeg",
+        "url": "property-photo/d92965dd5/172182059/d92965dd58ca4d70d1899be490a61ab8.jpeg",
+        "caption": "Picture No. 36"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96adbca22/172182059/96adbca22ad3ef719d4baf75fea93f2b_max_476x317.jpeg",
+        "url": "property-photo/96adbca22/172182059/96adbca22ad3ef719d4baf75fea93f2b.jpeg",
+        "caption": "Picture No. 35"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eb00829d/172182059/2eb00829d924f282fe3a3d85bf2667d1_max_476x317.jpeg",
+        "url": "property-photo/2eb00829d/172182059/2eb00829d924f282fe3a3d85bf2667d1.jpeg",
+        "caption": "Picture No. 17"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f6df242/172182059/77f6df242c1fa563bc1b9b754357c487_max_296x197.jpeg"
+  },
+  "enhancedListing": false
+}

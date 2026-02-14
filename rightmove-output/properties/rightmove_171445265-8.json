@@ -1,0 +1,343 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-13T22:28:42.623125+00:00",
+  "postcode": "N1 9FU",
+  "id": 171445265,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 17,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A fifth floor one bedroom apartment for rent located within this sought after luxury development. The development is located 0.6KM (under 10 mins walk) from Kings Cross station and 0.5KM (under 10 mins walk) from Angel Station Residents can enjoy a swimming pool, gymnasium or c...",
+  "displayAddress": "Jefferson Court, Cynthia Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.532081,
+    "longitude": -0.113286
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851_max_476x317.jpeg",
+      "url": "property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0ee2fd5a/171445265/a0ee2fd5a775da9ae215d7b55c05d0be_max_476x317.jpeg",
+      "url": "property-photo/a0ee2fd5a/171445265/a0ee2fd5a775da9ae215d7b55c05d0be.jpeg",
+      "caption": "KITCHEN"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e16f0486/171445265/2e16f0486249c9e7febb387365162168_max_476x317.jpeg",
+      "url": "property-photo/2e16f0486/171445265/2e16f0486249c9e7febb387365162168.jpeg",
+      "caption": "BEDROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a04eb403c/171445265/a04eb403cb6c18286f90ca59adcddc42_max_476x317.jpeg",
+      "url": "property-photo/a04eb403c/171445265/a04eb403cb6c18286f90ca59adcddc42.jpeg",
+      "caption": "BATHROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9f5f5578/171445265/d9f5f5578b10ed673e283a7d02fd1572_max_476x317.jpeg",
+      "url": "property-photo/d9f5f5578/171445265/d9f5f5578b10ed673e283a7d02fd1572.jpeg",
+      "caption": "BALCONY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49b9770e3/171445265/49b9770e31f3a2724f28e94bf0d25d2d_max_476x317.jpeg",
+      "url": "property-photo/49b9770e3/171445265/49b9770e31f3a2724f28e94bf0d25d2d.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86c70eb56/171445265/86c70eb564683313bc4d50bb43e2719b_max_476x317.jpeg",
+      "url": "property-photo/86c70eb56/171445265/86c70eb564683313bc4d50bb43e2719b.jpeg",
+      "caption": "BEDROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c08d158da/171445265/c08d158da6156cba4505e839a9ec5b65_max_476x317.jpeg",
+      "url": "property-photo/c08d158da/171445265/c08d158da6156cba4505e839a9ec5b65.jpeg",
+      "caption": "BEDROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75c030083/171445265/75c030083e9488a9a38087e073b11e90_max_476x317.jpeg",
+      "url": "property-photo/75c030083/171445265/75c030083e9488a9a38087e073b11e90.jpeg",
+      "caption": "VIEW FROM BALCONY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50780180c/171445265/50780180c3e056e774c37be0e029c1ee_max_476x317.jpeg",
+      "url": "property-photo/50780180c/171445265/50780180c3e056e774c37be0e029c1ee.jpeg",
+      "caption": "RESIDENTS SWIMMING POOL"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ed1203e1/171445265/1ed1203e1090ab63fbf5c48b065e53f1_max_476x317.jpeg",
+      "url": "property-photo/1ed1203e1/171445265/1ed1203e1090ab63fbf5c48b065e53f1.jpeg",
+      "caption": "RESIDENTS GYM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7633211ff/171445265/7633211ff76267a78d55a50555faa7e3_max_476x317.jpeg",
+      "url": "property-photo/7633211ff/171445265/7633211ff76267a78d55a50555faa7e3.jpeg",
+      "caption": "RESIDENTS CINEMA"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce9cbe823/171445265/ce9cbe823e42b668d979fa065ffcb5ee_max_476x317.jpeg",
+      "url": "property-photo/ce9cbe823/171445265/ce9cbe823e42b668d979fa065ffcb5ee.jpeg",
+      "caption": "CONCIERGE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b70a86b29/171445265/b70a86b29b5dcb887c906a47f183fe13_max_476x317.jpeg",
+      "url": "property-photo/b70a86b29/171445265/b70a86b29b5dcb887c906a47f183fe13.jpeg",
+      "caption": "KINGS CROSS QUARTER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d89428973/171445265/d894289731558cfc01b59492d8bd6754_max_476x317.jpeg",
+      "url": "property-photo/d89428973/171445265/d894289731558cfc01b59492d8bd6754.jpeg",
+      "caption": "KINGS CROSS QUARTER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41a97c135/171445265/41a97c135f93baf5af23ee49f58556ec_max_476x317.jpeg",
+      "url": "property-photo/41a97c135/171445265/41a97c135f93baf5af23ee49f58556ec.jpeg",
+      "caption": "KINGS CROSS QUARTER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387d661db/171445265/387d661db6636c4ede7b60fbf9106a8f_max_476x317.jpeg",
+      "url": "property-photo/387d661db/171445265/387d661db6636c4ede7b60fbf9106a8f.jpeg",
+      "caption": "KINGS CROSS QUARTER"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-01-26T13:37:03Z"
+  },
+  "price": {
+    "amount": 710,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,077 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3710 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 29861,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_11720_0000.jpg",
+    "contactTelephone": "020 3879 9100",
+    "branchDisplayName": "CityZEN, London",
+    "branchName": "London",
+    "brandTradingName": "CityZEN",
+    "branchLandingPageUrl": "/estate-agents/agent/CityZEN/London-29861.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-09T12:40:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_11720_0000.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171445265#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171445265",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-26T13:31:32Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-13T05:31:47Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1 BEDROOM APARTMENT",
+      "htmlDescription": "1 BEDROOM APARTMENT"
+    },
+    {
+      "order": 2,
+      "description": "AVAILABLE FROM 31.03.2026",
+      "htmlDescription": "AVAILABLE FROM 31.03.2026"
+    },
+    {
+      "order": 3,
+      "description": "KINGS CROSS QUARTER",
+      "htmlDescription": "KINGS CROSS QUARTER"
+    },
+    {
+      "order": 4,
+      "description": "5th FLOOR",
+      "htmlDescription": "5th FLOOR"
+    },
+    {
+      "order": 5,
+      "description": "549 SQUARE FOOT",
+      "htmlDescription": "549 SQUARE FOOT"
+    },
+    {
+      "order": 6,
+      "description": "0.5KM TO ANGEL",
+      "htmlDescription": "0.5KM TO ANGEL"
+    },
+    {
+      "order": 7,
+      "description": "RESIDENTS POOL & GYM",
+      "htmlDescription": "RESIDENTS POOL & GYM"
+    },
+    {
+      "order": 8,
+      "description": "CINEMA",
+      "htmlDescription": "CINEMA"
+    },
+    {
+      "order": 9,
+      "description": "0.6 KM TO KINGS CROSS",
+      "htmlDescription": "0.6 KM TO KINGS CROSS"
+    },
+    {
+      "order": 10,
+      "description": "CONCIERGE",
+      "htmlDescription": "CONCIERGE"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851_max_476x317.jpeg",
+        "url": "property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0ee2fd5a/171445265/a0ee2fd5a775da9ae215d7b55c05d0be_max_476x317.jpeg",
+        "url": "property-photo/a0ee2fd5a/171445265/a0ee2fd5a775da9ae215d7b55c05d0be.jpeg",
+        "caption": "KITCHEN"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e16f0486/171445265/2e16f0486249c9e7febb387365162168_max_476x317.jpeg",
+        "url": "property-photo/2e16f0486/171445265/2e16f0486249c9e7febb387365162168.jpeg",
+        "caption": "BEDROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a04eb403c/171445265/a04eb403cb6c18286f90ca59adcddc42_max_476x317.jpeg",
+        "url": "property-photo/a04eb403c/171445265/a04eb403cb6c18286f90ca59adcddc42.jpeg",
+        "caption": "BATHROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9f5f5578/171445265/d9f5f5578b10ed673e283a7d02fd1572_max_476x317.jpeg",
+        "url": "property-photo/d9f5f5578/171445265/d9f5f5578b10ed673e283a7d02fd1572.jpeg",
+        "caption": "BALCONY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49b9770e3/171445265/49b9770e31f3a2724f28e94bf0d25d2d_max_476x317.jpeg",
+        "url": "property-photo/49b9770e3/171445265/49b9770e31f3a2724f28e94bf0d25d2d.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86c70eb56/171445265/86c70eb564683313bc4d50bb43e2719b_max_476x317.jpeg",
+        "url": "property-photo/86c70eb56/171445265/86c70eb564683313bc4d50bb43e2719b.jpeg",
+        "caption": "BEDROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c08d158da/171445265/c08d158da6156cba4505e839a9ec5b65_max_476x317.jpeg",
+        "url": "property-photo/c08d158da/171445265/c08d158da6156cba4505e839a9ec5b65.jpeg",
+        "caption": "BEDROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75c030083/171445265/75c030083e9488a9a38087e073b11e90_max_476x317.jpeg",
+        "url": "property-photo/75c030083/171445265/75c030083e9488a9a38087e073b11e90.jpeg",
+        "caption": "VIEW FROM BALCONY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50780180c/171445265/50780180c3e056e774c37be0e029c1ee_max_476x317.jpeg",
+        "url": "property-photo/50780180c/171445265/50780180c3e056e774c37be0e029c1ee.jpeg",
+        "caption": "RESIDENTS SWIMMING POOL"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ed1203e1/171445265/1ed1203e1090ab63fbf5c48b065e53f1_max_476x317.jpeg",
+        "url": "property-photo/1ed1203e1/171445265/1ed1203e1090ab63fbf5c48b065e53f1.jpeg",
+        "caption": "RESIDENTS GYM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7633211ff/171445265/7633211ff76267a78d55a50555faa7e3_max_476x317.jpeg",
+        "url": "property-photo/7633211ff/171445265/7633211ff76267a78d55a50555faa7e3.jpeg",
+        "caption": "RESIDENTS CINEMA"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce9cbe823/171445265/ce9cbe823e42b668d979fa065ffcb5ee_max_476x317.jpeg",
+        "url": "property-photo/ce9cbe823/171445265/ce9cbe823e42b668d979fa065ffcb5ee.jpeg",
+        "caption": "CONCIERGE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b70a86b29/171445265/b70a86b29b5dcb887c906a47f183fe13_max_476x317.jpeg",
+        "url": "property-photo/b70a86b29/171445265/b70a86b29b5dcb887c906a47f183fe13.jpeg",
+        "caption": "KINGS CROSS QUARTER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d89428973/171445265/d894289731558cfc01b59492d8bd6754_max_476x317.jpeg",
+        "url": "property-photo/d89428973/171445265/d894289731558cfc01b59492d8bd6754.jpeg",
+        "caption": "KINGS CROSS QUARTER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41a97c135/171445265/41a97c135f93baf5af23ee49f58556ec_max_476x317.jpeg",
+        "url": "property-photo/41a97c135/171445265/41a97c135f93baf5af23ee49f58556ec.jpeg",
+        "caption": "KINGS CROSS QUARTER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387d661db/171445265/387d661db6636c4ede7b60fbf9106a8f_max_476x317.jpeg",
+        "url": "property-photo/387d661db/171445265/387d661db6636c4ede7b60fbf9106a8f.jpeg",
+        "caption": "KINGS CROSS QUARTER"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4afe96ffc/171445265/4afe96ffcac445fb14bacce9381dc851_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CityZEN, London",
+  "addedOrReduced": "Added on 26/01/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
