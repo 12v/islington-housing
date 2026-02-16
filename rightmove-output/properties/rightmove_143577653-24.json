@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-16T00:02:41.810809+00:00",
+  "postcode": "N7 7BL",
+  "id": 143577653,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Fantastic one double bedroom apartment located moments from Holloway Road Station. Apartment benefits from wooden floors, fully tiled bathroom and fully fitted open plan kitchen/reception. Lovely high ceilings. Available 12th March 2026",
+  "displayAddress": "Benwell Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55157,
+    "longitude": -0.10961
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c_max_476x317.jpeg",
+      "url": "property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b195549ea/143577653/b195549ea474ed98805d71cc09ef1709_max_476x317.jpeg",
+      "url": "property-photo/b195549ea/143577653/b195549ea474ed98805d71cc09ef1709.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/caa5807ff/143577653/caa5807ff8ab4da88e7f582efca600ad_max_476x317.jpeg",
+      "url": "property-photo/caa5807ff/143577653/caa5807ff8ab4da88e7f582efca600ad.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/587899f89/143577653/587899f898cf1897b2640589aa5dc8ca_max_476x317.jpeg",
+      "url": "property-photo/587899f89/143577653/587899f898cf1897b2640589aa5dc8ca.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/609e567c2/143577653/609e567c2c3e3a1d14f4419ffad9bb1d_max_476x317.jpeg",
+      "url": "property-photo/609e567c2/143577653/609e567c2c3e3a1d14f4419ffad9bb1d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92aa6b2ee/143577653/92aa6b2ee668931f9b933279e2182c8f_max_476x317.jpeg",
+      "url": "property-photo/92aa6b2ee/143577653/92aa6b2ee668931f9b933279e2182c8f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/567155166/143577653/5671551662f02df564ab25a3a6dab344_max_476x317.jpeg",
+      "url": "property-photo/567155166/143577653/5671551662f02df564ab25a3a6dab344.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2f31d1f9/143577653/f2f31d1f97105bb16db83f70e2b9b46a_max_476x317.jpeg",
+      "url": "property-photo/f2f31d1f9/143577653/f2f31d1f97105bb16db83f70e2b9b46a.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-06T12:43:04Z"
+  },
+  "price": {
+    "amount": 2300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3531 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 55234,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_21799_0000.png",
+    "contactTelephone": "020 7519 0000",
+    "branchDisplayName": "Tower Quay Limited, London",
+    "branchName": "London",
+    "brandTradingName": "Tower Quay Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Tower-Quay-Limited/London-55234.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-06-06T09:11:33Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_21799_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "678 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/143577653#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=143577653",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2024-01-12T11:15:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-15T05:32:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom",
+      "htmlDescription": "One double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Furnished/Unfurnised",
+      "htmlDescription": "Furnished/Unfurnised"
+    },
+    {
+      "order": 3,
+      "description": "Wooden floors throughout",
+      "htmlDescription": "Wooden floors throughout"
+    },
+    {
+      "order": 4,
+      "description": "Fully fitted kitchen",
+      "htmlDescription": "Fully fitted kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Moments from Holloway Station",
+      "htmlDescription": "Moments from Holloway Station"
+    },
+    {
+      "order": 6,
+      "description": "Early viewings highly recommended",
+      "htmlDescription": "Early viewings highly recommended"
+    },
+    {
+      "order": 7,
+      "description": "First floor with lift",
+      "htmlDescription": "First floor with lift"
+    }
+  ],
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c_max_476x317.jpeg",
+        "url": "property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b195549ea/143577653/b195549ea474ed98805d71cc09ef1709_max_476x317.jpeg",
+        "url": "property-photo/b195549ea/143577653/b195549ea474ed98805d71cc09ef1709.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/caa5807ff/143577653/caa5807ff8ab4da88e7f582efca600ad_max_476x317.jpeg",
+        "url": "property-photo/caa5807ff/143577653/caa5807ff8ab4da88e7f582efca600ad.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/587899f89/143577653/587899f898cf1897b2640589aa5dc8ca_max_476x317.jpeg",
+        "url": "property-photo/587899f89/143577653/587899f898cf1897b2640589aa5dc8ca.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/609e567c2/143577653/609e567c2c3e3a1d14f4419ffad9bb1d_max_476x317.jpeg",
+        "url": "property-photo/609e567c2/143577653/609e567c2c3e3a1d14f4419ffad9bb1d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92aa6b2ee/143577653/92aa6b2ee668931f9b933279e2182c8f_max_476x317.jpeg",
+        "url": "property-photo/92aa6b2ee/143577653/92aa6b2ee668931f9b933279e2182c8f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/567155166/143577653/5671551662f02df564ab25a3a6dab344_max_476x317.jpeg",
+        "url": "property-photo/567155166/143577653/5671551662f02df564ab25a3a6dab344.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2f31d1f9/143577653/f2f31d1f97105bb16db83f70e2b9b46a_max_476x317.jpeg",
+        "url": "property-photo/f2f31d1f9/143577653/f2f31d1f97105bb16db83f70e2b9b46a.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/640297715/143577653/64029771509b017cb293e744abf02b5c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Tower Quay Limited, London",
+  "addedOrReduced": "Reduced on 06/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": ""
+}

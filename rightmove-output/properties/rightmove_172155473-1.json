@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-15T21:35:41.272598+00:00",
+  "postcode": "N1 1QB",
+  "id": 172155473,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Attractive three bedroom maisonette in the heart of Islington.",
+  "displayAddress": "Islington Park Street, Barnsbury, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.543124,
+    "longitude": -0.104557
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c_max_476x317.jpeg",
+      "url": "property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd2de333a/172155473/dd2de333a9036189c550a8c35c8db7cc_max_476x317.jpeg",
+      "url": "property-photo/dd2de333a/172155473/dd2de333a9036189c550a8c35c8db7cc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1415cba96/172155473/1415cba96f78c18eaeb5b77119da7686_max_476x317.jpeg",
+      "url": "property-photo/1415cba96/172155473/1415cba96f78c18eaeb5b77119da7686.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/371afab87/172155473/371afab87c28911c5c2d8615c08f4dff_max_476x317.jpeg",
+      "url": "property-photo/371afab87/172155473/371afab87c28911c5c2d8615c08f4dff.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/372e36a69/172155473/372e36a6900a2b4f427b8369f26cbf8b_max_476x317.jpeg",
+      "url": "property-photo/372e36a69/172155473/372e36a6900a2b4f427b8369f26cbf8b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6351727f6/172155473/6351727f6106d810fc30c6e62dfeb1fa_max_476x317.jpeg",
+      "url": "property-photo/6351727f6/172155473/6351727f6106d810fc30c6e62dfeb1fa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b1444c13/172155473/5b1444c13112e5ac6b73d1a17d8e3ac3_max_476x317.jpeg",
+      "url": "property-photo/5b1444c13/172155473/5b1444c13112e5ac6b73d1a17d8e3ac3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dbd876483/172155473/dbd876483e0b31fe0bbdffa8f1340ac9_max_476x317.jpeg",
+      "url": "property-photo/dbd876483/172155473/dbd876483e0b31fe0bbdffa8f1340ac9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5f2c4feb/172155473/f5f2c4feb00c593322398a1a6fbc1a16_max_476x317.jpeg",
+      "url": "property-photo/f5f2c4feb/172155473/f5f2c4feb00c593322398a1a6fbc1a16.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-13T09:36:09Z"
+  },
+  "price": {
+    "amount": 3950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3912 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 107294,
+    "brandPlusLogoURI": "/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "contactTelephone": "020 3879 8986",
+    "branchDisplayName": "PG Estates, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "PG Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/PG-Estates/Islington-107294.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-01T05:15:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (DO2390)<br />Client Money Protection provided by: Propertymark (ARLA) (C0013958)",
+  "displaySize": "818 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172155473#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172155473",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-13T09:30:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-14T00:15:39Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Family bathroom",
+      "htmlDescription": "Family bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Patio garden",
+      "htmlDescription": "Patio garden"
+    },
+    {
+      "order": 5,
+      "description": "Close to Upper St and Highbury and Islington station",
+      "htmlDescription": "Close to Upper St and Highbury and Islington station"
+    },
+    {
+      "order": 6,
+      "description": "Part furnished",
+      "htmlDescription": "Part furnished"
+    },
+    {
+      "order": 7,
+      "description": "Available 8th April 2026",
+      "htmlDescription": "Available 8th April 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c_max_476x317.jpeg",
+        "url": "property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd2de333a/172155473/dd2de333a9036189c550a8c35c8db7cc_max_476x317.jpeg",
+        "url": "property-photo/dd2de333a/172155473/dd2de333a9036189c550a8c35c8db7cc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1415cba96/172155473/1415cba96f78c18eaeb5b77119da7686_max_476x317.jpeg",
+        "url": "property-photo/1415cba96/172155473/1415cba96f78c18eaeb5b77119da7686.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/371afab87/172155473/371afab87c28911c5c2d8615c08f4dff_max_476x317.jpeg",
+        "url": "property-photo/371afab87/172155473/371afab87c28911c5c2d8615c08f4dff.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/372e36a69/172155473/372e36a6900a2b4f427b8369f26cbf8b_max_476x317.jpeg",
+        "url": "property-photo/372e36a69/172155473/372e36a6900a2b4f427b8369f26cbf8b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6351727f6/172155473/6351727f6106d810fc30c6e62dfeb1fa_max_476x317.jpeg",
+        "url": "property-photo/6351727f6/172155473/6351727f6106d810fc30c6e62dfeb1fa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b1444c13/172155473/5b1444c13112e5ac6b73d1a17d8e3ac3_max_476x317.jpeg",
+        "url": "property-photo/5b1444c13/172155473/5b1444c13112e5ac6b73d1a17d8e3ac3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dbd876483/172155473/dbd876483e0b31fe0bbdffa8f1340ac9_max_476x317.jpeg",
+        "url": "property-photo/dbd876483/172155473/dbd876483e0b31fe0bbdffa8f1340ac9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5f2c4feb/172155473/f5f2c4feb00c593322398a1a6fbc1a16_max_476x317.jpeg",
+        "url": "property-photo/f5f2c4feb/172155473/f5f2c4feb00c593322398a1a6fbc1a16.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ad86256/172155473/33ad8625667d4004f7e6550f8ca37c6c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by PG Estates, Islington",
+  "addedOrReduced": "Added on 13/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
