@@ -1,0 +1,142 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-21T22:28:39.665476+00:00",
+  "postcode": "N19 3HY",
+  "id": 172407575,
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "numberOfImages": 2,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly refurbished Double Room.",
+  "displayAddress": "Fairbridge Road, N19 3HY",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56613,
+    "longitude": -0.12675
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2_max_476x317.jpeg",
+      "url": "property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4b61095d/172407575/f4b61095d9a4f58cd75bed89fc19c199_max_476x317.jpeg",
+      "url": "property-photo/f4b61095d/172407575/f4b61095d9a4f58cd75bed89fc19c199.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-19T16:15:08Z"
+  },
+  "price": {
+    "amount": 800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3185 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 273656,
+    "brandPlusLogoURI": "/274k/273656/branch_rmchoice_logo_273656_0000.png",
+    "contactTelephone": "020 7123 9313",
+    "branchDisplayName": "LRS Residential, London",
+    "branchName": "London",
+    "brandTradingName": "LRS Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/LRS-Residential/London-273656.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:25Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/274k/273656/branch_rmchoice_logo_273656_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172407575#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172407575",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-19T16:10:00Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-19T16:15:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2_max_476x317.jpeg",
+        "url": "property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4b61095d/172407575/f4b61095d9a4f58cd75bed89fc19c199_max_476x317.jpeg",
+        "url": "property-photo/f4b61095d/172407575/f4b61095d9a4f58cd75bed89fc19c199.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94f55d93/172407575/c94f55d9371800242b56cfdcdd3365c2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by LRS Residential, London",
+  "addedOrReduced": "Added on 19/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house share",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
