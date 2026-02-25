@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-24T20:48:20.851127+00:00",
+  "postcode": "EC1V 2AR",
+  "id": 171504221,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Welcome to this exquisite two-bedroom, two-bathroom apartment located on Dingley Road in the heart of London. This property is part of a new development, offering modern living with luxury amenities that cater to a sophisticated lifestyle. As you enter the apartment, you will be greeted...",
+  "displayAddress": "Valencia Tower, 250 City Road",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528961,
+    "longitude": -0.094477
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c_max_476x317.png",
+      "url": "property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65699a5dd/171504221/65699a5ddab783896c5f16581b484633_max_476x317.jpeg",
+      "url": "property-photo/65699a5dd/171504221/65699a5ddab783896c5f16581b484633.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b2d2ea4/171504221/46b2d2ea4b05a98e1194e82f5b1a1917_max_476x317.jpeg",
+      "url": "property-photo/46b2d2ea4/171504221/46b2d2ea4b05a98e1194e82f5b1a1917.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e069c087/171504221/3e069c08797d9640386963bcc43e6bf9_max_476x317.png",
+      "url": "property-photo/3e069c087/171504221/3e069c08797d9640386963bcc43e6bf9.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cabfb8fad/171504221/cabfb8fada6d0b62ef50aee5fefe1b22_max_476x317.png",
+      "url": "property-photo/cabfb8fad/171504221/cabfb8fada6d0b62ef50aee5fefe1b22.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e490d8601/171504221/e490d8601d2647f8c549f85331f7f092_max_476x317.png",
+      "url": "property-photo/e490d8601/171504221/e490d8601d2647f8c549f85331f7f092.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-24T10:25:17Z"
+  },
+  "price": {
+    "amount": 3800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3877 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 235805,
+    "brandPlusLogoURI": "/236k/235805/branch_rmchoice_logo_235805_0000.jpeg",
+    "contactTelephone": "020 3909 8891",
+    "branchDisplayName": "AP Living London, London",
+    "branchName": "London",
+    "brandTradingName": "AP Living London",
+    "branchLandingPageUrl": "/estate-agents/agent/AP-Living-London/London-235805.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/236k/235805/branch_rmchoice_logo_235805_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/171504221#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=171504221",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-01-27T15:48:00Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-24T10:25:27Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c_max_476x317.png",
+        "url": "property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65699a5dd/171504221/65699a5ddab783896c5f16581b484633_max_476x317.jpeg",
+        "url": "property-photo/65699a5dd/171504221/65699a5ddab783896c5f16581b484633.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b2d2ea4/171504221/46b2d2ea4b05a98e1194e82f5b1a1917_max_476x317.jpeg",
+        "url": "property-photo/46b2d2ea4/171504221/46b2d2ea4b05a98e1194e82f5b1a1917.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e069c087/171504221/3e069c08797d9640386963bcc43e6bf9_max_476x317.png",
+        "url": "property-photo/3e069c087/171504221/3e069c08797d9640386963bcc43e6bf9.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cabfb8fad/171504221/cabfb8fada6d0b62ef50aee5fefe1b22_max_476x317.png",
+        "url": "property-photo/cabfb8fad/171504221/cabfb8fada6d0b62ef50aee5fefe1b22.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e490d8601/171504221/e490d8601d2647f8c549f85331f7f092_max_476x317.png",
+        "url": "property-photo/e490d8601/171504221/e490d8601d2647f8c549f85331f7f092.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eba521fc9/171504221/eba521fc91f30f5900edc34225ad647c_max_296x197.png"
+  },
+  "formattedBranchName": " by AP Living London, London",
+  "addedOrReduced": "Reduced today"
+}

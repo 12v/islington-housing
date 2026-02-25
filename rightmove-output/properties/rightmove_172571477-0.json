@@ -1,0 +1,218 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-25T00:33:50.280751+00:00",
+  "postcode": "WC1X 0DN",
+  "id": 172571477,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stylish two\u00bfbed, two\u00bfbath apartment in Postmark Phase 4 with two balconies and high-end furnishings.",
+  "displayAddress": "Watermark House, WC1X",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52542,
+    "longitude": -0.11292
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1_max_476x317.jpeg",
+      "url": "property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1.jpeg",
+      "caption": " (Main)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff955d138/172571477/ff955d1383b3cf070c6bc0514880b854_max_476x317.jpeg",
+      "url": "property-photo/ff955d138/172571477/ff955d1383b3cf070c6bc0514880b854.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29473107f/172571477/29473107f1c38e657876166d5c606262_max_476x317.jpeg",
+      "url": "property-photo/29473107f/172571477/29473107f1c38e657876166d5c606262.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e0217ddb/172571477/7e0217ddb07855f8ca91cf78e5de7c9d_max_476x317.jpeg",
+      "url": "property-photo/7e0217ddb/172571477/7e0217ddb07855f8ca91cf78e5de7c9d.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f06ae0bbb/172571477/f06ae0bbb9e26b99f58861fb8db3c09c_max_476x317.jpeg",
+      "url": "property-photo/f06ae0bbb/172571477/f06ae0bbb9e26b99f58861fb8db3c09c.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bb7ffd27/172571477/7bb7ffd279ad52379c380527d7950fcb_max_476x317.jpeg",
+      "url": "property-photo/7bb7ffd27/172571477/7bb7ffd279ad52379c380527d7950fcb.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fbde8c14/172571477/3fbde8c144856ac5bcbe6d91c1390ed6_max_476x317.jpeg",
+      "url": "property-photo/3fbde8c14/172571477/3fbde8c144856ac5bcbe6d91c1390ed6.jpeg",
+      "caption": "Other"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-24T20:01:02Z"
+  },
+  "price": {
+    "amount": 5500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a35,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,269 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 257840,
+    "brandPlusLogoURI": "/258k/257840/branch_rmchoice_logo_257840_0001.jpeg",
+    "contactTelephone": "020 3984 9145",
+    "branchDisplayName": "Letting Engine, London",
+    "branchName": "London",
+    "brandTradingName": "Letting Engine",
+    "branchLandingPageUrl": "/estate-agents/agent/Letting-Engine/London-257840.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:25Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/258k/257840/branch_rmchoice_logo_257840_0001.jpeg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172571477#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172571477",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-24T19:55:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-24T20:01:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Brand new apartment",
+      "htmlDescription": "Brand new apartment"
+    },
+    {
+      "order": 2,
+      "description": "Two Balconies",
+      "htmlDescription": "Two Balconies"
+    },
+    {
+      "order": 3,
+      "description": "Comfort cooling & underfloor heating",
+      "htmlDescription": "Comfort cooling & underfloor heating"
+    },
+    {
+      "order": 4,
+      "description": "24-hour Concierge",
+      "htmlDescription": "24-hour Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Wellness Centre Access (Gym & Swimming Pool)",
+      "htmlDescription": "Wellness Centre Access (Gym & Swimming Pool)"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1_max_476x317.jpeg",
+        "url": "property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1.jpeg",
+        "caption": " (Main)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff955d138/172571477/ff955d1383b3cf070c6bc0514880b854_max_476x317.jpeg",
+        "url": "property-photo/ff955d138/172571477/ff955d1383b3cf070c6bc0514880b854.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29473107f/172571477/29473107f1c38e657876166d5c606262_max_476x317.jpeg",
+        "url": "property-photo/29473107f/172571477/29473107f1c38e657876166d5c606262.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e0217ddb/172571477/7e0217ddb07855f8ca91cf78e5de7c9d_max_476x317.jpeg",
+        "url": "property-photo/7e0217ddb/172571477/7e0217ddb07855f8ca91cf78e5de7c9d.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f06ae0bbb/172571477/f06ae0bbb9e26b99f58861fb8db3c09c_max_476x317.jpeg",
+        "url": "property-photo/f06ae0bbb/172571477/f06ae0bbb9e26b99f58861fb8db3c09c.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bb7ffd27/172571477/7bb7ffd279ad52379c380527d7950fcb_max_476x317.jpeg",
+        "url": "property-photo/7bb7ffd27/172571477/7bb7ffd279ad52379c380527d7950fcb.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fbde8c14/172571477/3fbde8c144856ac5bcbe6d91c1390ed6_max_476x317.jpeg",
+        "url": "property-photo/3fbde8c14/172571477/3fbde8c144856ac5bcbe6d91c1390ed6.jpeg",
+        "caption": "Other"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebd7eefba/172571477/ebd7eefba5cfc29127c217f9f18dccc1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Letting Engine, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
