@@ -1,0 +1,183 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-02-25T22:40:55.147635+00:00",
+  "postcode": "N19 4AG",
+  "id": 172346150,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Conversion flat on Elthorne Road, Archway: 1 bed + reception, shower bathroom. Part-furnished or unfurnished. Energy Rating C, Council Tax Band C. Permit parking, washing machine, gas central heating. No special accessibility. Now",
+  "displayAddress": "Elthorne Road, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56563,
+    "longitude": -0.13116
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e_max_476x317.jpeg",
+      "url": "property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-18T12:31:03Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 72329,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_28376_0000.jpeg",
+    "contactTelephone": "020 3840 3830",
+    "branchDisplayName": "Hanley Estates Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Hanley Estates Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Hanley-Estates-Ltd/London-72329.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-12T11:28:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_28376_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3403.85) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32019.23) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172346150#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172346150",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-18T12:25:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-25T11:57:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Conversion - Unfurnished",
+      "htmlDescription": "Conversion - Unfurnished"
+    },
+    {
+      "order": 2,
+      "description": "1 Bed + 1 Reception",
+      "htmlDescription": "1 Bed + 1 Reception"
+    },
+    {
+      "order": 3,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Shower",
+      "htmlDescription": "Shower"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : C",
+      "htmlDescription": "Energy Rating : C"
+    },
+    {
+      "order": 6,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 7,
+      "description": "No special accessibility",
+      "htmlDescription": "No special accessibility"
+    },
+    {
+      "order": 8,
+      "description": "Permit Parking",
+      "htmlDescription": "Permit Parking"
+    },
+    {
+      "order": 9,
+      "description": "Washing Machine",
+      "htmlDescription": "Washing Machine"
+    },
+    {
+      "order": 10,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e_max_476x317.jpeg",
+        "url": "property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0edfd79bd/172346150/0edfd79bdc19273ebdd4bf7048dd1e5e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hanley Estates Ltd, London",
+  "addedOrReduced": "Added on 18/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
