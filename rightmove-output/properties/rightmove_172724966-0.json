@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-01T00:06:32.833975+00:00",
+  "postcode": "N7 7FE",
+  "id": 172724966,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A fantastic 2 bedroom, 2 bathroom apartment set within Finsbury Court; part of the impressive Queensland Terrace development located in Islington. This designer furnished apartment includes an inviting living and dining area, fitted kitchen with integrated appliances, wood flooring, video entry s...",
+  "displayAddress": "Queensland Road, Islington, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553672,
+    "longitude": -0.108257
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e_max_476x317.jpeg",
+      "url": "property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26303afb5/172724966/26303afb5acbef7dae445cc0d2b28e84_max_476x317.jpeg",
+      "url": "property-photo/26303afb5/172724966/26303afb5acbef7dae445cc0d2b28e84.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a4129759/172724966/1a41297595fddd23ee6598d3ab6e21da_max_476x317.jpeg",
+      "url": "property-photo/1a4129759/172724966/1a41297595fddd23ee6598d3ab6e21da.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c85fb950/172724966/1c85fb9508fc3a7292bd92dc9efd06b2_max_476x317.jpeg",
+      "url": "property-photo/1c85fb950/172724966/1c85fb9508fc3a7292bd92dc9efd06b2.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b465d0871/172724966/b465d0871bedfc62a5fa27d9b76b3eb6_max_476x317.jpeg",
+      "url": "property-photo/b465d0871/172724966/b465d0871bedfc62a5fa27d9b76b3eb6.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aaa9e176c/172724966/aaa9e176c9a85f424ee99d84862717f4_max_476x317.jpeg",
+      "url": "property-photo/aaa9e176c/172724966/aaa9e176c9a85f424ee99d84862717f4.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b06972714/172724966/b06972714c712de47322184f43a2bafa_max_476x317.jpeg",
+      "url": "property-photo/b06972714/172724966/b06972714c712de47322184f43a2bafa.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c3dca0fc/172724966/0c3dca0fc81a06eca4a677c6d187cbb5_max_476x317.jpeg",
+      "url": "property-photo/0c3dca0fc/172724966/0c3dca0fc81a06eca4a677c6d187cbb5.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/967667ab3/172724966/967667ab30a607f1acece68e9c7d23f0_max_476x317.jpeg",
+      "url": "property-photo/967667ab3/172724966/967667ab30a607f1acece68e9c7d23f0.jpeg",
+      "caption": "Lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08e2d2b2b/172724966/08e2d2b2befe87f7125c9cc39f8ed8b5_max_476x317.jpeg",
+      "url": "property-photo/08e2d2b2b/172724966/08e2d2b2befe87f7125c9cc39f8ed8b5.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/607b9464c/172724966/607b9464ca637c003b5e5bad58dc9ab7_max_476x317.jpeg",
+      "url": "property-photo/607b9464c/172724966/607b9464ca637c003b5e5bad58dc9ab7.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/692fa4849/172724966/692fa4849ee91303e093a396145e1602_max_476x317.gif",
+      "url": "property-photo/692fa4849/172724966/692fa4849ee91303e093a396145e1602.gif",
+      "caption": "Floorplan"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-27T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-02-28T17:28:11Z"
+  },
+  "price": {
+    "amount": 610,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,643 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3610 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97423,
+    "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "contactTelephone": "020 3840 4014",
+    "branchDisplayName": "Chase Evans, City & Aldgate",
+    "branchName": "City & Aldgate",
+    "brandTradingName": "Chase Evans",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-01T03:54:39Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "787 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172724966#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172724966",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-28T17:22:40Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-02-28T17:28:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "- TWO DOUBLE BEDROOM APARTMENT",
+      "htmlDescription": "-    TWO DOUBLE BEDROOM APARTMENT"
+    },
+    {
+      "order": 2,
+      "description": "- TWO BATHROOMS",
+      "htmlDescription": "-    TWO BATHROOMS"
+    },
+    {
+      "order": 3,
+      "description": "- DESIGNER FURNISHED",
+      "htmlDescription": "-    DESIGNER FURNISHED"
+    },
+    {
+      "order": 4,
+      "description": "- VIDEO ENTRY SYSTEM",
+      "htmlDescription": "-    VIDEO ENTRY SYSTEM"
+    },
+    {
+      "order": 5,
+      "description": "- PRIVATE BALCONY",
+      "htmlDescription": "-    PRIVATE BALCONY"
+    },
+    {
+      "order": 6,
+      "description": "- 24-HOUR CONCIERGE SERVICE",
+      "htmlDescription": "-    24-HOUR CONCIERGE SERVICE"
+    },
+    {
+      "order": 7,
+      "description": "- NEAR TO EMIRATES STADIUM",
+      "htmlDescription": "-    NEAR TO EMIRATES STADIUM"
+    },
+    {
+      "order": 8,
+      "description": "- CLOSE TRANSPORT LINKS",
+      "htmlDescription": "-    CLOSE TRANSPORT LINKS"
+    },
+    {
+      "order": 9,
+      "description": "- 6 MINUTE WALK TO HOLLOWAY ROAD STATION",
+      "htmlDescription": "-    6 MINUTE WALK TO HOLLOWAY ROAD STATION"
+    },
+    {
+      "order": 10,
+      "description": "- 6 MINUTE WALK TO DRAYTON PARK STATION",
+      "htmlDescription": "-    6 MINUTE WALK TO DRAYTON PARK STATION"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e_max_476x317.jpeg",
+        "url": "property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26303afb5/172724966/26303afb5acbef7dae445cc0d2b28e84_max_476x317.jpeg",
+        "url": "property-photo/26303afb5/172724966/26303afb5acbef7dae445cc0d2b28e84.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a4129759/172724966/1a41297595fddd23ee6598d3ab6e21da_max_476x317.jpeg",
+        "url": "property-photo/1a4129759/172724966/1a41297595fddd23ee6598d3ab6e21da.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c85fb950/172724966/1c85fb9508fc3a7292bd92dc9efd06b2_max_476x317.jpeg",
+        "url": "property-photo/1c85fb950/172724966/1c85fb9508fc3a7292bd92dc9efd06b2.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b465d0871/172724966/b465d0871bedfc62a5fa27d9b76b3eb6_max_476x317.jpeg",
+        "url": "property-photo/b465d0871/172724966/b465d0871bedfc62a5fa27d9b76b3eb6.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aaa9e176c/172724966/aaa9e176c9a85f424ee99d84862717f4_max_476x317.jpeg",
+        "url": "property-photo/aaa9e176c/172724966/aaa9e176c9a85f424ee99d84862717f4.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b06972714/172724966/b06972714c712de47322184f43a2bafa_max_476x317.jpeg",
+        "url": "property-photo/b06972714/172724966/b06972714c712de47322184f43a2bafa.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c3dca0fc/172724966/0c3dca0fc81a06eca4a677c6d187cbb5_max_476x317.jpeg",
+        "url": "property-photo/0c3dca0fc/172724966/0c3dca0fc81a06eca4a677c6d187cbb5.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/967667ab3/172724966/967667ab30a607f1acece68e9c7d23f0_max_476x317.jpeg",
+        "url": "property-photo/967667ab3/172724966/967667ab30a607f1acece68e9c7d23f0.jpeg",
+        "caption": "Lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08e2d2b2b/172724966/08e2d2b2befe87f7125c9cc39f8ed8b5_max_476x317.jpeg",
+        "url": "property-photo/08e2d2b2b/172724966/08e2d2b2befe87f7125c9cc39f8ed8b5.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/607b9464c/172724966/607b9464ca637c003b5e5bad58dc9ab7_max_476x317.jpeg",
+        "url": "property-photo/607b9464c/172724966/607b9464ca637c003b5e5bad58dc9ab7.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/692fa4849/172724966/692fa4849ee91303e093a396145e1602_max_476x317.gif",
+        "url": "property-photo/692fa4849/172724966/692fa4849ee91303e093a396145e1602.gif",
+        "caption": "Floorplan"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/506268060/172724966/50626806025dd2a40c37bac64750246e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Evans, City & Aldgate",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
