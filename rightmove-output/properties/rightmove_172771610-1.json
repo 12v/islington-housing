@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-03T21:41:57.164471+00:00",
+  "postcode": "N1 1UN",
+  "id": 172771610,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Islington Square - Unusually large 1 Bed 1 bath apartment located in Islington square with concierge and communal landscaped gardens and 3 transport links on your doorstep. Markets restaurants & cafes nearby, measuring 624sq ft. Available 04/04/2026, offered furnished.",
+  "displayAddress": "Islington Square, 8 Esther Anne Place, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.538431,
+    "longitude": -0.104622
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3_max_476x317.jpeg",
+      "url": "property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6792ef82/172771610/b6792ef8252269d849d6cf78206cf665_max_476x317.jpeg",
+      "url": "property-photo/b6792ef82/172771610/b6792ef8252269d849d6cf78206cf665.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e704569aa/172771610/e704569aac1d1d25a3b0a7a59c895ec6_max_476x317.jpeg",
+      "url": "property-photo/e704569aa/172771610/e704569aac1d1d25a3b0a7a59c895ec6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d639f920f/172771610/d639f920fdf6fec9de2cc6b1e2b6cc12_max_476x317.jpeg",
+      "url": "property-photo/d639f920f/172771610/d639f920fdf6fec9de2cc6b1e2b6cc12.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7d24d632/172771610/f7d24d63264b8c1b50bc30938f26a87c_max_476x317.jpeg",
+      "url": "property-photo/f7d24d632/172771610/f7d24d63264b8c1b50bc30938f26a87c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/144aeb008/172771610/144aeb008338161faa9e604bdf697352_max_476x317.jpeg",
+      "url": "property-photo/144aeb008/172771610/144aeb008338161faa9e604bdf697352.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a70c2c34/172771610/8a70c2c34a722c759504fe9eae7e2516_max_476x317.jpeg",
+      "url": "property-photo/8a70c2c34/172771610/8a70c2c34a722c759504fe9eae7e2516.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4341545e/172771610/e4341545e8da4005c6e6888f2229b8d4_max_476x317.jpeg",
+      "url": "property-photo/e4341545e/172771610/e4341545e8da4005c6e6888f2229b8d4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/656cb4ff5/172771610/656cb4ff5d1a917feb7e64e0f636f1fc_max_476x317.jpeg",
+      "url": "property-photo/656cb4ff5/172771610/656cb4ff5d1a917feb7e64e0f636f1fc.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-02T15:45:07Z"
+  },
+  "price": {
+    "amount": 3600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,600 pcm",
+        "displayPriceQualifier": "Offers Over"
+      },
+      {
+        "displayPrice": "\u00a3831 pw",
+        "displayPriceQualifier": "Offers Over"
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 164990,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_52022_0004.jpeg",
+    "contactTelephone": "020 3840 3478",
+    "branchDisplayName": "Coldwell Banker Southbank, London",
+    "branchName": "London",
+    "brandTradingName": "Coldwell Banker Southbank",
+    "branchLandingPageUrl": "/estate-agents/agent/Coldwell-Banker-Southbank/London-164990.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-01T03:37:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_52022_0004.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": ".Tenant Fees<br />The only payments chargeable to the Tenant(s) in connection with Tenancies commencing from 1st June 2019 Fees and Charges for Tenants are as below.<br />The following is a detailed list of Fees and Charges that may be incurred during and after a Tenancy arranged by Coldwell Banker Southbank.<br /><br />The Rent<br />Damages Deposit - A refundable tenancy deposit capped at no more than five weeks rent where the annual rent is less than \u00a350,000, or six weeks rent where the total annual rent is \u00a350,000 or above.<br />Holding Deposit - A refundable holding deposit (to reserve a property) capped at no more than one weeks rent<br />Changes to a Tenancy - If the Tenant requests a change to a Tenancy Agreement after the Tenancy has commenced and the Landlord is in agreement, there will be a charge of GBP \u00a350 Inc. VAT to change the Tenancy. If additional (reasonable) costs are incurred in securing permissions for such a change with a third party, these costs will be passed to the Tenant.<br />Utilities and Council Tax - Payments in respect of utilities, communication services, TV licence and Council tax<br />Key Replacement - If keys, fobs or other security devices are lost or damaged by the Tenant and we have to replace them, the Tenant will be liable for the reasonable costs of their replacement.<br />Late Payment - Interest will be charged at 3% over the Bank of Englands base rate if a rent payment is more than 14 days overdue for each day that the payment remains outstanding.<br />Early Termination - If a Tenant wishes to terminate a Tenancy before the end of the fixed term or notice period contained in the Tenancy, the Tenant will be liable to pay the rent as required under the Tenancy until the end of the fixed term or notice period or until a suitable replacement tenant is found. The Tenant will also be liable for any losses incurred by the Landlord. Contractual Damages. In the event that the Landlord incurs costs due to the Tenants breach of contract or failure to fulfil the obligations contained in the contract, the Tenant will be liable for these costs.<br />(Charges correct as at 1st June 2019, subject to change without notice)<br />Client Money Protection (CMP) is provided by: ARLA/Property mark Certificate number C0133964 see CMP certificate<br />The Redress scheme is provided by The Property Ombudsman Scheme, Membership No: D13039-0",
+  "displaySize": "624 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172771610#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172771610",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-02T15:39:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-03T05:32:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Partially",
+      "htmlDescription": "Partially"
+    },
+    {
+      "order": 2,
+      "description": "Shops and amenities nearby",
+      "htmlDescription": "Shops and amenities nearby"
+    },
+    {
+      "order": 3,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Double glazing",
+      "htmlDescription": "Double glazing"
+    },
+    {
+      "order": 5,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 6,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 7,
+      "description": "Communal Garden",
+      "htmlDescription": "Communal Garden"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3_max_476x317.jpeg",
+        "url": "property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b6792ef82/172771610/b6792ef8252269d849d6cf78206cf665_max_476x317.jpeg",
+        "url": "property-photo/b6792ef82/172771610/b6792ef8252269d849d6cf78206cf665.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e704569aa/172771610/e704569aac1d1d25a3b0a7a59c895ec6_max_476x317.jpeg",
+        "url": "property-photo/e704569aa/172771610/e704569aac1d1d25a3b0a7a59c895ec6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d639f920f/172771610/d639f920fdf6fec9de2cc6b1e2b6cc12_max_476x317.jpeg",
+        "url": "property-photo/d639f920f/172771610/d639f920fdf6fec9de2cc6b1e2b6cc12.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7d24d632/172771610/f7d24d63264b8c1b50bc30938f26a87c_max_476x317.jpeg",
+        "url": "property-photo/f7d24d632/172771610/f7d24d63264b8c1b50bc30938f26a87c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/144aeb008/172771610/144aeb008338161faa9e604bdf697352_max_476x317.jpeg",
+        "url": "property-photo/144aeb008/172771610/144aeb008338161faa9e604bdf697352.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a70c2c34/172771610/8a70c2c34a722c759504fe9eae7e2516_max_476x317.jpeg",
+        "url": "property-photo/8a70c2c34/172771610/8a70c2c34a722c759504fe9eae7e2516.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4341545e/172771610/e4341545e8da4005c6e6888f2229b8d4_max_476x317.jpeg",
+        "url": "property-photo/e4341545e/172771610/e4341545e8da4005c6e6888f2229b8d4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/656cb4ff5/172771610/656cb4ff5d1a917feb7e64e0f636f1fc_max_476x317.jpeg",
+        "url": "property-photo/656cb4ff5/172771610/656cb4ff5d1a917feb7e64e0f636f1fc.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94ec127c4/172771610/94ec127c4fad1591c825e44f2aed22c3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Coldwell Banker Southbank, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
