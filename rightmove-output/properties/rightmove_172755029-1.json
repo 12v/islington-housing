@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-04T20:16:02.634668+00:00",
+  "postcode": "EC1A 4JQ",
+  "id": 172755029,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-proportioned two-bedroom apartment set within a purpose-built building on Aldersgate Street, EC1A. The property offers practical and comfortable living space, comprising a bright reception room, separate fitted kitchen, two bedrooms and a family bathroom. The apartment has a more tradit...",
+  "displayAddress": "Aldersgate Street, EC1A",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52095,
+    "longitude": -0.09796
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284_max_476x317.jpeg",
+      "url": "property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13024ddcc/172755029/13024ddcc15c32f0c4c063397a87efe4_max_476x317.jpeg",
+      "url": "property-photo/13024ddcc/172755029/13024ddcc15c32f0c4c063397a87efe4.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a7ddf292/172755029/6a7ddf29283c6955e032802e168087f0_max_476x317.jpeg",
+      "url": "property-photo/6a7ddf292/172755029/6a7ddf29283c6955e032802e168087f0.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f21e517bd/172755029/f21e517bdbf2de234ebed3de431b365b_max_476x317.jpeg",
+      "url": "property-photo/f21e517bd/172755029/f21e517bdbf2de234ebed3de431b365b.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a15236fe7/172755029/a15236fe7f31ca3e3929001460d1adc7_max_476x317.jpeg",
+      "url": "property-photo/a15236fe7/172755029/a15236fe7f31ca3e3929001460d1adc7.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bbd98017/172755029/6bbd98017d60d0b6cfd8d2e05a46929b_max_476x317.jpeg",
+      "url": "property-photo/6bbd98017/172755029/6bbd98017d60d0b6cfd8d2e05a46929b.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38fd949d4/172755029/38fd949d41285a049ca2dddf6e200bf4_max_476x317.jpeg",
+      "url": "property-photo/38fd949d4/172755029/38fd949d41285a049ca2dddf6e200bf4.jpeg",
+      "caption": "Image"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746ceb5bb/172755029/746ceb5bb50962cf96d34ddebc6954b0_max_476x317.jpeg",
+      "url": "property-photo/746ceb5bb/172755029/746ceb5bb50962cf96d34ddebc6954b0.jpeg",
+      "caption": "Image"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-02T12:06:05Z"
+  },
+  "price": {
+    "amount": 623,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3623 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 93215,
+    "brandPlusLogoURI": "/94k/93215/branch_rmchoice_logo_93215_0002.jpeg",
+    "contactTelephone": "020 3909 9633",
+    "branchDisplayName": "Druce, Marylebone",
+    "branchName": "Marylebone",
+    "brandTradingName": "Druce",
+    "branchLandingPageUrl": "/estate-agents/agent/Druce/Marylebone-93215.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-01T03:37:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/94k/93215/branch_rmchoice_logo_93215_0002.jpeg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172755029#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172755029",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-02T12:00:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-02T12:06:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two-bedroom apartment",
+      "htmlDescription": "Two-bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Spacious reception room",
+      "htmlDescription": "Spacious reception room"
+    },
+    {
+      "order": 4,
+      "description": "Traditional finish",
+      "htmlDescription": "Traditional finish"
+    },
+    {
+      "order": 5,
+      "description": "Prime EC1A location",
+      "htmlDescription": "Prime EC1A location"
+    },
+    {
+      "order": 6,
+      "description": "Close to Barbican & Farringdon stations",
+      "htmlDescription": "Close to Barbican & Farringdon stations"
+    },
+    {
+      "order": 7,
+      "description": "Walking distance to St Paul\u2019s",
+      "htmlDescription": "Walking distance to St Paul\u2019s"
+    },
+    {
+      "order": 8,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284_max_476x317.jpeg",
+        "url": "property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13024ddcc/172755029/13024ddcc15c32f0c4c063397a87efe4_max_476x317.jpeg",
+        "url": "property-photo/13024ddcc/172755029/13024ddcc15c32f0c4c063397a87efe4.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a7ddf292/172755029/6a7ddf29283c6955e032802e168087f0_max_476x317.jpeg",
+        "url": "property-photo/6a7ddf292/172755029/6a7ddf29283c6955e032802e168087f0.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f21e517bd/172755029/f21e517bdbf2de234ebed3de431b365b_max_476x317.jpeg",
+        "url": "property-photo/f21e517bd/172755029/f21e517bdbf2de234ebed3de431b365b.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a15236fe7/172755029/a15236fe7f31ca3e3929001460d1adc7_max_476x317.jpeg",
+        "url": "property-photo/a15236fe7/172755029/a15236fe7f31ca3e3929001460d1adc7.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bbd98017/172755029/6bbd98017d60d0b6cfd8d2e05a46929b_max_476x317.jpeg",
+        "url": "property-photo/6bbd98017/172755029/6bbd98017d60d0b6cfd8d2e05a46929b.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38fd949d4/172755029/38fd949d41285a049ca2dddf6e200bf4_max_476x317.jpeg",
+        "url": "property-photo/38fd949d4/172755029/38fd949d41285a049ca2dddf6e200bf4.jpeg",
+        "caption": "Image"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746ceb5bb/172755029/746ceb5bb50962cf96d34ddebc6954b0_max_476x317.jpeg",
+        "url": "property-photo/746ceb5bb/172755029/746ceb5bb50962cf96d34ddebc6954b0.jpeg",
+        "caption": "Image"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8b70ed22/172755029/c8b70ed2273f3631b1c846fd82f46284_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Druce, Marylebone",
+  "addedOrReduced": "Added on 02/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
