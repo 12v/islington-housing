@@ -1,0 +1,232 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-05T21:49:11.205363+00:00",
+  "postcode": "N1 2BW",
+  "id": 172810688,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "*** NEWLY RENOVATED *** Set within the well-maintained and sought-after block, this generously sized 1-bedroom flat offers comfortable living in a prime Islington location. The property is ideal for a professional tenant or couple looking for space, character, and convenience. T...",
+  "displayAddress": "Halton Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539642,
+    "longitude": -0.099434
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c_max_476x317.jpeg",
+      "url": "property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c.jpeg",
+      "caption": "IMG_6148.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47e44256f/172810688/47e44256f0544679b857d1ab7db547f1_max_476x317.png",
+      "url": "property-photo/47e44256f/172810688/47e44256f0544679b857d1ab7db547f1.png",
+      "caption": "Fircroft2.png"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86f440c38/172810688/86f440c387135c1f1258ee161776dd87_max_476x317.jpeg",
+      "url": "property-photo/86f440c38/172810688/86f440c387135c1f1258ee161776dd87.jpeg",
+      "caption": "IMG_6164.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a1566f0e/172810688/3a1566f0ec9168b38a8d20a0ed4ad1f5_max_476x317.jpeg",
+      "url": "property-photo/3a1566f0e/172810688/3a1566f0ec9168b38a8d20a0ed4ad1f5.jpeg",
+      "caption": "IMG_6154.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c3316a45/172810688/7c3316a45f2d783add180098a747517a_max_476x317.jpeg",
+      "url": "property-photo/7c3316a45/172810688/7c3316a45f2d783add180098a747517a.jpeg",
+      "caption": "IMG_6160.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09f6c1090/172810688/09f6c1090b4cb84465e39fa657c43951_max_476x317.jpeg",
+      "url": "property-photo/09f6c1090/172810688/09f6c1090b4cb84465e39fa657c43951.jpeg",
+      "caption": "IMG_6142.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2476634c4/172810688/2476634c4aa36b4f31dc14e1d30c2935_max_476x317.jpeg",
+      "url": "property-photo/2476634c4/172810688/2476634c4aa36b4f31dc14e1d30c2935.jpeg",
+      "caption": "IMG_6168.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e4e9206b/172810688/8e4e9206b4a745bd275ff52323e52ce3_max_476x317.jpeg",
+      "url": "property-photo/8e4e9206b/172810688/8e4e9206b4a745bd275ff52323e52ce3.jpeg",
+      "caption": "IMG_6174.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94ffaab0/172810688/c94ffaab0e36160f84c32e4f9a902ac6_max_476x317.jpeg",
+      "url": "property-photo/c94ffaab0/172810688/c94ffaab0e36160f84c32e4f9a902ac6.jpeg",
+      "caption": "IMG_6178.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc5f3e214/172810688/bc5f3e2145a8d5f16397da789085946a_max_476x317.jpeg",
+      "url": "property-photo/bc5f3e214/172810688/bc5f3e2145a8d5f16397da789085946a.jpeg",
+      "caption": "IMG_6140.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b4e94f28/172810688/2b4e94f284e21442cb46650f2bd763d6_max_476x317.jpeg",
+      "url": "property-photo/2b4e94f28/172810688/2b4e94f284e21442cb46650f2bd763d6.jpeg",
+      "caption": "IMG_6195 copy.jpg"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-03T12:46:09Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 298712,
+    "brandPlusLogoURI": "/299k/298712/branch_rmchoice_logo_298712_0000.jpeg",
+    "contactTelephone": "020 8016 3527",
+    "branchDisplayName": "Hunters, Highbury and Islington",
+    "branchName": "Highbury and Islington",
+    "brandTradingName": "Hunters",
+    "branchLandingPageUrl": "/estate-agents/agent/Hunters/Highbury-and-Islington-298712.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-13T17:43:33Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/299k/298712/branch_rmchoice_logo_298712_0000.jpeg",
+    "primaryBrandColour": "#173072"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172810688#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172810688",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-03T12:40:44Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-03T14:15:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c_max_476x317.jpeg",
+        "url": "property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c.jpeg",
+        "caption": "IMG_6148.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47e44256f/172810688/47e44256f0544679b857d1ab7db547f1_max_476x317.png",
+        "url": "property-photo/47e44256f/172810688/47e44256f0544679b857d1ab7db547f1.png",
+        "caption": "Fircroft2.png"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86f440c38/172810688/86f440c387135c1f1258ee161776dd87_max_476x317.jpeg",
+        "url": "property-photo/86f440c38/172810688/86f440c387135c1f1258ee161776dd87.jpeg",
+        "caption": "IMG_6164.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a1566f0e/172810688/3a1566f0ec9168b38a8d20a0ed4ad1f5_max_476x317.jpeg",
+        "url": "property-photo/3a1566f0e/172810688/3a1566f0ec9168b38a8d20a0ed4ad1f5.jpeg",
+        "caption": "IMG_6154.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c3316a45/172810688/7c3316a45f2d783add180098a747517a_max_476x317.jpeg",
+        "url": "property-photo/7c3316a45/172810688/7c3316a45f2d783add180098a747517a.jpeg",
+        "caption": "IMG_6160.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09f6c1090/172810688/09f6c1090b4cb84465e39fa657c43951_max_476x317.jpeg",
+        "url": "property-photo/09f6c1090/172810688/09f6c1090b4cb84465e39fa657c43951.jpeg",
+        "caption": "IMG_6142.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2476634c4/172810688/2476634c4aa36b4f31dc14e1d30c2935_max_476x317.jpeg",
+        "url": "property-photo/2476634c4/172810688/2476634c4aa36b4f31dc14e1d30c2935.jpeg",
+        "caption": "IMG_6168.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e4e9206b/172810688/8e4e9206b4a745bd275ff52323e52ce3_max_476x317.jpeg",
+        "url": "property-photo/8e4e9206b/172810688/8e4e9206b4a745bd275ff52323e52ce3.jpeg",
+        "caption": "IMG_6174.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c94ffaab0/172810688/c94ffaab0e36160f84c32e4f9a902ac6_max_476x317.jpeg",
+        "url": "property-photo/c94ffaab0/172810688/c94ffaab0e36160f84c32e4f9a902ac6.jpeg",
+        "caption": "IMG_6178.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc5f3e214/172810688/bc5f3e2145a8d5f16397da789085946a_max_476x317.jpeg",
+        "url": "property-photo/bc5f3e214/172810688/bc5f3e2145a8d5f16397da789085946a.jpeg",
+        "caption": "IMG_6140.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b4e94f28/172810688/2b4e94f284e21442cb46650f2bd763d6_max_476x317.jpeg",
+        "url": "property-photo/2b4e94f28/172810688/2b4e94f284e21442cb46650f2bd763d6.jpeg",
+        "caption": "IMG_6195 copy.jpg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc0a49c71/172810688/cc0a49c7179f592aab6207d4e9448c8c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hunters, Highbury and Islington",
+  "addedOrReduced": "Added on 03/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
