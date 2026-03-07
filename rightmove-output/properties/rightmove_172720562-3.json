@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-06T23:34:01.772455+00:00",
+  "postcode": "N4 3HQ",
+  "id": 172720562,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Available late March | Fully Furnished - Bright and spacious two bedroom apartment offering far reaching views in sought after",
+  "displayAddress": "City North West, City North, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.564162,
+    "longitude": -0.107777
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811_max_476x317.jpeg",
+      "url": "property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d17da016/172720562/1d17da016cf180dfeac0e29553e3ea73_max_476x317.jpeg",
+      "url": "property-photo/1d17da016/172720562/1d17da016cf180dfeac0e29553e3ea73.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1be68ba9/172720562/b1be68ba93dd095cb6fbf3dd64bd34e2_max_476x317.jpeg",
+      "url": "property-photo/b1be68ba9/172720562/b1be68ba93dd095cb6fbf3dd64bd34e2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/693fcde1b/172720562/693fcde1b7cecd4a78f270e4b3ad3c67_max_476x317.jpeg",
+      "url": "property-photo/693fcde1b/172720562/693fcde1b7cecd4a78f270e4b3ad3c67.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/632c3ebf8/172720562/632c3ebf83952fd81c7353741fd8b746_max_476x317.jpeg",
+      "url": "property-photo/632c3ebf8/172720562/632c3ebf83952fd81c7353741fd8b746.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6a2704c9/172720562/d6a2704c960182a6f1666a6e0855a539_max_476x317.jpeg",
+      "url": "property-photo/d6a2704c9/172720562/d6a2704c960182a6f1666a6e0855a539.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9b0ece10/172720562/f9b0ece10b164b523f136aa37041e227_max_476x317.jpeg",
+      "url": "property-photo/f9b0ece10/172720562/f9b0ece10b164b523f136aa37041e227.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57ba1af67/172720562/57ba1af675bb0acfc3b98cbf13df97e8_max_476x317.jpeg",
+      "url": "property-photo/57ba1af67/172720562/57ba1af675bb0acfc3b98cbf13df97e8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ddc757df8/172720562/ddc757df8bf6a4a8e6151f40b117a793_max_476x317.jpeg",
+      "url": "property-photo/ddc757df8/172720562/ddc757df8bf6a4a8e6151f40b117a793.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42192d2a4/172720562/42192d2a43ffb23776510680f00fab3f_max_476x317.jpeg",
+      "url": "property-photo/42192d2a4/172720562/42192d2a43ffb23776510680f00fab3f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfb301223/172720562/cfb30122395631b6524e1adf7600227c_max_476x317.jpeg",
+      "url": "property-photo/cfb301223/172720562/cfb30122395631b6524e1adf7600227c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e18e6e002/172720562/e18e6e00256745904e5d93946b31f91e_max_476x317.jpeg",
+      "url": "property-photo/e18e6e002/172720562/e18e6e00256745904e5d93946b31f91e.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-06T17:05:47Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 264404,
+    "brandPlusLogoURI": "/265k/264404/branch_rmchoice_logo_264404_0014.png",
+    "contactTelephone": "020 3835 3553",
+    "branchDisplayName": "Romans & Partners, London",
+    "branchName": "London",
+    "brandTradingName": "Romans & Partners",
+    "branchLandingPageUrl": "/estate-agents/agent/Romans-and-Partners/London-264404.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-08-08T16:56:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/265k/264404/branch_rmchoice_logo_264404_0014.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "810 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172720562#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172720562",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-28T12:56:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-06T17:05:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available late March",
+      "htmlDescription": "Available late March"
+    },
+    {
+      "order": 2,
+      "description": "Fully furnished",
+      "htmlDescription": "Fully furnished"
+    },
+    {
+      "order": 3,
+      "description": "Underfloor heating",
+      "htmlDescription": "Underfloor heating"
+    },
+    {
+      "order": 4,
+      "description": "Bright and airy apartment",
+      "htmlDescription": "Bright and airy apartment"
+    },
+    {
+      "order": 5,
+      "description": "Fully integrated kitchen",
+      "htmlDescription": "Fully integrated kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Private balcony",
+      "htmlDescription": "Private balcony"
+    },
+    {
+      "order": 7,
+      "description": "24/7 concierge",
+      "htmlDescription": "24/7 concierge"
+    },
+    {
+      "order": 8,
+      "description": "Secure bike storage",
+      "htmlDescription": "Secure bike storage"
+    },
+    {
+      "order": 9,
+      "description": "30 seconds from Finsbury Park station",
+      "htmlDescription": "30 seconds from Finsbury Park station"
+    },
+    {
+      "order": 10,
+      "description": "Under 10 minutes to Kings Cross",
+      "htmlDescription": "Under 10 minutes to Kings Cross"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811_max_476x317.jpeg",
+        "url": "property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d17da016/172720562/1d17da016cf180dfeac0e29553e3ea73_max_476x317.jpeg",
+        "url": "property-photo/1d17da016/172720562/1d17da016cf180dfeac0e29553e3ea73.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1be68ba9/172720562/b1be68ba93dd095cb6fbf3dd64bd34e2_max_476x317.jpeg",
+        "url": "property-photo/b1be68ba9/172720562/b1be68ba93dd095cb6fbf3dd64bd34e2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/693fcde1b/172720562/693fcde1b7cecd4a78f270e4b3ad3c67_max_476x317.jpeg",
+        "url": "property-photo/693fcde1b/172720562/693fcde1b7cecd4a78f270e4b3ad3c67.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/632c3ebf8/172720562/632c3ebf83952fd81c7353741fd8b746_max_476x317.jpeg",
+        "url": "property-photo/632c3ebf8/172720562/632c3ebf83952fd81c7353741fd8b746.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6a2704c9/172720562/d6a2704c960182a6f1666a6e0855a539_max_476x317.jpeg",
+        "url": "property-photo/d6a2704c9/172720562/d6a2704c960182a6f1666a6e0855a539.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9b0ece10/172720562/f9b0ece10b164b523f136aa37041e227_max_476x317.jpeg",
+        "url": "property-photo/f9b0ece10/172720562/f9b0ece10b164b523f136aa37041e227.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57ba1af67/172720562/57ba1af675bb0acfc3b98cbf13df97e8_max_476x317.jpeg",
+        "url": "property-photo/57ba1af67/172720562/57ba1af675bb0acfc3b98cbf13df97e8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ddc757df8/172720562/ddc757df8bf6a4a8e6151f40b117a793_max_476x317.jpeg",
+        "url": "property-photo/ddc757df8/172720562/ddc757df8bf6a4a8e6151f40b117a793.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42192d2a4/172720562/42192d2a43ffb23776510680f00fab3f_max_476x317.jpeg",
+        "url": "property-photo/42192d2a4/172720562/42192d2a43ffb23776510680f00fab3f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfb301223/172720562/cfb30122395631b6524e1adf7600227c_max_476x317.jpeg",
+        "url": "property-photo/cfb301223/172720562/cfb30122395631b6524e1adf7600227c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e18e6e002/172720562/e18e6e00256745904e5d93946b31f91e_max_476x317.jpeg",
+        "url": "property-photo/e18e6e002/172720562/e18e6e00256745904e5d93946b31f91e.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edd64a15b/172720562/edd64a15b68d2bd7ea0385df118f5811_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Romans & Partners, London",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

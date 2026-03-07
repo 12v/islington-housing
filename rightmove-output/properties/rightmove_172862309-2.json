@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-06T21:47:52.265660+00:00",
+  "postcode": "N1 2AR",
+  "id": 172862309,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Elegant conversion in the heart of Angel.",
+  "displayAddress": "119 Asteys Row, Angel, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53938,
+    "longitude": -0.098396
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123_max_476x317.jpeg",
+      "url": "property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123.jpeg",
+      "caption": "Open Plan Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ccea7db6/172862309/4ccea7db6f554df06e5f140ae05aa3d5_max_476x317.jpeg",
+      "url": "property-photo/4ccea7db6/172862309/4ccea7db6f554df06e5f140ae05aa3d5.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba012b409/172862309/ba012b40946152044836c9a61f203aaf_max_476x317.jpeg",
+      "url": "property-photo/ba012b409/172862309/ba012b40946152044836c9a61f203aaf.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba1590329/172862309/ba1590329233b2dfbcbf1037253cf158_max_476x317.jpeg",
+      "url": "property-photo/ba1590329/172862309/ba1590329233b2dfbcbf1037253cf158.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96af6532f/172862309/96af6532f63779133c6af5baa877657d_max_476x317.jpeg",
+      "url": "property-photo/96af6532f/172862309/96af6532f63779133c6af5baa877657d.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/652c93fd1/172862309/652c93fd18c108d5acc347618e39dbd7_max_476x317.jpeg",
+      "url": "property-photo/652c93fd1/172862309/652c93fd18c108d5acc347618e39dbd7.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebf9ff8a9/172862309/ebf9ff8a955deaf523089af8864a5486_max_476x317.jpeg",
+      "url": "property-photo/ebf9ff8a9/172862309/ebf9ff8a955deaf523089af8864a5486.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/013612fb2/172862309/013612fb2fc0cbbd5d2d7872203f238d_max_476x317.jpeg",
+      "url": "property-photo/013612fb2/172862309/013612fb2fc0cbbd5d2d7872203f238d.jpeg",
+      "caption": "Kitchen"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-04T12:57:07Z"
+  },
+  "price": {
+    "amount": 3250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3750 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 49012,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_14060_0001.jpeg",
+    "contactTelephone": "020 3835 4523",
+    "branchDisplayName": "Savills Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Savills Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Savills-Lettings/Islington-49012.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-01T03:56:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_14060_0001.jpeg",
+    "primaryBrandColour": "#ffdf00"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy Information <br /><br /><br />Client money protection (CMP) provided by RICS:   <br /><br />Ombudsman services provided by PRS:   <br /><br />Rules for how fees will be charged for Assured Shorthold Tenancies (AST) are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br /><br />HOUSING ACT TENANCIES (AST) <br /><br />Holding deposit Equivalent of one weeks rent<br /><br />Changing tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Deposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br /><br />Change of sharer \u00a350 for one reference and a new tenancy agreement, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Early termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  Payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment<br /><br />Late, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Lost keys Any cost for the replacement of keys, fobs, security devices or associated items<br /><br />NON-HOUSING ACT TENANCIES (NHA)<br /><br />Pre Tenancy Application Charge (PTAC) Equivalent of one weeks rent or \u00a3600. If you withdraw from the tenancy: Private tenancies - minimum of \u00a3300 per person. Company tenancies - minimum of \u00a3600<br /><br />Tenancy paperwork \u00a3360<br /><br />Company reference checks \u00a3120 per reference<br /><br />Deposit Usually equivalent to six weeks rent / with pet eight weeks<br /><br />Check-in and/or out From \u00a3120 to \u00a3620 approx. Check your tenancy agreement to confirm who is responsible for paying this charge<br /><br />Call out services (inc out of hours)  \u00a360 per hour and/or the contractors invoice where your actions or lack of actions result in us or a contractor attending the property to remedy the situation<br /><br />Last minute cancellation of pre-arranged visits  \u00a360 per visit and any contractor invoice<br /><br />Hourly rate  \u00a360 plus any replacement costs if we or the landlord have to replace any damaged items, or return any fixtures or fittings to their original position, as per the inventory<br /><br />Any overseas payment charges  \u00a330 per payment<br /><br />Late/unpaid/returned rent payments  \u00a360 late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Change of sharer  \u00a3475 / Additional sharer (at the same time)  \u00a3100<br /><br />Renewal negotiation  \u00a3200 for each renewal. If additional referencing is required \u00a345 per reference<br /><br />Changing tenancy documents once signed \u00a3180<br /><br />Early termination (at landlord s discretion)  All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment",
+  "displaySize": "682 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172862309#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172862309",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-04T12:51:30Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-05T10:06:46Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Elegant and modern",
+      "htmlDescription": "Elegant and modern"
+    },
+    {
+      "order": 2,
+      "description": "2 bedrooms, 2 bathrooms",
+      "htmlDescription": "2 bedrooms, 2 bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Fitted kitchen with all appliances",
+      "htmlDescription": "Fitted kitchen with all appliances"
+    },
+    {
+      "order": 4,
+      "description": "Wood floors",
+      "htmlDescription": "Wood floors"
+    },
+    {
+      "order": 5,
+      "description": "Dual aspects",
+      "htmlDescription": "Dual aspects"
+    },
+    {
+      "order": 6,
+      "description": "Available April 2026",
+      "htmlDescription": "Available April 2026"
+    },
+    {
+      "order": 7,
+      "description": "EPC Rating = B",
+      "htmlDescription": "EPC Rating = B"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedBranchName": " by Savills Lettings, Islington",
+  "addedOrReduced": "Added on 04/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123_max_476x317.jpeg",
+        "url": "property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123.jpeg",
+        "caption": "Open Plan Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ccea7db6/172862309/4ccea7db6f554df06e5f140ae05aa3d5_max_476x317.jpeg",
+        "url": "property-photo/4ccea7db6/172862309/4ccea7db6f554df06e5f140ae05aa3d5.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba012b409/172862309/ba012b40946152044836c9a61f203aaf_max_476x317.jpeg",
+        "url": "property-photo/ba012b409/172862309/ba012b40946152044836c9a61f203aaf.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba1590329/172862309/ba1590329233b2dfbcbf1037253cf158_max_476x317.jpeg",
+        "url": "property-photo/ba1590329/172862309/ba1590329233b2dfbcbf1037253cf158.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96af6532f/172862309/96af6532f63779133c6af5baa877657d_max_476x317.jpeg",
+        "url": "property-photo/96af6532f/172862309/96af6532f63779133c6af5baa877657d.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/652c93fd1/172862309/652c93fd18c108d5acc347618e39dbd7_max_476x317.jpeg",
+        "url": "property-photo/652c93fd1/172862309/652c93fd18c108d5acc347618e39dbd7.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ebf9ff8a9/172862309/ebf9ff8a955deaf523089af8864a5486_max_476x317.jpeg",
+        "url": "property-photo/ebf9ff8a9/172862309/ebf9ff8a955deaf523089af8864a5486.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/013612fb2/172862309/013612fb2fc0cbbd5d2d7872203f238d_max_476x317.jpeg",
+        "url": "property-photo/013612fb2/172862309/013612fb2fc0cbbd5d2d7872203f238d.jpeg",
+        "caption": "Kitchen"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eced9fbd5/172862309/eced9fbd516d18a7fe84984e79327123_max_296x197.jpeg"
+  }
+}
