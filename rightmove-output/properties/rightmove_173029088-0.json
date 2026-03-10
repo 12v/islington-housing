@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-10T00:29:58.213946+00:00",
+  "postcode": "N7 9DQ",
+  "id": 173029088,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Recently renovated 4-double-bedroom flat across 3 levels, featuring a separate lounge, 2 modern bathrooms, and a spacious kitchen/diner. Rare layout ideal for sharers wanting equal-sized rooms and communal space. Prime location near Caledonian & Barnsbury Station.",
+  "displayAddress": "Caledonian Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5434,
+    "longitude": -0.11773
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010_max_476x317.jpeg",
+      "url": "property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e86ce22b0/173029088/e86ce22b0a920077327faf1acc4efdba_max_476x317.jpeg",
+      "url": "property-photo/e86ce22b0/173029088/e86ce22b0a920077327faf1acc4efdba.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8bbe3890/173029088/d8bbe389061fa3e9dd3465d8e3ecd607_max_476x317.jpeg",
+      "url": "property-photo/d8bbe3890/173029088/d8bbe389061fa3e9dd3465d8e3ecd607.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2a9ef7b3/173029088/c2a9ef7b326fab485ef8e9d1db6f376a_max_476x317.jpeg",
+      "url": "property-photo/c2a9ef7b3/173029088/c2a9ef7b326fab485ef8e9d1db6f376a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/149525763/173029088/14952576344facae831f403555016c88_max_476x317.jpeg",
+      "url": "property-photo/149525763/173029088/14952576344facae831f403555016c88.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2712226e2/173029088/2712226e21d1f4821af3adf345b7c1f6_max_476x317.jpeg",
+      "url": "property-photo/2712226e2/173029088/2712226e21d1f4821af3adf345b7c1f6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1423ad28e/173029088/1423ad28ed96d46286f9edeba3b84eb8_max_476x317.jpeg",
+      "url": "property-photo/1423ad28e/173029088/1423ad28ed96d46286f9edeba3b84eb8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f20439678/173029088/f20439678f312853f12f9293fbd38007_max_476x317.jpeg",
+      "url": "property-photo/f20439678/173029088/f20439678f312853f12f9293fbd38007.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-09T00:42:02Z"
+  },
+  "price": {
+    "amount": 4250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3981 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 95125,
+    "brandPlusLogoURI": "/96k/95125/branch_rmchoice_logo_95125_0000.jpeg",
+    "contactTelephone": "020 3319 5192",
+    "branchDisplayName": "Crestwell Property Consultants, London",
+    "branchName": "London",
+    "brandTradingName": "Crestwell Property Consultants",
+    "branchLandingPageUrl": "/estate-agents/agent/Crestwell-Property-Consultants/London-95125.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-20T21:45:41Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/96k/95125/branch_rmchoice_logo_95125_0000.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes).  For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees.  It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173029088#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173029088",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-09T00:36:24Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-09T00:42:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010_max_476x317.jpeg",
+        "url": "property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e86ce22b0/173029088/e86ce22b0a920077327faf1acc4efdba_max_476x317.jpeg",
+        "url": "property-photo/e86ce22b0/173029088/e86ce22b0a920077327faf1acc4efdba.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8bbe3890/173029088/d8bbe389061fa3e9dd3465d8e3ecd607_max_476x317.jpeg",
+        "url": "property-photo/d8bbe3890/173029088/d8bbe389061fa3e9dd3465d8e3ecd607.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2a9ef7b3/173029088/c2a9ef7b326fab485ef8e9d1db6f376a_max_476x317.jpeg",
+        "url": "property-photo/c2a9ef7b3/173029088/c2a9ef7b326fab485ef8e9d1db6f376a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/149525763/173029088/14952576344facae831f403555016c88_max_476x317.jpeg",
+        "url": "property-photo/149525763/173029088/14952576344facae831f403555016c88.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2712226e2/173029088/2712226e21d1f4821af3adf345b7c1f6_max_476x317.jpeg",
+        "url": "property-photo/2712226e2/173029088/2712226e21d1f4821af3adf345b7c1f6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1423ad28e/173029088/1423ad28ed96d46286f9edeba3b84eb8_max_476x317.jpeg",
+        "url": "property-photo/1423ad28e/173029088/1423ad28ed96d46286f9edeba3b84eb8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f20439678/173029088/f20439678f312853f12f9293fbd38007_max_476x317.jpeg",
+        "url": "property-photo/f20439678/173029088/f20439678f312853f12f9293fbd38007.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a3688e2/173029088/46a3688e207cc1430d576b0374541010_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Crestwell Property Consultants, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
