@@ -1,0 +1,278 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-11T21:37:43.371353+00:00",
+  "postcode": "N1 1LX",
+  "id": 173041046,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stunning two double bedroom, two bath maisonette with private garden in Barnsbury.",
+  "displayAddress": "Liverpool Road, Barnsbury, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.540253,
+    "longitude": -0.106373
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68_max_476x317.jpeg",
+      "url": "property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/834e5b6f5/173041046/834e5b6f5b8f1af6ce7840ef2f11a111_max_476x317.jpeg",
+      "url": "property-photo/834e5b6f5/173041046/834e5b6f5b8f1af6ce7840ef2f11a111.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c71c5ad4/173041046/0c71c5ad4b872aa8d6b0893488e85805_max_476x317.jpeg",
+      "url": "property-photo/0c71c5ad4/173041046/0c71c5ad4b872aa8d6b0893488e85805.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50cc646b8/173041046/50cc646b82e0d29206a0b743109d9533_max_476x317.jpeg",
+      "url": "property-photo/50cc646b8/173041046/50cc646b82e0d29206a0b743109d9533.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ddce3a815/173041046/ddce3a815bcfd330d76782b450e97fb7_max_476x317.jpeg",
+      "url": "property-photo/ddce3a815/173041046/ddce3a815bcfd330d76782b450e97fb7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4dfff732d/173041046/4dfff732d1bf6fc604682d54c698fa12_max_476x317.jpeg",
+      "url": "property-photo/4dfff732d/173041046/4dfff732d1bf6fc604682d54c698fa12.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c905157a9/173041046/c905157a9da3cdedb8d66268dda73d62_max_476x317.jpeg",
+      "url": "property-photo/c905157a9/173041046/c905157a9da3cdedb8d66268dda73d62.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68b2b6c4a/173041046/68b2b6c4ab6bce2836cf8b64c1dae25d_max_476x317.jpeg",
+      "url": "property-photo/68b2b6c4a/173041046/68b2b6c4ab6bce2836cf8b64c1dae25d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44490d5a8/173041046/44490d5a88a65859c66d0564c5678185_max_476x317.jpeg",
+      "url": "property-photo/44490d5a8/173041046/44490d5a88a65859c66d0564c5678185.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3873160c/173041046/a3873160c770bd7fdb0ae6f69707fc47_max_476x317.jpeg",
+      "url": "property-photo/a3873160c/173041046/a3873160c770bd7fdb0ae6f69707fc47.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/777aaffc0/173041046/777aaffc0edde37cdb6d37b75a55567b_max_476x317.jpeg",
+      "url": "property-photo/777aaffc0/173041046/777aaffc0edde37cdb6d37b75a55567b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/904644be6/173041046/904644be6e091df237fa822bc5832fd1_max_476x317.jpeg",
+      "url": "property-photo/904644be6/173041046/904644be6e091df237fa822bc5832fd1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-09T11:07:04Z"
+  },
+  "price": {
+    "amount": 4000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3923 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 107294,
+    "brandPlusLogoURI": "/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "contactTelephone": "020 3879 8986",
+    "branchDisplayName": "PG Estates, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "PG Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/PG-Estates/Islington-107294.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-01T05:15:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/108k/107294/branch_rmchoice_logo_107294_0003.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (DO2390)<br />Client Money Protection provided by: Propertymark (ARLA) (C0013958)",
+  "displaySize": "806 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173041046#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173041046",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-09T11:01:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-10T00:15:52Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bedrooms",
+      "htmlDescription": "2 Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "2 Baths",
+      "htmlDescription": "2 Baths"
+    },
+    {
+      "order": 3,
+      "description": "Garden",
+      "htmlDescription": "Garden"
+    },
+    {
+      "order": 4,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 5,
+      "description": "Just off Upper Street",
+      "htmlDescription": "Just off Upper Street"
+    },
+    {
+      "order": 6,
+      "description": "Available 15 May 2026",
+      "htmlDescription": "Available 15 May 2026"
+    },
+    {
+      "order": 7,
+      "description": "Maisonette",
+      "htmlDescription": "Maisonette"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68_max_476x317.jpeg",
+        "url": "property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/834e5b6f5/173041046/834e5b6f5b8f1af6ce7840ef2f11a111_max_476x317.jpeg",
+        "url": "property-photo/834e5b6f5/173041046/834e5b6f5b8f1af6ce7840ef2f11a111.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c71c5ad4/173041046/0c71c5ad4b872aa8d6b0893488e85805_max_476x317.jpeg",
+        "url": "property-photo/0c71c5ad4/173041046/0c71c5ad4b872aa8d6b0893488e85805.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50cc646b8/173041046/50cc646b82e0d29206a0b743109d9533_max_476x317.jpeg",
+        "url": "property-photo/50cc646b8/173041046/50cc646b82e0d29206a0b743109d9533.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ddce3a815/173041046/ddce3a815bcfd330d76782b450e97fb7_max_476x317.jpeg",
+        "url": "property-photo/ddce3a815/173041046/ddce3a815bcfd330d76782b450e97fb7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4dfff732d/173041046/4dfff732d1bf6fc604682d54c698fa12_max_476x317.jpeg",
+        "url": "property-photo/4dfff732d/173041046/4dfff732d1bf6fc604682d54c698fa12.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c905157a9/173041046/c905157a9da3cdedb8d66268dda73d62_max_476x317.jpeg",
+        "url": "property-photo/c905157a9/173041046/c905157a9da3cdedb8d66268dda73d62.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68b2b6c4a/173041046/68b2b6c4ab6bce2836cf8b64c1dae25d_max_476x317.jpeg",
+        "url": "property-photo/68b2b6c4a/173041046/68b2b6c4ab6bce2836cf8b64c1dae25d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44490d5a8/173041046/44490d5a88a65859c66d0564c5678185_max_476x317.jpeg",
+        "url": "property-photo/44490d5a8/173041046/44490d5a88a65859c66d0564c5678185.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3873160c/173041046/a3873160c770bd7fdb0ae6f69707fc47_max_476x317.jpeg",
+        "url": "property-photo/a3873160c/173041046/a3873160c770bd7fdb0ae6f69707fc47.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/777aaffc0/173041046/777aaffc0edde37cdb6d37b75a55567b_max_476x317.jpeg",
+        "url": "property-photo/777aaffc0/173041046/777aaffc0edde37cdb6d37b75a55567b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/904644be6/173041046/904644be6e091df237fa822bc5832fd1_max_476x317.jpeg",
+        "url": "property-photo/904644be6/173041046/904644be6e091df237fa822bc5832fd1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e54301247/173041046/e54301247a0976844cdf8827445d3c68_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by PG Estates, Islington",
+  "addedOrReduced": "Added on 09/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
