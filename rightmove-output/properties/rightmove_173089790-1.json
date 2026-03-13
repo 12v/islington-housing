@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-12T21:47:46.313043+00:00",
+  "postcode": "N1 2DX",
+  "id": 173089790,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A two bedroom apartment with period features located moments from Upper Street.",
+  "displayAddress": "Florence Street London N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54079,
+    "longitude": -0.10161
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3_max_476x317.jpeg",
+      "url": "property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/405bc1ac1/173089790/405bc1ac1649608c824d7ef77e4f30d9_max_476x317.jpeg",
+      "url": "property-photo/405bc1ac1/173089790/405bc1ac1649608c824d7ef77e4f30d9.jpeg",
+      "caption": "Florence Street"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec41216a1/173089790/ec41216a1530361953acbf177d0bfb4d_max_476x317.jpeg",
+      "url": "property-photo/ec41216a1/173089790/ec41216a1530361953acbf177d0bfb4d.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94030701c/173089790/94030701c427c6b3f22a9cd4b1cb47e8_max_476x317.jpeg",
+      "url": "property-photo/94030701c/173089790/94030701c427c6b3f22a9cd4b1cb47e8.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74dea031f/173089790/74dea031fc922ae2b00359f2217c74cd_max_476x317.jpeg",
+      "url": "property-photo/74dea031f/173089790/74dea031fc922ae2b00359f2217c74cd.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e48e0b7d3/173089790/e48e0b7d30f43c522e5887500b2e687f_max_476x317.jpeg",
+      "url": "property-photo/e48e0b7d3/173089790/e48e0b7d30f43c522e5887500b2e687f.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23fe63ac2/173089790/23fe63ac278bf3c5b07697dec00b2b3f_max_476x317.jpeg",
+      "url": "property-photo/23fe63ac2/173089790/23fe63ac278bf3c5b07697dec00b2b3f.jpeg",
+      "caption": "Florence Street "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0c6ebd84/173089790/d0c6ebd84c388a2ec966933f0d5be3eb_max_476x317.jpeg",
+      "url": "property-photo/d0c6ebd84/173089790/d0c6ebd84c388a2ec966933f0d5be3eb.jpeg",
+      "caption": "Florence Street"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-10T10:50:09Z"
+  },
+  "price": {
+    "amount": 755,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,272 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3755 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-16T12:03:18Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Hamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED SHORTHOLD TENANCY:\nHolding Deposit\t - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\n\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place: \nThe annual rent exceeds \u00a3100,000. \nThe property is occupied by an entity (Company let) rather that an individual. \nThe property is not used as a main or primary home. \nThere is a Resident Landlord.\nTenancy Agreement and Setup Administration - \u00a3390 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee (per person or company) - \u00a360 inc VAT.\nTenancy Continuation - \u00a3150 inc VAT.\nChange of Sharer - \u00a3120 inc VAT.\nEarly Termination - \u00a3150 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per guarantor.\nDeed of Guarantee - \u00a350 inc VAT.\n\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash. \nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173089790#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173089790",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-10T10:44:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-11T13:58:50Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom "
+    },
+    {
+      "order": 3,
+      "description": "Large Bright Reception",
+      "htmlDescription": "Large Bright Reception"
+    },
+    {
+      "order": 4,
+      "description": "Separate Kitchen",
+      "htmlDescription": "Separate Kitchen "
+    },
+    {
+      "order": 5,
+      "description": "Period Features",
+      "htmlDescription": "Period Features"
+    },
+    {
+      "order": 6,
+      "description": "Sash Windows",
+      "htmlDescription": "Sash Windows "
+    },
+    {
+      "order": 7,
+      "description": "Offered Furnished",
+      "htmlDescription": "Offered Furnished"
+    },
+    {
+      "order": 8,
+      "description": "Conveniently Located For Transport Links",
+      "htmlDescription": "Conveniently Located For Transport Links"
+    },
+    {
+      "order": 9,
+      "description": "Council Tax - Band D",
+      "htmlDescription": "Council Tax - Band D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3_max_476x317.jpeg",
+        "url": "property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/405bc1ac1/173089790/405bc1ac1649608c824d7ef77e4f30d9_max_476x317.jpeg",
+        "url": "property-photo/405bc1ac1/173089790/405bc1ac1649608c824d7ef77e4f30d9.jpeg",
+        "caption": "Florence Street"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec41216a1/173089790/ec41216a1530361953acbf177d0bfb4d_max_476x317.jpeg",
+        "url": "property-photo/ec41216a1/173089790/ec41216a1530361953acbf177d0bfb4d.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94030701c/173089790/94030701c427c6b3f22a9cd4b1cb47e8_max_476x317.jpeg",
+        "url": "property-photo/94030701c/173089790/94030701c427c6b3f22a9cd4b1cb47e8.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74dea031f/173089790/74dea031fc922ae2b00359f2217c74cd_max_476x317.jpeg",
+        "url": "property-photo/74dea031f/173089790/74dea031fc922ae2b00359f2217c74cd.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e48e0b7d3/173089790/e48e0b7d30f43c522e5887500b2e687f_max_476x317.jpeg",
+        "url": "property-photo/e48e0b7d3/173089790/e48e0b7d30f43c522e5887500b2e687f.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23fe63ac2/173089790/23fe63ac278bf3c5b07697dec00b2b3f_max_476x317.jpeg",
+        "url": "property-photo/23fe63ac2/173089790/23fe63ac278bf3c5b07697dec00b2b3f.jpeg",
+        "caption": "Florence Street "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0c6ebd84/173089790/d0c6ebd84c388a2ec966933f0d5be3eb_max_476x317.jpeg",
+        "url": "property-photo/d0c6ebd84/173089790/d0c6ebd84c388a2ec966933f0d5be3eb.jpeg",
+        "caption": "Florence Street"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95aea31b3/173089790/95aea31b34655a5c1aa40a9dc86f93c3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added on 10/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-13T00:03:36.903080+00:00",
+  "postcode": "N7 0SD",
+  "id": 172876457,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Rue Living is proud to offer this bright three bedroom top floor flat, recently repainted and ideally located just a short walk from Holloway Station and local amenities. The property features wood flooring throughout, a modern fitted kitchen, a large lounge (used as third bedroom), tw...",
+  "displayAddress": "Parkhurst Court, Warlters Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55668,
+    "longitude": -0.120453
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db_max_476x317.jpeg",
+      "url": "property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d735508a/172876457/0d735508aafde94e339dae6fa97bfb3f_max_476x317.jpeg",
+      "url": "property-photo/0d735508a/172876457/0d735508aafde94e339dae6fa97bfb3f.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad60bd9db/172876457/ad60bd9db979b48c360d4f4387099e8c_max_476x317.jpeg",
+      "url": "property-photo/ad60bd9db/172876457/ad60bd9db979b48c360d4f4387099e8c.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03c7bf1fe/172876457/03c7bf1fe2eb511c6ea4e16e07bda9e7_max_476x317.jpeg",
+      "url": "property-photo/03c7bf1fe/172876457/03c7bf1fe2eb511c6ea4e16e07bda9e7.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dfc35bdc1/172876457/dfc35bdc184fce93f961fe1d89163e22_max_476x317.jpeg",
+      "url": "property-photo/dfc35bdc1/172876457/dfc35bdc184fce93f961fe1d89163e22.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51415a3f1/172876457/51415a3f165115c3b85cd50d6494b43b_max_476x317.jpeg",
+      "url": "property-photo/51415a3f1/172876457/51415a3f165115c3b85cd50d6494b43b.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53ff01118/172876457/53ff01118f36d60bef1a55a6573540d5_max_476x317.jpeg",
+      "url": "property-photo/53ff01118/172876457/53ff01118f36d60bef1a55a6573540d5.jpeg",
+      "caption": "Picture No. 05"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-11T21:58:02Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 299861,
+    "brandPlusLogoURI": "/partner-logo/43322297-PRODUCTS_LOGO-1770915987063.png",
+    "contactTelephone": "020 4634 3285",
+    "branchDisplayName": "Rue Living, London",
+    "branchName": "London",
+    "brandTradingName": "Rue Living",
+    "branchLandingPageUrl": "/estate-agents/agent/Rue-Living/London-299861.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-03T11:36:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43322297-PRODUCTS_LOGO-1770915987063.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172876457#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172876457",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-04T16:07:21Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-11T21:58:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Double Bedrooms",
+      "htmlDescription": "Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Reception used as third bedroom",
+      "htmlDescription": "Reception used as third bedroom"
+    },
+    {
+      "order": 3,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    },
+    {
+      "order": 4,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db_max_476x317.jpeg",
+        "url": "property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d735508a/172876457/0d735508aafde94e339dae6fa97bfb3f_max_476x317.jpeg",
+        "url": "property-photo/0d735508a/172876457/0d735508aafde94e339dae6fa97bfb3f.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad60bd9db/172876457/ad60bd9db979b48c360d4f4387099e8c_max_476x317.jpeg",
+        "url": "property-photo/ad60bd9db/172876457/ad60bd9db979b48c360d4f4387099e8c.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03c7bf1fe/172876457/03c7bf1fe2eb511c6ea4e16e07bda9e7_max_476x317.jpeg",
+        "url": "property-photo/03c7bf1fe/172876457/03c7bf1fe2eb511c6ea4e16e07bda9e7.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dfc35bdc1/172876457/dfc35bdc184fce93f961fe1d89163e22_max_476x317.jpeg",
+        "url": "property-photo/dfc35bdc1/172876457/dfc35bdc184fce93f961fe1d89163e22.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51415a3f1/172876457/51415a3f165115c3b85cd50d6494b43b_max_476x317.jpeg",
+        "url": "property-photo/51415a3f1/172876457/51415a3f165115c3b85cd50d6494b43b.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53ff01118/172876457/53ff01118f36d60bef1a55a6573540d5_max_476x317.jpeg",
+        "url": "property-photo/53ff01118/172876457/53ff01118f36d60bef1a55a6573540d5.jpeg",
+        "caption": "Picture No. 05"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de0e711c/172876457/3de0e711c1292554282c7aa3693c46db_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rue Living, London",
+  "addedOrReduced": "Reduced on 11/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
