@@ -1,0 +1,132 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-14T00:01:59.855935+00:00",
+  "postcode": "N7 7DY",
+  "id": 173195927,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "We are delighted to offer this amazing one double bedroom apartment within a gorgeous new development. Benefits include a fully fitted modern open plan kitchen reception, one spacious double bedroom, wooden floors and contemporary furnishings. Moray Mews is a quietly tucked ...",
+  "displayAddress": "Moray Mews, Finsbury Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.565208,
+    "longitude": -0.113748
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b_max_476x317.jpeg",
+      "url": "property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b.jpeg",
+      "caption": "Picture No. 01"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-12T12:17:07Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-25T11:59:41Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173195927#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173195927",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-12T12:12:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-13T05:30:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added on 12/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b_max_476x317.jpeg",
+        "url": "property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b.jpeg",
+        "caption": "Picture No. 01"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9762380f6/173195927/9762380f66096c71eb823609195e164b_max_296x197.jpeg"
+  }
+}
