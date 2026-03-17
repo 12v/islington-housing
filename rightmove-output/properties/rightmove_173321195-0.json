@@ -1,0 +1,232 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-16T23:39:12.856320+00:00",
+  "postcode": "N5 1DT",
+  "id": 173321195,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Please Quote ref: 932 Relocate-me would like to present the latest contemporary collection: just 66 chic private apartments in a sought-after area in North London near the new Emirates stadium. This dramatic five-storey building, with an elegant fa\u00e7ade, encl...",
+  "displayAddress": "Drayton Park, Highbury, Holloway, Finsbury, Islington, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555011,
+    "longitude": -0.105884
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2_max_476x317.jpeg",
+      "url": "property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2.jpeg",
+      "caption": " (Main)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d2740db8/173321195/2d2740db81c748006adfafa500517c2f_max_476x317.jpeg",
+      "url": "property-photo/2d2740db8/173321195/2d2740db81c748006adfafa500517c2f.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed6800e2b/173321195/ed6800e2bf04092750eebda92b0dee04_max_476x317.jpeg",
+      "url": "property-photo/ed6800e2b/173321195/ed6800e2bf04092750eebda92b0dee04.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23850c3d7/173321195/23850c3d750a3c54027354934c3db0d1_max_476x317.jpeg",
+      "url": "property-photo/23850c3d7/173321195/23850c3d750a3c54027354934c3db0d1.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9918a7b7/173321195/c9918a7b74290c48d66a105b6ce9bc13_max_476x317.jpeg",
+      "url": "property-photo/c9918a7b7/173321195/c9918a7b74290c48d66a105b6ce9bc13.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d70d335eb/173321195/d70d335eb1151cbe0932f8e5fb3ca563_max_476x317.jpeg",
+      "url": "property-photo/d70d335eb/173321195/d70d335eb1151cbe0932f8e5fb3ca563.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e89aa7e8/173321195/5e89aa7e8d0ee4d6f04ca26ba6aacfd0_max_476x317.jpeg",
+      "url": "property-photo/5e89aa7e8/173321195/5e89aa7e8d0ee4d6f04ca26ba6aacfd0.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/670806ba7/173321195/670806ba722679d560d9c756505360f0_max_476x317.jpeg",
+      "url": "property-photo/670806ba7/173321195/670806ba722679d560d9c756505360f0.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01976d373/173321195/01976d373d19f401baa11b4f854b7bc9_max_476x317.jpeg",
+      "url": "property-photo/01976d373/173321195/01976d373d19f401baa11b4f854b7bc9.jpeg",
+      "caption": "Internal"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8cac667c/173321195/e8cac667c1749253141c9cbf559ca448_max_476x317.png",
+      "url": "property-photo/e8cac667c/173321195/e8cac667c1749253141c9cbf559ca448.png",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eec145b6/173321195/2eec145b637fbd876829f4fe8e51add4_max_476x317.jpeg",
+      "url": "property-photo/2eec145b6/173321195/2eec145b637fbd876829f4fe8e51add4.jpeg",
+      "caption": "Other"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-16T10:29:03Z"
+  },
+  "price": {
+    "amount": 2950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3681 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 33012,
+    "brandPlusLogoURI": "/company/clogo_9012_0001.jpg",
+    "contactTelephone": "020 3872 5280",
+    "branchDisplayName": "relocate-me.co.uk, London",
+    "branchName": "London",
+    "brandTradingName": "relocate-me.co.uk",
+    "branchLandingPageUrl": "/estate-agents/agent/relocate-mecouk/London-33012.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T11:44:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_9012_0001.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173321195#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173321195",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-16T10:23:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-16T11:53:30Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2_max_476x317.jpeg",
+        "url": "property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2.jpeg",
+        "caption": " (Main)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d2740db8/173321195/2d2740db81c748006adfafa500517c2f_max_476x317.jpeg",
+        "url": "property-photo/2d2740db8/173321195/2d2740db81c748006adfafa500517c2f.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed6800e2b/173321195/ed6800e2bf04092750eebda92b0dee04_max_476x317.jpeg",
+        "url": "property-photo/ed6800e2b/173321195/ed6800e2bf04092750eebda92b0dee04.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23850c3d7/173321195/23850c3d750a3c54027354934c3db0d1_max_476x317.jpeg",
+        "url": "property-photo/23850c3d7/173321195/23850c3d750a3c54027354934c3db0d1.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9918a7b7/173321195/c9918a7b74290c48d66a105b6ce9bc13_max_476x317.jpeg",
+        "url": "property-photo/c9918a7b7/173321195/c9918a7b74290c48d66a105b6ce9bc13.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d70d335eb/173321195/d70d335eb1151cbe0932f8e5fb3ca563_max_476x317.jpeg",
+        "url": "property-photo/d70d335eb/173321195/d70d335eb1151cbe0932f8e5fb3ca563.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e89aa7e8/173321195/5e89aa7e8d0ee4d6f04ca26ba6aacfd0_max_476x317.jpeg",
+        "url": "property-photo/5e89aa7e8/173321195/5e89aa7e8d0ee4d6f04ca26ba6aacfd0.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/670806ba7/173321195/670806ba722679d560d9c756505360f0_max_476x317.jpeg",
+        "url": "property-photo/670806ba7/173321195/670806ba722679d560d9c756505360f0.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01976d373/173321195/01976d373d19f401baa11b4f854b7bc9_max_476x317.jpeg",
+        "url": "property-photo/01976d373/173321195/01976d373d19f401baa11b4f854b7bc9.jpeg",
+        "caption": "Internal"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8cac667c/173321195/e8cac667c1749253141c9cbf559ca448_max_476x317.png",
+        "url": "property-photo/e8cac667c/173321195/e8cac667c1749253141c9cbf559ca448.png",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eec145b6/173321195/2eec145b637fbd876829f4fe8e51add4_max_476x317.jpeg",
+        "url": "property-photo/2eec145b6/173321195/2eec145b637fbd876829f4fe8e51add4.jpeg",
+        "caption": "Other"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c2226d5a/173321195/6c2226d5a8db145645eb8a4c28e58cc2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by relocate-me.co.uk, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
