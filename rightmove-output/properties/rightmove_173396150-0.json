@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-17T21:31:41.012368+00:00",
+  "postcode": "N1 0NY",
+  "id": 173396150,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented second floor one-bedroom apartment ideally located on the ever-popular Upper Street in the heart of Islington. The property offers a bright and spacious open-plan living and dining area, creating an ideal space for both relaxing and entertaining. A semi-open plan kitch...",
+  "displayAddress": "Upper Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.535937,
+    "longitude": -0.104002
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f_max_476x317.jpeg",
+      "url": "property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63d9c20ef/173396150/63d9c20ef8e1fe000a79344e6f2c2ae9_max_476x317.jpeg",
+      "url": "property-photo/63d9c20ef/173396150/63d9c20ef8e1fe000a79344e6f2c2ae9.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/098ba08aa/173396150/098ba08aa5cce85439b76bbf690b2422_max_476x317.jpeg",
+      "url": "property-photo/098ba08aa/173396150/098ba08aa5cce85439b76bbf690b2422.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f675fadc/173396150/9f675fadc31c2d56e519ae198d4e3a85_max_476x317.jpeg",
+      "url": "property-photo/9f675fadc/173396150/9f675fadc31c2d56e519ae198d4e3a85.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3cdfb954/173396150/b3cdfb954420bd41852b3c6ee5f70a40_max_476x317.jpeg",
+      "url": "property-photo/b3cdfb954/173396150/b3cdfb954420bd41852b3c6ee5f70a40.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afbe91e06/173396150/afbe91e061c50adeb099698facc55521_max_476x317.jpeg",
+      "url": "property-photo/afbe91e06/173396150/afbe91e061c50adeb099698facc55521.jpeg",
+      "caption": "Picture No. 24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/835950310/173396150/83595031056208c15282505b31ca0fcd_max_476x317.jpeg",
+      "url": "property-photo/835950310/173396150/83595031056208c15282505b31ca0fcd.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b578e82ad/173396150/b578e82adb200097af6574ea3c6fc5cb_max_476x317.jpeg",
+      "url": "property-photo/b578e82ad/173396150/b578e82adb200097af6574ea3c6fc5cb.jpeg",
+      "caption": "Picture No. 26"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c10115a1a/173396150/c10115a1abe6b781c2b04d8ec2ca281d_max_476x317.jpeg",
+      "url": "property-photo/c10115a1a/173396150/c10115a1abe6b781c2b04d8ec2ca281d.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91975e530/173396150/91975e530aae1b7880f79d12f6ced0c7_max_476x317.jpeg",
+      "url": "property-photo/91975e530/173396150/91975e530aae1b7880f79d12f6ced0c7.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f94961ef/173396150/7f94961ef179fb7350883a74509bda75_max_476x317.jpeg",
+      "url": "property-photo/7f94961ef/173396150/7f94961ef179fb7350883a74509bda75.jpeg",
+      "caption": "Picture No. 25"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-17T14:43:04Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 226418,
+    "brandPlusLogoURI": "/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "contactTelephone": "020 3866 4652",
+    "branchDisplayName": "NEILSON & BAUER LTD, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "NEILSON & BAUER LTD",
+    "branchLandingPageUrl": "/estate-agents/agent/NEILSON-and-BAUER-LTD/Islington-226418.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-02T14:11:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173396150#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173396150",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-17T14:37:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-17T15:33:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "Available 13th May",
+      "htmlDescription": "Available 13th May"
+    },
+    {
+      "order": 3,
+      "description": "\u00a3553.84 Holding depoist required (One weeks rent)",
+      "htmlDescription": "\u00a3553.84 Holding depoist required (One weeks rent)"
+    },
+    {
+      "order": 4,
+      "description": "\u00a32769.23 Security depoist required (Five weeks rent)",
+      "htmlDescription": "\u00a32769.23 Security depoist required (Five weeks rent)"
+    },
+    {
+      "order": 5,
+      "description": "Great location",
+      "htmlDescription": "Great location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f_max_476x317.jpeg",
+        "url": "property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63d9c20ef/173396150/63d9c20ef8e1fe000a79344e6f2c2ae9_max_476x317.jpeg",
+        "url": "property-photo/63d9c20ef/173396150/63d9c20ef8e1fe000a79344e6f2c2ae9.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/098ba08aa/173396150/098ba08aa5cce85439b76bbf690b2422_max_476x317.jpeg",
+        "url": "property-photo/098ba08aa/173396150/098ba08aa5cce85439b76bbf690b2422.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f675fadc/173396150/9f675fadc31c2d56e519ae198d4e3a85_max_476x317.jpeg",
+        "url": "property-photo/9f675fadc/173396150/9f675fadc31c2d56e519ae198d4e3a85.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3cdfb954/173396150/b3cdfb954420bd41852b3c6ee5f70a40_max_476x317.jpeg",
+        "url": "property-photo/b3cdfb954/173396150/b3cdfb954420bd41852b3c6ee5f70a40.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afbe91e06/173396150/afbe91e061c50adeb099698facc55521_max_476x317.jpeg",
+        "url": "property-photo/afbe91e06/173396150/afbe91e061c50adeb099698facc55521.jpeg",
+        "caption": "Picture No. 24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/835950310/173396150/83595031056208c15282505b31ca0fcd_max_476x317.jpeg",
+        "url": "property-photo/835950310/173396150/83595031056208c15282505b31ca0fcd.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b578e82ad/173396150/b578e82adb200097af6574ea3c6fc5cb_max_476x317.jpeg",
+        "url": "property-photo/b578e82ad/173396150/b578e82adb200097af6574ea3c6fc5cb.jpeg",
+        "caption": "Picture No. 26"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c10115a1a/173396150/c10115a1abe6b781c2b04d8ec2ca281d_max_476x317.jpeg",
+        "url": "property-photo/c10115a1a/173396150/c10115a1abe6b781c2b04d8ec2ca281d.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91975e530/173396150/91975e530aae1b7880f79d12f6ced0c7_max_476x317.jpeg",
+        "url": "property-photo/91975e530/173396150/91975e530aae1b7880f79d12f6ced0c7.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f94961ef/173396150/7f94961ef179fb7350883a74509bda75_max_476x317.jpeg",
+        "url": "property-photo/7f94961ef/173396150/7f94961ef179fb7350883a74509bda75.jpeg",
+        "caption": "Picture No. 25"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/207dfede4/173396150/207dfede4d3a044623e1f4417d2ab07f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NEILSON & BAUER LTD, Islington",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
