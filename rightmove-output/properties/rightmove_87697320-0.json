@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-18T20:49:21.027308+00:00",
+  "postcode": "EC1V 1AH",
+  "id": 87697320,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "This furnished 1-bedroom flat in Book House, London, offers a modern living space with a fully equipped kitchen, a bathroom, and a balcony with river views. The property includes key features such as air conditioning, a gym, a dishwasher, and 24/7 security. Additional amenities include concierge ...",
+  "displayAddress": "Book House, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53025,
+    "longitude": -0.097116
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef_max_476x317.jpeg",
+      "url": "property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef.jpeg",
+      "caption": "1 bed flat to rent Book House, London EC1V"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bbbb7d1c/87697320/4bbbb7d1c5a52c3dbd05f875970bf158_max_476x317.jpeg",
+      "url": "property-photo/4bbbb7d1c/87697320/4bbbb7d1c5a52c3dbd05f875970bf158.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd33901c5/87697320/fd33901c5a6ba2dcc1b9c80419635199_max_476x317.jpeg",
+      "url": "property-photo/fd33901c5/87697320/fd33901c5a6ba2dcc1b9c80419635199.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2e31117b/87697320/a2e31117b5ab8a17dc6b3d276a9163fc_max_476x317.jpeg",
+      "url": "property-photo/a2e31117b/87697320/a2e31117b5ab8a17dc6b3d276a9163fc.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf2fd7801/87697320/bf2fd780123d6bc6e03e52c1a1b41a3b_max_476x317.jpeg",
+      "url": "property-photo/bf2fd7801/87697320/bf2fd780123d6bc6e03e52c1a1b41a3b.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1a7e350f/87697320/e1a7e350f07e016f8677f55aedfb705c_max_476x317.jpeg",
+      "url": "property-photo/e1a7e350f/87697320/e1a7e350f07e016f8677f55aedfb705c.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/594ef9337/87697320/594ef9337fbbf811b747dede0d309d3d_max_476x317.jpeg",
+      "url": "property-photo/594ef9337/87697320/594ef9337fbbf811b747dede0d309d3d.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c2081757/87697320/2c20817574a2cde70fef3723bdec433d_max_476x317.jpeg",
+      "url": "property-photo/2c2081757/87697320/2c20817574a2cde70fef3723bdec433d.jpeg",
+      "caption": "Gallery"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2920dbf4d/87697320/2920dbf4df0cacc140bbab6fedac4538_max_476x317.jpeg",
+      "url": "property-photo/2920dbf4d/87697320/2920dbf4df0cacc140bbab6fedac4538.jpeg",
+      "caption": "Gallery"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-18T05:42:02Z"
+  },
+  "price": {
+    "amount": 680,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,947 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3680 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 287132,
+    "brandPlusLogoURI": "/partner-logo/36875186-PRODUCTS_LOGO-1766055663.png",
+    "contactTelephone": "020 3376 8274",
+    "branchDisplayName": "CHAMPS PROPERTY, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "CHAMPS PROPERTY",
+    "branchLandingPageUrl": "/estate-agents/agent/CHAMPS-PROPERTY/Covering-London-287132.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/36875186-PRODUCTS_LOGO-1766055663.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87697320#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87697320",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-18T05:36:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-18T05:42:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Gym",
+      "htmlDescription": "Gym"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "24/7 Security",
+      "htmlDescription": "24/7 Security"
+    },
+    {
+      "order": 4,
+      "description": "Concierge services",
+      "htmlDescription": "Concierge services"
+    },
+    {
+      "order": 5,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 6,
+      "description": "Air Conditioning",
+      "htmlDescription": "Air Conditioning"
+    },
+    {
+      "order": 7,
+      "description": "Lift",
+      "htmlDescription": "Lift"
+    },
+    {
+      "order": 8,
+      "description": "River Views",
+      "htmlDescription": "River Views"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef_max_476x317.jpeg",
+        "url": "property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef.jpeg",
+        "caption": "1 bed flat to rent Book House, London EC1V"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bbbb7d1c/87697320/4bbbb7d1c5a52c3dbd05f875970bf158_max_476x317.jpeg",
+        "url": "property-photo/4bbbb7d1c/87697320/4bbbb7d1c5a52c3dbd05f875970bf158.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd33901c5/87697320/fd33901c5a6ba2dcc1b9c80419635199_max_476x317.jpeg",
+        "url": "property-photo/fd33901c5/87697320/fd33901c5a6ba2dcc1b9c80419635199.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2e31117b/87697320/a2e31117b5ab8a17dc6b3d276a9163fc_max_476x317.jpeg",
+        "url": "property-photo/a2e31117b/87697320/a2e31117b5ab8a17dc6b3d276a9163fc.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf2fd7801/87697320/bf2fd780123d6bc6e03e52c1a1b41a3b_max_476x317.jpeg",
+        "url": "property-photo/bf2fd7801/87697320/bf2fd780123d6bc6e03e52c1a1b41a3b.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1a7e350f/87697320/e1a7e350f07e016f8677f55aedfb705c_max_476x317.jpeg",
+        "url": "property-photo/e1a7e350f/87697320/e1a7e350f07e016f8677f55aedfb705c.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/594ef9337/87697320/594ef9337fbbf811b747dede0d309d3d_max_476x317.jpeg",
+        "url": "property-photo/594ef9337/87697320/594ef9337fbbf811b747dede0d309d3d.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c2081757/87697320/2c20817574a2cde70fef3723bdec433d_max_476x317.jpeg",
+        "url": "property-photo/2c2081757/87697320/2c20817574a2cde70fef3723bdec433d.jpeg",
+        "caption": "Gallery"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2920dbf4d/87697320/2920dbf4df0cacc140bbab6fedac4538_max_476x317.jpeg",
+        "url": "property-photo/2920dbf4d/87697320/2920dbf4df0cacc140bbab6fedac4538.jpeg",
+        "caption": "Gallery"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/917cdbc38/87697320/917cdbc38249d2e0a59006b57b2951ef_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CHAMPS PROPERTY, Covering London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

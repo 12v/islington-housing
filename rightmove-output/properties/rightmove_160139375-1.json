@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-18T22:35:12.122171+00:00",
+  "postcode": "N19 3JF",
+  "id": 160139375,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Homesforth would like to present this One bedroom flat, this flat has been carpeted and has a kitchen/living area, separate shower room and storage throughout. The property is in a vibrant area and is within a short walking distance to all local amenities of Holloway Rd. This property is located ...",
+  "displayAddress": "Holloway Road, Archway, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.564492,
+    "longitude": -0.131122
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad_max_476x317.jpeg",
+      "url": "property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd47b1c15/160139375/fd47b1c15e27e9cede3568610102b061_max_476x317.jpeg",
+      "url": "property-photo/fd47b1c15/160139375/fd47b1c15e27e9cede3568610102b061.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f66a1a26/160139375/6f66a1a26b8e75426a735d4453e95d80_max_476x317.jpeg",
+      "url": "property-photo/6f66a1a26/160139375/6f66a1a26b8e75426a735d4453e95d80.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d0b18fb3/160139375/2d0b18fb3213b429afe1ba1494647c58_max_476x317.jpeg",
+      "url": "property-photo/2d0b18fb3/160139375/2d0b18fb3213b429afe1ba1494647c58.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2e228079/160139375/c2e228079b81ce280f9bf8878470712c_max_476x317.jpeg",
+      "url": "property-photo/c2e228079/160139375/c2e228079b81ce280f9bf8878470712c.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c07ef4e1/160139375/5c07ef4e185280796f24a54b40af4ed7_max_476x317.jpeg",
+      "url": "property-photo/5c07ef4e1/160139375/5c07ef4e185280796f24a54b40af4ed7.jpeg",
+      "caption": "Photo 9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/245fa0b70/160139375/245fa0b704ded31561c7c46c4223c722_max_476x317.jpeg",
+      "url": "property-photo/245fa0b70/160139375/245fa0b704ded31561c7c46c4223c722.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/775fe0425/160139375/775fe04251d4e84a77821767ed189d4a_max_476x317.jpeg",
+      "url": "property-photo/775fe0425/160139375/775fe04251d4e84a77821767ed189d4a.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/496f339f9/160139375/496f339f9de37b5dabc2781ad8580158_max_476x317.jpeg",
+      "url": "property-photo/496f339f9/160139375/496f339f9de37b5dabc2781ad8580158.jpeg",
+      "caption": "Photo 5"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-16T09:27:11Z"
+  },
+  "price": {
+    "amount": 360,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,560 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3360 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 280625,
+    "brandPlusLogoURI": "/281k/280625/branch_rmchoice_logo_280625_0002.png",
+    "contactTelephone": "020 3835 3342",
+    "branchDisplayName": "Homesforth, London",
+    "branchName": "London",
+    "brandTradingName": "Homesforth",
+    "branchLandingPageUrl": "/estate-agents/agent/Homesforth/London-280625.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-10T16:35:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/281k/280625/branch_rmchoice_logo_280625_0002.png",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/160139375#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=160139375",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-04-02T11:15:31Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-16T09:27:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Fantastic Location",
+      "htmlDescription": "Fantastic Location"
+    },
+    {
+      "order": 2,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 3,
+      "description": "Bus Nearby",
+      "htmlDescription": "Bus Nearby"
+    },
+    {
+      "order": 4,
+      "description": "Equipped Kitchen",
+      "htmlDescription": "Equipped Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Bars at proximity",
+      "htmlDescription": "Bars at proximity"
+    },
+    {
+      "order": 6,
+      "description": "Restaurants",
+      "htmlDescription": "Restaurants"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad_max_476x317.jpeg",
+        "url": "property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd47b1c15/160139375/fd47b1c15e27e9cede3568610102b061_max_476x317.jpeg",
+        "url": "property-photo/fd47b1c15/160139375/fd47b1c15e27e9cede3568610102b061.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f66a1a26/160139375/6f66a1a26b8e75426a735d4453e95d80_max_476x317.jpeg",
+        "url": "property-photo/6f66a1a26/160139375/6f66a1a26b8e75426a735d4453e95d80.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d0b18fb3/160139375/2d0b18fb3213b429afe1ba1494647c58_max_476x317.jpeg",
+        "url": "property-photo/2d0b18fb3/160139375/2d0b18fb3213b429afe1ba1494647c58.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2e228079/160139375/c2e228079b81ce280f9bf8878470712c_max_476x317.jpeg",
+        "url": "property-photo/c2e228079/160139375/c2e228079b81ce280f9bf8878470712c.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c07ef4e1/160139375/5c07ef4e185280796f24a54b40af4ed7_max_476x317.jpeg",
+        "url": "property-photo/5c07ef4e1/160139375/5c07ef4e185280796f24a54b40af4ed7.jpeg",
+        "caption": "Photo 9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/245fa0b70/160139375/245fa0b704ded31561c7c46c4223c722_max_476x317.jpeg",
+        "url": "property-photo/245fa0b70/160139375/245fa0b704ded31561c7c46c4223c722.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/775fe0425/160139375/775fe04251d4e84a77821767ed189d4a_max_476x317.jpeg",
+        "url": "property-photo/775fe0425/160139375/775fe04251d4e84a77821767ed189d4a.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/496f339f9/160139375/496f339f9de37b5dabc2781ad8580158_max_476x317.jpeg",
+        "url": "property-photo/496f339f9/160139375/496f339f9de37b5dabc2781ad8580158.jpeg",
+        "caption": "Photo 5"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b7438364/160139375/8b743836456751405db3e2d9bf5da0ad_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Homesforth, London",
+  "addedOrReduced": "Added on 16/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

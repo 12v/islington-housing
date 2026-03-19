@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-19T00:04:57.572170+00:00",
+  "postcode": "N7 6FL",
+  "id": 173400134,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "ALL BILLS INCLUDED A stunning two double bedroom top floor apartment set within this impressive recently built building. Bright and airy throughout, the accommodation comprises open plan reception room, modern kitchen, two double bedrooms and modern bathroom. Further benefits include ample sto...",
+  "displayAddress": "Mary Seacole Apartments, Tollington Way, Holloway, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56197,
+    "longitude": -0.121314
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23_max_476x317.jpeg",
+      "url": "property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d978ca23e/173400134/d978ca23e1016dee467d1ec58b5c4bd5_max_476x317.jpeg",
+      "url": "property-photo/d978ca23e/173400134/d978ca23e1016dee467d1ec58b5c4bd5.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f1b13b18/173400134/3f1b13b18a5e1da89336c58e774a9e05_max_476x317.jpeg",
+      "url": "property-photo/3f1b13b18/173400134/3f1b13b18a5e1da89336c58e774a9e05.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b92088237/173400134/b92088237ed57c13178f9f5d0baf9872_max_476x317.jpeg",
+      "url": "property-photo/b92088237/173400134/b92088237ed57c13178f9f5d0baf9872.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54b593097/173400134/54b5930975ab5f7f4af42051a6710330_max_476x317.jpeg",
+      "url": "property-photo/54b593097/173400134/54b5930975ab5f7f4af42051a6710330.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7abf91e9/173400134/c7abf91e9155f671ab51d7670f13f557_max_476x317.jpeg",
+      "url": "property-photo/c7abf91e9/173400134/c7abf91e9155f671ab51d7670f13f557.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/306211312/173400134/306211312041432fcbd5b9bd4ad79ac4_max_476x317.jpeg",
+      "url": "property-photo/306211312/173400134/306211312041432fcbd5b9bd4ad79ac4.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14979a6a6/173400134/14979a6a6d2fcf981c5026196c9e2d6b_max_476x317.jpeg",
+      "url": "property-photo/14979a6a6/173400134/14979a6a6d2fcf981c5026196c9e2d6b.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6c611bd8/173400134/f6c611bd8ac87c788b7190a314427c44_max_476x317.jpeg",
+      "url": "property-photo/f6c611bd8/173400134/f6c611bd8ac87c788b7190a314427c44.jpeg",
+      "caption": "Photo 9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7aaefa3f3/173400134/7aaefa3f34c50558fcff360696e19e10_max_476x317.jpeg",
+      "url": "property-photo/7aaefa3f3/173400134/7aaefa3f34c50558fcff360696e19e10.jpeg",
+      "caption": "Photo 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9301fc843/173400134/9301fc843d1119ab39b69626b84c8193_max_476x317.jpeg",
+      "url": "property-photo/9301fc843/173400134/9301fc843d1119ab39b69626b84c8193.jpeg",
+      "caption": "Photo 11"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-17T15:37:04Z"
+  },
+  "price": {
+    "amount": 715,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,098 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3715 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 261275,
+    "brandPlusLogoURI": "/partner-logo/30092441-PRODUCTS_LOGO-1766064275.png",
+    "contactTelephone": "020 7459 4431",
+    "branchDisplayName": "Primden Group, Camden",
+    "branchName": "Camden",
+    "brandTradingName": "Primden Group",
+    "branchLandingPageUrl": "/estate-agents/agent/Primden-Group/Camden-261275.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-01T05:15:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30092441-PRODUCTS_LOGO-1766064275.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173400134#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173400134",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-17T15:31:21Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-17T15:37:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Stunning 2 Double Bedroom Apartment",
+      "htmlDescription": "Stunning 2 Double Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Top Floor",
+      "htmlDescription": "Top Floor"
+    },
+    {
+      "order": 3,
+      "description": "Bright & Airy Open Plan Reception Room",
+      "htmlDescription": "Bright & Airy Open Plan Reception Room"
+    },
+    {
+      "order": 4,
+      "description": "Modern Kitchen",
+      "htmlDescription": "Modern Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Both Good Sized Double Bedrooms",
+      "htmlDescription": "Both Good Sized Double Bedrooms"
+    },
+    {
+      "order": 6,
+      "description": "Modern Bathroom",
+      "htmlDescription": "Modern Bathroom"
+    },
+    {
+      "order": 7,
+      "description": "Sauna Room",
+      "htmlDescription": "Sauna Room"
+    },
+    {
+      "order": 8,
+      "description": "Set in the Heart of Holloway",
+      "htmlDescription": "Set in the Heart of Holloway"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23_max_476x317.jpeg",
+        "url": "property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d978ca23e/173400134/d978ca23e1016dee467d1ec58b5c4bd5_max_476x317.jpeg",
+        "url": "property-photo/d978ca23e/173400134/d978ca23e1016dee467d1ec58b5c4bd5.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f1b13b18/173400134/3f1b13b18a5e1da89336c58e774a9e05_max_476x317.jpeg",
+        "url": "property-photo/3f1b13b18/173400134/3f1b13b18a5e1da89336c58e774a9e05.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b92088237/173400134/b92088237ed57c13178f9f5d0baf9872_max_476x317.jpeg",
+        "url": "property-photo/b92088237/173400134/b92088237ed57c13178f9f5d0baf9872.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54b593097/173400134/54b5930975ab5f7f4af42051a6710330_max_476x317.jpeg",
+        "url": "property-photo/54b593097/173400134/54b5930975ab5f7f4af42051a6710330.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7abf91e9/173400134/c7abf91e9155f671ab51d7670f13f557_max_476x317.jpeg",
+        "url": "property-photo/c7abf91e9/173400134/c7abf91e9155f671ab51d7670f13f557.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/306211312/173400134/306211312041432fcbd5b9bd4ad79ac4_max_476x317.jpeg",
+        "url": "property-photo/306211312/173400134/306211312041432fcbd5b9bd4ad79ac4.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14979a6a6/173400134/14979a6a6d2fcf981c5026196c9e2d6b_max_476x317.jpeg",
+        "url": "property-photo/14979a6a6/173400134/14979a6a6d2fcf981c5026196c9e2d6b.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6c611bd8/173400134/f6c611bd8ac87c788b7190a314427c44_max_476x317.jpeg",
+        "url": "property-photo/f6c611bd8/173400134/f6c611bd8ac87c788b7190a314427c44.jpeg",
+        "caption": "Photo 9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7aaefa3f3/173400134/7aaefa3f34c50558fcff360696e19e10_max_476x317.jpeg",
+        "url": "property-photo/7aaefa3f3/173400134/7aaefa3f34c50558fcff360696e19e10.jpeg",
+        "caption": "Photo 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9301fc843/173400134/9301fc843d1119ab39b69626b84c8193_max_476x317.jpeg",
+        "url": "property-photo/9301fc843/173400134/9301fc843d1119ab39b69626b84c8193.jpeg",
+        "caption": "Photo 11"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30e9b06f/173400134/f30e9b06fbb163bdccd9a59be7cbad23_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Primden Group, Camden",
+  "addedOrReduced": "Added on 17/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
