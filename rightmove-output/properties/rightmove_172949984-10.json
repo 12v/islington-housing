@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-20T21:46:12.627581+00:00",
+  "postcode": "N1 2HJ",
+  "id": 172949984,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Set in one of Islington's most prestigious locations is this well-proportioned two bedroom apartment",
+  "displayAddress": "Alwyne Road, LONDON",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.544163,
+    "longitude": -0.095327
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f_max_476x317.jpeg",
+      "url": "property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88b281d1c/172949984/88b281d1c9b90bad1083e0823a9c77e1_max_476x317.jpeg",
+      "url": "property-photo/88b281d1c/172949984/88b281d1c9b90bad1083e0823a9c77e1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1676f104/172949984/a1676f1040c885e36da12f2bdd01e3b7_max_476x317.jpeg",
+      "url": "property-photo/a1676f104/172949984/a1676f1040c885e36da12f2bdd01e3b7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b590b922/172949984/4b590b92284b88e510ba2114f293e688_max_476x317.jpeg",
+      "url": "property-photo/4b590b922/172949984/4b590b92284b88e510ba2114f293e688.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/934b4db12/172949984/934b4db121449334d8a41208a3102afb_max_476x317.jpeg",
+      "url": "property-photo/934b4db12/172949984/934b4db121449334d8a41208a3102afb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/340493af0/172949984/340493af095f96a3dd65f8de3808a915_max_476x317.jpeg",
+      "url": "property-photo/340493af0/172949984/340493af095f96a3dd65f8de3808a915.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2fd6477e/172949984/f2fd6477eda70ad52d38fb8688867999_max_476x317.jpeg",
+      "url": "property-photo/f2fd6477e/172949984/f2fd6477eda70ad52d38fb8688867999.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-17T16:07:57Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 11478,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3840 3862",
+    "branchDisplayName": "Felicity J Lord, Clerkenwell Lettings",
+    "branchName": "Clerkenwell Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Clerkenwell-Lettings-11478.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:03:04Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172949984#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172949984",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-06T09:59:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-20T13:07:52Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Lots of lights throughout",
+      "htmlDescription": "Lots of lights throughout"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f_max_476x317.jpeg",
+        "url": "property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88b281d1c/172949984/88b281d1c9b90bad1083e0823a9c77e1_max_476x317.jpeg",
+        "url": "property-photo/88b281d1c/172949984/88b281d1c9b90bad1083e0823a9c77e1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1676f104/172949984/a1676f1040c885e36da12f2bdd01e3b7_max_476x317.jpeg",
+        "url": "property-photo/a1676f104/172949984/a1676f1040c885e36da12f2bdd01e3b7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b590b922/172949984/4b590b92284b88e510ba2114f293e688_max_476x317.jpeg",
+        "url": "property-photo/4b590b922/172949984/4b590b92284b88e510ba2114f293e688.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/934b4db12/172949984/934b4db121449334d8a41208a3102afb_max_476x317.jpeg",
+        "url": "property-photo/934b4db12/172949984/934b4db121449334d8a41208a3102afb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/340493af0/172949984/340493af095f96a3dd65f8de3808a915_max_476x317.jpeg",
+        "url": "property-photo/340493af0/172949984/340493af095f96a3dd65f8de3808a915.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2fd6477e/172949984/f2fd6477eda70ad52d38fb8688867999_max_476x317.jpeg",
+        "url": "property-photo/f2fd6477e/172949984/f2fd6477eda70ad52d38fb8688867999.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f05be659/172949984/2f05be65952b14208448cc8ebd94a37f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Clerkenwell Lettings",
+  "addedOrReduced": "Reduced on 17/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
