@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-23T21:37:03.970158+00:00",
+  "postcode": "N1 1BJ",
+  "id": 172461932,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious three bed and two bathroom modern flat",
+  "displayAddress": "Thornhill Crescent, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541578,
+    "longitude": -0.115032
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118_max_476x317.jpeg",
+      "url": "property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fd05153d/172461932/3fd05153dd9e30f59ec7726d1fc80ef9_max_476x317.jpeg",
+      "url": "property-photo/3fd05153d/172461932/3fd05153dd9e30f59ec7726d1fc80ef9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e44e50383/172461932/e44e50383d93792052cc93f84aa093bd_max_476x317.jpeg",
+      "url": "property-photo/e44e50383/172461932/e44e50383d93792052cc93f84aa093bd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba18dae75/172461932/ba18dae75b3ae5435e895b680283e2de_max_476x317.jpeg",
+      "url": "property-photo/ba18dae75/172461932/ba18dae75b3ae5435e895b680283e2de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7558ce04/172461932/e7558ce044bbe43db3fef6a837b3fb91_max_476x317.jpeg",
+      "url": "property-photo/e7558ce04/172461932/e7558ce044bbe43db3fef6a837b3fb91.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8a929230/172461932/b8a9292306bce456fc642833fa4e03e4_max_476x317.jpeg",
+      "url": "property-photo/b8a929230/172461932/b8a9292306bce456fc642833fa4e03e4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/292a4bd0a/172461932/292a4bd0a3e37bd2269bb7bed8d31344_max_476x317.jpeg",
+      "url": "property-photo/292a4bd0a/172461932/292a4bd0a3e37bd2269bb7bed8d31344.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-02-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-13T10:08:50Z"
+  },
+  "price": {
+    "amount": 4100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,100 pcm",
+        "displayPriceQualifier": "Fixed Price"
+      },
+      {
+        "displayPrice": "\u00a3946 pw",
+        "displayPriceQualifier": "Fixed Price"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79624,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3834 8477",
+    "branchDisplayName": "Felicity J Lord, Islington Lettings",
+    "branchName": "Islington Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Islington-Lettings-79624.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:53:59Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172461932#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172461932",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-02-20T17:05:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-23T19:30:50Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three Double Rooms",
+      "htmlDescription": "Three Double Rooms"
+    },
+    {
+      "order": 2,
+      "description": "Islington",
+      "htmlDescription": "Islington"
+    },
+    {
+      "order": 3,
+      "description": "Available 26th April",
+      "htmlDescription": "Available 26th April"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118_max_476x317.jpeg",
+        "url": "property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fd05153d/172461932/3fd05153dd9e30f59ec7726d1fc80ef9_max_476x317.jpeg",
+        "url": "property-photo/3fd05153d/172461932/3fd05153dd9e30f59ec7726d1fc80ef9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e44e50383/172461932/e44e50383d93792052cc93f84aa093bd_max_476x317.jpeg",
+        "url": "property-photo/e44e50383/172461932/e44e50383d93792052cc93f84aa093bd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba18dae75/172461932/ba18dae75b3ae5435e895b680283e2de_max_476x317.jpeg",
+        "url": "property-photo/ba18dae75/172461932/ba18dae75b3ae5435e895b680283e2de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7558ce04/172461932/e7558ce044bbe43db3fef6a837b3fb91_max_476x317.jpeg",
+        "url": "property-photo/e7558ce04/172461932/e7558ce044bbe43db3fef6a837b3fb91.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8a929230/172461932/b8a9292306bce456fc642833fa4e03e4_max_476x317.jpeg",
+        "url": "property-photo/b8a929230/172461932/b8a9292306bce456fc642833fa4e03e4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/292a4bd0a/172461932/292a4bd0a3e37bd2269bb7bed8d31344_max_476x317.jpeg",
+        "url": "property-photo/292a4bd0a/172461932/292a4bd0a3e37bd2269bb7bed8d31344.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12ca5d888/172461932/12ca5d888cc1e2733ace3e6eac7e3118_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Islington Lettings",
+  "addedOrReduced": "Reduced on 13/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

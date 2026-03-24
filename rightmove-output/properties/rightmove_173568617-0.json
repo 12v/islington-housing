@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-23T21:48:30.877851+00:00",
+  "postcode": "N1 1XP",
+  "id": 173568617,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A Stylish Home in a Thriving Location Metra Living is delighted to present this 2 bedroom apartment located in the heart of Islington. Designed for contemporary living, this spacious home offers high-quality finishes throughout. The Pavilions is an ideal choice for professionals, offering mod...",
+  "displayAddress": "Jenson Heights, Caledonian Road, N1 ",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541835,
+    "longitude": -0.120838
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e_max_476x317.jpeg",
+      "url": "property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf2a67591/173568617/bf2a6759177e8d3fbcedbf9d86b2b01a_max_476x317.jpeg",
+      "url": "property-photo/bf2a67591/173568617/bf2a6759177e8d3fbcedbf9d86b2b01a.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8e663d22/173568617/a8e663d2220c61015fe4b89c79ae0336_max_476x317.jpeg",
+      "url": "property-photo/a8e663d22/173568617/a8e663d2220c61015fe4b89c79ae0336.jpeg",
+      "caption": "Photo 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcd8aa21b/173568617/bcd8aa21b15b53de232d1a02c1aa825c_max_476x317.jpeg",
+      "url": "property-photo/bcd8aa21b/173568617/bcd8aa21b15b53de232d1a02c1aa825c.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8d079cf0/173568617/a8d079cf05a50353020d8fd0427f0925_max_476x317.jpeg",
+      "url": "property-photo/a8d079cf0/173568617/a8d079cf05a50353020d8fd0427f0925.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/181f3ad65/173568617/181f3ad65781fe77289d1a4a1edf6793_max_476x317.jpeg",
+      "url": "property-photo/181f3ad65/173568617/181f3ad65781fe77289d1a4a1edf6793.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bfea563f/173568617/6bfea563fb4427a5c9c90645b8772e2c_max_476x317.jpeg",
+      "url": "property-photo/6bfea563f/173568617/6bfea563fb4427a5c9c90645b8772e2c.jpeg",
+      "caption": "Photo 1"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-23T14:37:36Z"
+  },
+  "price": {
+    "amount": 2725,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,725 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3629 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 102784,
+    "brandPlusLogoURI": "/103k/102784/branch_rmchoice_logo_102784_0001.png",
+    "contactTelephone": "020 3857 8022",
+    "branchDisplayName": "L&Q, Metra Living",
+    "branchName": "Metra Living",
+    "brandTradingName": "L&Q",
+    "branchLandingPageUrl": "/estate-agents/agent/LandQ/Metra-Living-102784.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-06-10T16:01:59Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/103k/102784/branch_rmchoice_logo_102784_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": false,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173568617#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173568617",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-23T14:32:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-23T14:37:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "EPC Rating B",
+      "htmlDescription": "EPC Rating B "
+    },
+    {
+      "order": 2,
+      "description": "Two Bedroom - Two Bathroom",
+      "htmlDescription": "Two Bedroom - Two Bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Modern Throughout",
+      "htmlDescription": "Modern Throughout "
+    },
+    {
+      "order": 4,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 5,
+      "description": "Cycle Storage",
+      "htmlDescription": "Cycle Storage "
+    },
+    {
+      "order": 6,
+      "description": "Within Close Walking Distance to Caledonian Road Station",
+      "htmlDescription": "Within Close Walking Distance to Caledonian Road Station"
+    },
+    {
+      "order": 7,
+      "description": "Part Furnished",
+      "htmlDescription": "Part Furnished"
+    },
+    {
+      "order": 8,
+      "description": "Intergrated Kitchen",
+      "htmlDescription": "Intergrated Kitchen "
+    },
+    {
+      "order": 9,
+      "description": "No Parking Available",
+      "htmlDescription": "No Parking Available "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e_max_476x317.jpeg",
+        "url": "property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf2a67591/173568617/bf2a6759177e8d3fbcedbf9d86b2b01a_max_476x317.jpeg",
+        "url": "property-photo/bf2a67591/173568617/bf2a6759177e8d3fbcedbf9d86b2b01a.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8e663d22/173568617/a8e663d2220c61015fe4b89c79ae0336_max_476x317.jpeg",
+        "url": "property-photo/a8e663d22/173568617/a8e663d2220c61015fe4b89c79ae0336.jpeg",
+        "caption": "Photo 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcd8aa21b/173568617/bcd8aa21b15b53de232d1a02c1aa825c_max_476x317.jpeg",
+        "url": "property-photo/bcd8aa21b/173568617/bcd8aa21b15b53de232d1a02c1aa825c.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8d079cf0/173568617/a8d079cf05a50353020d8fd0427f0925_max_476x317.jpeg",
+        "url": "property-photo/a8d079cf0/173568617/a8d079cf05a50353020d8fd0427f0925.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/181f3ad65/173568617/181f3ad65781fe77289d1a4a1edf6793_max_476x317.jpeg",
+        "url": "property-photo/181f3ad65/173568617/181f3ad65781fe77289d1a4a1edf6793.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bfea563f/173568617/6bfea563fb4427a5c9c90645b8772e2c_max_476x317.jpeg",
+        "url": "property-photo/6bfea563f/173568617/6bfea563fb4427a5c9c90645b8772e2c.jpeg",
+        "caption": "Photo 1"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c98b3ea87/173568617/c98b3ea87bdfd87d74350d70ec10684e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by L&Q, Metra Living",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
