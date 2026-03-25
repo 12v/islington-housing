@@ -1,0 +1,278 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-25T00:45:04.529876+00:00",
+  "postcode": "N7 9LU",
+  "id": 172990976,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "We are delighted to present this immaculate two-bedroom property located in an enviable position within a sought-after area.",
+  "displayAddress": "Middleton Grove, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551002,
+    "longitude": -0.124697
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c_max_476x317.jpeg",
+      "url": "property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e0705894/172990976/8e0705894fb7f006facfe6b2e9ce7d92_max_476x317.jpeg",
+      "url": "property-photo/8e0705894/172990976/8e0705894fb7f006facfe6b2e9ce7d92.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46d165ff4/172990976/46d165ff4e66d0a12cf30f4ea250f0e2_max_476x317.jpeg",
+      "url": "property-photo/46d165ff4/172990976/46d165ff4e66d0a12cf30f4ea250f0e2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3922bd749/172990976/3922bd7491e955e6908d640ea3381750_max_476x317.jpeg",
+      "url": "property-photo/3922bd749/172990976/3922bd7491e955e6908d640ea3381750.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0084a4b4c/172990976/0084a4b4c9045cb31899f46677bd538b_max_476x317.jpeg",
+      "url": "property-photo/0084a4b4c/172990976/0084a4b4c9045cb31899f46677bd538b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e8a942b3/172990976/8e8a942b3a8ce4fd947e95c6ec365ddc_max_476x317.jpeg",
+      "url": "property-photo/8e8a942b3/172990976/8e8a942b3a8ce4fd947e95c6ec365ddc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a52661775/172990976/a52661775fdf2ba12ff0ad227d2e6f9c_max_476x317.jpeg",
+      "url": "property-photo/a52661775/172990976/a52661775fdf2ba12ff0ad227d2e6f9c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/277f9d7a3/172990976/277f9d7a3605e4c2affdc6d75c28323d_max_476x317.jpeg",
+      "url": "property-photo/277f9d7a3/172990976/277f9d7a3605e4c2affdc6d75c28323d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ba25ff10/172990976/7ba25ff1070464e7696940df878cde84_max_476x317.jpeg",
+      "url": "property-photo/7ba25ff10/172990976/7ba25ff1070464e7696940df878cde84.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/568a2a742/172990976/568a2a7429a4525d92eed46a4c969875_max_476x317.jpeg",
+      "url": "property-photo/568a2a742/172990976/568a2a7429a4525d92eed46a4c969875.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f70ce4900/172990976/f70ce4900959855e9b355ea46ca58c1c_max_476x317.jpeg",
+      "url": "property-photo/f70ce4900/172990976/f70ce4900959855e9b355ea46ca58c1c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb3fa7db6/172990976/eb3fa7db656e0d6afe8ca52431f0b5f2_max_476x317.jpeg",
+      "url": "property-photo/eb3fa7db6/172990976/eb3fa7db656e0d6afe8ca52431f0b5f2.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-23T12:32:09Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 246137,
+    "brandPlusLogoURI": "/247k/246137/branch_rmchoice_logo_246137_0001.png",
+    "contactTelephone": "020 3834 8272",
+    "branchDisplayName": "Assure Move Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Assure Move Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Assure-Move-Estate-Agents/London-246137.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2024-10-23T10:27:06Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/247k/246137/branch_rmchoice_logo_246137_0001.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "606 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172990976#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172990976",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-06T18:01:27Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-24T14:59:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Great Condition",
+      "htmlDescription": "Great Condition"
+    },
+    {
+      "order": 2,
+      "description": "Two Bedrooms",
+      "htmlDescription": "Two Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    },
+    {
+      "order": 4,
+      "description": "Naturally Bright",
+      "htmlDescription": "Naturally Bright"
+    },
+    {
+      "order": 5,
+      "description": "Excellent Location",
+      "htmlDescription": "Excellent Location"
+    },
+    {
+      "order": 6,
+      "description": "Close To Transport Links",
+      "htmlDescription": "Close To Transport Links"
+    },
+    {
+      "order": 7,
+      "description": "Close To Local Amenities",
+      "htmlDescription": "Close To Local Amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c_max_476x317.jpeg",
+        "url": "property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e0705894/172990976/8e0705894fb7f006facfe6b2e9ce7d92_max_476x317.jpeg",
+        "url": "property-photo/8e0705894/172990976/8e0705894fb7f006facfe6b2e9ce7d92.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46d165ff4/172990976/46d165ff4e66d0a12cf30f4ea250f0e2_max_476x317.jpeg",
+        "url": "property-photo/46d165ff4/172990976/46d165ff4e66d0a12cf30f4ea250f0e2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3922bd749/172990976/3922bd7491e955e6908d640ea3381750_max_476x317.jpeg",
+        "url": "property-photo/3922bd749/172990976/3922bd7491e955e6908d640ea3381750.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0084a4b4c/172990976/0084a4b4c9045cb31899f46677bd538b_max_476x317.jpeg",
+        "url": "property-photo/0084a4b4c/172990976/0084a4b4c9045cb31899f46677bd538b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e8a942b3/172990976/8e8a942b3a8ce4fd947e95c6ec365ddc_max_476x317.jpeg",
+        "url": "property-photo/8e8a942b3/172990976/8e8a942b3a8ce4fd947e95c6ec365ddc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a52661775/172990976/a52661775fdf2ba12ff0ad227d2e6f9c_max_476x317.jpeg",
+        "url": "property-photo/a52661775/172990976/a52661775fdf2ba12ff0ad227d2e6f9c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/277f9d7a3/172990976/277f9d7a3605e4c2affdc6d75c28323d_max_476x317.jpeg",
+        "url": "property-photo/277f9d7a3/172990976/277f9d7a3605e4c2affdc6d75c28323d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ba25ff10/172990976/7ba25ff1070464e7696940df878cde84_max_476x317.jpeg",
+        "url": "property-photo/7ba25ff10/172990976/7ba25ff1070464e7696940df878cde84.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/568a2a742/172990976/568a2a7429a4525d92eed46a4c969875_max_476x317.jpeg",
+        "url": "property-photo/568a2a742/172990976/568a2a7429a4525d92eed46a4c969875.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f70ce4900/172990976/f70ce4900959855e9b355ea46ca58c1c_max_476x317.jpeg",
+        "url": "property-photo/f70ce4900/172990976/f70ce4900959855e9b355ea46ca58c1c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb3fa7db6/172990976/eb3fa7db656e0d6afe8ca52431f0b5f2_max_476x317.jpeg",
+        "url": "property-photo/eb3fa7db6/172990976/eb3fa7db656e0d6afe8ca52431f0b5f2.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/823827b29/172990976/823827b29bbd57b77501255c129d273c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Assure Move Estate Agents, London",
+  "addedOrReduced": "Reduced on 23/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

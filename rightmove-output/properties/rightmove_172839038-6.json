@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-25T00:28:09.159985+00:00",
+  "postcode": "N7 7LX",
+  "id": 172839038,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Located in the vibrant area of Islington, this well-presented two double bedroom property offers modern and comfortable living in a highly convenient North London setting. The home features two spacious double bedrooms, a separate and spacious living room with ample room for both relaxing and din...",
+  "displayAddress": "Hornsey Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556505,
+    "longitude": -0.11203
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb_max_476x317.jpeg",
+      "url": "property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb.jpeg",
+      "caption": "Picture 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c7c46d96/172839038/3c7c46d96f6d6af14ab2ba023377bc1b_max_476x317.jpeg",
+      "url": "property-photo/3c7c46d96/172839038/3c7c46d96f6d6af14ab2ba023377bc1b.jpeg",
+      "caption": "Picture 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5f8f654e/172839038/d5f8f654e6d32e92a322b9fae481737e_max_476x317.jpeg",
+      "url": "property-photo/d5f8f654e/172839038/d5f8f654e6d32e92a322b9fae481737e.jpeg",
+      "caption": "Picture 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a655a62b/172839038/2a655a62b7704d1fb681b30c894658e3_max_476x317.jpeg",
+      "url": "property-photo/2a655a62b/172839038/2a655a62b7704d1fb681b30c894658e3.jpeg",
+      "caption": "Picture 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13dc2db95/172839038/13dc2db95fce62074f06f3a7eb200431_max_476x317.jpeg",
+      "url": "property-photo/13dc2db95/172839038/13dc2db95fce62074f06f3a7eb200431.jpeg",
+      "caption": "Picture 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ecf30e09/172839038/5ecf30e090bc84e6c4ea34a0483dadb4_max_476x317.jpeg",
+      "url": "property-photo/5ecf30e09/172839038/5ecf30e090bc84e6c4ea34a0483dadb4.jpeg",
+      "caption": "Picture 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acaa6086a/172839038/acaa6086a2f34846fa2e20251234b969_max_476x317.jpeg",
+      "url": "property-photo/acaa6086a/172839038/acaa6086a2f34846fa2e20251234b969.jpeg",
+      "caption": "Picture 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d46da6642/172839038/d46da664214c8075b83e8c4f1ed9382f_max_476x317.jpeg",
+      "url": "property-photo/d46da6642/172839038/d46da664214c8075b83e8c4f1ed9382f.jpeg",
+      "caption": "Picture 8"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-12T13:59:07Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 32903,
+    "brandPlusLogoURI": "/partner-logo/67260-PRODUCTS_LOGO-1766058290.jpeg",
+    "contactTelephone": "020 3889 9116",
+    "branchDisplayName": "Homefinders, London",
+    "branchName": "London",
+    "brandTradingName": "Homefinders",
+    "branchLandingPageUrl": "/estate-agents/agent/Homefinders/London-32903.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:53:59Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/67260-PRODUCTS_LOGO-1766058290.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<h2> Relevant letting fees and tenant protection information. <br />\rAs well as paying the rent, you may also be required to make the following permitted payments. <br />\r Permitted payments: <br />\r Before the tenancy starts (payable to Homefinders  the Agent ) <br />\rHolding Deposit: \u00a3375<br />\rDeposit: 5 weeks  rent equal to \u00a31730.76<br />\rDuring the tenancy (payable to the Agent) <br />\rPayment of \u00a350 will be charged if you want to change the tenancy agreement. <br />\rPay interest on any amounts of Rent due and in arrears by in excess of 14 days at the rate of 3% above the Bank of England annual base rate calculated on a day to day basis from the date that the same shall become due until payment in full is made. <br />\rPayment for the reasonably incurred costs for the loss of keys/security devices. Where a locksmith must be called you will be charged for their services. <br />\rPayment of any unpaid rent or other reasonable costs associated with your early termination of the tenancy<br />\rDuring the tenancy (payable to the provider) if permitted and applicable: <br />\rUtilities   gas, electricity, water<br />\rCommunications   telephone and broadband<br />\rInstallation of cable/satellite<br />\rSubscription to cable/satellite supplier<br />\rTelevision licence<br />\rCouncil Tax<br />\rOther permitted payments<br />\rAny other permitted payments, not included above, under the relevant legislation including contractual damages. <br />\r </h2><h2> Tenant protection</h2><br />\rHomefinders is a member of Safeagent, which is a client money protection scheme, and also a member of the Tenancy Deposit Scheme, which is a redress scheme. You can find out more details on the agent s website or by contacting the agent directly. <br />",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/172839038#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=172839038",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-03T22:14:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-24T22:14:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    },
+    {
+      "order": 2,
+      "description": "2 Double Bedrooms",
+      "htmlDescription": "2 Double Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Moments from Holloway Station",
+      "htmlDescription": "Moments from Holloway Station"
+    },
+    {
+      "order": 4,
+      "description": "Close to Shopping Facilities",
+      "htmlDescription": "Close to Shopping Facilities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb_max_476x317.jpeg",
+        "url": "property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb.jpeg",
+        "caption": "Picture 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c7c46d96/172839038/3c7c46d96f6d6af14ab2ba023377bc1b_max_476x317.jpeg",
+        "url": "property-photo/3c7c46d96/172839038/3c7c46d96f6d6af14ab2ba023377bc1b.jpeg",
+        "caption": "Picture 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5f8f654e/172839038/d5f8f654e6d32e92a322b9fae481737e_max_476x317.jpeg",
+        "url": "property-photo/d5f8f654e/172839038/d5f8f654e6d32e92a322b9fae481737e.jpeg",
+        "caption": "Picture 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a655a62b/172839038/2a655a62b7704d1fb681b30c894658e3_max_476x317.jpeg",
+        "url": "property-photo/2a655a62b/172839038/2a655a62b7704d1fb681b30c894658e3.jpeg",
+        "caption": "Picture 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13dc2db95/172839038/13dc2db95fce62074f06f3a7eb200431_max_476x317.jpeg",
+        "url": "property-photo/13dc2db95/172839038/13dc2db95fce62074f06f3a7eb200431.jpeg",
+        "caption": "Picture 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ecf30e09/172839038/5ecf30e090bc84e6c4ea34a0483dadb4_max_476x317.jpeg",
+        "url": "property-photo/5ecf30e09/172839038/5ecf30e090bc84e6c4ea34a0483dadb4.jpeg",
+        "caption": "Picture 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acaa6086a/172839038/acaa6086a2f34846fa2e20251234b969_max_476x317.jpeg",
+        "url": "property-photo/acaa6086a/172839038/acaa6086a2f34846fa2e20251234b969.jpeg",
+        "caption": "Picture 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d46da6642/172839038/d46da664214c8075b83e8c4f1ed9382f_max_476x317.jpeg",
+        "url": "property-photo/d46da6642/172839038/d46da664214c8075b83e8c4f1ed9382f.jpeg",
+        "caption": "Picture 8"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec9d4018c/172839038/ec9d4018cf691b447429b8960cbd4ddb_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Homefinders, London",
+  "addedOrReduced": "Reduced on 12/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
