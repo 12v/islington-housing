@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-26T00:15:28.239970+00:00",
+  "postcode": "N7 8GP",
+  "id": 173696924,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Hamptons are delighted to present a top floor two bedroom apartment in a secure development with concierge, convenient located to good transport links in to Central London.",
+  "displayAddress": "Carronade Court London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55028,
+    "longitude": -0.11578
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b_max_476x317.jpeg",
+      "url": "property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e149eba66/173696924/e149eba668c058db9a22f02a6e179e7d_max_476x317.jpeg",
+      "url": "property-photo/e149eba66/173696924/e149eba668c058db9a22f02a6e179e7d.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d01f415d/173696924/9d01f415db7567e9b5c80d0f02bc1b65_max_476x317.jpeg",
+      "url": "property-photo/9d01f415d/173696924/9d01f415db7567e9b5c80d0f02bc1b65.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ec3e6412/173696924/8ec3e641225cc8998ca9950ceab12b2b_max_476x317.jpeg",
+      "url": "property-photo/8ec3e6412/173696924/8ec3e641225cc8998ca9950ceab12b2b.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1f555733/173696924/e1f555733539e28f49ee2be90bcfc9f5_max_476x317.jpeg",
+      "url": "property-photo/e1f555733/173696924/e1f555733539e28f49ee2be90bcfc9f5.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcc3a24fc/173696924/dcc3a24fca9e805882b7da332ca4f850_max_476x317.jpeg",
+      "url": "property-photo/dcc3a24fc/173696924/dcc3a24fca9e805882b7da332ca4f850.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc7579066/173696924/fc75790665295ca5aca8374a26b1fec4_max_476x317.jpeg",
+      "url": "property-photo/fc7579066/173696924/fc75790665295ca5aca8374a26b1fec4.jpeg",
+      "caption": "Ensuite"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/453d95ca2/173696924/453d95ca26aa2a2e8f5d771e11fefcdb_max_476x317.jpeg",
+      "url": "property-photo/453d95ca2/173696924/453d95ca26aa2a2e8f5d771e11fefcdb.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e634d8a13/173696924/e634d8a1382b1da5d462e2b4564658f8_max_476x317.jpeg",
+      "url": "property-photo/e634d8a13/173696924/e634d8a1382b1da5d462e2b4564658f8.jpeg",
+      "caption": "Bathroom"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-25T15:34:07Z"
+  },
+  "price": {
+    "amount": 650,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,817 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3650 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:03:04Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Hamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED SHORTHOLD TENANCY:\nHolding Deposit\t - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\n\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place: \nThe annual rent exceeds \u00a3100,000. \nThe property is occupied by an entity (Company let) rather that an individual. \nThe property is not used as a main or primary home. \nThere is a Resident Landlord.\nTenancy Agreement and Setup Administration - \u00a3390 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee (per person or company) - \u00a360 inc VAT.\nTenancy Continuation - \u00a3150 inc VAT.\nChange of Sharer - \u00a3120 inc VAT.\nEarly Termination - \u00a3150 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per guarantor.\nDeed of Guarantee - \u00a350 inc VAT.\n\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash. \nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173696924#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173696924",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-25T15:28:27Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-25T15:34:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms (One En-Suite)",
+      "htmlDescription": "Two Bathrooms (One En-Suite) "
+    },
+    {
+      "order": 3,
+      "description": "Open Plan Living Space",
+      "htmlDescription": "Open Plan Living Space"
+    },
+    {
+      "order": 4,
+      "description": "Fully Equipped Kitchen",
+      "htmlDescription": "Fully Equipped Kitchen "
+    },
+    {
+      "order": 5,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony "
+    },
+    {
+      "order": 6,
+      "description": "Secure Development",
+      "htmlDescription": "Secure Development"
+    },
+    {
+      "order": 7,
+      "description": "24 Hour Concierge",
+      "htmlDescription": "24 Hour Concierge"
+    },
+    {
+      "order": 8,
+      "description": "On-Site Gym",
+      "htmlDescription": "On-Site Gym"
+    },
+    {
+      "order": 9,
+      "description": "Parking Available by Separate Negotiation",
+      "htmlDescription": "Parking Available by Separate Negotiation"
+    },
+    {
+      "order": 10,
+      "description": "Council Tax - Band E",
+      "htmlDescription": "Council Tax - Band E"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b_max_476x317.jpeg",
+        "url": "property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e149eba66/173696924/e149eba668c058db9a22f02a6e179e7d_max_476x317.jpeg",
+        "url": "property-photo/e149eba66/173696924/e149eba668c058db9a22f02a6e179e7d.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d01f415d/173696924/9d01f415db7567e9b5c80d0f02bc1b65_max_476x317.jpeg",
+        "url": "property-photo/9d01f415d/173696924/9d01f415db7567e9b5c80d0f02bc1b65.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ec3e6412/173696924/8ec3e641225cc8998ca9950ceab12b2b_max_476x317.jpeg",
+        "url": "property-photo/8ec3e6412/173696924/8ec3e641225cc8998ca9950ceab12b2b.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1f555733/173696924/e1f555733539e28f49ee2be90bcfc9f5_max_476x317.jpeg",
+        "url": "property-photo/e1f555733/173696924/e1f555733539e28f49ee2be90bcfc9f5.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcc3a24fc/173696924/dcc3a24fca9e805882b7da332ca4f850_max_476x317.jpeg",
+        "url": "property-photo/dcc3a24fc/173696924/dcc3a24fca9e805882b7da332ca4f850.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc7579066/173696924/fc75790665295ca5aca8374a26b1fec4_max_476x317.jpeg",
+        "url": "property-photo/fc7579066/173696924/fc75790665295ca5aca8374a26b1fec4.jpeg",
+        "caption": "Ensuite"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/453d95ca2/173696924/453d95ca26aa2a2e8f5d771e11fefcdb_max_476x317.jpeg",
+        "url": "property-photo/453d95ca2/173696924/453d95ca26aa2a2e8f5d771e11fefcdb.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e634d8a13/173696924/e634d8a1382b1da5d462e2b4564658f8_max_476x317.jpeg",
+        "url": "property-photo/e634d8a13/173696924/e634d8a1382b1da5d462e2b4564658f8.jpeg",
+        "caption": "Bathroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/421e428ba/173696924/421e428babc8b059e5b2eee4dcf68a8b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
