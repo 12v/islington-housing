@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-03-26T22:36:50.060467+00:00",
+  "postcode": "N19 3HR",
+  "id": 173148938,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "All Utility Bills Included - Furnished double room in Archway. Shared kitchen, bathroom and WC with three others. Available now.",
+  "displayAddress": "Beachcroft Way, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56879,
+    "longitude": -0.12627
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7_max_476x317.jpeg",
+      "url": "property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e041c4f09/173148938/e041c4f09740525ad1d52d9b961babfe_max_476x317.jpeg",
+      "url": "property-photo/e041c4f09/173148938/e041c4f09740525ad1d52d9b961babfe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b9b43e17/173148938/6b9b43e171f60bf78e68d4b4ecaa82aa_max_476x317.jpeg",
+      "url": "property-photo/6b9b43e17/173148938/6b9b43e171f60bf78e68d4b4ecaa82aa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c04824bd9/173148938/c04824bd97e9f4091eb1f54617fa463c_max_476x317.jpeg",
+      "url": "property-photo/c04824bd9/173148938/c04824bd97e9f4091eb1f54617fa463c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0329d8be/173148938/a0329d8be98dd7cbfc198aa66f52adc3_max_476x317.jpeg",
+      "url": "property-photo/a0329d8be/173148938/a0329d8be98dd7cbfc198aa66f52adc3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aae621a0c/173148938/aae621a0c57c5ce9ba3cc4ed2c9c2b7c_max_476x317.jpeg",
+      "url": "property-photo/aae621a0c/173148938/aae621a0c57c5ce9ba3cc4ed2c9c2b7c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cf11c584/173148938/3cf11c58431087aa253bf4a8f5f5e590_max_476x317.jpeg",
+      "url": "property-photo/3cf11c584/173148938/3cf11c58431087aa253bf4a8f5f5e590.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77b6aaceb/173148938/77b6aacebee3ee91bcbd458e572f2bc5_max_476x317.jpeg",
+      "url": "property-photo/77b6aaceb/173148938/77b6aacebee3ee91bcbd458e572f2bc5.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-25T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-24T18:00:06Z"
+  },
+  "price": {
+    "amount": 850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3196 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3196.15) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a3980.77) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "160 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173148938#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173148938",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-11T12:21:08Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-25T18:02:34Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Flat Share - Furnished",
+      "htmlDescription": "Flat Share - Furnished"
+    },
+    {
+      "order": 2,
+      "description": "1 Bathroom Shared with 3 others",
+      "htmlDescription": "1 Bathroom Shared with 3 others"
+    },
+    {
+      "order": 3,
+      "description": "All utility bills included for hassle-free living",
+      "htmlDescription": "All utility bills included for hassle-free living"
+    },
+    {
+      "order": 4,
+      "description": "Spacious double room in a friendly flat share",
+      "htmlDescription": "Spacious double room in a friendly flat share"
+    },
+    {
+      "order": 5,
+      "description": "Located on Beachcroft Way, Archway",
+      "htmlDescription": "Located on Beachcroft Way, Archway"
+    },
+    {
+      "order": 6,
+      "description": "Fully furnished room with bed and mattress",
+      "htmlDescription": "Fully furnished room with bed and mattress"
+    },
+    {
+      "order": 7,
+      "description": "Includes wardrobe for ample storage",
+      "htmlDescription": "Includes wardrobe for ample storage"
+    },
+    {
+      "order": 8,
+      "description": "Shared kitchen with housemates",
+      "htmlDescription": "Shared kitchen with housemates"
+    },
+    {
+      "order": 9,
+      "description": "Shared bathroom facilities",
+      "htmlDescription": "Shared bathroom facilities"
+    },
+    {
+      "order": 10,
+      "description": "Additional separate WC",
+      "htmlDescription": "Additional separate WC"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7_max_476x317.jpeg",
+        "url": "property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e041c4f09/173148938/e041c4f09740525ad1d52d9b961babfe_max_476x317.jpeg",
+        "url": "property-photo/e041c4f09/173148938/e041c4f09740525ad1d52d9b961babfe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b9b43e17/173148938/6b9b43e171f60bf78e68d4b4ecaa82aa_max_476x317.jpeg",
+        "url": "property-photo/6b9b43e17/173148938/6b9b43e171f60bf78e68d4b4ecaa82aa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c04824bd9/173148938/c04824bd97e9f4091eb1f54617fa463c_max_476x317.jpeg",
+        "url": "property-photo/c04824bd9/173148938/c04824bd97e9f4091eb1f54617fa463c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0329d8be/173148938/a0329d8be98dd7cbfc198aa66f52adc3_max_476x317.jpeg",
+        "url": "property-photo/a0329d8be/173148938/a0329d8be98dd7cbfc198aa66f52adc3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aae621a0c/173148938/aae621a0c57c5ce9ba3cc4ed2c9c2b7c_max_476x317.jpeg",
+        "url": "property-photo/aae621a0c/173148938/aae621a0c57c5ce9ba3cc4ed2c9c2b7c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cf11c584/173148938/3cf11c58431087aa253bf4a8f5f5e590_max_476x317.jpeg",
+        "url": "property-photo/3cf11c584/173148938/3cf11c58431087aa253bf4a8f5f5e590.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77b6aaceb/173148938/77b6aacebee3ee91bcbd458e572f2bc5_max_476x317.jpeg",
+        "url": "property-photo/77b6aaceb/173148938/77b6aacebee3ee91bcbd458e572f2bc5.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5fac5345/173148938/e5fac5345f4ec090aa98f4ac1eadd0e7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Reduced on 24/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Flat share",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
