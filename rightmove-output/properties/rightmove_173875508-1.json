@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-01T00:12:15.157459+00:00",
+  "postcode": "N7 6RZ",
+  "id": 173875508,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "## AVAILABLE 1ST OF MAY ## A stunning 2 bed flat with large private patio garden. This is a great flat and represents excellent value for money. It has been decorated to an excellent standard with wooden flooring throughout, neutral d\u00e9cor, high ceilings modern fully fitted separate kitchen with...",
+  "displayAddress": "Hornsey Road, Islington, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.563133,
+    "longitude": -0.118132
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0_max_476x317.jpeg",
+      "url": "property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f24a4fc6e/173875508/f24a4fc6ec3302cb24551d26e308d4e4_max_476x317.jpeg",
+      "url": "property-photo/f24a4fc6e/173875508/f24a4fc6ec3302cb24551d26e308d4e4.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8fe402c66/173875508/8fe402c66a77202936816a20058a5fa7_max_476x317.jpeg",
+      "url": "property-photo/8fe402c66/173875508/8fe402c66a77202936816a20058a5fa7.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acac526a3/173875508/acac526a39f2ac05947cd743cf027f89_max_476x317.jpeg",
+      "url": "property-photo/acac526a3/173875508/acac526a39f2ac05947cd743cf027f89.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d40f75c96/173875508/d40f75c960de742bc3e0a1372314f59e_max_476x317.jpeg",
+      "url": "property-photo/d40f75c96/173875508/d40f75c960de742bc3e0a1372314f59e.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de6f07e71/173875508/de6f07e7187c53e0278330b5d5dd5560_max_476x317.jpeg",
+      "url": "property-photo/de6f07e71/173875508/de6f07e7187c53e0278330b5d5dd5560.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73dcd0672/173875508/73dcd0672c6573eb2bedb040884420d3_max_476x317.jpeg",
+      "url": "property-photo/73dcd0672/173875508/73dcd0672c6573eb2bedb040884420d3.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0102dfccf/173875508/0102dfccfd991a25132f3d9bce6f4845_max_476x317.jpeg",
+      "url": "property-photo/0102dfccf/173875508/0102dfccfd991a25132f3d9bce6f4845.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ced30666b/173875508/ced30666bd5fc95cfcbc6aa7d74b21e0_max_476x317.jpeg",
+      "url": "property-photo/ced30666b/173875508/ced30666bd5fc95cfcbc6aa7d74b21e0.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b67d5aa33/173875508/b67d5aa33f2dd1dba52ecadc694ab88d_max_476x317.jpeg",
+      "url": "property-photo/b67d5aa33/173875508/b67d5aa33f2dd1dba52ecadc694ab88d.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07c0b3183/173875508/07c0b318394263ee9481802470224727_max_476x317.jpeg",
+      "url": "property-photo/07c0b3183/173875508/07c0b318394263ee9481802470224727.jpeg",
+      "caption": "Photo 10"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-30T12:47:12Z"
+  },
+  "price": {
+    "amount": 1900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3438 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 90731,
+    "brandPlusLogoURI": "/company/clogo_34850_0000.png",
+    "contactTelephone": "020 3872 5262",
+    "branchDisplayName": "Alex Marks, London",
+    "branchName": "London",
+    "brandTradingName": "Alex Marks",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Marks/London-90731.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_34850_0000.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><br />At Alex Marks we like to do our best in keeping the rental of your new home as simple as possible and below is some guidance on our process if you wish to Let a property through Alex Marks. </p><p>\u00a0\u00a0\u00a0 1. If you would like to offer on one of our available properties, we will require an email confirmation of your offer, including tenants employment status, move date,\u00a0\u00a0 price, terms of your offer etc<br /></p><p>\u00a0\u00a0\u00a0 2. Once the email has been recieved, Alex Marks will endeavour to agree the terms of the offer with the landlord(s).</p><p>\u00a0\u00a0\u00a0 3. Once the offer is agreed, we require a holding deposit of 1 weeks rent to be paid via cash, debit card or BACs payment. The holding deposit will go towards your final balance of a 5-week security deposit (6 weeks if the rents is \u00a350,000 or above per annum) and 1 per calendar months rent (weekly rent x 52 weeks / 12 months). This balance is payable to us in cleared funds prior to the agreed move date.<br /></p><p>\u00a0\u00a0\u00a0 4. We will require tenants to provide Alex Marks with the following references, Previous landlord reference, 3 months bank statements, Employment or student status \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 confirmation, payslips if required, and in person the tenants must attend our office with their original passports and Visas\u2019s (if any) for Alex Marks to carry out\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 their \u2018Right To Rent\u2019 checks. <br /></p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 For the avoidance of doubt the tenants if working must have a combined income of 2.5 times the amount of annual rent, so if the annual rent is \u00a310,000 the \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 tenants combined income must be \u00a325,000 and where there are Guarantors required the Guarantors must be UK residents and have an income of 3 times\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 the annual rent. Guarantors will be required to provide Alex Marks Ltd with 3 months bank statements, copy of passport and a utility bill. This can be done \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 electronically <br /></p><p>\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 If you are a student, we will require you to have either a UK based Guarantor or University Guarantee. Alternatively rent can be paid in advance, please call\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 us to discuss this further if you wish on 0207-078-7950</p><p>\u00a0\u00a0 5. Once all references are complete our administrator will be in contact to arrange the signing of all relevant paperwork\u2019s, payments and collection of keys. \u00a0</p><p><br />During the tenancy if there are any changes required to be made to the contract, on request from the tenant there will be a charge of \u00a350 (inc VAT) per change. This may include a tenant change. </p><p>Alex Marks Ltd is a member of The Property Ombudsman and is a member of 'Client Money Protect' membership No: CMP003578</p>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173875508#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173875508",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-30T12:41:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-30T12:47:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Large private patio",
+      "htmlDescription": "Large private patio"
+    },
+    {
+      "order": 2,
+      "description": "2 double bedrooms",
+      "htmlDescription": "2 double bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Close to Finsbury Park",
+      "htmlDescription": "Close to Finsbury Park"
+    },
+    {
+      "order": 4,
+      "description": "Large sash windows",
+      "htmlDescription": "Large sash windows"
+    },
+    {
+      "order": 5,
+      "description": "Wooden floors throughout",
+      "htmlDescription": "Wooden floors throughout"
+    },
+    {
+      "order": 6,
+      "description": "Seperate kitchen",
+      "htmlDescription": "Seperate kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0_max_476x317.jpeg",
+        "url": "property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f24a4fc6e/173875508/f24a4fc6ec3302cb24551d26e308d4e4_max_476x317.jpeg",
+        "url": "property-photo/f24a4fc6e/173875508/f24a4fc6ec3302cb24551d26e308d4e4.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8fe402c66/173875508/8fe402c66a77202936816a20058a5fa7_max_476x317.jpeg",
+        "url": "property-photo/8fe402c66/173875508/8fe402c66a77202936816a20058a5fa7.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acac526a3/173875508/acac526a39f2ac05947cd743cf027f89_max_476x317.jpeg",
+        "url": "property-photo/acac526a3/173875508/acac526a39f2ac05947cd743cf027f89.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d40f75c96/173875508/d40f75c960de742bc3e0a1372314f59e_max_476x317.jpeg",
+        "url": "property-photo/d40f75c96/173875508/d40f75c960de742bc3e0a1372314f59e.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de6f07e71/173875508/de6f07e7187c53e0278330b5d5dd5560_max_476x317.jpeg",
+        "url": "property-photo/de6f07e71/173875508/de6f07e7187c53e0278330b5d5dd5560.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73dcd0672/173875508/73dcd0672c6573eb2bedb040884420d3_max_476x317.jpeg",
+        "url": "property-photo/73dcd0672/173875508/73dcd0672c6573eb2bedb040884420d3.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0102dfccf/173875508/0102dfccfd991a25132f3d9bce6f4845_max_476x317.jpeg",
+        "url": "property-photo/0102dfccf/173875508/0102dfccfd991a25132f3d9bce6f4845.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ced30666b/173875508/ced30666bd5fc95cfcbc6aa7d74b21e0_max_476x317.jpeg",
+        "url": "property-photo/ced30666b/173875508/ced30666bd5fc95cfcbc6aa7d74b21e0.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b67d5aa33/173875508/b67d5aa33f2dd1dba52ecadc694ab88d_max_476x317.jpeg",
+        "url": "property-photo/b67d5aa33/173875508/b67d5aa33f2dd1dba52ecadc694ab88d.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07c0b3183/173875508/07c0b318394263ee9481802470224727_max_476x317.jpeg",
+        "url": "property-photo/07c0b3183/173875508/07c0b318394263ee9481802470224727.jpeg",
+        "caption": "Photo 10"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51f931500/173875508/51f931500e3c19d86089fddbad2edfd0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Marks, London",
+  "addedOrReduced": "Added on 30/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
