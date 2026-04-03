@@ -1,0 +1,132 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-02T23:29:27.695731+00:00",
+  "postcode": "N4 3NL",
+  "id": 173992955,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly refurbished 1 bed flat within a Victorian building.",
+  "displayAddress": "Lennox Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56559,
+    "longitude": -0.11154
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d_max_476x317.jpeg",
+      "url": "property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-01T18:57:02Z"
+  },
+  "price": {
+    "amount": 1600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3369 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173992955#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173992955",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-01T18:51:08Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-01T18:57:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d_max_476x317.jpeg",
+        "url": "property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2f3fce56/173992955/b2f3fce5643add1ddf1facbc14f1111d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added on 01/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

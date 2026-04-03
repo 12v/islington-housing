@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-02T22:21:59.296311+00:00",
+  "postcode": "N1 9DN",
+  "id": 173866409,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Contemporary 2-bedroom flat in the heart of King's Cross, newly refurbished and bright throughout. Moments from caf\u00e9s, restaurants, excellent transport connections, shops, and major cultural landmarks.",
+  "displayAddress": "Caledonian Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53289,
+    "longitude": -0.11924
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7_max_476x317.jpeg",
+      "url": "property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6030dee4f/173866409/6030dee4ff2fb026b3a6f92d401a4b45_max_476x317.jpeg",
+      "url": "property-photo/6030dee4f/173866409/6030dee4ff2fb026b3a6f92d401a4b45.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d020ca165/173866409/d020ca165739b55feb2ec086fa92e91e_max_476x317.jpeg",
+      "url": "property-photo/d020ca165/173866409/d020ca165739b55feb2ec086fa92e91e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc56fd4e4/173866409/cc56fd4e4ab63b6577475c3769e816fc_max_476x317.jpeg",
+      "url": "property-photo/cc56fd4e4/173866409/cc56fd4e4ab63b6577475c3769e816fc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e2783b79/173866409/6e2783b79a4a84c71c6a53445bee52b5_max_476x317.jpeg",
+      "url": "property-photo/6e2783b79/173866409/6e2783b79a4a84c71c6a53445bee52b5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/364f5b43d/173866409/364f5b43d8f39f7ed9cfed64c3af1082_max_476x317.jpeg",
+      "url": "property-photo/364f5b43d/173866409/364f5b43d8f39f7ed9cfed64c3af1082.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad202b94c/173866409/ad202b94cb2892d3d349971af611fa15_max_476x317.jpeg",
+      "url": "property-photo/ad202b94c/173866409/ad202b94cb2892d3d349971af611fa15.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a604ec4a/173866409/3a604ec4a57b7714317eaf36ac69c1d7_max_476x317.jpeg",
+      "url": "property-photo/3a604ec4a/173866409/3a604ec4a57b7714317eaf36ac69c1d7.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-02-21T10:03:01Z"
+  },
+  "price": {
+    "amount": 3250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3750 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 238166,
+    "brandPlusLogoURI": "/partner-logo/26351885-PRODUCTS_LOGO-1766062904.png",
+    "contactTelephone": "020 4538 8807",
+    "branchDisplayName": "Eson2, London",
+    "branchName": "London",
+    "brandTradingName": "Eson2",
+    "branchLandingPageUrl": "/estate-agents/agent/Eson2/London-238166.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-02T10:22:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/26351885-PRODUCTS_LOGO-1766062904.png",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "500 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173866409#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173866409",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-30T10:41:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-03-30T10:52:40Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Natural Light",
+      "htmlDescription": "Natural Light"
+    },
+    {
+      "order": 2,
+      "description": "fitted modern kitchen",
+      "htmlDescription": "fitted modern kitchen "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7_max_476x317.jpeg",
+        "url": "property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6030dee4f/173866409/6030dee4ff2fb026b3a6f92d401a4b45_max_476x317.jpeg",
+        "url": "property-photo/6030dee4f/173866409/6030dee4ff2fb026b3a6f92d401a4b45.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d020ca165/173866409/d020ca165739b55feb2ec086fa92e91e_max_476x317.jpeg",
+        "url": "property-photo/d020ca165/173866409/d020ca165739b55feb2ec086fa92e91e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cc56fd4e4/173866409/cc56fd4e4ab63b6577475c3769e816fc_max_476x317.jpeg",
+        "url": "property-photo/cc56fd4e4/173866409/cc56fd4e4ab63b6577475c3769e816fc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e2783b79/173866409/6e2783b79a4a84c71c6a53445bee52b5_max_476x317.jpeg",
+        "url": "property-photo/6e2783b79/173866409/6e2783b79a4a84c71c6a53445bee52b5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/364f5b43d/173866409/364f5b43d8f39f7ed9cfed64c3af1082_max_476x317.jpeg",
+        "url": "property-photo/364f5b43d/173866409/364f5b43d8f39f7ed9cfed64c3af1082.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad202b94c/173866409/ad202b94cb2892d3d349971af611fa15_max_476x317.jpeg",
+        "url": "property-photo/ad202b94c/173866409/ad202b94cb2892d3d349971af611fa15.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a604ec4a/173866409/3a604ec4a57b7714317eaf36ac69c1d7_max_476x317.jpeg",
+        "url": "property-photo/3a604ec4a/173866409/3a604ec4a57b7714317eaf36ac69c1d7.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eec95441/173866409/9eec954412a134182f3b4c54053e2ee7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Eson2, London",
+  "addedOrReduced": "Reduced on 21/02/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
