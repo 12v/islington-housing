@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-07T23:33:44.037486+00:00",
+  "postcode": "N4 3DU",
+  "id": 174133877,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious three double bedroom apartment with wood flooring throughout and large open plan kitchen/living area. Short walk to Finsbury Park Station, Crouch Hill Overground and Stroud Green Road.",
+  "displayAddress": "Hanley Road, N4 3DU",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.567871,
+    "longitude": -0.120922
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f_max_476x317.jpeg",
+      "url": "property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f.jpeg",
+      "caption": "IMG_1445.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf1f239e8/174133877/cf1f239e861f3bff7a8098331ebcc470_max_476x317.jpeg",
+      "url": "property-photo/cf1f239e8/174133877/cf1f239e861f3bff7a8098331ebcc470.jpeg",
+      "caption": "IMG_1442.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e20a17e49/174133877/e20a17e498c232e8a836b2f7cb5c01b4_max_476x317.jpeg",
+      "url": "property-photo/e20a17e49/174133877/e20a17e498c232e8a836b2f7cb5c01b4.jpeg",
+      "caption": "IMG_1443.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/044b2ad06/174133877/044b2ad06f266fadff45b717537d7a41_max_476x317.jpeg",
+      "url": "property-photo/044b2ad06/174133877/044b2ad06f266fadff45b717537d7a41.jpeg",
+      "caption": "IMG_1439.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98840ea8e/174133877/98840ea8ede8e170688bd2ab5dc47f6f_max_476x317.jpeg",
+      "url": "property-photo/98840ea8e/174133877/98840ea8ede8e170688bd2ab5dc47f6f.jpeg",
+      "caption": "IMG_1444.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df744718/174133877/1df744718e65fa166fef513b93ac7693_max_476x317.jpeg",
+      "url": "property-photo/1df744718/174133877/1df744718e65fa166fef513b93ac7693.jpeg",
+      "caption": "IMG_1447.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83effca49/174133877/83effca49d97352861b46ddae4d48ae5_max_476x317.jpeg",
+      "url": "property-photo/83effca49/174133877/83effca49d97352861b46ddae4d48ae5.jpeg",
+      "caption": "IMG_1448.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8ff4df1b/174133877/a8ff4df1b5e2a9c344be8e16a93b7071_max_476x317.jpeg",
+      "url": "property-photo/a8ff4df1b/174133877/a8ff4df1b5e2a9c344be8e16a93b7071.jpeg",
+      "caption": "IMG_1450.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcedf55e/174133877/1bcedf55ec83cc70166ba8a03fdf9153_max_476x317.jpeg",
+      "url": "property-photo/1bcedf55e/174133877/1bcedf55ec83cc70166ba8a03fdf9153.jpeg",
+      "caption": "IMG_1452.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8681d7db/174133877/a8681d7db2d36d15b1454d2272846015_max_476x317.jpeg",
+      "url": "property-photo/a8681d7db/174133877/a8681d7db2d36d15b1454d2272846015.jpeg",
+      "caption": "IMG_1438.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/055018176/174133877/055018176e43170f7a1d83d2a066fc81_max_476x317.jpeg",
+      "url": "property-photo/055018176/174133877/055018176e43170f7a1d83d2a066fc81.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-07T11:03:03Z"
+  },
+  "price": {
+    "amount": 3300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3762 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 164045,
+    "brandPlusLogoURI": "/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "contactTelephone": "020 3906 1017",
+    "branchDisplayName": "James Edward, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "James Edward",
+    "branchLandingPageUrl": "/estate-agents/agent/James-Edward/Highbury-164045.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174133877#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174133877",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-07T10:57:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-07T11:03:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 2,
+      "description": "Close to Finsbury Park Amenities",
+      "htmlDescription": "Close to Finsbury Park Amenities"
+    },
+    {
+      "order": 3,
+      "description": "Part Furnished",
+      "htmlDescription": "Part Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Period Conversion",
+      "htmlDescription": "Period Conversion"
+    },
+    {
+      "order": 5,
+      "description": "Three Double Bedrooms",
+      "htmlDescription": "Three Double Bedrooms"
+    },
+    {
+      "order": 6,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f_max_476x317.jpeg",
+        "url": "property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f.jpeg",
+        "caption": "IMG_1445.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf1f239e8/174133877/cf1f239e861f3bff7a8098331ebcc470_max_476x317.jpeg",
+        "url": "property-photo/cf1f239e8/174133877/cf1f239e861f3bff7a8098331ebcc470.jpeg",
+        "caption": "IMG_1442.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e20a17e49/174133877/e20a17e498c232e8a836b2f7cb5c01b4_max_476x317.jpeg",
+        "url": "property-photo/e20a17e49/174133877/e20a17e498c232e8a836b2f7cb5c01b4.jpeg",
+        "caption": "IMG_1443.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/044b2ad06/174133877/044b2ad06f266fadff45b717537d7a41_max_476x317.jpeg",
+        "url": "property-photo/044b2ad06/174133877/044b2ad06f266fadff45b717537d7a41.jpeg",
+        "caption": "IMG_1439.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98840ea8e/174133877/98840ea8ede8e170688bd2ab5dc47f6f_max_476x317.jpeg",
+        "url": "property-photo/98840ea8e/174133877/98840ea8ede8e170688bd2ab5dc47f6f.jpeg",
+        "caption": "IMG_1444.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df744718/174133877/1df744718e65fa166fef513b93ac7693_max_476x317.jpeg",
+        "url": "property-photo/1df744718/174133877/1df744718e65fa166fef513b93ac7693.jpeg",
+        "caption": "IMG_1447.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83effca49/174133877/83effca49d97352861b46ddae4d48ae5_max_476x317.jpeg",
+        "url": "property-photo/83effca49/174133877/83effca49d97352861b46ddae4d48ae5.jpeg",
+        "caption": "IMG_1448.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8ff4df1b/174133877/a8ff4df1b5e2a9c344be8e16a93b7071_max_476x317.jpeg",
+        "url": "property-photo/a8ff4df1b/174133877/a8ff4df1b5e2a9c344be8e16a93b7071.jpeg",
+        "caption": "IMG_1450.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bcedf55e/174133877/1bcedf55ec83cc70166ba8a03fdf9153_max_476x317.jpeg",
+        "url": "property-photo/1bcedf55e/174133877/1bcedf55ec83cc70166ba8a03fdf9153.jpeg",
+        "caption": "IMG_1452.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8681d7db/174133877/a8681d7db2d36d15b1454d2272846015_max_476x317.jpeg",
+        "url": "property-photo/a8681d7db/174133877/a8681d7db2d36d15b1454d2272846015.jpeg",
+        "caption": "IMG_1438.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/055018176/174133877/055018176e43170f7a1d83d2a066fc81_max_476x317.jpeg",
+        "url": "property-photo/055018176/174133877/055018176e43170f7a1d83d2a066fc81.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18bf063f7/174133877/18bf063f703107f8cad19c8e2405714f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by James Edward, Highbury",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
