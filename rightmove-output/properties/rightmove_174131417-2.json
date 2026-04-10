@@ -1,0 +1,203 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-09T21:03:28.251988+00:00",
+  "postcode": "EC1V 3SU",
+  "id": 174131417,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Nestled in the vibrant area of Lever Street, London, this charming house offers a delightful living experience in a prime location. Spanning an area of 495 square feet, the property features a well-appointed reception room that provides a warm and inviting space for relaxation or entertaining gue...",
+  "displayAddress": "Lever Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.527477,
+    "longitude": -0.09407
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102_max_476x317.jpeg",
+      "url": "property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a77eb4e4/174131417/1a77eb4e479c2fa357a3214e19b588d0_max_476x317.jpeg",
+      "url": "property-photo/1a77eb4e4/174131417/1a77eb4e479c2fa357a3214e19b588d0.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ee97dc8c/174131417/6ee97dc8cdb1168b8814ce693caa3780_max_476x317.jpeg",
+      "url": "property-photo/6ee97dc8c/174131417/6ee97dc8cdb1168b8814ce693caa3780.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d076b5f55/174131417/d076b5f554b20f316d8523b278a0e6e9_max_476x317.jpeg",
+      "url": "property-photo/d076b5f55/174131417/d076b5f554b20f316d8523b278a0e6e9.jpeg",
+      "caption": "Lounge"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-07T10:32:12Z"
+  },
+  "price": {
+    "amount": 1875,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,875 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3433 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 13051,
+    "brandPlusLogoURI": "/partner-logo/33399-PRODUCTS_LOGO-1766064132.jpeg",
+    "contactTelephone": "020 3834 8540",
+    "branchDisplayName": "Knightons Estate Agents, Buckhurst Hill",
+    "branchName": "Buckhurst Hill",
+    "brandTradingName": "Knightons Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Knightons-Estate-Agents/Buckhurst-Hill-13051.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-24T09:04:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/33399-PRODUCTS_LOGO-1766064132.jpeg",
+    "primaryBrandColour": "#000098"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "496 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174131417#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174131417",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-07T10:26:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-09T12:46:42Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Cosy 1-bedroom apartment",
+      "htmlDescription": "Cosy 1-bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Spacious reception room",
+      "htmlDescription": "Spacious reception room"
+    },
+    {
+      "order": 3,
+      "description": "Modern bathroom suite",
+      "htmlDescription": "Modern bathroom suite"
+    },
+    {
+      "order": 4,
+      "description": "Located on Lever Street",
+      "htmlDescription": "Located on Lever Street"
+    },
+    {
+      "order": 5,
+      "description": "Close to London amenities",
+      "htmlDescription": "Close to London amenities"
+    },
+    {
+      "order": 6,
+      "description": "Ideal for singles or couples",
+      "htmlDescription": "Ideal for singles or couples"
+    },
+    {
+      "order": 7,
+      "description": "Great transport links nearby",
+      "htmlDescription": "Great transport links nearby"
+    },
+    {
+      "order": 8,
+      "description": "Viewing highly recommended",
+      "htmlDescription": "Viewing highly recommended"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102_max_476x317.jpeg",
+        "url": "property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a77eb4e4/174131417/1a77eb4e479c2fa357a3214e19b588d0_max_476x317.jpeg",
+        "url": "property-photo/1a77eb4e4/174131417/1a77eb4e479c2fa357a3214e19b588d0.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ee97dc8c/174131417/6ee97dc8cdb1168b8814ce693caa3780_max_476x317.jpeg",
+        "url": "property-photo/6ee97dc8c/174131417/6ee97dc8cdb1168b8814ce693caa3780.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d076b5f55/174131417/d076b5f554b20f316d8523b278a0e6e9_max_476x317.jpeg",
+        "url": "property-photo/d076b5f55/174131417/d076b5f554b20f316d8523b278a0e6e9.jpeg",
+        "caption": "Lounge"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f12d2e07/174131417/7f12d2e07cc08e9625445fc509f75102_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Knightons Estate Agents, Buckhurst Hill",
+  "addedOrReduced": "Added on 07/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

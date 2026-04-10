@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-09T22:15:26.564941+00:00",
+  "postcode": "N1 3PD",
+  "id": 174135794,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "FURNISHED one bedroom flat with modern fitted kitchen/living space, double bedroom and shower room located on the ground floor behind a commercial property on Essex Road N1. The property is ideally located for local shops, restaurants, bus routes and several stations including Essex Road...",
+  "displayAddress": "Essex Road, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.544116,
+    "longitude": -0.089382
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02_max_476x317.jpeg",
+      "url": "property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02.jpeg",
+      "caption": "Living kitchen space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b0a0b464/174135794/7b0a0b464679c0feceb31d6920692e6f_max_476x317.jpeg",
+      "url": "property-photo/7b0a0b464/174135794/7b0a0b464679c0feceb31d6920692e6f.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8814c06e8/174135794/8814c06e83cf6908a9474075822cd7ae_max_476x317.jpeg",
+      "url": "property-photo/8814c06e8/174135794/8814c06e83cf6908a9474075822cd7ae.jpeg",
+      "caption": "living area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b4c331e7/174135794/5b4c331e7bef45b9bcaaa526bd745ca5_max_476x317.jpeg",
+      "url": "property-photo/5b4c331e7/174135794/5b4c331e7bef45b9bcaaa526bd745ca5.jpeg",
+      "caption": "hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b3df5aac/174135794/6b3df5aac2b269d11b67b974177b829b_max_476x317.jpeg",
+      "url": "property-photo/6b3df5aac/174135794/6b3df5aac2b269d11b67b974177b829b.jpeg",
+      "caption": "hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7201be72b/174135794/7201be72bda6913de8eb6b78641712b7_max_476x317.jpeg",
+      "url": "property-photo/7201be72b/174135794/7201be72bda6913de8eb6b78641712b7.jpeg",
+      "caption": "shower room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8e61976f/174135794/c8e61976fa0232ccb5dba5c524974af7_max_476x317.jpeg",
+      "url": "property-photo/c8e61976f/174135794/c8e61976fa0232ccb5dba5c524974af7.jpeg",
+      "caption": "bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8c33494b/174135794/b8c33494bfa7309ff1254190536c0f79_max_476x317.jpeg",
+      "url": "property-photo/b8c33494b/174135794/b8c33494bfa7309ff1254190536c0f79.jpeg",
+      "caption": "bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a79b31f82/174135794/a79b31f82c6efffe9040e2f84dd2bc33_max_476x317.jpeg",
+      "url": "property-photo/a79b31f82/174135794/a79b31f82c6efffe9040e2f84dd2bc33.jpeg",
+      "caption": "Front"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-07T11:25:09Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 9316,
+    "brandPlusLogoURI": "/company/clogo_3187_0004.jpeg",
+    "contactTelephone": "020 3727 7654",
+    "branchDisplayName": "Anthony Webb Estate Agents, Palmers Green",
+    "branchName": "Palmers Green",
+    "brandTradingName": "Anthony Webb Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Anthony-Webb-Estate-Agents/Palmers-Green-9316.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:10Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_3187_0004.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "There are some additional fess that may be applicable throughout your tenancy such as:<br />\nPermitted Payment \u2013 Change of Sharer: \u00a350 (\u00a341.67+VAT)<br />\nPermitted Payment \u2013 Variation or Novation of Contract (change needed in the contract): \u00a350 (\u00a341.67+VAT)<br />\nPermitted Payment \u2013 Early Termination / Surrender of Tenancy: \u00a350 (\u00a341.67+VAT)<br />\nPermitted Payment \u2013 Loss of Keys or Security Device: Cost of Keys / Security Device<br />\nPermitted Payment \u2013 Late Payment of Ren: 3% per annum above Bank of England base rate<br />\nPermitted Payment - Holding Deposit - Refundable (subject to certain conditions in our Notes for Tenants) unless the tenant agrees that it can be used towards the tenancy deposit or first rent payment: Equivalent on one weeks\u2019 rent<br />\nPlease note: Utilities, communication services and council tax not included in rent, unless otherwise specified<br />\nRefundable Holding deposit - (maximum one week\u2019s rent). Refundable (subject to certain conditions as stated in our Notes for Tenants) unless the tenant agrees that it can be used towards the tenancy deposit or first rent payment.<br />\nAnthony Webb are members of the following redress and client money protection schemes:<br />\n<strong>The Property Ombudsman</strong>\u00a0(TPO) scheme has been providing consumers and property agents with an alternative dispute resolution service for 27 years and provides consumers with a free, impartial and independent alternative dispute resolution service.<br />\n<strong>Client Money Protect</strong>\u00a0is a client money protection membership scheme designed to protect client money held by property agents and professionals.<br />\n\u00a0",
+  "displaySize": "344 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174135794#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174135794",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-07T11:19:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-09T03:46:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom",
+      "htmlDescription": "One double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Ground floor flat",
+      "htmlDescription": "Ground floor flat"
+    },
+    {
+      "order": 3,
+      "description": "Open plan living/kitchen space",
+      "htmlDescription": "Open plan living/kitchen space"
+    },
+    {
+      "order": 4,
+      "description": "Modern kitchen with appliances",
+      "htmlDescription": "Modern kitchen with appliances"
+    },
+    {
+      "order": 5,
+      "description": "Modern shower room",
+      "htmlDescription": "Modern shower room"
+    },
+    {
+      "order": 6,
+      "description": "Gas central heating/laminate floors",
+      "htmlDescription": "Gas central heating/laminate floors"
+    },
+    {
+      "order": 7,
+      "description": "Secure communal entrance",
+      "htmlDescription": "Secure communal entrance"
+    },
+    {
+      "order": 8,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02_max_476x317.jpeg",
+        "url": "property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02.jpeg",
+        "caption": "Living kitchen space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b0a0b464/174135794/7b0a0b464679c0feceb31d6920692e6f_max_476x317.jpeg",
+        "url": "property-photo/7b0a0b464/174135794/7b0a0b464679c0feceb31d6920692e6f.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8814c06e8/174135794/8814c06e83cf6908a9474075822cd7ae_max_476x317.jpeg",
+        "url": "property-photo/8814c06e8/174135794/8814c06e83cf6908a9474075822cd7ae.jpeg",
+        "caption": "living area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b4c331e7/174135794/5b4c331e7bef45b9bcaaa526bd745ca5_max_476x317.jpeg",
+        "url": "property-photo/5b4c331e7/174135794/5b4c331e7bef45b9bcaaa526bd745ca5.jpeg",
+        "caption": "hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b3df5aac/174135794/6b3df5aac2b269d11b67b974177b829b_max_476x317.jpeg",
+        "url": "property-photo/6b3df5aac/174135794/6b3df5aac2b269d11b67b974177b829b.jpeg",
+        "caption": "hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7201be72b/174135794/7201be72bda6913de8eb6b78641712b7_max_476x317.jpeg",
+        "url": "property-photo/7201be72b/174135794/7201be72bda6913de8eb6b78641712b7.jpeg",
+        "caption": "shower room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8e61976f/174135794/c8e61976fa0232ccb5dba5c524974af7_max_476x317.jpeg",
+        "url": "property-photo/c8e61976f/174135794/c8e61976fa0232ccb5dba5c524974af7.jpeg",
+        "caption": "bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8c33494b/174135794/b8c33494bfa7309ff1254190536c0f79_max_476x317.jpeg",
+        "url": "property-photo/b8c33494b/174135794/b8c33494bfa7309ff1254190536c0f79.jpeg",
+        "caption": "bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a79b31f82/174135794/a79b31f82c6efffe9040e2f84dd2bc33_max_476x317.jpeg",
+        "url": "property-photo/a79b31f82/174135794/a79b31f82c6efffe9040e2f84dd2bc33.jpeg",
+        "caption": "Front"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fae1f828/174135794/3fae1f828bc484f95bb45f837ef8ff02_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Anthony Webb Estate Agents, Palmers Green",
+  "addedOrReduced": "Added on 07/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-09T21:10:29.466959+00:00",
+  "postcode": "EC1V 8BS",
+  "id": 173669879,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "The Regency Estate Group presents this modern one-bedroom apartment ideally situated on Central Street, London. The apartment features a bright and spacious open-plan living and dining area, designed with contemporary finishes and sleek wooden flooring. Large windows allow plenty of na...",
+  "displayAddress": "Central Street, Old Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528826,
+    "longitude": -0.097211
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba_max_476x317.jpeg",
+      "url": "property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/59d8ed5ab/173669879/59d8ed5ab26cbb8616086d7faa4ff8ee_max_476x317.jpeg",
+      "url": "property-photo/59d8ed5ab/173669879/59d8ed5ab26cbb8616086d7faa4ff8ee.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02501645f/173669879/02501645f72cf3bd4938f9d6c0a35db0_max_476x317.jpeg",
+      "url": "property-photo/02501645f/173669879/02501645f72cf3bd4938f9d6c0a35db0.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6d74cec5/173669879/a6d74cec5219d56f7c1907fa231a3d44_max_476x317.jpeg",
+      "url": "property-photo/a6d74cec5/173669879/a6d74cec5219d56f7c1907fa231a3d44.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c69cad2f3/173669879/c69cad2f3211c5e42ca7f01d5d525470_max_476x317.jpeg",
+      "url": "property-photo/c69cad2f3/173669879/c69cad2f3211c5e42ca7f01d5d525470.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac08cb8d0/173669879/ac08cb8d0b74a67175f313afe7c53ae9_max_476x317.jpeg",
+      "url": "property-photo/ac08cb8d0/173669879/ac08cb8d0b74a67175f313afe7c53ae9.jpeg",
+      "caption": "Picture No. 21"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-03-31T15:38:36Z"
+  },
+  "price": {
+    "amount": 3700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3854 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 286280,
+    "brandPlusLogoURI": "/partner-logo/36421739-PRODUCTS_LOGO-1766059796.png",
+    "contactTelephone": "020 4572 3117",
+    "branchDisplayName": "Regency Estate Group Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Regency Estate Group Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Regency-Estate-Group-Ltd/London-286280.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:42:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/36421739-PRODUCTS_LOGO-1766059796.png",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173669879#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173669879",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-25T10:07:47Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-09T05:32:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba_max_476x317.jpeg",
+        "url": "property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/59d8ed5ab/173669879/59d8ed5ab26cbb8616086d7faa4ff8ee_max_476x317.jpeg",
+        "url": "property-photo/59d8ed5ab/173669879/59d8ed5ab26cbb8616086d7faa4ff8ee.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02501645f/173669879/02501645f72cf3bd4938f9d6c0a35db0_max_476x317.jpeg",
+        "url": "property-photo/02501645f/173669879/02501645f72cf3bd4938f9d6c0a35db0.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6d74cec5/173669879/a6d74cec5219d56f7c1907fa231a3d44_max_476x317.jpeg",
+        "url": "property-photo/a6d74cec5/173669879/a6d74cec5219d56f7c1907fa231a3d44.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c69cad2f3/173669879/c69cad2f3211c5e42ca7f01d5d525470_max_476x317.jpeg",
+        "url": "property-photo/c69cad2f3/173669879/c69cad2f3211c5e42ca7f01d5d525470.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac08cb8d0/173669879/ac08cb8d0b74a67175f313afe7c53ae9_max_476x317.jpeg",
+        "url": "property-photo/ac08cb8d0/173669879/ac08cb8d0b74a67175f313afe7c53ae9.jpeg",
+        "caption": "Picture No. 21"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e46064fa4/173669879/e46064fa43492f26275275a198634eba_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Regency Estate Group Ltd, London",
+  "addedOrReduced": "Reduced on 31/03/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
