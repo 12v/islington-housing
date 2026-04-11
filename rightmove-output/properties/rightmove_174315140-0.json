@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-10T23:33:23.073798+00:00",
+  "postcode": "N4 3HT",
+  "id": 174315140,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Charming one-bedroom apartment situated just moments from Finsbury Park Station, offers both comfort and convenience in a vibrant location.",
+  "displayAddress": "Fonthill Road, Finsbury Park",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56502,
+    "longitude": -0.10983
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785_max_476x317.jpeg",
+      "url": "property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d9ecea2f/174315140/0d9ecea2f6f836939dec16d331abca6d_max_476x317.jpeg",
+      "url": "property-photo/0d9ecea2f/174315140/0d9ecea2f6f836939dec16d331abca6d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/848363913/174315140/8483639139cc7a128daade0cb2ab3c0e_max_476x317.jpeg",
+      "url": "property-photo/848363913/174315140/8483639139cc7a128daade0cb2ab3c0e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a9a624464/174315140/a9a6244649bf7de1ada36b78936c52a5_max_476x317.jpeg",
+      "url": "property-photo/a9a624464/174315140/a9a6244649bf7de1ada36b78936c52a5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cf87b89a/174315140/8cf87b89a1b45ee22c09c6b5c3d11115_max_476x317.jpeg",
+      "url": "property-photo/8cf87b89a/174315140/8cf87b89a1b45ee22c09c6b5c3d11115.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef748f4ca/174315140/ef748f4ca3d98f2f302311b282684c86_max_476x317.jpeg",
+      "url": "property-photo/ef748f4ca/174315140/ef748f4ca3d98f2f302311b282684c86.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023f5cf2a/174315140/023f5cf2aa6ed513c026b15f89ef444e_max_476x317.jpeg",
+      "url": "property-photo/023f5cf2a/174315140/023f5cf2aa6ed513c026b15f89ef444e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28e452b29/174315140/28e452b293b5aa32b11908bfeb712e59_max_476x317.jpeg",
+      "url": "property-photo/28e452b29/174315140/28e452b293b5aa32b11908bfeb712e59.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-11T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-10T18:51:03Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3403.85) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32019.23) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "344 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174315140#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174315140",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-10T18:45:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-10T18:51:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Inclusive of Heating and Hot Water",
+      "htmlDescription": "Inclusive of Heating and Hot Water"
+    },
+    {
+      "order": 2,
+      "description": "Available 11th of May",
+      "htmlDescription": "Available 11th of May"
+    },
+    {
+      "order": 3,
+      "description": "1-Bedroom Apartment",
+      "htmlDescription": "1-Bedroom Apartment"
+    },
+    {
+      "order": 4,
+      "description": "Moments from Finsbury Park Station",
+      "htmlDescription": "Moments from Finsbury Park Station"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : C",
+      "htmlDescription": "Energy Rating : C"
+    },
+    {
+      "order": 6,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 7,
+      "description": "Modern Spec",
+      "htmlDescription": "Modern Spec"
+    },
+    {
+      "order": 8,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    },
+    {
+      "order": 9,
+      "description": "Washing Machine",
+      "htmlDescription": "Washing Machine"
+    },
+    {
+      "order": 10,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785_max_476x317.jpeg",
+        "url": "property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d9ecea2f/174315140/0d9ecea2f6f836939dec16d331abca6d_max_476x317.jpeg",
+        "url": "property-photo/0d9ecea2f/174315140/0d9ecea2f6f836939dec16d331abca6d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/848363913/174315140/8483639139cc7a128daade0cb2ab3c0e_max_476x317.jpeg",
+        "url": "property-photo/848363913/174315140/8483639139cc7a128daade0cb2ab3c0e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a9a624464/174315140/a9a6244649bf7de1ada36b78936c52a5_max_476x317.jpeg",
+        "url": "property-photo/a9a624464/174315140/a9a6244649bf7de1ada36b78936c52a5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cf87b89a/174315140/8cf87b89a1b45ee22c09c6b5c3d11115_max_476x317.jpeg",
+        "url": "property-photo/8cf87b89a/174315140/8cf87b89a1b45ee22c09c6b5c3d11115.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef748f4ca/174315140/ef748f4ca3d98f2f302311b282684c86_max_476x317.jpeg",
+        "url": "property-photo/ef748f4ca/174315140/ef748f4ca3d98f2f302311b282684c86.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023f5cf2a/174315140/023f5cf2aa6ed513c026b15f89ef444e_max_476x317.jpeg",
+        "url": "property-photo/023f5cf2a/174315140/023f5cf2aa6ed513c026b15f89ef444e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28e452b29/174315140/28e452b293b5aa32b11908bfeb712e59_max_476x317.jpeg",
+        "url": "property-photo/28e452b29/174315140/28e452b293b5aa32b11908bfeb712e59.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1ea23731/174315140/a1ea23731d1b858e731f0e0e085a8785_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
