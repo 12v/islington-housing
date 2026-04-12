@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-12T00:18:58.301304+00:00",
+  "postcode": "N7 9PL",
+  "id": 174314489,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "VIRTUAL TOUR AVAILABLE A brand new two bedroom apartment in the eagerly anticipated Pearl House building in the London Square development located on the Mezzanine level .",
+  "displayAddress": "Market Road, Islington, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54665,
+    "longitude": -0.11896
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5_max_476x317.jpeg",
+      "url": "property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b06b19ff7/174314489/b06b19ff71a779135b610d702c30ad1d_max_476x317.jpeg",
+      "url": "property-photo/b06b19ff7/174314489/b06b19ff71a779135b610d702c30ad1d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8871d5bac/174314489/8871d5bac619f21b8e13d98a84c6fad8_max_476x317.jpeg",
+      "url": "property-photo/8871d5bac/174314489/8871d5bac619f21b8e13d98a84c6fad8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b55dbc64/174314489/7b55dbc64333f0cfe6f82d28e9088a52_max_476x317.jpeg",
+      "url": "property-photo/7b55dbc64/174314489/7b55dbc64333f0cfe6f82d28e9088a52.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8e7fd3ca/174314489/d8e7fd3ca8abcc5dfd066b05916a8bac_max_476x317.jpeg",
+      "url": "property-photo/d8e7fd3ca/174314489/d8e7fd3ca8abcc5dfd066b05916a8bac.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/324950587/174314489/3249505877d1de6c788852129fa91a55_max_476x317.jpeg",
+      "url": "property-photo/324950587/174314489/3249505877d1de6c788852129fa91a55.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/666b423e9/174314489/666b423e9d7b1d5ab7c8a08a666adf5c_max_476x317.jpeg",
+      "url": "property-photo/666b423e9/174314489/666b423e9d7b1d5ab7c8a08a666adf5c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84eb4aba2/174314489/84eb4aba204eb41d16c0e3722f21f903_max_476x317.jpeg",
+      "url": "property-photo/84eb4aba2/174314489/84eb4aba204eb41d16c0e3722f21f903.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-10T18:24:20Z"
+  },
+  "price": {
+    "amount": 3400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3785 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 233402,
+    "brandPlusLogoURI": "/partner-logo/25546772-PRODUCTS_LOGO-1766066367.png",
+    "contactTelephone": "020 7686 9630",
+    "branchDisplayName": "Sanders Property, London",
+    "branchName": "London",
+    "brandTradingName": "Sanders Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Sanders-Property/London-233402.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-17T15:31:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/25546772-PRODUCTS_LOGO-1766066367.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permited Payments prior to moving \nRent , Utilities , council tax, Security deposits, Holding deposits ,Default fees, Fees for changing a tenant or ending a tenancy early\nMembership Number : PRS014791 - PRS - Property Redress Scheme -   \nClient Money Protection (CMP) with ARLA Propertymark\n\n",
+  "displaySize": "781 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174314489#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174314489",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-10T18:18:40Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-10T18:24:20Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two-Bedroom Apartment (781 sq ft)",
+      "htmlDescription": "Two-Bedroom Apartment (781 sq ft)"
+    },
+    {
+      "order": 2,
+      "description": "1st Floor With Private Balcony",
+      "htmlDescription": "1st Floor With Private Balcony"
+    },
+    {
+      "order": 3,
+      "description": "Luxury Kitchen And Two Bathrooms",
+      "htmlDescription": "Luxury Kitchen And Two Bathrooms"
+    },
+    {
+      "order": 4,
+      "description": "EPC Band B",
+      "htmlDescription": "EPC Band B"
+    },
+    {
+      "order": 5,
+      "description": "Council Tax Band E",
+      "htmlDescription": "Council Tax Band E"
+    },
+    {
+      "order": 6,
+      "description": "Connected to Picadilly and National Rail",
+      "htmlDescription": "Connected to Picadilly and National Rail"
+    },
+    {
+      "order": 7,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 8,
+      "description": "Available 6th June 2026",
+      "htmlDescription": "Available 6th June 2026"
+    },
+    {
+      "order": 9,
+      "description": "24 Hour Concierge",
+      "htmlDescription": "24 Hour Concierge"
+    },
+    {
+      "order": 10,
+      "description": "porter",
+      "htmlDescription": "porter"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5_max_476x317.jpeg",
+        "url": "property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b06b19ff7/174314489/b06b19ff71a779135b610d702c30ad1d_max_476x317.jpeg",
+        "url": "property-photo/b06b19ff7/174314489/b06b19ff71a779135b610d702c30ad1d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8871d5bac/174314489/8871d5bac619f21b8e13d98a84c6fad8_max_476x317.jpeg",
+        "url": "property-photo/8871d5bac/174314489/8871d5bac619f21b8e13d98a84c6fad8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b55dbc64/174314489/7b55dbc64333f0cfe6f82d28e9088a52_max_476x317.jpeg",
+        "url": "property-photo/7b55dbc64/174314489/7b55dbc64333f0cfe6f82d28e9088a52.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8e7fd3ca/174314489/d8e7fd3ca8abcc5dfd066b05916a8bac_max_476x317.jpeg",
+        "url": "property-photo/d8e7fd3ca/174314489/d8e7fd3ca8abcc5dfd066b05916a8bac.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/324950587/174314489/3249505877d1de6c788852129fa91a55_max_476x317.jpeg",
+        "url": "property-photo/324950587/174314489/3249505877d1de6c788852129fa91a55.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/666b423e9/174314489/666b423e9d7b1d5ab7c8a08a666adf5c_max_476x317.jpeg",
+        "url": "property-photo/666b423e9/174314489/666b423e9d7b1d5ab7c8a08a666adf5c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84eb4aba2/174314489/84eb4aba204eb41d16c0e3722f21f903_max_476x317.jpeg",
+        "url": "property-photo/84eb4aba2/174314489/84eb4aba204eb41d16c0e3722f21f903.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ec164497/174314489/5ec1644976539d5514570cce15314de5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Sanders Property, London",
+  "addedOrReduced": "Added on 10/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
