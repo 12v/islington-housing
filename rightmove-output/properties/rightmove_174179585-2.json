@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-13T21:44:19.101563+00:00",
+  "postcode": "N1 0TS",
+  "id": 174179585,
+  "bedrooms": 2,
+  "bathrooms": null,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully positioned two-bedroom apartment in the heart of Islington, N1. Offering stylish living in one of London's most vibrant neighbourhoods, the property benefits from excellent transport links, fashionable restaurants, boutique shops and green spaces, making it ideal for family.",
+  "displayAddress": "Charlotte Terrace, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53567,
+    "longitude": -0.11321
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5_max_476x317.jpeg",
+      "url": "property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6188550d/174179585/a6188550da186890198587268df7e72f_max_476x317.jpeg",
+      "url": "property-photo/a6188550d/174179585/a6188550da186890198587268df7e72f.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/536b017d5/174179585/536b017d505f6e4a133d4798bb1f0e13_max_476x317.jpeg",
+      "url": "property-photo/536b017d5/174179585/536b017d505f6e4a133d4798bb1f0e13.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1073b84b/174179585/e1073b84b60566078fa612ff1e96bfce_max_476x317.jpeg",
+      "url": "property-photo/e1073b84b/174179585/e1073b84b60566078fa612ff1e96bfce.jpeg",
+      "caption": "Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd476c699/174179585/cd476c699a9e7cae73c2e9ea279815fe_max_476x317.jpeg",
+      "url": "property-photo/cd476c699/174179585/cd476c699a9e7cae73c2e9ea279815fe.jpeg",
+      "caption": "Balcony"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d6a171f3/174179585/5d6a171f319006fa3cdf6d72e0d72872_max_476x317.jpeg",
+      "url": "property-photo/5d6a171f3/174179585/5d6a171f319006fa3cdf6d72e0d72872.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e975e7264/174179585/e975e7264608de09fd1c6db197cc427f_max_476x317.jpeg",
+      "url": "property-photo/e975e7264/174179585/e975e7264608de09fd1c6db197cc427f.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7ad4eff6/174179585/d7ad4eff6db972c0ac25cfbb0c181cab_max_476x317.jpeg",
+      "url": "property-photo/d7ad4eff6/174179585/d7ad4eff6db972c0ac25cfbb0c181cab.jpeg",
+      "caption": "Separate WC"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88d110097/174179585/88d1100977306135e6cb3fe5298b3426_max_476x317.jpeg",
+      "url": "property-photo/88d110097/174179585/88d1100977306135e6cb3fe5298b3426.jpeg",
+      "caption": "Bathroom "
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-08T12:03:06Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 56722,
+    "brandPlusLogoURI": "/company/clogo_22345_0003.jpeg",
+    "contactTelephone": "020 3835 5302",
+    "branchDisplayName": "Eastway Property Services, London",
+    "branchName": "London",
+    "brandTradingName": "Eastway Property Services",
+    "branchLandingPageUrl": "/estate-agents/agent/Eastway-Property-Services/London-56722.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:23:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_22345_0003.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174179585#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174179585",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-08T11:57:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-13T12:16:51Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious two-bedroom purpose-built apartment",
+      "htmlDescription": "Spacious two-bedroom purpose-built apartment"
+    },
+    {
+      "order": 2,
+      "description": "Bright and inviting reception room",
+      "htmlDescription": "Bright and inviting reception room"
+    },
+    {
+      "order": 3,
+      "description": "Private balcony accessed directly from the lounge",
+      "htmlDescription": "Private balcony accessed directly from the lounge"
+    },
+    {
+      "order": 4,
+      "description": "Well-proportioned bedrooms",
+      "htmlDescription": "Well-proportioned bedrooms"
+    },
+    {
+      "order": 5,
+      "description": "Excellent natural light throughout",
+      "htmlDescription": "Excellent natural light throughout"
+    },
+    {
+      "order": 6,
+      "description": "Highly desirable N1 Islington location",
+      "htmlDescription": "Highly desirable N1 Islington location"
+    },
+    {
+      "order": 7,
+      "description": "Close to Angel, Old Street and Shoreditch",
+      "htmlDescription": "Close to Angel, Old Street and Shoreditch"
+    },
+    {
+      "order": 8,
+      "description": "Surrounded by renowned caf\u00e9s, restaurants and boutiques",
+      "htmlDescription": "Surrounded by renowned caf\u00e9s, restaurants and boutiques"
+    },
+    {
+      "order": 9,
+      "description": "Ideal home for Family or two sharers",
+      "htmlDescription": "Ideal home for Family or two sharers"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5_max_476x317.jpeg",
+        "url": "property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6188550d/174179585/a6188550da186890198587268df7e72f_max_476x317.jpeg",
+        "url": "property-photo/a6188550d/174179585/a6188550da186890198587268df7e72f.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/536b017d5/174179585/536b017d505f6e4a133d4798bb1f0e13_max_476x317.jpeg",
+        "url": "property-photo/536b017d5/174179585/536b017d505f6e4a133d4798bb1f0e13.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1073b84b/174179585/e1073b84b60566078fa612ff1e96bfce_max_476x317.jpeg",
+        "url": "property-photo/e1073b84b/174179585/e1073b84b60566078fa612ff1e96bfce.jpeg",
+        "caption": "Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd476c699/174179585/cd476c699a9e7cae73c2e9ea279815fe_max_476x317.jpeg",
+        "url": "property-photo/cd476c699/174179585/cd476c699a9e7cae73c2e9ea279815fe.jpeg",
+        "caption": "Balcony"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d6a171f3/174179585/5d6a171f319006fa3cdf6d72e0d72872_max_476x317.jpeg",
+        "url": "property-photo/5d6a171f3/174179585/5d6a171f319006fa3cdf6d72e0d72872.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e975e7264/174179585/e975e7264608de09fd1c6db197cc427f_max_476x317.jpeg",
+        "url": "property-photo/e975e7264/174179585/e975e7264608de09fd1c6db197cc427f.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7ad4eff6/174179585/d7ad4eff6db972c0ac25cfbb0c181cab_max_476x317.jpeg",
+        "url": "property-photo/d7ad4eff6/174179585/d7ad4eff6db972c0ac25cfbb0c181cab.jpeg",
+        "caption": "Separate WC"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88d110097/174179585/88d1100977306135e6cb3fe5298b3426_max_476x317.jpeg",
+        "url": "property-photo/88d110097/174179585/88d1100977306135e6cb3fe5298b3426.jpeg",
+        "caption": "Bathroom "
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0618b9f8/174179585/d0618b9f8f2ff53735a4e012662c28c5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Eastway Property Services, London",
+  "addedOrReduced": "Added on 08/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

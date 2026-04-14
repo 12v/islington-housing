@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-14T00:33:45.047053+00:00",
+  "postcode": "N7 8EW",
+  "id": 174368027,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "2 Bedrooms | 2 Bathrooms | Sizeable Balcony | 7th Floor | Concierge | Gym | Close to Highbury & Islington | Close to Holloway Tube",
+  "displayAddress": "Garand Court, Eden Grove, Islington, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551851,
+    "longitude": -0.113767
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b_max_476x317.jpeg",
+      "url": "property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd788d048/174368027/dd788d048e1ecf08b522165cae8e1bcf_max_476x317.jpeg",
+      "url": "property-photo/dd788d048/174368027/dd788d048e1ecf08b522165cae8e1bcf.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7f38f03f/174368027/c7f38f03fcb79db2723efeee3c94db13_max_476x317.jpeg",
+      "url": "property-photo/c7f38f03f/174368027/c7f38f03fcb79db2723efeee3c94db13.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf9d68580/174368027/bf9d68580951c649535e4abc16bedb01_max_476x317.jpeg",
+      "url": "property-photo/bf9d68580/174368027/bf9d68580951c649535e4abc16bedb01.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e0578ae5/174368027/8e0578ae5f15dc890f629d59e1d0309e_max_476x317.jpeg",
+      "url": "property-photo/8e0578ae5/174368027/8e0578ae5f15dc890f629d59e1d0309e.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f021780eb/174368027/f021780eb21701d35aa32be5208e3fbd_max_476x317.jpeg",
+      "url": "property-photo/f021780eb/174368027/f021780eb21701d35aa32be5208e3fbd.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6915c50f9/174368027/6915c50f92c111a9b3e9964d3cd289e6_max_476x317.jpeg",
+      "url": "property-photo/6915c50f9/174368027/6915c50f92c111a9b3e9964d3cd289e6.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1be759d54/174368027/1be759d547195e2aa9b6e45b40ad6a48_max_476x317.jpeg",
+      "url": "property-photo/1be759d54/174368027/1be759d547195e2aa9b6e45b40ad6a48.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/893c5b5c6/174368027/893c5b5c6c7d41eec8063801724a2171_max_476x317.jpeg",
+      "url": "property-photo/893c5b5c6/174368027/893c5b5c6c7d41eec8063801724a2171.jpeg",
+      "caption": "Photo 9"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-13T11:56:04Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 152984,
+    "brandPlusLogoURI": "/company/clogo_rmchoice_48431_0002.jpeg",
+    "contactTelephone": "020 3910 6041",
+    "branchDisplayName": "Lyons London, Hackney",
+    "branchName": "Hackney",
+    "brandTradingName": "Lyons London",
+    "branchLandingPageUrl": "/estate-agents/agent/Lyons-London/Hackney-152984.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2023-03-06T16:36:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_48431_0002.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "770 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174368027#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174368027",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-13T11:50:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-13T12:25:46Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two bedrooms",
+      "htmlDescription": "Two bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "7th Floor",
+      "htmlDescription": "7th Floor"
+    },
+    {
+      "order": 4,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 5,
+      "description": "Close to Highbury & Islington",
+      "htmlDescription": "Close to Highbury & Islington"
+    },
+    {
+      "order": 6,
+      "description": "Close to Holloway Road Tube",
+      "htmlDescription": "Close to Holloway Road Tube"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b_max_476x317.jpeg",
+        "url": "property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd788d048/174368027/dd788d048e1ecf08b522165cae8e1bcf_max_476x317.jpeg",
+        "url": "property-photo/dd788d048/174368027/dd788d048e1ecf08b522165cae8e1bcf.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7f38f03f/174368027/c7f38f03fcb79db2723efeee3c94db13_max_476x317.jpeg",
+        "url": "property-photo/c7f38f03f/174368027/c7f38f03fcb79db2723efeee3c94db13.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf9d68580/174368027/bf9d68580951c649535e4abc16bedb01_max_476x317.jpeg",
+        "url": "property-photo/bf9d68580/174368027/bf9d68580951c649535e4abc16bedb01.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e0578ae5/174368027/8e0578ae5f15dc890f629d59e1d0309e_max_476x317.jpeg",
+        "url": "property-photo/8e0578ae5/174368027/8e0578ae5f15dc890f629d59e1d0309e.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f021780eb/174368027/f021780eb21701d35aa32be5208e3fbd_max_476x317.jpeg",
+        "url": "property-photo/f021780eb/174368027/f021780eb21701d35aa32be5208e3fbd.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6915c50f9/174368027/6915c50f92c111a9b3e9964d3cd289e6_max_476x317.jpeg",
+        "url": "property-photo/6915c50f9/174368027/6915c50f92c111a9b3e9964d3cd289e6.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1be759d54/174368027/1be759d547195e2aa9b6e45b40ad6a48_max_476x317.jpeg",
+        "url": "property-photo/1be759d54/174368027/1be759d547195e2aa9b6e45b40ad6a48.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/893c5b5c6/174368027/893c5b5c6c7d41eec8063801724a2171_max_476x317.jpeg",
+        "url": "property-photo/893c5b5c6/174368027/893c5b5c6c7d41eec8063801724a2171.jpeg",
+        "caption": "Photo 9"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec01bbd49/174368027/ec01bbd49021345658db4665daa3693b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Lyons London, Hackney",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

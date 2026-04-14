@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-14T00:11:28.214382+00:00",
+  "postcode": "N7 0AX",
+  "id": 174401381,
+  "bedrooms": 2,
+  "bathrooms": null,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "BRIGHT MODERN 2 DOUBLE BEDROOM 1ST FLOOR FLAT IN PERIOD MANSION BLOCK, ON WELL SOUGHT AFTER ROAD IN TUFNELL PARK. ",
+  "displayAddress": "Anson Road, Tufnell Park, London, N7 0AX",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55588,
+    "longitude": -0.12868
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf_max_476x317.jpeg",
+      "url": "property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e34aae221/174401381/e34aae221533418fd7f0d7a6c1b62713_max_476x317.jpeg",
+      "url": "property-photo/e34aae221/174401381/e34aae221533418fd7f0d7a6c1b62713.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9245d11ed/174401381/9245d11ede39da9728c4927bec7779a5_max_476x317.jpeg",
+      "url": "property-photo/9245d11ed/174401381/9245d11ede39da9728c4927bec7779a5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33904ba80/174401381/33904ba807364c7ff62e38b26720430d_max_476x317.jpeg",
+      "url": "property-photo/33904ba80/174401381/33904ba807364c7ff62e38b26720430d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90a682d21/174401381/90a682d211af4a1a03fcb5694c688837_max_476x317.jpeg",
+      "url": "property-photo/90a682d21/174401381/90a682d211af4a1a03fcb5694c688837.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f69b2a36/174401381/0f69b2a36bf433256cfc2e859090d7ef_max_476x317.jpeg",
+      "url": "property-photo/0f69b2a36/174401381/0f69b2a36bf433256cfc2e859090d7ef.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840268e36/174401381/840268e36a08f56e3afdb32ee96beace_max_476x317.jpeg",
+      "url": "property-photo/840268e36/174401381/840268e36a08f56e3afdb32ee96beace.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78fc0e58a/174401381/78fc0e58a2123901f0e98d7be4ff5a59_max_476x317.jpeg",
+      "url": "property-photo/78fc0e58a/174401381/78fc0e58a2123901f0e98d7be4ff5a59.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-13T23:34:02Z"
+  },
+  "price": {
+    "amount": 2325,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,325 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3537 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 74564,
+    "brandPlusLogoURI": "/partner-logo/8338484-PRODUCTS_LOGO-1766055297.png",
+    "contactTelephone": "020 3892 9567",
+    "branchDisplayName": "JP Residential, Borehamwood",
+    "branchName": "Borehamwood",
+    "brandTradingName": "JP Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/JP-Residential/Borehamwood-74564.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:02:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8338484-PRODUCTS_LOGO-1766055297.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174401381#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174401381",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-13T23:27:31Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-13T23:34:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 DOUBLE BEDROOM FLAT IN PERIOD MANSION BLOCK",
+      "htmlDescription": "2 DOUBLE BEDROOM FLAT IN PERIOD MANSION BLOCK"
+    },
+    {
+      "order": 2,
+      "description": "SEPARATE MODERN FITTED KITCHEN",
+      "htmlDescription": "SEPARATE MODERN FITTED KITCHEN"
+    },
+    {
+      "order": 3,
+      "description": "WOOD FLOORING",
+      "htmlDescription": "WOOD FLOORING"
+    },
+    {
+      "order": 4,
+      "description": "CLOSE TO TUFNELL PARK TUBE STATION",
+      "htmlDescription": "CLOSE TO TUFNELL PARK TUBE STATION"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf_max_476x317.jpeg",
+        "url": "property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e34aae221/174401381/e34aae221533418fd7f0d7a6c1b62713_max_476x317.jpeg",
+        "url": "property-photo/e34aae221/174401381/e34aae221533418fd7f0d7a6c1b62713.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9245d11ed/174401381/9245d11ede39da9728c4927bec7779a5_max_476x317.jpeg",
+        "url": "property-photo/9245d11ed/174401381/9245d11ede39da9728c4927bec7779a5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33904ba80/174401381/33904ba807364c7ff62e38b26720430d_max_476x317.jpeg",
+        "url": "property-photo/33904ba80/174401381/33904ba807364c7ff62e38b26720430d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90a682d21/174401381/90a682d211af4a1a03fcb5694c688837_max_476x317.jpeg",
+        "url": "property-photo/90a682d21/174401381/90a682d211af4a1a03fcb5694c688837.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f69b2a36/174401381/0f69b2a36bf433256cfc2e859090d7ef_max_476x317.jpeg",
+        "url": "property-photo/0f69b2a36/174401381/0f69b2a36bf433256cfc2e859090d7ef.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840268e36/174401381/840268e36a08f56e3afdb32ee96beace_max_476x317.jpeg",
+        "url": "property-photo/840268e36/174401381/840268e36a08f56e3afdb32ee96beace.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78fc0e58a/174401381/78fc0e58a2123901f0e98d7be4ff5a59_max_476x317.jpeg",
+        "url": "property-photo/78fc0e58a/174401381/78fc0e58a2123901f0e98d7be4ff5a59.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5589790c0/174401381/5589790c0ad6063191a51303b209b6bf_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by JP Residential, Borehamwood",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

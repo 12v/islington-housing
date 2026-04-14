@@ -1,0 +1,212 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-13T21:11:29.459499+00:00",
+  "postcode": "EC1V 7PD",
+  "id": 174351497,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "**AVAILABLE NOW** Situated on the 9th floor of a purpose-built development, this fully renovated one-bedroom apartment offers stylish and comfortable living in a prime London location. ",
+  "displayAddress": "Goswell Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526833,
+    "longitude": -0.10025
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3_max_476x317.jpeg",
+      "url": "property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5c6ea120/174351497/a5c6ea120fce5949b0666721aaa21fbc_max_476x317.jpeg",
+      "url": "property-photo/a5c6ea120/174351497/a5c6ea120fce5949b0666721aaa21fbc.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728487ac4/174351497/728487ac445f303a178c732be01e0d61_max_476x317.jpeg",
+      "url": "property-photo/728487ac4/174351497/728487ac445f303a178c732be01e0d61.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c1ebbd8e/174351497/2c1ebbd8ef165959602f3f891a970677_max_476x317.jpeg",
+      "url": "property-photo/2c1ebbd8e/174351497/2c1ebbd8ef165959602f3f891a970677.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bab05f61/174351497/4bab05f61fa1fd2496a09b321f3ce944_max_476x317.jpeg",
+      "url": "property-photo/4bab05f61/174351497/4bab05f61fa1fd2496a09b321f3ce944.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5fd76781c/174351497/5fd76781c8827c63c2d26251c245062b_max_476x317.jpeg",
+      "url": "property-photo/5fd76781c/174351497/5fd76781c8827c63c2d26251c245062b.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b500b0d8/174351497/8b500b0d881a400dbafdecb0d0bf1728_max_476x317.jpeg",
+      "url": "property-photo/8b500b0d8/174351497/8b500b0d881a400dbafdecb0d0bf1728.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e533b1c76/174351497/e533b1c76d7fcee39f610dba64d639de_max_476x317.jpeg",
+      "url": "property-photo/e533b1c76/174351497/e533b1c76d7fcee39f610dba64d639de.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58a0dd17e/174351497/58a0dd17ed533b05a8a7a160eef64ec0_max_476x317.jpeg",
+      "url": "property-photo/58a0dd17e/174351497/58a0dd17ed533b05a8a7a160eef64ec0.jpeg",
+      "caption": "Picture No. 09"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-13T00:06:03Z"
+  },
+  "price": {
+    "amount": 475,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,058 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3475 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 49127,
+    "brandPlusLogoURI": "/partner-logo/67287-PRODUCTS_LOGO-1766061532.jpeg",
+    "contactTelephone": "020 3835 5521",
+    "branchDisplayName": "Winkworth, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Winkworth",
+    "branchLandingPageUrl": "/estate-agents/agent/Winkworth/Clerkenwell-49127.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-31T02:41:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/67287-PRODUCTS_LOGO-1766061532.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p>Winkworth Clerkenwell</p>\r\t\t<p><b>Tenant Fees Schedule</b></p>\r\t\t<p>NEW ASSURED SHORTHOLD TENANCIES (ASTs) SIGNED ON OR AFTER 1 JUNE 2019</p>\r\t\t<p><b>Holding Deposit (per tenancy) </b></p>\r\t\t<p>One week's rent. This is to reserve a property. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).</p>\r\t\t<p><b>Security Deposit </b>(per tenancy. Rent under \u00a350,000 per year)</p>\r\t\t<p>Five weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\r\t\t<p><b>Security Deposit </b>(per tenancy. Rent of \u00a350,000 or over per year)</p>\r\t\t<p>Six weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\r\t\t<p><b>Unpaid Rent</b></p>\r\t\t<p>Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears.</p>\r\t\t<p><b>Lost Key(s) or other Security Device(s)</b></p>\r\t\t<p>Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant. If extra costs are incurred there will be a charge of \u00a315 per hour (inc. VAT) for the time taken replacing lost key(s) or other security device(s).</p>\r\t\t<p><b>Variation of Contract </b>(Tenant's Request)</p>\r\t\t<p>\u00a350 (inc. VAT) per agreed variation. To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents.</p>\r\t\t<p><b>Change of Sharer </b>(Tenant's Request)</p>\r\t\t<p>\u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents.</p>\r\t\t<p><b>Early Termination </b>(Tenant's Request)</p>\r\t\t<p>Should the tenant wish to leave their contract early, they shall be liable to the landlord's costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy.</p>\r\t\t<p>If you have any questions on our fees, please ask a member of staff.</p>\r\t\t<p>Client Money Protection (CMP)<br />The office stated above protect their client money through \r\t\t PropertyMark.</p>\r\t\t <p><i>All Winkworth offices are registered with Property Redress Scheme and a copy of our Dispute Resolution Procedure is available on request.</i></p>",
+  "displaySize": "537 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174351497#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174351497",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-13T00:00:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-13T00:06:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3_max_476x317.jpeg",
+        "url": "property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5c6ea120/174351497/a5c6ea120fce5949b0666721aaa21fbc_max_476x317.jpeg",
+        "url": "property-photo/a5c6ea120/174351497/a5c6ea120fce5949b0666721aaa21fbc.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728487ac4/174351497/728487ac445f303a178c732be01e0d61_max_476x317.jpeg",
+        "url": "property-photo/728487ac4/174351497/728487ac445f303a178c732be01e0d61.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c1ebbd8e/174351497/2c1ebbd8ef165959602f3f891a970677_max_476x317.jpeg",
+        "url": "property-photo/2c1ebbd8e/174351497/2c1ebbd8ef165959602f3f891a970677.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bab05f61/174351497/4bab05f61fa1fd2496a09b321f3ce944_max_476x317.jpeg",
+        "url": "property-photo/4bab05f61/174351497/4bab05f61fa1fd2496a09b321f3ce944.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5fd76781c/174351497/5fd76781c8827c63c2d26251c245062b_max_476x317.jpeg",
+        "url": "property-photo/5fd76781c/174351497/5fd76781c8827c63c2d26251c245062b.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b500b0d8/174351497/8b500b0d881a400dbafdecb0d0bf1728_max_476x317.jpeg",
+        "url": "property-photo/8b500b0d8/174351497/8b500b0d881a400dbafdecb0d0bf1728.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e533b1c76/174351497/e533b1c76d7fcee39f610dba64d639de_max_476x317.jpeg",
+        "url": "property-photo/e533b1c76/174351497/e533b1c76d7fcee39f610dba64d639de.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58a0dd17e/174351497/58a0dd17ed533b05a8a7a160eef64ec0_max_476x317.jpeg",
+        "url": "property-photo/58a0dd17e/174351497/58a0dd17ed533b05a8a7a160eef64ec0.jpeg",
+        "caption": "Picture No. 09"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb0af0130/174351497/fb0af0130815cbcd1a3a15d0498a75c3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Winkworth, Clerkenwell",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
