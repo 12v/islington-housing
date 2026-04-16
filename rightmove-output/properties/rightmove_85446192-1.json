@@ -1,0 +1,227 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-15T21:38:15.069698+00:00",
+  "postcode": "N1 0GN",
+  "id": 85446192,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Please Quote ref: ASP 8130 A modern apartment in St William's Court, well located for an eclectic mix of boutiques, caf\u00e9s and bars in vibrant Islington. King's Cross St Pancras provides excellent links in and out of London via underground and overgr...",
+  "displayAddress": "St Williams Court, 1 Gifford Street, Kings Cross, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54088,
+    "longitude": -0.120989
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08_max_476x317.jpeg",
+      "url": "property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08.jpeg",
+      "caption": "Main image (Main)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05f7d7139/85446192/05f7d71398670637ab38da6212c5c74c_max_476x317.jpeg",
+      "url": "property-photo/05f7d7139/85446192/05f7d71398670637ab38da6212c5c74c.jpeg",
+      "caption": "Reception "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01a658cec/85446192/01a658cec8da6750839b2ee5876a454c_max_476x317.jpeg",
+      "url": "property-photo/01a658cec/85446192/01a658cec8da6750839b2ee5876a454c.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2a95cf69/85446192/c2a95cf6988b78c873460d1ff19393fd_max_476x317.jpeg",
+      "url": "property-photo/c2a95cf69/85446192/c2a95cf6988b78c873460d1ff19393fd.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c1495bf1/85446192/1c1495bf1fa4f9a67e8e4690e390abfc_max_476x317.jpeg",
+      "url": "property-photo/1c1495bf1/85446192/1c1495bf1fa4f9a67e8e4690e390abfc.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8650c96f/85446192/b8650c96f483b93a3924e25891a15ab0_max_476x317.jpeg",
+      "url": "property-photo/b8650c96f/85446192/b8650c96f483b93a3924e25891a15ab0.jpeg",
+      "caption": "bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d767d8db7/85446192/d767d8db7aef660216d293bf275e56e4_max_476x317.jpeg",
+      "url": "property-photo/d767d8db7/85446192/d767d8db7aef660216d293bf275e56e4.jpeg",
+      "caption": "court"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e7faa331/85446192/7e7faa33184a5a7288ced05d5638c579_max_476x317.jpeg",
+      "url": "property-photo/7e7faa331/85446192/7e7faa33184a5a7288ced05d5638c579.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f5a9e113/85446192/9f5a9e113c2898af5b19417308c615a8_max_476x317.jpeg",
+      "url": "property-photo/9f5a9e113/85446192/9f5a9e113c2898af5b19417308c615a8.jpeg",
+      "caption": "Sauna"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/214522fa1/85446192/214522fa101f3ebaf6bd7fc13ac89f61_max_476x317.jpeg",
+      "url": "property-photo/214522fa1/85446192/214522fa101f3ebaf6bd7fc13ac89f61.jpeg",
+      "caption": "Concierge"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-13T12:17:37Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 33012,
+    "brandPlusLogoURI": "/company/clogo_9012_0001.jpg",
+    "contactTelephone": "020 3872 5280",
+    "branchDisplayName": "relocate-me.co.uk, London",
+    "branchName": "London",
+    "brandTradingName": "relocate-me.co.uk",
+    "branchLandingPageUrl": "/estate-agents/agent/relocate-mecouk/London-33012.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T11:44:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_9012_0001.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/85446192#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=85446192",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2022-06-07T13:10:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-13T17:03:44Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08_max_476x317.jpeg",
+        "url": "property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08.jpeg",
+        "caption": "Main image (Main)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05f7d7139/85446192/05f7d71398670637ab38da6212c5c74c_max_476x317.jpeg",
+        "url": "property-photo/05f7d7139/85446192/05f7d71398670637ab38da6212c5c74c.jpeg",
+        "caption": "Reception "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01a658cec/85446192/01a658cec8da6750839b2ee5876a454c_max_476x317.jpeg",
+        "url": "property-photo/01a658cec/85446192/01a658cec8da6750839b2ee5876a454c.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2a95cf69/85446192/c2a95cf6988b78c873460d1ff19393fd_max_476x317.jpeg",
+        "url": "property-photo/c2a95cf69/85446192/c2a95cf6988b78c873460d1ff19393fd.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c1495bf1/85446192/1c1495bf1fa4f9a67e8e4690e390abfc_max_476x317.jpeg",
+        "url": "property-photo/1c1495bf1/85446192/1c1495bf1fa4f9a67e8e4690e390abfc.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8650c96f/85446192/b8650c96f483b93a3924e25891a15ab0_max_476x317.jpeg",
+        "url": "property-photo/b8650c96f/85446192/b8650c96f483b93a3924e25891a15ab0.jpeg",
+        "caption": "bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d767d8db7/85446192/d767d8db7aef660216d293bf275e56e4_max_476x317.jpeg",
+        "url": "property-photo/d767d8db7/85446192/d767d8db7aef660216d293bf275e56e4.jpeg",
+        "caption": "court"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e7faa331/85446192/7e7faa33184a5a7288ced05d5638c579_max_476x317.jpeg",
+        "url": "property-photo/7e7faa331/85446192/7e7faa33184a5a7288ced05d5638c579.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f5a9e113/85446192/9f5a9e113c2898af5b19417308c615a8_max_476x317.jpeg",
+        "url": "property-photo/9f5a9e113/85446192/9f5a9e113c2898af5b19417308c615a8.jpeg",
+        "caption": "Sauna"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/214522fa1/85446192/214522fa101f3ebaf6bd7fc13ac89f61_max_476x317.jpeg",
+        "url": "property-photo/214522fa1/85446192/214522fa101f3ebaf6bd7fc13ac89f61.jpeg",
+        "caption": "Concierge"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f26bcabe/85446192/1f26bcabe53fad43dc59a951e8837e08_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by relocate-me.co.uk, London",
+  "addedOrReduced": "Added on 13/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

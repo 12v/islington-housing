@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-15T21:35:46.362684+00:00",
+  "postcode": "N1 0BL",
+  "id": 174386534,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A one bedroom apartment offered furnished with outside space. Available mid May.",
+  "displayAddress": "Clayton Crescent, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53728,
+    "longitude": -0.11951
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4_max_476x317.jpeg",
+      "url": "property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4.jpeg",
+      "caption": "Clayton 3.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c61c5a1d/174386534/1c61c5a1df82208645bb594ee563cd72_max_476x317.jpeg",
+      "url": "property-photo/1c61c5a1d/174386534/1c61c5a1df82208645bb594ee563cd72.jpeg",
+      "caption": "Clayton 1.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10e330e41/174386534/10e330e416056823d41b0440ce132120_max_476x317.jpeg",
+      "url": "property-photo/10e330e41/174386534/10e330e416056823d41b0440ce132120.jpeg",
+      "caption": "February 2023 (9).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/965826fe6/174386534/965826fe6f7c868847d2ad7468230098_max_476x317.jpeg",
+      "url": "property-photo/965826fe6/174386534/965826fe6f7c868847d2ad7468230098.jpeg",
+      "caption": "February 2023 (7).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41ddb8593/174386534/41ddb85938c3b76eeb03c6825fc22b12_max_476x317.jpeg",
+      "url": "property-photo/41ddb8593/174386534/41ddb85938c3b76eeb03c6825fc22b12.jpeg",
+      "caption": "February 2023 (8).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1551813dc/174386534/1551813dc8157a1ab24c14d7a35fa92c_max_476x317.jpeg",
+      "url": "property-photo/1551813dc/174386534/1551813dc8157a1ab24c14d7a35fa92c.jpeg",
+      "caption": "Clayton 4.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/337a21cc5/174386534/337a21cc5241b86eab1c278c6ecef402_max_476x317.jpeg",
+      "url": "property-photo/337a21cc5/174386534/337a21cc5241b86eab1c278c6ecef402.jpeg",
+      "caption": "Clayton 2.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d9cbb4a8/174386534/3d9cbb4a8c5406a7a5c81097de96d5a2_max_476x317.jpeg",
+      "url": "property-photo/3d9cbb4a8/174386534/3d9cbb4a8c5406a7a5c81097de96d5a2.jpeg",
+      "caption": "February 2023 (10).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cdd2fbab/174386534/1cdd2fbab7805a48610a26ddd75bc8c9_max_476x317.jpeg",
+      "url": "property-photo/1cdd2fbab/174386534/1cdd2fbab7805a48610a26ddd75bc8c9.jpeg",
+      "caption": "February 2023 (6).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b616dfa2/174386534/9b616dfa2d5dabc421b9260ca56aa28c_max_476x317.jpeg",
+      "url": "property-photo/9b616dfa2/174386534/9b616dfa2d5dabc421b9260ca56aa28c.jpeg",
+      "caption": "February 2023 (5).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fbaf423cf/174386534/fbaf423cf8ca742b8fb859f9ddeb0f6d_max_476x317.jpeg",
+      "url": "property-photo/fbaf423cf/174386534/fbaf423cf8ca742b8fb859f9ddeb0f6d.jpeg",
+      "caption": "February 2023 (4).jpg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-13T15:42:10Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 71612,
+    "brandPlusLogoURI": "/partner-logo/8158391-PRODUCTS_LOGO-1766063591.png",
+    "contactTelephone": "020 3879 9851",
+    "branchDisplayName": "Urban Spaces, City Living",
+    "branchName": "City Living",
+    "brandTradingName": "Urban Spaces",
+    "branchLandingPageUrl": "/estate-agents/agent/Urban-Spaces/City-Living-71612.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-15T12:25:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8158391-PRODUCTS_LOGO-1766063591.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Long Let",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note the charges listed below are the MAXIMUM fees that will be applied unless stated otherwise.<br /><br />Permitted Charges in England in accordance with the Tenant Fee Act 2019 for an Assured Shorthold Tenancy:<br /><br />Holding Deposit: max 1 weeks rent<br />First months rent: as applicable in advance<br />Tenancy Deposit: 5 or 6 weeks depending upon the rental amount<br />Early termination when requested by the tenant: a charge not exceeding the financial loss experienced by the landlord<br />Late Rent: interest of 3% above Bank of England base rate when rent is more than 14 days late<br />Lost key or security device: equal to cost incurred<br />Changing tenancy documents (after commencement of tenancy): \u00a350 inc VAT<br /><br /><br />Non Housing Act tenancy fees not affected by the Tenant Fee Act 2019:<br /><br />Tenancy Arrangement Fee: \u00a3300 inc VAT<br />Renewal Fee: \u00a3192 inc VAT<br />Check out fee: \u00a3180 inc VAT<br />Early Surrender fee: \u00a3300 inc VAT<br /><br />Urban Spaces is a member of and covered by the ARLA Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.<br /><br />",
+  "displaySize": "453 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174386534#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174386534",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-13T15:36:28Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-15T12:25:54Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom",
+      "htmlDescription": "One bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 4,
+      "description": "Private patio",
+      "htmlDescription": "Private patio"
+    },
+    {
+      "order": 5,
+      "description": "Wooden floors",
+      "htmlDescription": "Wooden floors"
+    },
+    {
+      "order": 6,
+      "description": "Great location",
+      "htmlDescription": "Great location"
+    },
+    {
+      "order": 7,
+      "description": "Deposit Amount: \u00a32596.15",
+      "htmlDescription": "Deposit Amount: \u00a32596.15"
+    },
+    {
+      "order": 8,
+      "description": "Council Tax Band - D",
+      "htmlDescription": "Council Tax Band - D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4_max_476x317.jpeg",
+        "url": "property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4.jpeg",
+        "caption": "Clayton 3.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c61c5a1d/174386534/1c61c5a1df82208645bb594ee563cd72_max_476x317.jpeg",
+        "url": "property-photo/1c61c5a1d/174386534/1c61c5a1df82208645bb594ee563cd72.jpeg",
+        "caption": "Clayton 1.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10e330e41/174386534/10e330e416056823d41b0440ce132120_max_476x317.jpeg",
+        "url": "property-photo/10e330e41/174386534/10e330e416056823d41b0440ce132120.jpeg",
+        "caption": "February 2023 (9).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/965826fe6/174386534/965826fe6f7c868847d2ad7468230098_max_476x317.jpeg",
+        "url": "property-photo/965826fe6/174386534/965826fe6f7c868847d2ad7468230098.jpeg",
+        "caption": "February 2023 (7).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41ddb8593/174386534/41ddb85938c3b76eeb03c6825fc22b12_max_476x317.jpeg",
+        "url": "property-photo/41ddb8593/174386534/41ddb85938c3b76eeb03c6825fc22b12.jpeg",
+        "caption": "February 2023 (8).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1551813dc/174386534/1551813dc8157a1ab24c14d7a35fa92c_max_476x317.jpeg",
+        "url": "property-photo/1551813dc/174386534/1551813dc8157a1ab24c14d7a35fa92c.jpeg",
+        "caption": "Clayton 4.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/337a21cc5/174386534/337a21cc5241b86eab1c278c6ecef402_max_476x317.jpeg",
+        "url": "property-photo/337a21cc5/174386534/337a21cc5241b86eab1c278c6ecef402.jpeg",
+        "caption": "Clayton 2.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d9cbb4a8/174386534/3d9cbb4a8c5406a7a5c81097de96d5a2_max_476x317.jpeg",
+        "url": "property-photo/3d9cbb4a8/174386534/3d9cbb4a8c5406a7a5c81097de96d5a2.jpeg",
+        "caption": "February 2023 (10).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cdd2fbab/174386534/1cdd2fbab7805a48610a26ddd75bc8c9_max_476x317.jpeg",
+        "url": "property-photo/1cdd2fbab/174386534/1cdd2fbab7805a48610a26ddd75bc8c9.jpeg",
+        "caption": "February 2023 (6).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b616dfa2/174386534/9b616dfa2d5dabc421b9260ca56aa28c_max_476x317.jpeg",
+        "url": "property-photo/9b616dfa2/174386534/9b616dfa2d5dabc421b9260ca56aa28c.jpeg",
+        "caption": "February 2023 (5).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fbaf423cf/174386534/fbaf423cf8ca742b8fb859f9ddeb0f6d_max_476x317.jpeg",
+        "url": "property-photo/fbaf423cf/174386534/fbaf423cf8ca742b8fb859f9ddeb0f6d.jpeg",
+        "caption": "February 2023 (4).jpg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/627f23c72/174386534/627f23c72be1d6f1ad27cd538cb198f4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Urban Spaces, City Living",
+  "addedOrReduced": "Added on 13/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

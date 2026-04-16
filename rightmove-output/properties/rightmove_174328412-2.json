@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-15T21:09:36.652064+00:00",
+  "postcode": "EC1V 7JA",
+  "id": 174328412,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Moorgreen House, Wynyatt Street, London EC1V 7JA A well-presented two-bedroom flat located in the sought-after Moorgreen House in the heart of EC1V, offering bright and well-proportioned living space in a prime Central London ...",
+  "displayAddress": "Moorgreen House",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52858,
+    "longitude": -0.10269
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4_max_476x317.jpeg",
+      "url": "property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb5948e86/174328412/fb5948e8660632c36a3c79181d2ded00_max_476x317.jpeg",
+      "url": "property-photo/fb5948e86/174328412/fb5948e8660632c36a3c79181d2ded00.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c7844a98/174328412/1c7844a981449951f34c97052c011c81_max_476x317.jpeg",
+      "url": "property-photo/1c7844a98/174328412/1c7844a981449951f34c97052c011c81.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9d11862c/174328412/d9d11862cc92c0303bdca6fa0d94158c_max_476x317.jpeg",
+      "url": "property-photo/d9d11862c/174328412/d9d11862cc92c0303bdca6fa0d94158c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f245d0de5/174328412/f245d0de5f48f9cc21ac7fea51c754eb_max_476x317.jpeg",
+      "url": "property-photo/f245d0de5/174328412/f245d0de5f48f9cc21ac7fea51c754eb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e2b7fd0f/174328412/1e2b7fd0ff95d6bffda150d9c0fa5a49_max_476x317.jpeg",
+      "url": "property-photo/1e2b7fd0f/174328412/1e2b7fd0ff95d6bffda150d9c0fa5a49.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ca4ee90c/174328412/0ca4ee90c546f380b08e3c4caeb4b0b8_max_476x317.jpeg",
+      "url": "property-photo/0ca4ee90c/174328412/0ca4ee90c546f380b08e3c4caeb4b0b8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d32e8235d/174328412/d32e8235d869b1b6899f872e55204113_max_476x317.jpeg",
+      "url": "property-photo/d32e8235d/174328412/d32e8235d869b1b6899f872e55204113.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-15T17:09:07Z"
+  },
+  "price": {
+    "amount": 576,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,496 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3576 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 181787,
+    "brandPlusLogoURI": "/partner-logo/19103090-PRODUCTS_LOGO-1766065497.png",
+    "contactTelephone": "020 3910 6304",
+    "branchDisplayName": "1 Ability Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "1 Ability Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/1-Ability-Estate-Agents/London-181787.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:42:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/19103090-PRODUCTS_LOGO-1766065497.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174328412#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174328412",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-11T10:09:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-15T17:09:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4_max_476x317.jpeg",
+        "url": "property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb5948e86/174328412/fb5948e8660632c36a3c79181d2ded00_max_476x317.jpeg",
+        "url": "property-photo/fb5948e86/174328412/fb5948e8660632c36a3c79181d2ded00.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c7844a98/174328412/1c7844a981449951f34c97052c011c81_max_476x317.jpeg",
+        "url": "property-photo/1c7844a98/174328412/1c7844a981449951f34c97052c011c81.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9d11862c/174328412/d9d11862cc92c0303bdca6fa0d94158c_max_476x317.jpeg",
+        "url": "property-photo/d9d11862c/174328412/d9d11862cc92c0303bdca6fa0d94158c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f245d0de5/174328412/f245d0de5f48f9cc21ac7fea51c754eb_max_476x317.jpeg",
+        "url": "property-photo/f245d0de5/174328412/f245d0de5f48f9cc21ac7fea51c754eb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e2b7fd0f/174328412/1e2b7fd0ff95d6bffda150d9c0fa5a49_max_476x317.jpeg",
+        "url": "property-photo/1e2b7fd0f/174328412/1e2b7fd0ff95d6bffda150d9c0fa5a49.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ca4ee90c/174328412/0ca4ee90c546f380b08e3c4caeb4b0b8_max_476x317.jpeg",
+        "url": "property-photo/0ca4ee90c/174328412/0ca4ee90c546f380b08e3c4caeb4b0b8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d32e8235d/174328412/d32e8235d869b1b6899f872e55204113_max_476x317.jpeg",
+        "url": "property-photo/d32e8235d/174328412/d32e8235d869b1b6899f872e55204113.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d919d469a/174328412/d919d469ad8622f235236d57d7e055b4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by 1 Ability Estate Agents, London",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
