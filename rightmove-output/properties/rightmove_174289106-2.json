@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-17T22:38:48.070424+00:00",
+  "postcode": "N19 3JQ",
+  "id": 174289106,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautiful Modern Bright One Bedroom Flat",
+  "displayAddress": "Holloway Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.564779,
+    "longitude": -0.131923
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1_max_476x317.jpeg",
+      "url": "property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac5873b90/174289106/ac5873b90b5231a0b8677bff80e29f02_max_476x317.jpeg",
+      "url": "property-photo/ac5873b90/174289106/ac5873b90b5231a0b8677bff80e29f02.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d323f4a70/174289106/d323f4a7093c875bd316b43f699fe63c_max_476x317.jpeg",
+      "url": "property-photo/d323f4a70/174289106/d323f4a7093c875bd316b43f699fe63c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/927ae59c8/174289106/927ae59c8dc4a4be6b8db7f94f0b0f3f_max_476x317.jpeg",
+      "url": "property-photo/927ae59c8/174289106/927ae59c8dc4a4be6b8db7f94f0b0f3f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca9032a26/174289106/ca9032a26a120b32adfdaac1088e3ad8_max_476x317.jpeg",
+      "url": "property-photo/ca9032a26/174289106/ca9032a26a120b32adfdaac1088e3ad8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/765987ba1/174289106/765987ba1ac771e2883dbac676440ab7_max_476x317.jpeg",
+      "url": "property-photo/765987ba1/174289106/765987ba1ac771e2883dbac676440ab7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7955add6b/174289106/7955add6b74a32cb2db75704f86c0da2_max_476x317.jpeg",
+      "url": "property-photo/7955add6b/174289106/7955add6b74a32cb2db75704f86c0da2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d6d7a7e9/174289106/2d6d7a7e9398e6b4af374442e2050feb_max_476x317.jpeg",
+      "url": "property-photo/2d6d7a7e9/174289106/2d6d7a7e9398e6b4af374442e2050feb.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-10T12:54:05Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 243590,
+    "brandPlusLogoURI": "/partner-logo/27235169-PRODUCTS_LOGO-1766057740.png",
+    "contactTelephone": "020 3828 7641",
+    "branchDisplayName": "Keller Williams Oxygen, Covering Nationwide",
+    "branchName": "Covering Nationwide",
+    "brandTradingName": "Keller Williams Oxygen",
+    "branchLandingPageUrl": "/estate-agents/agent/Keller-Williams-Oxygen/Covering-Nationwide-243590.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-17T18:23:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27235169-PRODUCTS_LOGO-1766057740.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174289106#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174289106",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-10T12:48:24Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-10T12:54:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1_max_476x317.jpeg",
+        "url": "property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac5873b90/174289106/ac5873b90b5231a0b8677bff80e29f02_max_476x317.jpeg",
+        "url": "property-photo/ac5873b90/174289106/ac5873b90b5231a0b8677bff80e29f02.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d323f4a70/174289106/d323f4a7093c875bd316b43f699fe63c_max_476x317.jpeg",
+        "url": "property-photo/d323f4a70/174289106/d323f4a7093c875bd316b43f699fe63c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/927ae59c8/174289106/927ae59c8dc4a4be6b8db7f94f0b0f3f_max_476x317.jpeg",
+        "url": "property-photo/927ae59c8/174289106/927ae59c8dc4a4be6b8db7f94f0b0f3f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca9032a26/174289106/ca9032a26a120b32adfdaac1088e3ad8_max_476x317.jpeg",
+        "url": "property-photo/ca9032a26/174289106/ca9032a26a120b32adfdaac1088e3ad8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/765987ba1/174289106/765987ba1ac771e2883dbac676440ab7_max_476x317.jpeg",
+        "url": "property-photo/765987ba1/174289106/765987ba1ac771e2883dbac676440ab7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7955add6b/174289106/7955add6b74a32cb2db75704f86c0da2_max_476x317.jpeg",
+        "url": "property-photo/7955add6b/174289106/7955add6b74a32cb2db75704f86c0da2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d6d7a7e9/174289106/2d6d7a7e9398e6b4af374442e2050feb_max_476x317.jpeg",
+        "url": "property-photo/2d6d7a7e9/174289106/2d6d7a7e9398e6b4af374442e2050feb.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95f1ae1b/174289106/e95f1ae1b1c412fea41cb60d3dd0dba1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Keller Williams Oxygen, Covering Nationwide",
+  "addedOrReduced": "Added on 10/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

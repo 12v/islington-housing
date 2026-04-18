@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-17T20:55:51.888350+00:00",
+  "postcode": "EC1V 3AN",
+  "id": 174466532,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "An immaculate top floor apartment in Dance Square.",
+  "displayAddress": "Dance Square, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.525892,
+    "longitude": -0.097735
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d_max_476x317.jpeg",
+      "url": "property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/581374875/174466532/5813748756d5a56fa3d03a4fca3f3323_max_476x317.jpeg",
+      "url": "property-photo/581374875/174466532/5813748756d5a56fa3d03a4fca3f3323.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e693817d7/174466532/e693817d787e37e340d98aa081c41344_max_476x317.jpeg",
+      "url": "property-photo/e693817d7/174466532/e693817d787e37e340d98aa081c41344.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1154cec70/174466532/1154cec70d741ed217f2144338e6492c_max_476x317.jpeg",
+      "url": "property-photo/1154cec70/174466532/1154cec70d741ed217f2144338e6492c.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0eb95244d/174466532/0eb95244d0de03f5479893506dc6c7d3_max_476x317.jpeg",
+      "url": "property-photo/0eb95244d/174466532/0eb95244d0de03f5479893506dc6c7d3.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c96929417/174466532/c96929417248a1108031e32a1030f5dc_max_476x317.jpeg",
+      "url": "property-photo/c96929417/174466532/c96929417248a1108031e32a1030f5dc.jpeg",
+      "caption": "View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e24460e9/174466532/7e24460e9cded6e8cb12cf06f2f9c57b_max_476x317.jpeg",
+      "url": "property-photo/7e24460e9/174466532/7e24460e9cded6e8cb12cf06f2f9c57b.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09b4024c6/174466532/09b4024c642ebbcf972621d85c523b0d_max_476x317.jpeg",
+      "url": "property-photo/09b4024c6/174466532/09b4024c642ebbcf972621d85c523b0d.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/413b302f7/174466532/413b302f7c14dcd3be4efbd5463f7691_max_476x317.jpeg",
+      "url": "property-photo/413b302f7/174466532/413b302f7c14dcd3be4efbd5463f7691.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58ff3ae57/174466532/58ff3ae576c9ba9a8446a744130664e4_max_476x317.jpeg",
+      "url": "property-photo/58ff3ae57/174466532/58ff3ae576c9ba9a8446a744130664e4.jpeg",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3f35c9c6/174466532/c3f35c9c6c78398ea981783c93ecbb9f_max_476x317.jpeg",
+      "url": "property-photo/c3f35c9c6/174466532/c3f35c9c6c78398ea981783c93ecbb9f.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49f046fee/174466532/49f046fee53e49ed971f94abdae0fb01_max_476x317.jpeg",
+      "url": "property-photo/49f046fee/174466532/49f046fee53e49ed971f94abdae0fb01.jpeg",
+      "caption": "Bedroom"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-15T10:50:13Z"
+  },
+  "price": {
+    "amount": 2550,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,550 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3588 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 68234,
+    "brandPlusLogoURI": "/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "contactTelephone": "020 3834 8405",
+    "branchDisplayName": "Savills Lettings, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Savills Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Savills-Lettings/Clerkenwell-68234.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-08T16:06:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "primaryBrandColour": "#ffdf00"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy Information <br /><br /><br />Client money protection (CMP) provided by RICS:   <br /><br />Ombudsman services provided by PRS:   <br /><br />Rules for how fees will be charged for Assured Shorthold Tenancies (AST) are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br /><br />HOUSING ACT TENANCIES (AST) <br /><br />Holding deposit Equivalent of one weeks rent<br /><br />Changing tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Deposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br /><br />Change of sharer \u00a350 for one reference and a new tenancy agreement, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Early termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  Payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment<br /><br />Late, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Lost keys Any cost for the replacement of keys, fobs, security devices or associated items<br /><br />NON-HOUSING ACT TENANCIES (NHA)<br /><br />Pre Tenancy Application Charge (PTAC) Equivalent of one weeks rent or \u00a3600. If you withdraw from the tenancy: Private tenancies - minimum of \u00a3300 per person. Company tenancies - minimum of \u00a3600<br /><br />Tenancy paperwork \u00a3360<br /><br />Company reference checks \u00a3120 per reference<br /><br />Deposit Usually equivalent to six weeks rent / with pet eight weeks<br /><br />Check-in and/or out From \u00a3120 to \u00a3620 approx. Check your tenancy agreement to confirm who is responsible for paying this charge<br /><br />Call out services (inc out of hours)  \u00a360 per hour and/or the contractors invoice where your actions or lack of actions result in us or a contractor attending the property to remedy the situation<br /><br />Last minute cancellation of pre-arranged visits  \u00a360 per visit and any contractor invoice<br /><br />Hourly rate  \u00a360 plus any replacement costs if we or the landlord have to replace any damaged items, or return any fixtures or fittings to their original position, as per the inventory<br /><br />Any overseas payment charges  \u00a330 per payment<br /><br />Late/unpaid/returned rent payments  \u00a360 late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Change of sharer  \u00a3475 / Additional sharer (at the same time)  \u00a3100<br /><br />Renewal negotiation  \u00a3200 for each renewal. If additional referencing is required \u00a345 per reference<br /><br />Changing tenancy documents once signed \u00a3180<br /><br />Early termination (at landlord s discretion)  All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment",
+  "displaySize": "545 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174466532#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174466532",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-15T10:44:18Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-15T18:24:00Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom apartment",
+      "htmlDescription": "One bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Fantastic natural light",
+      "htmlDescription": "Fantastic natural light"
+    },
+    {
+      "order": 3,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 4,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Communal gardens",
+      "htmlDescription": "Communal gardens"
+    },
+    {
+      "order": 6,
+      "description": "EPC Rating = C",
+      "htmlDescription": "EPC Rating = C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d_max_476x317.jpeg",
+        "url": "property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/581374875/174466532/5813748756d5a56fa3d03a4fca3f3323_max_476x317.jpeg",
+        "url": "property-photo/581374875/174466532/5813748756d5a56fa3d03a4fca3f3323.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e693817d7/174466532/e693817d787e37e340d98aa081c41344_max_476x317.jpeg",
+        "url": "property-photo/e693817d7/174466532/e693817d787e37e340d98aa081c41344.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1154cec70/174466532/1154cec70d741ed217f2144338e6492c_max_476x317.jpeg",
+        "url": "property-photo/1154cec70/174466532/1154cec70d741ed217f2144338e6492c.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0eb95244d/174466532/0eb95244d0de03f5479893506dc6c7d3_max_476x317.jpeg",
+        "url": "property-photo/0eb95244d/174466532/0eb95244d0de03f5479893506dc6c7d3.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c96929417/174466532/c96929417248a1108031e32a1030f5dc_max_476x317.jpeg",
+        "url": "property-photo/c96929417/174466532/c96929417248a1108031e32a1030f5dc.jpeg",
+        "caption": "View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e24460e9/174466532/7e24460e9cded6e8cb12cf06f2f9c57b_max_476x317.jpeg",
+        "url": "property-photo/7e24460e9/174466532/7e24460e9cded6e8cb12cf06f2f9c57b.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09b4024c6/174466532/09b4024c642ebbcf972621d85c523b0d_max_476x317.jpeg",
+        "url": "property-photo/09b4024c6/174466532/09b4024c642ebbcf972621d85c523b0d.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/413b302f7/174466532/413b302f7c14dcd3be4efbd5463f7691_max_476x317.jpeg",
+        "url": "property-photo/413b302f7/174466532/413b302f7c14dcd3be4efbd5463f7691.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58ff3ae57/174466532/58ff3ae576c9ba9a8446a744130664e4_max_476x317.jpeg",
+        "url": "property-photo/58ff3ae57/174466532/58ff3ae576c9ba9a8446a744130664e4.jpeg",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3f35c9c6/174466532/c3f35c9c6c78398ea981783c93ecbb9f_max_476x317.jpeg",
+        "url": "property-photo/c3f35c9c6/174466532/c3f35c9c6c78398ea981783c93ecbb9f.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49f046fee/174466532/49f046fee53e49ed971f94abdae0fb01_max_476x317.jpeg",
+        "url": "property-photo/49f046fee/174466532/49f046fee53e49ed971f94abdae0fb01.jpeg",
+        "caption": "Bedroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83a3bcba7/174466532/83a3bcba70b608ff012a2d9155f6659d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Savills Lettings, Clerkenwell",
+  "addedOrReduced": "Added on 15/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
