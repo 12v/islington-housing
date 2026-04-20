@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-19T23:48:08.538700+00:00",
+  "postcode": "N5 1LQ",
+  "id": 174484898,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious three double bedroom apartment located just moments from the Arsenal underground station.",
+  "displayAddress": "Otley House Gillespie Road, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.559475,
+    "longitude": -0.104108
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2_max_476x317.jpeg",
+      "url": "property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/971b549ea/174484898/971b549eadefa473db618078990419f4_max_476x317.jpeg",
+      "url": "property-photo/971b549ea/174484898/971b549eadefa473db618078990419f4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5e8dc1fa/174484898/e5e8dc1faa245ea5e77e980661abc7fa_max_476x317.jpeg",
+      "url": "property-photo/e5e8dc1fa/174484898/e5e8dc1faa245ea5e77e980661abc7fa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b85dcd42d/174484898/b85dcd42d80796bdc270bd5117ca11dc_max_476x317.jpeg",
+      "url": "property-photo/b85dcd42d/174484898/b85dcd42d80796bdc270bd5117ca11dc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73a2019cf/174484898/73a2019cf56e4cb01057d574921e169d_max_476x317.jpeg",
+      "url": "property-photo/73a2019cf/174484898/73a2019cf56e4cb01057d574921e169d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e0eeeae6/174484898/5e0eeeae633de827a5fbc94e40eacda8_max_476x317.jpeg",
+      "url": "property-photo/5e0eeeae6/174484898/5e0eeeae633de827a5fbc94e40eacda8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b55dc7c3/174484898/4b55dc7c38e4f56220bfc8d40144a6d0_max_476x317.jpeg",
+      "url": "property-photo/4b55dc7c3/174484898/4b55dc7c38e4f56220bfc8d40144a6d0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8d0f3b0e/174484898/c8d0f3b0e01258a18e9e1d2818db5e6a_max_476x317.jpeg",
+      "url": "property-photo/c8d0f3b0e/174484898/c8d0f3b0e01258a18e9e1d2818db5e6a.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-15T15:15:10Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80996,
+    "brandPlusLogoURI": "/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "contactTelephone": "020 3889 9038",
+    "branchDisplayName": "David Andrew, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Highbury-80996.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:42:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174484898#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174484898",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-15T15:09:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-19T05:31:20Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Moments from Arsenal Tube and Drayton Park Stations",
+      "htmlDescription": "Moments from Arsenal Tube and Drayton Park Stations"
+    },
+    {
+      "order": 2,
+      "description": "Private Terrace",
+      "htmlDescription": "Private Terrace"
+    },
+    {
+      "order": 3,
+      "description": "Three Double Bedrooms",
+      "htmlDescription": "Three Double Bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Property Offered Furnished or Part Furnished",
+      "htmlDescription": "Property Offered Furnished or Part Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Split Level",
+      "htmlDescription": "Split Level"
+    },
+    {
+      "order": 6,
+      "description": "Available 16th June 2026",
+      "htmlDescription": "Available 16th June 2026"
+    },
+    {
+      "order": 7,
+      "description": "807 sq.ft / 74.9 sqm",
+      "htmlDescription": "807 sq.ft / 74.9 sqm"
+    },
+    {
+      "order": 8,
+      "description": "Moments Away From The Center Of Highbury",
+      "htmlDescription": "Moments Away From The Center Of Highbury"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2_max_476x317.jpeg",
+        "url": "property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/971b549ea/174484898/971b549eadefa473db618078990419f4_max_476x317.jpeg",
+        "url": "property-photo/971b549ea/174484898/971b549eadefa473db618078990419f4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5e8dc1fa/174484898/e5e8dc1faa245ea5e77e980661abc7fa_max_476x317.jpeg",
+        "url": "property-photo/e5e8dc1fa/174484898/e5e8dc1faa245ea5e77e980661abc7fa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b85dcd42d/174484898/b85dcd42d80796bdc270bd5117ca11dc_max_476x317.jpeg",
+        "url": "property-photo/b85dcd42d/174484898/b85dcd42d80796bdc270bd5117ca11dc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73a2019cf/174484898/73a2019cf56e4cb01057d574921e169d_max_476x317.jpeg",
+        "url": "property-photo/73a2019cf/174484898/73a2019cf56e4cb01057d574921e169d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e0eeeae6/174484898/5e0eeeae633de827a5fbc94e40eacda8_max_476x317.jpeg",
+        "url": "property-photo/5e0eeeae6/174484898/5e0eeeae633de827a5fbc94e40eacda8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b55dc7c3/174484898/4b55dc7c38e4f56220bfc8d40144a6d0_max_476x317.jpeg",
+        "url": "property-photo/4b55dc7c3/174484898/4b55dc7c38e4f56220bfc8d40144a6d0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8d0f3b0e/174484898/c8d0f3b0e01258a18e9e1d2818db5e6a_max_476x317.jpeg",
+        "url": "property-photo/c8d0f3b0e/174484898/c8d0f3b0e01258a18e9e1d2818db5e6a.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f70244f9/174484898/6f70244f9415c0733e83964e78f4f3d2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Highbury",
+  "addedOrReduced": "Added on 15/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
