@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-21T22:43:36.738005+00:00",
+  "postcode": "N19 3JQ",
+  "id": 160220210,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Modern studio / 1-bed apartment with an open-plan living space, stylish integrated kitchen, modern bathroom and large double-glazed windows to make optimum use of light.",
+  "displayAddress": "Holloway Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.564761,
+    "longitude": -0.132009
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c_max_476x317.jpeg",
+      "url": "property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5826db5f2/160220210/5826db5f27d0f09b10b9706db687a8b0_max_476x317.jpeg",
+      "url": "property-photo/5826db5f2/160220210/5826db5f27d0f09b10b9706db687a8b0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89a3d4d9f/160220210/89a3d4d9f9b4ae0dc2bd4e31243f1260_max_476x317.jpeg",
+      "url": "property-photo/89a3d4d9f/160220210/89a3d4d9f9b4ae0dc2bd4e31243f1260.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0eb788d5b/160220210/0eb788d5be0f494ad58726596c61e585_max_476x317.jpeg",
+      "url": "property-photo/0eb788d5b/160220210/0eb788d5be0f494ad58726596c61e585.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01d821364/160220210/01d8213642ec267a964abaaceaaf5c6a_max_476x317.jpeg",
+      "url": "property-photo/01d821364/160220210/01d8213642ec267a964abaaceaaf5c6a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11fd3d0db/160220210/11fd3d0db8a9b9bd780e4959d06e1f00_max_476x317.jpeg",
+      "url": "property-photo/11fd3d0db/160220210/11fd3d0db8a9b9bd780e4959d06e1f00.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3f6f3dc/160220210/bf3f6f3dc3d739e22feb75f82e9b6da0_max_476x317.jpeg",
+      "url": "property-photo/bf3f6f3dc/160220210/bf3f6f3dc3d739e22feb75f82e9b6da0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/319368f07/160220210/319368f075017dfe544a9b8a67ce7469_max_476x317.jpeg",
+      "url": "property-photo/319368f07/160220210/319368f075017dfe544a9b8a67ce7469.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2025-04-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2025-04-14T14:40:57Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 104705,
+    "brandPlusLogoURI": "/partner-logo/13017716-PRODUCTS_LOGO-1766062795.png",
+    "contactTelephone": "020 7739 1650",
+    "branchDisplayName": "IDM Estates Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "IDM Estates Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/IDM-Estates-Ltd/London-104705.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": false,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13017716-PRODUCTS_LOGO-1766062795.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Relevant letting fee and tenant protection information\nAs well as paying the rent you may also be required to make the following payments\nPermitted payments:\nBefore the tenancy starts payable to IDM Estates Ltd: \nHolding deposit (1 weeks rent)\nDeposit:\n5 weeks rent (for properties where the annual rent is less than \u00a350,000)\n6 weeks rent (for properties where the annual rent exceeds \u00a350,000) \n\nDuring the tenancy (payable to the agent)\nPayment of up to \u00a350 (Incl. VAT) to change the tenancy\nPayment of interest for the late payment of rent at a rate of 3%\nPayment for the reasonable incurred cost for the loss of keys/fobs/security devices \nPayment for any unpaid rent or other reasonable costs associated with your early termination of the tenancy\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/160220210#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=160220210",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-04-03T16:51:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-21T12:32:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "351 SQ FT - 1-bed studio apartment",
+      "htmlDescription": "351 SQ FT - 1-bed studio apartment"
+    },
+    {
+      "order": 2,
+      "description": "Open plan living",
+      "htmlDescription": "Open plan living"
+    },
+    {
+      "order": 3,
+      "description": "Integrated Bosch appliances such as dishwasher and washer dryer",
+      "htmlDescription": "Integrated Bosch appliances such as dishwasher and washer dryer"
+    },
+    {
+      "order": 4,
+      "description": "Hardwood oak flooring throughout the living room & entrance hall.",
+      "htmlDescription": "Hardwood oak flooring throughout the living room & entrance hall."
+    },
+    {
+      "order": 5,
+      "description": "Ceramic tiled bathroom",
+      "htmlDescription": "Ceramic tiled bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Sliding partition doors to bedroom",
+      "htmlDescription": "Sliding partition doors to bedroom"
+    },
+    {
+      "order": 7,
+      "description": "Secure development, only accessed with electronic fob",
+      "htmlDescription": "Secure development, only accessed with electronic fob"
+    },
+    {
+      "order": 8,
+      "description": "Bike store with CCTV",
+      "htmlDescription": "Bike store with CCTV"
+    },
+    {
+      "order": 9,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c_max_476x317.jpeg",
+        "url": "property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5826db5f2/160220210/5826db5f27d0f09b10b9706db687a8b0_max_476x317.jpeg",
+        "url": "property-photo/5826db5f2/160220210/5826db5f27d0f09b10b9706db687a8b0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89a3d4d9f/160220210/89a3d4d9f9b4ae0dc2bd4e31243f1260_max_476x317.jpeg",
+        "url": "property-photo/89a3d4d9f/160220210/89a3d4d9f9b4ae0dc2bd4e31243f1260.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0eb788d5b/160220210/0eb788d5be0f494ad58726596c61e585_max_476x317.jpeg",
+        "url": "property-photo/0eb788d5b/160220210/0eb788d5be0f494ad58726596c61e585.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01d821364/160220210/01d8213642ec267a964abaaceaaf5c6a_max_476x317.jpeg",
+        "url": "property-photo/01d821364/160220210/01d8213642ec267a964abaaceaaf5c6a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11fd3d0db/160220210/11fd3d0db8a9b9bd780e4959d06e1f00_max_476x317.jpeg",
+        "url": "property-photo/11fd3d0db/160220210/11fd3d0db8a9b9bd780e4959d06e1f00.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3f6f3dc/160220210/bf3f6f3dc3d739e22feb75f82e9b6da0_max_476x317.jpeg",
+        "url": "property-photo/bf3f6f3dc/160220210/bf3f6f3dc3d739e22feb75f82e9b6da0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/319368f07/160220210/319368f075017dfe544a9b8a67ce7469_max_476x317.jpeg",
+        "url": "property-photo/319368f07/160220210/319368f075017dfe544a9b8a67ce7469.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e9693411/160220210/5e9693411fbf239c10c84db9aea3e38c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by IDM Estates Ltd, London",
+  "addedOrReduced": "Reduced on 14/04/2025",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": false
+}

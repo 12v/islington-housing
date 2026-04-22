@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-22T00:09:02.100346+00:00",
+  "postcode": "N7 0SH",
+  "id": 174587096,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Rue Living is delighted to offer this one bedroom garden flat within a charming period conversion, just a short walk from Holloway Road and Caledonian Road. The property has been recently refurbished redecorated and features a large open plan kitchen area, a generous double bedroom, a three-...",
+  "displayAddress": "Camden Road, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555201,
+    "longitude": -0.119872
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba_max_476x317.jpeg",
+      "url": "property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f58c86574/174587096/f58c86574d7be1d490e929016a787902_max_476x317.jpeg",
+      "url": "property-photo/f58c86574/174587096/f58c86574d7be1d490e929016a787902.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50dd9a70e/174587096/50dd9a70e55cbfbc67e44840941cadf4_max_476x317.jpeg",
+      "url": "property-photo/50dd9a70e/174587096/50dd9a70e55cbfbc67e44840941cadf4.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54d78f68e/174587096/54d78f68ead684824c72835b153b80f3_max_476x317.jpeg",
+      "url": "property-photo/54d78f68e/174587096/54d78f68ead684824c72835b153b80f3.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed88c2340/174587096/ed88c23407d279b114e942aa96014863_max_476x317.jpeg",
+      "url": "property-photo/ed88c2340/174587096/ed88c23407d279b114e942aa96014863.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb7a3069/174587096/5bb7a30699f2e9a8c242d2c44f82e97f_max_476x317.jpeg",
+      "url": "property-photo/5bb7a3069/174587096/5bb7a30699f2e9a8c242d2c44f82e97f.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb13b99c2/174587096/fb13b99c2b7a229554dd06f54d468a0d_max_476x317.jpeg",
+      "url": "property-photo/fb13b99c2/174587096/fb13b99c2b7a229554dd06f54d468a0d.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/305d197f0/174587096/305d197f034be98da0d007399500dcb4_max_476x317.jpeg",
+      "url": "property-photo/305d197f0/174587096/305d197f034be98da0d007399500dcb4.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fe8dd3f7/174587096/2fe8dd3f707e38dc088ae0e4767fe391_max_476x317.jpeg",
+      "url": "property-photo/2fe8dd3f7/174587096/2fe8dd3f707e38dc088ae0e4767fe391.jpeg",
+      "caption": "Picture No. 02"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-17T13:46:11Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 299861,
+    "brandPlusLogoURI": "/partner-logo/43322297-PRODUCTS_LOGO-1770915987063.png",
+    "contactTelephone": "020 4634 3285",
+    "branchDisplayName": "Rue Living, London",
+    "branchName": "London",
+    "brandTradingName": "Rue Living",
+    "branchLandingPageUrl": "/estate-agents/agent/Rue-Living/London-299861.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-02T10:23:05Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43322297-PRODUCTS_LOGO-1770915987063.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "549 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174587096#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174587096",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-17T13:40:27Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-21T13:46:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private Rare Garden",
+      "htmlDescription": "Private Rare Garden"
+    },
+    {
+      "order": 2,
+      "description": "Period Conversion",
+      "htmlDescription": "Period Conversion"
+    },
+    {
+      "order": 3,
+      "description": "Double Bedroom",
+      "htmlDescription": "Double Bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba_max_476x317.jpeg",
+        "url": "property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f58c86574/174587096/f58c86574d7be1d490e929016a787902_max_476x317.jpeg",
+        "url": "property-photo/f58c86574/174587096/f58c86574d7be1d490e929016a787902.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50dd9a70e/174587096/50dd9a70e55cbfbc67e44840941cadf4_max_476x317.jpeg",
+        "url": "property-photo/50dd9a70e/174587096/50dd9a70e55cbfbc67e44840941cadf4.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54d78f68e/174587096/54d78f68ead684824c72835b153b80f3_max_476x317.jpeg",
+        "url": "property-photo/54d78f68e/174587096/54d78f68ead684824c72835b153b80f3.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed88c2340/174587096/ed88c23407d279b114e942aa96014863_max_476x317.jpeg",
+        "url": "property-photo/ed88c2340/174587096/ed88c23407d279b114e942aa96014863.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb7a3069/174587096/5bb7a30699f2e9a8c242d2c44f82e97f_max_476x317.jpeg",
+        "url": "property-photo/5bb7a3069/174587096/5bb7a30699f2e9a8c242d2c44f82e97f.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb13b99c2/174587096/fb13b99c2b7a229554dd06f54d468a0d_max_476x317.jpeg",
+        "url": "property-photo/fb13b99c2/174587096/fb13b99c2b7a229554dd06f54d468a0d.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/305d197f0/174587096/305d197f034be98da0d007399500dcb4_max_476x317.jpeg",
+        "url": "property-photo/305d197f0/174587096/305d197f034be98da0d007399500dcb4.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fe8dd3f7/174587096/2fe8dd3f707e38dc088ae0e4767fe391_max_476x317.jpeg",
+        "url": "property-photo/2fe8dd3f7/174587096/2fe8dd3f707e38dc088ae0e4767fe391.jpeg",
+        "caption": "Picture No. 02"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f423e9d42/174587096/f423e9d42751d941c4f6746117e2a2ba_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rue Living, London",
+  "addedOrReduced": "Added on 17/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

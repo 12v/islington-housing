@@ -1,0 +1,462 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-21T23:03:06.317079+00:00",
+  "postcode": "N19 5RQ",
+  "id": 174518510,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 15,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Great location. Inclusive Wi-Fi. Managed Utilities. 24hr On Site Team. Residents Gym & Roof Terrace, Social Events, BBQ, Private Dining Room, Work from Home Lounge and Secure Bike Storage. Pet friendly! Vantage Point is an iconic landmark in North London's Desirable Borough of Islington!",
+  "displayAddress": "Junction Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56543,
+    "longitude": -0.13507
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317_max_476x317.jpeg",
+      "url": "property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317.jpeg",
+      "caption": "Loungeroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05ee3e19e/174518510/05ee3e19ef87f705a858575fcd79adcf_max_476x317.jpeg",
+      "url": "property-photo/05ee3e19e/174518510/05ee3e19ef87f705a858575fcd79adcf.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8867ff4ea/174518510/8867ff4eaa267f2458994a0ac8c52e3a_max_476x317.jpeg",
+      "url": "property-photo/8867ff4ea/174518510/8867ff4eaa267f2458994a0ac8c52e3a.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d333dba2b/174518510/d333dba2bdac7996234ec9f490bfb8b7_max_476x317.jpeg",
+      "url": "property-photo/d333dba2b/174518510/d333dba2bdac7996234ec9f490bfb8b7.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b786b2e5/174518510/0b786b2e55252d4c8a7f928d0a187c23_max_476x317.jpeg",
+      "url": "property-photo/0b786b2e5/174518510/0b786b2e55252d4c8a7f928d0a187c23.jpeg",
+      "caption": "lounge and Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/414116b72/174518510/414116b72743d3fbe32e7be13e4b2c7d_max_476x317.jpeg",
+      "url": "property-photo/414116b72/174518510/414116b72743d3fbe32e7be13e4b2c7d.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e64217561/174518510/e64217561f089a63fdd6aa1afaf41909_max_476x317.jpeg",
+      "url": "property-photo/e64217561/174518510/e64217561f089a63fdd6aa1afaf41909.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0868f4870/174518510/0868f487099a6275493688f4f6488ec8_max_476x317.jpeg",
+      "url": "property-photo/0868f4870/174518510/0868f487099a6275493688f4f6488ec8.jpeg",
+      "caption": "Communal Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50ed156b9/174518510/50ed156b99e7a75ce7ec557a1c36fd81_max_476x317.jpeg",
+      "url": "property-photo/50ed156b9/174518510/50ed156b99e7a75ce7ec557a1c36fd81.jpeg",
+      "caption": "Communal Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ef0e0f64/174518510/4ef0e0f64a050c414ac3a7ebc9d6d44f_max_476x317.jpeg",
+      "url": "property-photo/4ef0e0f64/174518510/4ef0e0f64a050c414ac3a7ebc9d6d44f.jpeg",
+      "caption": "Residents Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5924dc41a/174518510/5924dc41a5148598ba0250888848bb63_max_476x317.jpeg",
+      "url": "property-photo/5924dc41a/174518510/5924dc41a5148598ba0250888848bb63.jpeg",
+      "caption": "WFH Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/859a1e43a/174518510/859a1e43a04f6ab18b493f488d7e92ef_max_476x317.jpeg",
+      "url": "property-photo/859a1e43a/174518510/859a1e43a04f6ab18b493f488d7e92ef.jpeg",
+      "caption": "Communal space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c22f2ab6e/174518510/c22f2ab6e1cbea5a3e95c06b6e252280_max_476x317.jpeg",
+      "url": "property-photo/c22f2ab6e/174518510/c22f2ab6e1cbea5a3e95c06b6e252280.jpeg",
+      "caption": "Communal space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/649691c7f/174518510/649691c7f9dfac424406dfff35317b28_max_476x317.jpeg",
+      "url": "property-photo/649691c7f/174518510/649691c7f9dfac424406dfff35317b28.jpeg",
+      "caption": "Games Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00796ba91/174518510/00796ba91f5131d4d75fb5017fdfd8a0_max_476x317.jpeg",
+      "url": "property-photo/00796ba91/174518510/00796ba91f5131d4d75fb5017fdfd8a0.jpeg",
+      "caption": "Reception"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-16T11:55:02Z"
+  },
+  "price": {
+    "amount": 2295,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,295 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3530 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 207218,
+    "brandPlusLogoURI": "/partner-logo/22387373-PRODUCTS_LOGO-1766067354.png",
+    "contactTelephone": "020 4572 3490",
+    "branchDisplayName": "Essential Living Management Limited, Vantage Point",
+    "branchName": "Vantage Point",
+    "brandTradingName": "Essential Living Management Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Essential-Living-Management-Limited/Vantage-Point-207218.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": true,
+    "buildToRentBenefits": [
+      {
+        "id": 24,
+        "label": "Pets allowed",
+        "icon": "dog",
+        "positionOnPage": 1
+      },
+      {
+        "id": 4,
+        "label": "Gym",
+        "icon": "gym",
+        "positionOnPage": 2
+      },
+      {
+        "id": 34,
+        "label": "Transport links",
+        "icon": "train",
+        "positionOnPage": 3
+      },
+      {
+        "id": 35,
+        "label": "Well connected",
+        "icon": "train",
+        "positionOnPage": 4
+      },
+      {
+        "id": 6,
+        "label": "On site maintenance",
+        "icon": "maintenance",
+        "positionOnPage": 5
+      },
+      {
+        "id": 31,
+        "label": "Shared workspace",
+        "icon": "desk",
+        "positionOnPage": 6
+      },
+      {
+        "id": 15,
+        "label": "Communal areas",
+        "icon": "communal-area",
+        "positionOnPage": 7
+      },
+      {
+        "id": 17,
+        "label": "Exclusive community",
+        "icon": "exclusive",
+        "positionOnPage": 8
+      },
+      {
+        "id": 18,
+        "label": "Flexible tenancies",
+        "icon": "note",
+        "positionOnPage": 9
+      },
+      {
+        "id": 9,
+        "label": "BBQ areas",
+        "icon": "bbq",
+        "positionOnPage": 10
+      },
+      {
+        "id": 3,
+        "label": "Parking",
+        "icon": "car-front",
+        "positionOnPage": 11
+      },
+      {
+        "id": 28,
+        "label": "Residents lounge",
+        "icon": "sofa",
+        "positionOnPage": 12
+      },
+      {
+        "id": 29,
+        "label": "Roof terrace",
+        "icon": "roof-terrace",
+        "positionOnPage": 13
+      },
+      {
+        "id": 26,
+        "label": "Private dining room",
+        "icon": "dining-room",
+        "positionOnPage": 14
+      },
+      {
+        "id": 2,
+        "label": "Concierge",
+        "icon": "concierge",
+        "positionOnPage": 15
+      },
+      {
+        "id": 8,
+        "label": "Balcony",
+        "icon": "balcony",
+        "positionOnPage": 16
+      },
+      {
+        "id": 10,
+        "label": "Bike storage",
+        "icon": "bike-storage",
+        "positionOnPage": 17
+      },
+      {
+        "id": 20,
+        "label": "Games room",
+        "icon": "game-controller",
+        "positionOnPage": 18
+      },
+      {
+        "id": 22,
+        "label": "Long term contracts",
+        "icon": "note",
+        "positionOnPage": 19
+      },
+      {
+        "id": 27,
+        "label": "Professional management",
+        "icon": "seal-tick",
+        "positionOnPage": 20
+      },
+      {
+        "id": 5,
+        "label": "Security",
+        "icon": "lock",
+        "positionOnPage": 21
+      },
+      {
+        "id": 32,
+        "label": "Social activities",
+        "icon": "social-activities",
+        "positionOnPage": 22
+      },
+      {
+        "id": 1,
+        "label": "WiFi included",
+        "icon": "wifi-included",
+        "positionOnPage": 23
+      }
+    ],
+    "updateDate": "2026-01-05T11:51:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22387373-PRODUCTS_LOGO-1766067354.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Built for renters",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The Scheme Administrator of the Tenancy Deposit Scheme is:\nThe Dispute Service Limited, 1 The Progression Centre, 42 Mark Road, Hemel Hempstead HP2 7DW Phone:  \nEmail:  \nWeb:  ",
+  "displaySize": "415 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174518510#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174518510",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-16T11:49:05Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "BUILT_FOR_RENTERS",
+        "priority": 3
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-16T11:55:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "24/7on-site residents team",
+      "htmlDescription": " 24/7on-site residents team"
+    },
+    {
+      "order": 2,
+      "description": "Pet friendly apartments",
+      "htmlDescription": "Pet friendly apartments"
+    },
+    {
+      "order": 3,
+      "description": "Rooftop terrace and BBQ area with great views across London",
+      "htmlDescription": "Rooftop terrace and BBQ area with great views across London"
+    },
+    {
+      "order": 4,
+      "description": "Apartments can be furnished or unfurnished at no extra cost",
+      "htmlDescription": "Apartments can be furnished or unfurnished at no extra cost"
+    },
+    {
+      "order": 5,
+      "description": "Work from home spaces",
+      "htmlDescription": "Work from home spaces"
+    },
+    {
+      "order": 6,
+      "description": "Free building wide Wi-Fi included",
+      "htmlDescription": "Free building wide Wi-Fi included"
+    },
+    {
+      "order": 7,
+      "description": "Secure bicycle storage",
+      "htmlDescription": "Secure bicycle storage"
+    },
+    {
+      "order": 8,
+      "description": "Less than 1 minute walk to Archway tube station",
+      "htmlDescription": "Less than 1 minute walk to Archway tube station"
+    },
+    {
+      "order": 9,
+      "description": "Rooftop gym included in the rent",
+      "htmlDescription": "Rooftop gym included in the rent"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317_max_476x317.jpeg",
+        "url": "property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317.jpeg",
+        "caption": "Loungeroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/05ee3e19e/174518510/05ee3e19ef87f705a858575fcd79adcf_max_476x317.jpeg",
+        "url": "property-photo/05ee3e19e/174518510/05ee3e19ef87f705a858575fcd79adcf.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8867ff4ea/174518510/8867ff4eaa267f2458994a0ac8c52e3a_max_476x317.jpeg",
+        "url": "property-photo/8867ff4ea/174518510/8867ff4eaa267f2458994a0ac8c52e3a.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d333dba2b/174518510/d333dba2bdac7996234ec9f490bfb8b7_max_476x317.jpeg",
+        "url": "property-photo/d333dba2b/174518510/d333dba2bdac7996234ec9f490bfb8b7.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b786b2e5/174518510/0b786b2e55252d4c8a7f928d0a187c23_max_476x317.jpeg",
+        "url": "property-photo/0b786b2e5/174518510/0b786b2e55252d4c8a7f928d0a187c23.jpeg",
+        "caption": "lounge and Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/414116b72/174518510/414116b72743d3fbe32e7be13e4b2c7d_max_476x317.jpeg",
+        "url": "property-photo/414116b72/174518510/414116b72743d3fbe32e7be13e4b2c7d.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e64217561/174518510/e64217561f089a63fdd6aa1afaf41909_max_476x317.jpeg",
+        "url": "property-photo/e64217561/174518510/e64217561f089a63fdd6aa1afaf41909.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0868f4870/174518510/0868f487099a6275493688f4f6488ec8_max_476x317.jpeg",
+        "url": "property-photo/0868f4870/174518510/0868f487099a6275493688f4f6488ec8.jpeg",
+        "caption": "Communal Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50ed156b9/174518510/50ed156b99e7a75ce7ec557a1c36fd81_max_476x317.jpeg",
+        "url": "property-photo/50ed156b9/174518510/50ed156b99e7a75ce7ec557a1c36fd81.jpeg",
+        "caption": "Communal Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ef0e0f64/174518510/4ef0e0f64a050c414ac3a7ebc9d6d44f_max_476x317.jpeg",
+        "url": "property-photo/4ef0e0f64/174518510/4ef0e0f64a050c414ac3a7ebc9d6d44f.jpeg",
+        "caption": "Residents Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5924dc41a/174518510/5924dc41a5148598ba0250888848bb63_max_476x317.jpeg",
+        "url": "property-photo/5924dc41a/174518510/5924dc41a5148598ba0250888848bb63.jpeg",
+        "caption": "WFH Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/859a1e43a/174518510/859a1e43a04f6ab18b493f488d7e92ef_max_476x317.jpeg",
+        "url": "property-photo/859a1e43a/174518510/859a1e43a04f6ab18b493f488d7e92ef.jpeg",
+        "caption": "Communal space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c22f2ab6e/174518510/c22f2ab6e1cbea5a3e95c06b6e252280_max_476x317.jpeg",
+        "url": "property-photo/c22f2ab6e/174518510/c22f2ab6e1cbea5a3e95c06b6e252280.jpeg",
+        "caption": "Communal space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/649691c7f/174518510/649691c7f9dfac424406dfff35317b28_max_476x317.jpeg",
+        "url": "property-photo/649691c7f/174518510/649691c7f9dfac424406dfff35317b28.jpeg",
+        "caption": "Games Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00796ba91/174518510/00796ba91f5131d4d75fb5017fdfd8a0_max_476x317.jpeg",
+        "url": "property-photo/00796ba91/174518510/00796ba91f5131d4d75fb5017fdfd8a0.jpeg",
+        "caption": "Reception"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/972cf9e81/174518510/972cf9e817710dcf42dfda3be5988317_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Essential Living Management Limited, Vantage Point",
+  "addedOrReduced": "Added on 16/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
