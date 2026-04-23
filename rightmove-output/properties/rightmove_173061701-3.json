@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-22T21:32:22.186457+00:00",
+  "postcode": "N1 0AA",
+  "id": 173061701,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright split-level 3-bed home in Islington with private south-facing balcony. Ideal for a couple or two sharers, featuring two doubles, study/guest room, modern kitchen, sleek shower room & separate WC. Close to King's Cross St Pancras.",
+  "displayAddress": "Kinross House, Bemerton Estate, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53982,
+    "longitude": -0.11773
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36_max_476x317.jpeg",
+      "url": "property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/641652e76/173061701/641652e767ae70508591d11949862cf1_max_476x317.jpeg",
+      "url": "property-photo/641652e76/173061701/641652e767ae70508591d11949862cf1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/727bcdf53/173061701/727bcdf53f1980dd9980aef47f5d7843_max_476x317.jpeg",
+      "url": "property-photo/727bcdf53/173061701/727bcdf53f1980dd9980aef47f5d7843.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f21b95a3/173061701/8f21b95a39c9a24e4ef083391a6f234f_max_476x317.jpeg",
+      "url": "property-photo/8f21b95a3/173061701/8f21b95a39c9a24e4ef083391a6f234f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f84cce0dc/173061701/f84cce0dc9b3a6697f828fd39ec0f562_max_476x317.jpeg",
+      "url": "property-photo/f84cce0dc/173061701/f84cce0dc9b3a6697f828fd39ec0f562.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5c3628fd/173061701/d5c3628fda1d77a1af005168eef60088_max_476x317.jpeg",
+      "url": "property-photo/d5c3628fd/173061701/d5c3628fda1d77a1af005168eef60088.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-03-09T15:47:13Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 290528,
+    "brandPlusLogoURI": "/partner-logo/38578859-PRODUCTS_LOGO-1766061123.jpeg",
+    "contactTelephone": "020 3826 8241",
+    "branchDisplayName": "100 Key Properties Ltd, Hornchurch",
+    "branchName": "Hornchurch",
+    "brandTradingName": "100 Key Properties Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/100-Key-Properties-Ltd/Hornchurch-290528.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-10-06T23:41:28Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/38578859-PRODUCTS_LOGO-1766061123.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes). For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees. It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "75 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173061701#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173061701",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-09T15:41:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-22T01:03:22Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 2,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 3,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 6,
+      "description": "Shops and amenities nearby",
+      "htmlDescription": "Shops and amenities nearby"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36_max_476x317.jpeg",
+        "url": "property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/641652e76/173061701/641652e767ae70508591d11949862cf1_max_476x317.jpeg",
+        "url": "property-photo/641652e76/173061701/641652e767ae70508591d11949862cf1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/727bcdf53/173061701/727bcdf53f1980dd9980aef47f5d7843_max_476x317.jpeg",
+        "url": "property-photo/727bcdf53/173061701/727bcdf53f1980dd9980aef47f5d7843.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f21b95a3/173061701/8f21b95a39c9a24e4ef083391a6f234f_max_476x317.jpeg",
+        "url": "property-photo/8f21b95a3/173061701/8f21b95a39c9a24e4ef083391a6f234f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f84cce0dc/173061701/f84cce0dc9b3a6697f828fd39ec0f562_max_476x317.jpeg",
+        "url": "property-photo/f84cce0dc/173061701/f84cce0dc9b3a6697f828fd39ec0f562.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5c3628fd/173061701/d5c3628fda1d77a1af005168eef60088_max_476x317.jpeg",
+        "url": "property-photo/d5c3628fd/173061701/d5c3628fda1d77a1af005168eef60088.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2cb84b16/173061701/e2cb84b16f8b3fb01f66c20b3349af36_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by 100 Key Properties Ltd, Hornchurch",
+  "addedOrReduced": "Added on 09/03/2026"
+}

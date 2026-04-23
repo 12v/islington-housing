@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-22T23:40:56.404016+00:00",
+  "postcode": "N4 4AL",
+  "id": 174719510,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright modern 2 double bedroom apartment, refurbished to very high standard on Crouch Hill. The apartment consists of 2 double bedrooms, and an open plan kitchen and living room. The apartment benefits from large sunny west facing windows, at the back of the building with views over gardens. ...",
+  "displayAddress": "Crouch Hill, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5718,
+    "longitude": -0.119108
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f_max_476x317.jpeg",
+      "url": "property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff6ddb4cf/174719510/ff6ddb4cf4d4714e195dea732b9e9ad4_max_476x317.jpeg",
+      "url": "property-photo/ff6ddb4cf/174719510/ff6ddb4cf4d4714e195dea732b9e9ad4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f49f8c1ad/174719510/f49f8c1ad439110d1ffda53e39461c0a_max_476x317.jpeg",
+      "url": "property-photo/f49f8c1ad/174719510/f49f8c1ad439110d1ffda53e39461c0a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16729ec95/174719510/16729ec955e03d575a41fe1b4247be92_max_476x317.jpeg",
+      "url": "property-photo/16729ec95/174719510/16729ec955e03d575a41fe1b4247be92.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ceab0f85d/174719510/ceab0f85d912c2cc5ec2de2dec53c82d_max_476x317.jpeg",
+      "url": "property-photo/ceab0f85d/174719510/ceab0f85d912c2cc5ec2de2dec53c82d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/346856f05/174719510/346856f053ea381f9e39cd6479abaf2e_max_476x317.jpeg",
+      "url": "property-photo/346856f05/174719510/346856f053ea381f9e39cd6479abaf2e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023a97675/174719510/023a9767543af4848336a1eb82f8e0a4_max_476x317.jpeg",
+      "url": "property-photo/023a97675/174719510/023a9767543af4848336a1eb82f8e0a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e827d50b/174719510/2e827d50bd2a43ad564f4ebed30d054a_max_476x317.jpeg",
+      "url": "property-photo/2e827d50b/174719510/2e827d50bd2a43ad564f4ebed30d054a.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-21T11:22:11Z"
+  },
+  "price": {
+    "amount": 1975,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,975 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3456 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 221711,
+    "brandPlusLogoURI": "/partner-logo/23896037-PRODUCTS_LOGO-1766056336.jpeg",
+    "contactTelephone": "020 3909 7829",
+    "branchDisplayName": "Hello Neighbour, London",
+    "branchName": "London",
+    "brandTradingName": "Hello Neighbour",
+    "branchLandingPageUrl": "/estate-agents/agent/Hello-Neighbour/London-221711.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-14T09:44:34Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23896037-PRODUCTS_LOGO-1766056336.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "529 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174719510#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174719510",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-21T11:16:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-21T11:22:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min",
+      "htmlDescription": "To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f_max_476x317.jpeg",
+        "url": "property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff6ddb4cf/174719510/ff6ddb4cf4d4714e195dea732b9e9ad4_max_476x317.jpeg",
+        "url": "property-photo/ff6ddb4cf/174719510/ff6ddb4cf4d4714e195dea732b9e9ad4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f49f8c1ad/174719510/f49f8c1ad439110d1ffda53e39461c0a_max_476x317.jpeg",
+        "url": "property-photo/f49f8c1ad/174719510/f49f8c1ad439110d1ffda53e39461c0a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16729ec95/174719510/16729ec955e03d575a41fe1b4247be92_max_476x317.jpeg",
+        "url": "property-photo/16729ec95/174719510/16729ec955e03d575a41fe1b4247be92.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ceab0f85d/174719510/ceab0f85d912c2cc5ec2de2dec53c82d_max_476x317.jpeg",
+        "url": "property-photo/ceab0f85d/174719510/ceab0f85d912c2cc5ec2de2dec53c82d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/346856f05/174719510/346856f053ea381f9e39cd6479abaf2e_max_476x317.jpeg",
+        "url": "property-photo/346856f05/174719510/346856f053ea381f9e39cd6479abaf2e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023a97675/174719510/023a9767543af4848336a1eb82f8e0a4_max_476x317.jpeg",
+        "url": "property-photo/023a97675/174719510/023a9767543af4848336a1eb82f8e0a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e827d50b/174719510/2e827d50bd2a43ad564f4ebed30d054a_max_476x317.jpeg",
+        "url": "property-photo/2e827d50b/174719510/2e827d50bd2a43ad564f4ebed30d054a.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a357f47fb/174719510/a357f47fbfd490e110dfc5b4586c7b3f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hello Neighbour, London",
+  "addedOrReduced": "Reduced on 21/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

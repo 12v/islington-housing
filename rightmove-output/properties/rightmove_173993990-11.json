@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-22T22:54:06.372871+00:00",
+  "postcode": "N19 4NJ",
+  "id": 173993990,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "This beautifully presented one bedroom flat on the ground floor of this period conversion with a private patio set within a sought-after location just moments from Archway.",
+  "displayAddress": "Marlborough Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.565056,
+    "longitude": -0.126312
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f_max_476x317.jpeg",
+      "url": "property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/581b4b744/173993990/581b4b7448db95c2c7eaabc40f283dc3_max_476x317.jpeg",
+      "url": "property-photo/581b4b744/173993990/581b4b7448db95c2c7eaabc40f283dc3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c5251fb4/173993990/7c5251fb42155261389e9bfa2f442522_max_476x317.jpeg",
+      "url": "property-photo/7c5251fb4/173993990/7c5251fb42155261389e9bfa2f442522.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69d7fe7a0/173993990/69d7fe7a074ab98d469731350f383599_max_476x317.jpeg",
+      "url": "property-photo/69d7fe7a0/173993990/69d7fe7a074ab98d469731350f383599.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9fab523a/173993990/e9fab523a9ebf46cc135121a671c7cbb_max_476x317.jpeg",
+      "url": "property-photo/e9fab523a/173993990/e9fab523a9ebf46cc135121a671c7cbb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dba400dc1/173993990/dba400dc18da3c94798f6f241703a5d5_max_476x317.jpeg",
+      "url": "property-photo/dba400dc1/173993990/dba400dc18da3c94798f6f241703a5d5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e531122b7/173993990/e531122b70cfa36f18a5e3ab049b441e_max_476x317.jpeg",
+      "url": "property-photo/e531122b7/173993990/e531122b70cfa36f18a5e3ab049b441e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e73506ed/173993990/0e73506edd15c26612e8b83e99bebe25_max_476x317.jpeg",
+      "url": "property-photo/0e73506ed/173993990/0e73506edd15c26612e8b83e99bebe25.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd8212469/173993990/bd82124697c2c008bb7b0082af65483e_max_476x317.jpeg",
+      "url": "property-photo/bd8212469/173993990/bd82124697c2c008bb7b0082af65483e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/709b1fc4f/173993990/709b1fc4fd209381076f8d63ebb86b6c_max_476x317.jpeg",
+      "url": "property-photo/709b1fc4f/173993990/709b1fc4fd209381076f8d63ebb86b6c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e17e6440/173993990/2e17e6440a4efaf6af5fc96cdb0db10f_max_476x317.jpeg",
+      "url": "property-photo/2e17e6440/173993990/2e17e6440a4efaf6af5fc96cdb0db10f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5aeecab06/173993990/5aeecab06ae1950109596042f5d71b20_max_476x317.jpeg",
+      "url": "property-photo/5aeecab06/173993990/5aeecab06ae1950109596042f5d71b20.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-13T17:21:33Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84953,
+    "brandPlusLogoURI": "/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "contactTelephone": "020 3840 3854",
+    "branchDisplayName": "David Andrew, Archway",
+    "branchName": "Archway",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Archway-84953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "474 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173993990#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173993990",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-01T20:01:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-22T05:38:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Flat",
+      "htmlDescription": "One Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Private Outdoor Space",
+      "htmlDescription": "Private Outdoor Space"
+    },
+    {
+      "order": 3,
+      "description": "Comprising 44 sq mt / 468 sq ft",
+      "htmlDescription": "Comprising 44 sq mt / 468 sq ft"
+    },
+    {
+      "order": 4,
+      "description": "Fully Fitted Modern Kitchen",
+      "htmlDescription": "Fully Fitted Modern Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    },
+    {
+      "order": 6,
+      "description": "Separated Spacious Reception Room",
+      "htmlDescription": "Separated Spacious Reception Room"
+    },
+    {
+      "order": 7,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Upper Holloway and Archway Stations",
+      "htmlDescription": "Walking Distance to Upper Holloway and Archway Stations"
+    },
+    {
+      "order": 9,
+      "description": "Offered Unfurnished",
+      "htmlDescription": "Offered Unfurnished"
+    },
+    {
+      "order": 10,
+      "description": "Available 8th of May",
+      "htmlDescription": "Available 8th of May"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f_max_476x317.jpeg",
+        "url": "property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/581b4b744/173993990/581b4b7448db95c2c7eaabc40f283dc3_max_476x317.jpeg",
+        "url": "property-photo/581b4b744/173993990/581b4b7448db95c2c7eaabc40f283dc3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c5251fb4/173993990/7c5251fb42155261389e9bfa2f442522_max_476x317.jpeg",
+        "url": "property-photo/7c5251fb4/173993990/7c5251fb42155261389e9bfa2f442522.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69d7fe7a0/173993990/69d7fe7a074ab98d469731350f383599_max_476x317.jpeg",
+        "url": "property-photo/69d7fe7a0/173993990/69d7fe7a074ab98d469731350f383599.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9fab523a/173993990/e9fab523a9ebf46cc135121a671c7cbb_max_476x317.jpeg",
+        "url": "property-photo/e9fab523a/173993990/e9fab523a9ebf46cc135121a671c7cbb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dba400dc1/173993990/dba400dc18da3c94798f6f241703a5d5_max_476x317.jpeg",
+        "url": "property-photo/dba400dc1/173993990/dba400dc18da3c94798f6f241703a5d5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e531122b7/173993990/e531122b70cfa36f18a5e3ab049b441e_max_476x317.jpeg",
+        "url": "property-photo/e531122b7/173993990/e531122b70cfa36f18a5e3ab049b441e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e73506ed/173993990/0e73506edd15c26612e8b83e99bebe25_max_476x317.jpeg",
+        "url": "property-photo/0e73506ed/173993990/0e73506edd15c26612e8b83e99bebe25.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd8212469/173993990/bd82124697c2c008bb7b0082af65483e_max_476x317.jpeg",
+        "url": "property-photo/bd8212469/173993990/bd82124697c2c008bb7b0082af65483e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/709b1fc4f/173993990/709b1fc4fd209381076f8d63ebb86b6c_max_476x317.jpeg",
+        "url": "property-photo/709b1fc4f/173993990/709b1fc4fd209381076f8d63ebb86b6c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e17e6440/173993990/2e17e6440a4efaf6af5fc96cdb0db10f_max_476x317.jpeg",
+        "url": "property-photo/2e17e6440/173993990/2e17e6440a4efaf6af5fc96cdb0db10f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5aeecab06/173993990/5aeecab06ae1950109596042f5d71b20_max_476x317.jpeg",
+        "url": "property-photo/5aeecab06/173993990/5aeecab06ae1950109596042f5d71b20.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9491213/173993990/8f9491213bcae683560c9d7ded1f587f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Archway",
+  "addedOrReduced": "Reduced on 13/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

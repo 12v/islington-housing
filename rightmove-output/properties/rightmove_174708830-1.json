@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-22T23:37:10.405184+00:00",
+  "postcode": "N4 3HT",
+  "id": 174708830,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "This third-floor apartment (26.5 Sqm/285 Sft ) comprises a fully fitted kitchen open plan livingroom a separate double bedroom, full bathroom suite with bathtub, double glazed windows, wood laminate flooring and gas central heating.",
+  "displayAddress": "Fonthill Road, Finsbury Park",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56502,
+    "longitude": -0.10983
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9_max_476x317.jpeg",
+      "url": "property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0154fbdc/174708830/c0154fbdc9d0f137dde3f7cf1457955d_max_476x317.jpeg",
+      "url": "property-photo/c0154fbdc/174708830/c0154fbdc9d0f137dde3f7cf1457955d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aacaeefc1/174708830/aacaeefc16d420510db2d04b4654d45f_max_476x317.jpeg",
+      "url": "property-photo/aacaeefc1/174708830/aacaeefc16d420510db2d04b4654d45f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5deb17397/174708830/5deb17397af6f7235716db22c07bdd23_max_476x317.jpeg",
+      "url": "property-photo/5deb17397/174708830/5deb17397af6f7235716db22c07bdd23.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8f3622b0/174708830/c8f3622b07cf230e1e870723cd79bd36_max_476x317.jpeg",
+      "url": "property-photo/c8f3622b0/174708830/c8f3622b07cf230e1e870723cd79bd36.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cd1bde74/174708830/1cd1bde744e35c81f22614e308db4cd0_max_476x317.jpeg",
+      "url": "property-photo/1cd1bde74/174708830/1cd1bde744e35c81f22614e308db4cd0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d413d64f0/174708830/d413d64f0d7b3099214b54e4453f8a93_max_476x317.jpeg",
+      "url": "property-photo/d413d64f0/174708830/d413d64f0d7b3099214b54e4453f8a93.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f94de4a0a/174708830/f94de4a0a68fdf54edd6b45b8cae541f_max_476x317.jpeg",
+      "url": "property-photo/f94de4a0a/174708830/f94de4a0a68fdf54edd6b45b8cae541f.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-21T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-21T09:12:04Z"
+  },
+  "price": {
+    "amount": 1550,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,550 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3358 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3357.69) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a31788.46) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "285 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174708830#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174708830",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-21T09:06:08Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-22T18:01:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1-Bedroom Flat with Open Plan Kitchen Livingroom",
+      "htmlDescription": "1-Bedroom Flat with Open Plan Kitchen Livingroom"
+    },
+    {
+      "order": 2,
+      "description": "26.5 Sqm / 285 Sft",
+      "htmlDescription": "26.5 Sqm / 285 Sft"
+    },
+    {
+      "order": 3,
+      "description": "Moments from Finsbury Park Station",
+      "htmlDescription": "Moments from Finsbury Park Station"
+    },
+    {
+      "order": 4,
+      "description": "Energy Rating : D",
+      "htmlDescription": "Energy Rating : D"
+    },
+    {
+      "order": 5,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 6,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 7,
+      "description": "Washing Machine Provided",
+      "htmlDescription": "Washing Machine Provided"
+    },
+    {
+      "order": 8,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 9,
+      "description": "Modern Spec",
+      "htmlDescription": "Modern Spec"
+    },
+    {
+      "order": 10,
+      "description": "Bathroom Suite",
+      "htmlDescription": "Bathroom Suite"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9_max_476x317.jpeg",
+        "url": "property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0154fbdc/174708830/c0154fbdc9d0f137dde3f7cf1457955d_max_476x317.jpeg",
+        "url": "property-photo/c0154fbdc/174708830/c0154fbdc9d0f137dde3f7cf1457955d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aacaeefc1/174708830/aacaeefc16d420510db2d04b4654d45f_max_476x317.jpeg",
+        "url": "property-photo/aacaeefc1/174708830/aacaeefc16d420510db2d04b4654d45f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5deb17397/174708830/5deb17397af6f7235716db22c07bdd23_max_476x317.jpeg",
+        "url": "property-photo/5deb17397/174708830/5deb17397af6f7235716db22c07bdd23.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8f3622b0/174708830/c8f3622b07cf230e1e870723cd79bd36_max_476x317.jpeg",
+        "url": "property-photo/c8f3622b0/174708830/c8f3622b07cf230e1e870723cd79bd36.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cd1bde74/174708830/1cd1bde744e35c81f22614e308db4cd0_max_476x317.jpeg",
+        "url": "property-photo/1cd1bde74/174708830/1cd1bde744e35c81f22614e308db4cd0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d413d64f0/174708830/d413d64f0d7b3099214b54e4453f8a93_max_476x317.jpeg",
+        "url": "property-photo/d413d64f0/174708830/d413d64f0d7b3099214b54e4453f8a93.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f94de4a0a/174708830/f94de4a0a68fdf54edd6b45b8cae541f_max_476x317.jpeg",
+        "url": "property-photo/f94de4a0a/174708830/f94de4a0a68fdf54edd6b45b8cae541f.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f44a33336/174708830/f44a33336e365031a7a59776841ef4c9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added on 21/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
