@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-24T00:12:45.197859+00:00",
+  "postcode": "N7 6AA",
+  "id": 174827084,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "**STUDIO FLAT in ZONE 2** Homelink are pleased to offer for rent this spacious and bright self-contained Studio flat situated in the heart of Holloway close to large variety of shops, caf\u00e9s, transport and road links. The flat is on the top floor and consists a large bedroom/lounge area, ...",
+  "displayAddress": "Seven Sisters Road, Holloway, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.559097,
+    "longitude": -0.117197
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09_max_476x317.jpeg",
+      "url": "property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e4262d3e/174827084/1e4262d3ed7a11bbce2ae04dde98e4e6_max_476x317.jpeg",
+      "url": "property-photo/1e4262d3e/174827084/1e4262d3ed7a11bbce2ae04dde98e4e6.jpeg",
+      "caption": "Lounge/Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5aaa00fd7/174827084/5aaa00fd72b0afc9b964a085af86eb03_max_476x317.jpeg",
+      "url": "property-photo/5aaa00fd7/174827084/5aaa00fd72b0afc9b964a085af86eb03.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc11295b1/174827084/fc11295b1985fc65d96dc6311b51f7f5_max_476x317.jpeg",
+      "url": "property-photo/fc11295b1/174827084/fc11295b1985fc65d96dc6311b51f7f5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd8c0896d/174827084/fd8c0896df838ff106f170fc45525924_max_476x317.jpeg",
+      "url": "property-photo/fd8c0896d/174827084/fd8c0896df838ff106f170fc45525924.jpeg",
+      "caption": "Stairs"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9356d1e5/174827084/c9356d1e5a883333125fd5190021d412_max_476x317.jpeg",
+      "url": "property-photo/c9356d1e5/174827084/c9356d1e5a883333125fd5190021d412.jpeg",
+      "caption": "Lounge/Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4d1b563c/174827084/f4d1b563cf3bde27c1d04cdd7fd4e572_max_476x317.jpeg",
+      "url": "property-photo/f4d1b563c/174827084/f4d1b563cf3bde27c1d04cdd7fd4e572.jpeg",
+      "caption": "Lounge/Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66ba18868/174827084/66ba1886875cac493a7eeffd952a6139_max_476x317.jpeg",
+      "url": "property-photo/66ba18868/174827084/66ba1886875cac493a7eeffd952a6139.jpeg",
+      "caption": "Shower"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3bd82324/174827084/b3bd82324127c7e8c4d954d1ec26334a_max_476x317.jpeg",
+      "url": "property-photo/b3bd82324/174827084/b3bd82324127c7e8c4d954d1ec26334a.jpeg",
+      "caption": "WC"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17eee318b/174827084/17eee318b2fdf0a24ec44a0aa6f3c33e_max_476x317.jpeg",
+      "url": "property-photo/17eee318b/174827084/17eee318b2fdf0a24ec44a0aa6f3c33e.jpeg",
+      "caption": "Entrance"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23135a6fa/174827084/23135a6fa7b5951f00f4b00044c3d4e6_max_476x317.jpeg",
+      "url": "property-photo/23135a6fa/174827084/23135a6fa7b5951f00f4b00044c3d4e6.jpeg",
+      "caption": "External"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-25T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-23T11:21:05Z"
+  },
+  "price": {
+    "amount": 1200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3277 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 13040,
+    "brandPlusLogoURI": "/partner-logo/55317-LOGO-1765820359.jpeg",
+    "contactTelephone": "020 3910 6438",
+    "branchDisplayName": "Homelink Lettings & Estates, London",
+    "branchName": "London",
+    "brandTradingName": "Homelink Lettings & Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Homelink-Lettings-and-Estates/London-13040.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/55317-LOGO-1765820359.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<strong>RENT IN ADVANCE -\u00a0</strong>Equal to 1 months rent<br />\n<strong>DEPOSIT -\u00a0</strong>Equal to 5 weeks rent<br />\n<br />\n<u><strong>FEES TO TENANTS</strong></u><br />\nIn line with the Tenant Fee Act we do not charge tenants any fees. The only fees a landlord or agent can charge to a tenant in relation to new contracts are:\n<ul><li>A refundable tenancy deposit capped of 5 weeks\u2019 rent where the total annual rent is less than \u00a350,000, or 6 weeks\u2019 rent where the total annual rent is \u00a350,000 or above</li><li>One Months Rent in\u00a0advance as per the Tenancy Agreement</li><li>A refundable holding deposit (to reserve a property) of 1 week\u2019s rent</li><li>Payments associated with early termination of the tenancy, when requested by the tenant. The liability for payment of rent will cease once a new tenant is found and the new tenancy commences. The tenant will need to cover the cost for re-letting on a pro-rata basis for the remainder of the tenancy. (For further information see homelink.co.uk/landlords)</li><li>Payments \u00a350 per change (or reasonably incurred costs, if higher) for the variation, assignment or novation of a tenancy</li><li>Payments in respect of utilities, communication services, TV licence and Council Tax</li><li>A default fee for late payment of rent of 3% above bank of England Base Rate as defined in the Tenancy Agreement</li><li>Replacement of a lost key/security device giving access to the housing, where required under a tenancy agreement charged at the cost of the replacement of the lock or key or device.</li></ul>\n<br />\n<u><strong>We are members of the following organisations</strong></u><br />\n<br />\nThe Property Ombudsman - Redress Scheme<br />\nAssociation of Residential Lettings Agents<br />\nNational Association Of Estate Agents<br />\nClient Money Protection - Propertymark<br />\nTenancy Deposit Protection - TDS<br />\n\u00a0",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174827084#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174827084",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-23T11:14:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-23T11:23:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Large Studio Flat",
+      "htmlDescription": "Large Studio Flat"
+    },
+    {
+      "order": 2,
+      "description": "Top Floor",
+      "htmlDescription": "Top Floor"
+    },
+    {
+      "order": 3,
+      "description": "Spacious Lounge/Bedroom",
+      "htmlDescription": "Spacious Lounge/Bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Electric Heating",
+      "htmlDescription": "Electric Heating"
+    },
+    {
+      "order": 6,
+      "description": "Double Glazing",
+      "htmlDescription": "Double Glazing"
+    },
+    {
+      "order": 7,
+      "description": "Great Transport Links",
+      "htmlDescription": "Great Transport Links"
+    },
+    {
+      "order": 8,
+      "description": "Fantastic Road Links",
+      "htmlDescription": "Fantastic Road Links"
+    },
+    {
+      "order": 9,
+      "description": "Close to all Local Amenities",
+      "htmlDescription": "Close to all Local Amenities"
+    },
+    {
+      "order": 10,
+      "description": "Must Be Seen",
+      "htmlDescription": "Must Be Seen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09_max_476x317.jpeg",
+        "url": "property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e4262d3e/174827084/1e4262d3ed7a11bbce2ae04dde98e4e6_max_476x317.jpeg",
+        "url": "property-photo/1e4262d3e/174827084/1e4262d3ed7a11bbce2ae04dde98e4e6.jpeg",
+        "caption": "Lounge/Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5aaa00fd7/174827084/5aaa00fd72b0afc9b964a085af86eb03_max_476x317.jpeg",
+        "url": "property-photo/5aaa00fd7/174827084/5aaa00fd72b0afc9b964a085af86eb03.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc11295b1/174827084/fc11295b1985fc65d96dc6311b51f7f5_max_476x317.jpeg",
+        "url": "property-photo/fc11295b1/174827084/fc11295b1985fc65d96dc6311b51f7f5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd8c0896d/174827084/fd8c0896df838ff106f170fc45525924_max_476x317.jpeg",
+        "url": "property-photo/fd8c0896d/174827084/fd8c0896df838ff106f170fc45525924.jpeg",
+        "caption": "Stairs"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9356d1e5/174827084/c9356d1e5a883333125fd5190021d412_max_476x317.jpeg",
+        "url": "property-photo/c9356d1e5/174827084/c9356d1e5a883333125fd5190021d412.jpeg",
+        "caption": "Lounge/Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4d1b563c/174827084/f4d1b563cf3bde27c1d04cdd7fd4e572_max_476x317.jpeg",
+        "url": "property-photo/f4d1b563c/174827084/f4d1b563cf3bde27c1d04cdd7fd4e572.jpeg",
+        "caption": "Lounge/Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66ba18868/174827084/66ba1886875cac493a7eeffd952a6139_max_476x317.jpeg",
+        "url": "property-photo/66ba18868/174827084/66ba1886875cac493a7eeffd952a6139.jpeg",
+        "caption": "Shower"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3bd82324/174827084/b3bd82324127c7e8c4d954d1ec26334a_max_476x317.jpeg",
+        "url": "property-photo/b3bd82324/174827084/b3bd82324127c7e8c4d954d1ec26334a.jpeg",
+        "caption": "WC"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17eee318b/174827084/17eee318b2fdf0a24ec44a0aa6f3c33e_max_476x317.jpeg",
+        "url": "property-photo/17eee318b/174827084/17eee318b2fdf0a24ec44a0aa6f3c33e.jpeg",
+        "caption": "Entrance"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23135a6fa/174827084/23135a6fa7b5951f00f4b00044c3d4e6_max_476x317.jpeg",
+        "url": "property-photo/23135a6fa/174827084/23135a6fa7b5951f00f4b00044c3d4e6.jpeg",
+        "caption": "External"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ee0063ba/174827084/3ee0063baace757179bc50bc41a7ed09_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Homelink Lettings & Estates, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

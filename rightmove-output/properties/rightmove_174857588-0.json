@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-23T21:33:09.905219+00:00",
+  "postcode": "N1 0AN",
+  "id": 174857588,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious four double bedroom House arranged over three floors with front and rear gardens located moments from Kings Cross St. Pancras International and the amenities of Granary Square. The property consists of large eat-in kitchen, good sized separate reception room, four double bedrooms, bat...",
+  "displayAddress": "Delhi Street, Kings Cross, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.537208,
+    "longitude": -0.121684
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5_max_476x317.jpeg",
+      "url": "property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0627cf0e8/174857588/0627cf0e862a3973c66d586e89b00d0e_max_476x317.jpeg",
+      "url": "property-photo/0627cf0e8/174857588/0627cf0e862a3973c66d586e89b00d0e.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0fe0a5d6/174857588/d0fe0a5d6e7aa7e8ff7e88e16c4e6fd6_max_476x317.jpeg",
+      "url": "property-photo/d0fe0a5d6/174857588/d0fe0a5d6e7aa7e8ff7e88e16c4e6fd6.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c735cbe8e/174857588/c735cbe8ed3b9599a6dfc80f2b3fdf64_max_476x317.jpeg",
+      "url": "property-photo/c735cbe8e/174857588/c735cbe8ed3b9599a6dfc80f2b3fdf64.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/159842341/174857588/1598423416c04df440caac8d8564f042_max_476x317.jpeg",
+      "url": "property-photo/159842341/174857588/1598423416c04df440caac8d8564f042.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31ff44879/174857588/31ff44879aba6939489f5a9d72debcbf_max_476x317.jpeg",
+      "url": "property-photo/31ff44879/174857588/31ff44879aba6939489f5a9d72debcbf.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5fc7e6be6/174857588/5fc7e6be63a02b9277977ace0e318095_max_476x317.jpeg",
+      "url": "property-photo/5fc7e6be6/174857588/5fc7e6be63a02b9277977ace0e318095.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2641d77e/174857588/a2641d77e5d743479fb7ed7d3eab9cf4_max_476x317.jpeg",
+      "url": "property-photo/a2641d77e/174857588/a2641d77e5d743479fb7ed7d3eab9cf4.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5b7b4499/174857588/e5b7b449963f586614031052939b4647_max_476x317.jpeg",
+      "url": "property-photo/e5b7b4499/174857588/e5b7b449963f586614031052939b4647.jpeg",
+      "caption": "Photo 9"
+    }
+  ],
+  "propertySubType": "House",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-23T19:55:34Z"
+  },
+  "price": {
+    "amount": 1119,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,849 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,119 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 261275,
+    "brandPlusLogoURI": "/partner-logo/30092441-PRODUCTS_LOGO-1766064275.png",
+    "contactTelephone": "020 7459 4431",
+    "branchDisplayName": "Primden Group, Camden",
+    "branchName": "Camden",
+    "brandTradingName": "Primden Group",
+    "branchLandingPageUrl": "/estate-agents/agent/Primden-Group/Camden-261275.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30092441-PRODUCTS_LOGO-1766064275.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174857588#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174857588",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-23T19:45:32Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-23T20:00:49Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious 4 Double Bedroom House",
+      "htmlDescription": "Spacious 4 Double Bedroom House"
+    },
+    {
+      "order": 2,
+      "description": "Arranged over 3 floors",
+      "htmlDescription": "Arranged over 3 floors"
+    },
+    {
+      "order": 3,
+      "description": "Large Reception Room",
+      "htmlDescription": "Large Reception Room"
+    },
+    {
+      "order": 4,
+      "description": "Separate Eat-in Kitchen",
+      "htmlDescription": "Separate Eat-in Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "All Good Sized Double Bedrooms",
+      "htmlDescription": "All Good Sized Double Bedrooms"
+    },
+    {
+      "order": 6,
+      "description": "Bathroom with Additional WC",
+      "htmlDescription": "Bathroom with Additional WC"
+    },
+    {
+      "order": 7,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 8,
+      "description": "Located close to Kings Cross Station",
+      "htmlDescription": "Located close to Kings Cross Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5_max_476x317.jpeg",
+        "url": "property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0627cf0e8/174857588/0627cf0e862a3973c66d586e89b00d0e_max_476x317.jpeg",
+        "url": "property-photo/0627cf0e8/174857588/0627cf0e862a3973c66d586e89b00d0e.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0fe0a5d6/174857588/d0fe0a5d6e7aa7e8ff7e88e16c4e6fd6_max_476x317.jpeg",
+        "url": "property-photo/d0fe0a5d6/174857588/d0fe0a5d6e7aa7e8ff7e88e16c4e6fd6.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c735cbe8e/174857588/c735cbe8ed3b9599a6dfc80f2b3fdf64_max_476x317.jpeg",
+        "url": "property-photo/c735cbe8e/174857588/c735cbe8ed3b9599a6dfc80f2b3fdf64.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/159842341/174857588/1598423416c04df440caac8d8564f042_max_476x317.jpeg",
+        "url": "property-photo/159842341/174857588/1598423416c04df440caac8d8564f042.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31ff44879/174857588/31ff44879aba6939489f5a9d72debcbf_max_476x317.jpeg",
+        "url": "property-photo/31ff44879/174857588/31ff44879aba6939489f5a9d72debcbf.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5fc7e6be6/174857588/5fc7e6be63a02b9277977ace0e318095_max_476x317.jpeg",
+        "url": "property-photo/5fc7e6be6/174857588/5fc7e6be63a02b9277977ace0e318095.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2641d77e/174857588/a2641d77e5d743479fb7ed7d3eab9cf4_max_476x317.jpeg",
+        "url": "property-photo/a2641d77e/174857588/a2641d77e5d743479fb7ed7d3eab9cf4.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5b7b4499/174857588/e5b7b449963f586614031052939b4647_max_476x317.jpeg",
+        "url": "property-photo/e5b7b4499/174857588/e5b7b449963f586614031052939b4647.jpeg",
+        "caption": "Photo 9"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33c093f32/174857588/33c093f32776c5ac6dd542b5cc9c8ae5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Primden Group, Camden",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom house",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
