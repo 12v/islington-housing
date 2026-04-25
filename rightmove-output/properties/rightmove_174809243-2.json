@@ -1,0 +1,242 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-25T00:31:39.237498+00:00",
+  "postcode": "N7 9SG",
+  "id": 174809243,
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A newly refurbished six-bedroom spacious house situated on a quiet residential road and only moments from both Holloway Road and Caledonian Road stations. ",
+  "displayAddress": "Quemerford Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553131,
+    "longitude": -0.11617
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8_max_476x317.jpeg",
+      "url": "property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73250e644/174809243/73250e6449f6c3e98bc22ba7b72874e8_max_476x317.jpeg",
+      "url": "property-photo/73250e644/174809243/73250e6449f6c3e98bc22ba7b72874e8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88df4017c/174809243/88df4017c3dbede2390def554f7794fe_max_476x317.jpeg",
+      "url": "property-photo/88df4017c/174809243/88df4017c3dbede2390def554f7794fe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a7b3461f/174809243/2a7b3461f83c2682eba3cce613b1982a_max_476x317.jpeg",
+      "url": "property-photo/2a7b3461f/174809243/2a7b3461f83c2682eba3cce613b1982a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5d7cb3ae/174809243/b5d7cb3aecf201f3a34d99a6181c96f5_max_476x317.jpeg",
+      "url": "property-photo/b5d7cb3ae/174809243/b5d7cb3aecf201f3a34d99a6181c96f5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa988282b/174809243/aa988282be5ffd5be9270837a853e6f0_max_476x317.jpeg",
+      "url": "property-photo/aa988282b/174809243/aa988282be5ffd5be9270837a853e6f0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/133ac4684/174809243/133ac4684cc1e4a5a65592f17014c2ba_max_476x317.jpeg",
+      "url": "property-photo/133ac4684/174809243/133ac4684cc1e4a5a65592f17014c2ba.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da435da89/174809243/da435da89be12fe7107fde0d417b5a84_max_476x317.jpeg",
+      "url": "property-photo/da435da89/174809243/da435da89be12fe7107fde0d417b5a84.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ab0cf036/174809243/0ab0cf036e50b243bedb1760ec6ab0a8_max_476x317.jpeg",
+      "url": "property-photo/0ab0cf036/174809243/0ab0cf036e50b243bedb1760ec6ab0a8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc878cad8/174809243/dc878cad83a38fee630e9923657bbd83_max_476x317.jpeg",
+      "url": "property-photo/dc878cad8/174809243/dc878cad83a38fee630e9923657bbd83.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/513b581db/174809243/513b581db77e3096096615742b253454_max_476x317.jpeg",
+      "url": "property-photo/513b581db/174809243/513b581db77e3096096615742b253454.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8cdbd8c0/174809243/b8cdbd8c081a064284dd443edfed5572_max_476x317.jpeg",
+      "url": "property-photo/b8cdbd8c0/174809243/b8cdbd8c081a064284dd443edfed5572.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Terraced",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-22T22:27:03Z"
+  },
+  "price": {
+    "amount": 5500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a35,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,269 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 288473,
+    "brandPlusLogoURI": "/partner-logo/37537646-PRODUCTS_LOGO-1766065963.png",
+    "contactTelephone": "01582 377939",
+    "branchDisplayName": "Lotus Carlton, Luton",
+    "branchName": "Luton",
+    "brandTradingName": "Lotus Carlton",
+    "branchLandingPageUrl": "/estate-agents/agent/Lotus-Carlton/Luton-288473.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-24T13:50:33Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/37537646-PRODUCTS_LOGO-1766065963.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes).  For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees.  It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174809243#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174809243",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-22T22:21:41Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-25T01:15:47Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8_max_476x317.jpeg",
+        "url": "property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73250e644/174809243/73250e6449f6c3e98bc22ba7b72874e8_max_476x317.jpeg",
+        "url": "property-photo/73250e644/174809243/73250e6449f6c3e98bc22ba7b72874e8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88df4017c/174809243/88df4017c3dbede2390def554f7794fe_max_476x317.jpeg",
+        "url": "property-photo/88df4017c/174809243/88df4017c3dbede2390def554f7794fe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a7b3461f/174809243/2a7b3461f83c2682eba3cce613b1982a_max_476x317.jpeg",
+        "url": "property-photo/2a7b3461f/174809243/2a7b3461f83c2682eba3cce613b1982a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5d7cb3ae/174809243/b5d7cb3aecf201f3a34d99a6181c96f5_max_476x317.jpeg",
+        "url": "property-photo/b5d7cb3ae/174809243/b5d7cb3aecf201f3a34d99a6181c96f5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa988282b/174809243/aa988282be5ffd5be9270837a853e6f0_max_476x317.jpeg",
+        "url": "property-photo/aa988282b/174809243/aa988282be5ffd5be9270837a853e6f0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/133ac4684/174809243/133ac4684cc1e4a5a65592f17014c2ba_max_476x317.jpeg",
+        "url": "property-photo/133ac4684/174809243/133ac4684cc1e4a5a65592f17014c2ba.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da435da89/174809243/da435da89be12fe7107fde0d417b5a84_max_476x317.jpeg",
+        "url": "property-photo/da435da89/174809243/da435da89be12fe7107fde0d417b5a84.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ab0cf036/174809243/0ab0cf036e50b243bedb1760ec6ab0a8_max_476x317.jpeg",
+        "url": "property-photo/0ab0cf036/174809243/0ab0cf036e50b243bedb1760ec6ab0a8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc878cad8/174809243/dc878cad83a38fee630e9923657bbd83_max_476x317.jpeg",
+        "url": "property-photo/dc878cad8/174809243/dc878cad83a38fee630e9923657bbd83.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/513b581db/174809243/513b581db77e3096096615742b253454_max_476x317.jpeg",
+        "url": "property-photo/513b581db/174809243/513b581db77e3096096615742b253454.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b8cdbd8c0/174809243/b8cdbd8c081a064284dd443edfed5572_max_476x317.jpeg",
+        "url": "property-photo/b8cdbd8c0/174809243/b8cdbd8c081a064284dd443edfed5572.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d84a8d4f/174809243/9d84a8d4f9f91022feea6b7dcb7c48d8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Lotus Carlton, Luton",
+  "addedOrReduced": "Added on 22/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "6 bedroom terraced house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
