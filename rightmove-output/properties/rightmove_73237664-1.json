@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-25T21:26:58.908270+00:00",
+  "postcode": "N1 0DR",
+  "id": 73237664,
+  "bedrooms": 0,
+  "bathrooms": null,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "House Share (Double En-sutie Room to Rent)Brand new newly refurbished spacious en-suite rooms for rent room within a five bedroom garden property in the heart of Kings Cross.",
+  "displayAddress": "Stranraer Way, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54,
+    "longitude": -0.11923
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d_max_476x317.jpg",
+      "url": "property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d.jpg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9351b34cb/73237664/9351b34cbf189d749645991b838bcd5b_max_476x317.jpg",
+      "url": "property-photo/9351b34cb/73237664/9351b34cbf189d749645991b838bcd5b.jpg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bedb7349f/73237664/bedb7349f201d763d07d8e98c59ae44a_max_476x317.jpg",
+      "url": "property-photo/bedb7349f/73237664/bedb7349f201d763d07d8e98c59ae44a.jpg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/304f61478/73237664/304f614789e91d01611bbd8a57fcbec1_max_476x317.jpg",
+      "url": "property-photo/304f61478/73237664/304f614789e91d01611bbd8a57fcbec1.jpg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffddd7d4b/73237664/ffddd7d4ba0339d37e19741a5dfba9b3_max_476x317.jpg",
+      "url": "property-photo/ffddd7d4b/73237664/ffddd7d4ba0339d37e19741a5dfba9b3.jpg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd8acf17d/73237664/fd8acf17d77d9128b4384405fc1876c9_max_476x317.jpeg",
+      "url": "property-photo/fd8acf17d/73237664/fd8acf17d77d9128b4384405fc1876c9.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-04-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-23T17:54:47Z"
+  },
+  "price": {
+    "amount": 900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3208 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/73237664#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=73237664",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2018-05-16T16:08:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-23T17:54:50Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d_max_476x317.jpg",
+        "url": "property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d.jpg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9351b34cb/73237664/9351b34cbf189d749645991b838bcd5b_max_476x317.jpg",
+        "url": "property-photo/9351b34cb/73237664/9351b34cbf189d749645991b838bcd5b.jpg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bedb7349f/73237664/bedb7349f201d763d07d8e98c59ae44a_max_476x317.jpg",
+        "url": "property-photo/bedb7349f/73237664/bedb7349f201d763d07d8e98c59ae44a.jpg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/304f61478/73237664/304f614789e91d01611bbd8a57fcbec1_max_476x317.jpg",
+        "url": "property-photo/304f61478/73237664/304f614789e91d01611bbd8a57fcbec1.jpg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffddd7d4b/73237664/ffddd7d4ba0339d37e19741a5dfba9b3_max_476x317.jpg",
+        "url": "property-photo/ffddd7d4b/73237664/ffddd7d4ba0339d37e19741a5dfba9b3.jpg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd8acf17d/73237664/fd8acf17d77d9128b4384405fc1876c9_max_476x317.jpeg",
+        "url": "property-photo/fd8acf17d/73237664/fd8acf17d77d9128b4384405fc1876c9.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d_max_476x317.jpg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b5d7249c/73237664/2b5d7249cbc4ad9f9d6f0fa36cb34d5d_max_296x197.jpg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Reduced on 23/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "House share",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
