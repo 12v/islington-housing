@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-28T22:05:04.303464+00:00",
+  "postcode": "N1 1TB",
+  "id": 174729386,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A very well presented one double bedroom flat set on the first floor of this imposing Islington Victorian terrace.",
+  "displayAddress": "Almeida Street, Angel, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539685,
+    "longitude": -0.103889
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87_max_476x317.jpeg",
+      "url": "property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87.jpeg",
+      "caption": "DSC06390.JPG"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bee40f4f/174729386/6bee40f4f291f2ec9f80a50e0d945abd_max_476x317.jpeg",
+      "url": "property-photo/6bee40f4f/174729386/6bee40f4f291f2ec9f80a50e0d945abd.jpeg",
+      "caption": "DSC06402.JPG"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/241220bd5/174729386/241220bd5b6d2fb72f09713e530dd908_max_476x317.jpeg",
+      "url": "property-photo/241220bd5/174729386/241220bd5b6d2fb72f09713e530dd908.jpeg",
+      "caption": "DSC06415.JPG"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9ce473e/174729386/8f9ce473e164534754cc05dc06c8dcb2_max_476x317.jpeg",
+      "url": "property-photo/8f9ce473e/174729386/8f9ce473e164534754cc05dc06c8dcb2.jpeg",
+      "caption": "DSC06446.JPG"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676f780a6/174729386/676f780a6ea1d07c19dcb63ea0c9ea17_max_476x317.jpeg",
+      "url": "property-photo/676f780a6/174729386/676f780a6ea1d07c19dcb63ea0c9ea17.jpeg",
+      "caption": "DSC06432.JPG"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9f9edda6/174729386/d9f9edda669316089bf3b0f8a23aeca6_max_476x317.jpeg",
+      "url": "property-photo/d9f9edda6/174729386/d9f9edda669316089bf3b0f8a23aeca6.jpeg",
+      "caption": "Ext"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-22T13:56:02Z"
+  },
+  "price": {
+    "amount": 2700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3623 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 267176,
+    "brandPlusLogoURI": "/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "contactTelephone": "020 7870 1269",
+    "branchDisplayName": "Nova Realty, London",
+    "branchName": "London",
+    "brandTradingName": "Nova Realty",
+    "branchLandingPageUrl": "/estate-agents/agent/Nova-Realty/London-267176.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-11T09:43:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174729386#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174729386",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-21T13:17:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-28T10:51:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 2,
+      "description": "Newly Refurbished",
+      "htmlDescription": "Newly Refurbished"
+    },
+    {
+      "order": 3,
+      "description": "Fantastic Natural Lighting",
+      "htmlDescription": "Fantastic Natural Lighting"
+    },
+    {
+      "order": 4,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    },
+    {
+      "order": 5,
+      "description": "Great Storage",
+      "htmlDescription": "Great Storage"
+    },
+    {
+      "order": 6,
+      "description": "Good transport links",
+      "htmlDescription": "Good transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87_max_476x317.jpeg",
+        "url": "property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87.jpeg",
+        "caption": "DSC06390.JPG"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bee40f4f/174729386/6bee40f4f291f2ec9f80a50e0d945abd_max_476x317.jpeg",
+        "url": "property-photo/6bee40f4f/174729386/6bee40f4f291f2ec9f80a50e0d945abd.jpeg",
+        "caption": "DSC06402.JPG"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/241220bd5/174729386/241220bd5b6d2fb72f09713e530dd908_max_476x317.jpeg",
+        "url": "property-photo/241220bd5/174729386/241220bd5b6d2fb72f09713e530dd908.jpeg",
+        "caption": "DSC06415.JPG"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f9ce473e/174729386/8f9ce473e164534754cc05dc06c8dcb2_max_476x317.jpeg",
+        "url": "property-photo/8f9ce473e/174729386/8f9ce473e164534754cc05dc06c8dcb2.jpeg",
+        "caption": "DSC06446.JPG"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/676f780a6/174729386/676f780a6ea1d07c19dcb63ea0c9ea17_max_476x317.jpeg",
+        "url": "property-photo/676f780a6/174729386/676f780a6ea1d07c19dcb63ea0c9ea17.jpeg",
+        "caption": "DSC06432.JPG"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9f9edda6/174729386/d9f9edda669316089bf3b0f8a23aeca6_max_476x317.jpeg",
+        "url": "property-photo/d9f9edda6/174729386/d9f9edda669316089bf3b0f8a23aeca6.jpeg",
+        "caption": "Ext"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cab324e/174729386/32cab324ee07537107b88bcf93709f87_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Nova Realty, London",
+  "addedOrReduced": "Reduced on 22/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
