@@ -1,0 +1,188 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-29T22:20:51.665372+00:00",
+  "postcode": "N1 3PB",
+  "id": 87824154,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A nice double room for rent in the heart of Canonbury Islington.",
+  "displayAddress": "Essex Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54349,
+    "longitude": -0.09039
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f_max_476x317.jpeg",
+      "url": "property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39befc8f6/87824154/39befc8f6a66c6f102f3fce94e11a53a_max_476x317.jpeg",
+      "url": "property-photo/39befc8f6/87824154/39befc8f6a66c6f102f3fce94e11a53a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9bf4f5f3/87824154/e9bf4f5f34b1deb812bbabfbefc3369f_max_476x317.jpeg",
+      "url": "property-photo/e9bf4f5f3/87824154/e9bf4f5f34b1deb812bbabfbefc3369f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e368fd2c5/87824154/e368fd2c5b5dd1b545d1c27c332efee8_max_476x317.jpeg",
+      "url": "property-photo/e368fd2c5/87824154/e368fd2c5b5dd1b545d1c27c332efee8.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-29T04:03:02Z"
+  },
+  "price": {
+    "amount": 850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3196 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87824154#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87824154",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-29T03:57:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-29T04:03:56Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright & airy",
+      "htmlDescription": "Bright & airy"
+    },
+    {
+      "order": 2,
+      "description": "Excellent location",
+      "htmlDescription": "Excellent location"
+    },
+    {
+      "order": 3,
+      "description": "Must view",
+      "htmlDescription": "Must view"
+    },
+    {
+      "order": 4,
+      "description": "Student welcome",
+      "htmlDescription": "Student welcome"
+    },
+    {
+      "order": 5,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f_max_476x317.jpeg",
+        "url": "property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39befc8f6/87824154/39befc8f6a66c6f102f3fce94e11a53a_max_476x317.jpeg",
+        "url": "property-photo/39befc8f6/87824154/39befc8f6a66c6f102f3fce94e11a53a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9bf4f5f3/87824154/e9bf4f5f34b1deb812bbabfbefc3369f_max_476x317.jpeg",
+        "url": "property-photo/e9bf4f5f3/87824154/e9bf4f5f34b1deb812bbabfbefc3369f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e368fd2c5/87824154/e368fd2c5b5dd1b545d1c27c332efee8_max_476x317.jpeg",
+        "url": "property-photo/e368fd2c5/87824154/e368fd2c5b5dd1b545d1c27c332efee8.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57a77a1c0/87824154/57a77a1c074c45a257fe5f7457030a4f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat share",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
