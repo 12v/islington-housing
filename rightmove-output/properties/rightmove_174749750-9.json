@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-04-30T23:10:11.491256+00:00",
+  "postcode": "N19 5RS",
+  "id": 174749750,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright and well-proportioned one-bedroom apartment set within a well-maintained purpose-built development on the popular Pemberton Gardens. The property features a spacious reception room with plenty of room to relax and dine, a separate fitted kitchen with good storage, a generous double bedr...",
+  "displayAddress": "Pemberton Gardens, Archway, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56216,
+    "longitude": -0.13318
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc_max_476x317.jpeg",
+      "url": "property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc.jpeg",
+      "caption": "NDB05680"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56749a7bd/174749750/56749a7bde1bcb539651c909b1c8d913_max_476x317.jpeg",
+      "url": "property-photo/56749a7bd/174749750/56749a7bde1bcb539651c909b1c8d913.jpeg",
+      "caption": "NDB05681"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8f0f4db5/174749750/a8f0f4db57a97ba8276d0380012c4065_max_476x317.jpeg",
+      "url": "property-photo/a8f0f4db5/174749750/a8f0f4db57a97ba8276d0380012c4065.jpeg",
+      "caption": "NDB05679"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bab830080/174749750/bab8300801f93054ffe6394cb11cfec8_max_476x317.jpeg",
+      "url": "property-photo/bab830080/174749750/bab8300801f93054ffe6394cb11cfec8.jpeg",
+      "caption": "NDB05676"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17f2718fc/174749750/17f2718fc4b6728af6985fe9f2d09ca1_max_476x317.jpeg",
+      "url": "property-photo/17f2718fc/174749750/17f2718fc4b6728af6985fe9f2d09ca1.jpeg",
+      "caption": "NDB05675"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/090fc24c8/174749750/090fc24c8cc55754e92ccde9fc3c4165_max_476x317.jpeg",
+      "url": "property-photo/090fc24c8/174749750/090fc24c8cc55754e92ccde9fc3c4165.jpeg",
+      "caption": "NDB05677"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9909fb9d3/174749750/9909fb9d3186c173556fd3e1396675d9_max_476x317.jpeg",
+      "url": "property-photo/9909fb9d3/174749750/9909fb9d3186c173556fd3e1396675d9.jpeg",
+      "caption": "NDB05678-Edit"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50dc91e84/174749750/50dc91e848d3ededdd621303a90a3c93_max_476x317.jpeg",
+      "url": "property-photo/50dc91e84/174749750/50dc91e848d3ededdd621303a90a3c93.jpeg",
+      "caption": "NDB05682"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-21T17:53:05Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 176261,
+    "brandPlusLogoURI": "/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "contactTelephone": "020 3889 9033",
+    "branchDisplayName": "David Astburys Ltd, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "David Astburys Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys-Ltd/Crouch-End-176261.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:05:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "primaryBrandColour": "#9b2743"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "478 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174749750#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174749750",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-21T17:47:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-30T05:37:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Double Bedroom Flat",
+      "htmlDescription": "One Double Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Spacious Reception Room",
+      "htmlDescription": "Spacious Reception Room"
+    },
+    {
+      "order": 3,
+      "description": "Separate Kitchen",
+      "htmlDescription": "Separate Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Wood Flooring Throughout",
+      "htmlDescription": "Wood Flooring Throughout "
+    },
+    {
+      "order": 5,
+      "description": "Close To Local Amenities",
+      "htmlDescription": "Close To Local Amenities"
+    },
+    {
+      "order": 6,
+      "description": "Purpose Built",
+      "htmlDescription": "Purpose Built"
+    },
+    {
+      "order": 7,
+      "description": "Close to Archway Station",
+      "htmlDescription": "Close to Archway Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc_max_476x317.jpeg",
+        "url": "property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc.jpeg",
+        "caption": "NDB05680"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56749a7bd/174749750/56749a7bde1bcb539651c909b1c8d913_max_476x317.jpeg",
+        "url": "property-photo/56749a7bd/174749750/56749a7bde1bcb539651c909b1c8d913.jpeg",
+        "caption": "NDB05681"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8f0f4db5/174749750/a8f0f4db57a97ba8276d0380012c4065_max_476x317.jpeg",
+        "url": "property-photo/a8f0f4db5/174749750/a8f0f4db57a97ba8276d0380012c4065.jpeg",
+        "caption": "NDB05679"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bab830080/174749750/bab8300801f93054ffe6394cb11cfec8_max_476x317.jpeg",
+        "url": "property-photo/bab830080/174749750/bab8300801f93054ffe6394cb11cfec8.jpeg",
+        "caption": "NDB05676"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17f2718fc/174749750/17f2718fc4b6728af6985fe9f2d09ca1_max_476x317.jpeg",
+        "url": "property-photo/17f2718fc/174749750/17f2718fc4b6728af6985fe9f2d09ca1.jpeg",
+        "caption": "NDB05675"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/090fc24c8/174749750/090fc24c8cc55754e92ccde9fc3c4165_max_476x317.jpeg",
+        "url": "property-photo/090fc24c8/174749750/090fc24c8cc55754e92ccde9fc3c4165.jpeg",
+        "caption": "NDB05677"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9909fb9d3/174749750/9909fb9d3186c173556fd3e1396675d9_max_476x317.jpeg",
+        "url": "property-photo/9909fb9d3/174749750/9909fb9d3186c173556fd3e1396675d9.jpeg",
+        "caption": "NDB05678-Edit"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50dc91e84/174749750/50dc91e848d3ededdd621303a90a3c93_max_476x317.jpeg",
+        "url": "property-photo/50dc91e84/174749750/50dc91e848d3ededdd621303a90a3c93.jpeg",
+        "caption": "NDB05682"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8a8f18de/174749750/e8a8f18de179c5b401709c26a1e364cc_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys Ltd, Crouch End",
+  "addedOrReduced": "Added on 21/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

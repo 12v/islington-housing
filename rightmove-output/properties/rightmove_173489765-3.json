@@ -1,0 +1,198 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-01T00:44:24.201752+00:00",
+  "postcode": "N7 9SQ",
+  "id": 173489765,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Discover this beautifully designed, fully furnished studio \u2014 perfect for single occupancy.\nLocated on a quiet residential street, just moments from Holloway Road and Tufnell Park, this home combines comfort, convenience, and style.\n",
+  "displayAddress": "Widdenham Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55335,
+    "longitude": -0.11652
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3_max_476x317.jpeg",
+      "url": "property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3.jpeg",
+      "caption": "COVER"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8900906aa/173489765/8900906aa773391b1c15bdac557a3855_max_476x317.jpeg",
+      "url": "property-photo/8900906aa/173489765/8900906aa773391b1c15bdac557a3855.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1341744c/173489765/c1341744ca4363d828a357a7b8fdb9eb_max_476x317.jpeg",
+      "url": "property-photo/c1341744c/173489765/c1341744ca4363d828a357a7b8fdb9eb.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134671771/173489765/13467177188045ee27444000aca8825d_max_476x317.jpeg",
+      "url": "property-photo/134671771/173489765/13467177188045ee27444000aca8825d.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/459004acb/173489765/459004acb87cce55fc1f35e8952e43d6_max_476x317.jpeg",
+      "url": "property-photo/459004acb/173489765/459004acb87cce55fc1f35e8952e43d6.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6835cf19/173489765/d6835cf198403d7c25f24864b33552d4_max_476x317.jpeg",
+      "url": "property-photo/d6835cf19/173489765/d6835cf198403d7c25f24864b33552d4.jpeg",
+      "caption": "PROPERTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1e208a01/173489765/c1e208a01ae9bf1ca39bd89aaee181dc_max_476x317.jpeg",
+      "url": "property-photo/c1e208a01/173489765/c1e208a01ae9bf1ca39bd89aaee181dc.jpeg",
+      "caption": "PROPERTY"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-03-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-29T11:32:13Z"
+  },
+  "price": {
+    "amount": 1200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3277 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260789,
+    "brandPlusLogoURI": "/partner-logo/30057956-PRODUCTS_LOGO-1766056545.png",
+    "contactTelephone": "01926 963087",
+    "branchDisplayName": "Rentr, covering Nationwide",
+    "branchName": "covering Nationwide",
+    "brandTradingName": "Rentr",
+    "branchLandingPageUrl": "/estate-agents/agent/Rentr/covering-Nationwide-260789.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-18T16:42:28Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30057956-PRODUCTS_LOGO-1766056545.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/173489765#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=173489765",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-03-19T16:22:50Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-04-29T11:32:14Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Property Reference: 2MMU",
+      "htmlDescription": "Property Reference: 2MMU"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3_max_476x317.jpeg",
+        "url": "property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3.jpeg",
+        "caption": "COVER"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8900906aa/173489765/8900906aa773391b1c15bdac557a3855_max_476x317.jpeg",
+        "url": "property-photo/8900906aa/173489765/8900906aa773391b1c15bdac557a3855.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1341744c/173489765/c1341744ca4363d828a357a7b8fdb9eb_max_476x317.jpeg",
+        "url": "property-photo/c1341744c/173489765/c1341744ca4363d828a357a7b8fdb9eb.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134671771/173489765/13467177188045ee27444000aca8825d_max_476x317.jpeg",
+        "url": "property-photo/134671771/173489765/13467177188045ee27444000aca8825d.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/459004acb/173489765/459004acb87cce55fc1f35e8952e43d6_max_476x317.jpeg",
+        "url": "property-photo/459004acb/173489765/459004acb87cce55fc1f35e8952e43d6.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6835cf19/173489765/d6835cf198403d7c25f24864b33552d4_max_476x317.jpeg",
+        "url": "property-photo/d6835cf19/173489765/d6835cf198403d7c25f24864b33552d4.jpeg",
+        "caption": "PROPERTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1e208a01/173489765/c1e208a01ae9bf1ca39bd89aaee181dc_max_476x317.jpeg",
+        "url": "property-photo/c1e208a01/173489765/c1e208a01ae9bf1ca39bd89aaee181dc.jpeg",
+        "caption": "PROPERTY"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045229e24/173489765/045229e248d048c46ae9b1c954a5fff3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rentr, covering Nationwide",
+  "addedOrReduced": "Reduced on 29/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
