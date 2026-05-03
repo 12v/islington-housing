@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-02T23:49:27.053444+00:00",
+  "postcode": "N5 2PA",
+  "id": 174745739,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Gorgeous one bedroom property located on the highly sought after Highbury Grange",
+  "displayAddress": "Taverner Square, Highbury Grange, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.554318,
+    "longitude": -0.096632
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad_max_476x317.jpeg",
+      "url": "property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/089e5c7b8/174745739/089e5c7b805c05ba3ff4200225b5c576_max_476x317.jpeg",
+      "url": "property-photo/089e5c7b8/174745739/089e5c7b805c05ba3ff4200225b5c576.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd4b6597d/174745739/bd4b6597d92cf90dc548c153f5809966_max_476x317.jpeg",
+      "url": "property-photo/bd4b6597d/174745739/bd4b6597d92cf90dc548c153f5809966.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e01b7aa6f/174745739/e01b7aa6f9475cdb9b80c1c3e71d5303_max_476x317.jpeg",
+      "url": "property-photo/e01b7aa6f/174745739/e01b7aa6f9475cdb9b80c1c3e71d5303.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19532d4ae/174745739/19532d4ae5d205b8e7186bbfd920cccf_max_476x317.jpeg",
+      "url": "property-photo/19532d4ae/174745739/19532d4ae5d205b8e7186bbfd920cccf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4384fffff/174745739/4384fffff60cae3c083eca9988f47939_max_476x317.jpeg",
+      "url": "property-photo/4384fffff/174745739/4384fffff60cae3c083eca9988f47939.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cc902b99/174745739/3cc902b99e3ce513b3965e938a490f92_max_476x317.jpeg",
+      "url": "property-photo/3cc902b99/174745739/3cc902b99e3ce513b3965e938a490f92.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-21T16:57:12Z"
+  },
+  "price": {
+    "amount": 1700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3392 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79624,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3834 8477",
+    "branchDisplayName": "Felicity J Lord, Islington Lettings",
+    "branchName": "Islington Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Islington-Lettings-79624.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174745739#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174745739",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-21T16:51:56Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-02T17:15:53Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1 Double Bedroom",
+      "htmlDescription": "1 Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Highbury",
+      "htmlDescription": "Highbury"
+    },
+    {
+      "order": 3,
+      "description": "Natural light",
+      "htmlDescription": "Natural light"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad_max_476x317.jpeg",
+        "url": "property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/089e5c7b8/174745739/089e5c7b805c05ba3ff4200225b5c576_max_476x317.jpeg",
+        "url": "property-photo/089e5c7b8/174745739/089e5c7b805c05ba3ff4200225b5c576.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd4b6597d/174745739/bd4b6597d92cf90dc548c153f5809966_max_476x317.jpeg",
+        "url": "property-photo/bd4b6597d/174745739/bd4b6597d92cf90dc548c153f5809966.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e01b7aa6f/174745739/e01b7aa6f9475cdb9b80c1c3e71d5303_max_476x317.jpeg",
+        "url": "property-photo/e01b7aa6f/174745739/e01b7aa6f9475cdb9b80c1c3e71d5303.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19532d4ae/174745739/19532d4ae5d205b8e7186bbfd920cccf_max_476x317.jpeg",
+        "url": "property-photo/19532d4ae/174745739/19532d4ae5d205b8e7186bbfd920cccf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4384fffff/174745739/4384fffff60cae3c083eca9988f47939_max_476x317.jpeg",
+        "url": "property-photo/4384fffff/174745739/4384fffff60cae3c083eca9988f47939.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cc902b99/174745739/3cc902b99e3ce513b3965e938a490f92_max_476x317.jpeg",
+        "url": "property-photo/3cc902b99/174745739/3cc902b99e3ce513b3965e938a490f92.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a777bf0dc/174745739/a777bf0dced32b616cab167d54239bad_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Islington Lettings",
+  "addedOrReduced": "Added on 21/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
