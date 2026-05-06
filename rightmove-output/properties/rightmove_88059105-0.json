@@ -1,0 +1,218 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-05T22:08:40.024013+00:00",
+  "postcode": "N1 2FT",
+  "id": 88059105,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Contemporary apartment with two bedrooms and two bathrooms in a modern development close to Angel.",
+  "displayAddress": "Clephane Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54429,
+    "longitude": -0.09007
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae_max_476x317.jpeg",
+      "url": "property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b17da8d0e/88059105/b17da8d0e7b1f6523803866657551f94_max_476x317.jpeg",
+      "url": "property-photo/b17da8d0e/88059105/b17da8d0e7b1f6523803866657551f94.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b7c6aff6/88059105/6b7c6aff602307b7c61a6d060b96c331_max_476x317.jpeg",
+      "url": "property-photo/6b7c6aff6/88059105/6b7c6aff602307b7c61a6d060b96c331.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bff22627/88059105/4bff22627db8d5a096d8491e1b1d16c2_max_476x317.jpeg",
+      "url": "property-photo/4bff22627/88059105/4bff22627db8d5a096d8491e1b1d16c2.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cefdb510a/88059105/cefdb510a0ad8c8bcfad974ee9db94e3_max_476x317.jpeg",
+      "url": "property-photo/cefdb510a/88059105/cefdb510a0ad8c8bcfad974ee9db94e3.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8343f5529/88059105/8343f55299c72c0d2107a0aa18fe51a6_max_476x317.jpeg",
+      "url": "property-photo/8343f5529/88059105/8343f55299c72c0d2107a0aa18fe51a6.jpeg",
+      "caption": "External"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-05T11:46:06Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88059105#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88059105",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-05T11:40:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-05T11:46:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright reception",
+      "htmlDescription": "Bright reception "
+    },
+    {
+      "order": 2,
+      "description": "Open plan kitchen",
+      "htmlDescription": "Open plan kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Double bedrooms",
+      "htmlDescription": "Double bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Modern bathrooms",
+      "htmlDescription": "Modern bathrooms"
+    },
+    {
+      "order": 5,
+      "description": "Excellent finish",
+      "htmlDescription": "Excellent finish"
+    },
+    {
+      "order": 6,
+      "description": "Wood flooring",
+      "htmlDescription": "Wood flooring"
+    },
+    {
+      "order": 7,
+      "description": "Convenient location",
+      "htmlDescription": "Convenient location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae_max_476x317.jpeg",
+        "url": "property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b17da8d0e/88059105/b17da8d0e7b1f6523803866657551f94_max_476x317.jpeg",
+        "url": "property-photo/b17da8d0e/88059105/b17da8d0e7b1f6523803866657551f94.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b7c6aff6/88059105/6b7c6aff602307b7c61a6d060b96c331_max_476x317.jpeg",
+        "url": "property-photo/6b7c6aff6/88059105/6b7c6aff602307b7c61a6d060b96c331.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bff22627/88059105/4bff22627db8d5a096d8491e1b1d16c2_max_476x317.jpeg",
+        "url": "property-photo/4bff22627/88059105/4bff22627db8d5a096d8491e1b1d16c2.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cefdb510a/88059105/cefdb510a0ad8c8bcfad974ee9db94e3_max_476x317.jpeg",
+        "url": "property-photo/cefdb510a/88059105/cefdb510a0ad8c8bcfad974ee9db94e3.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8343f5529/88059105/8343f55299c72c0d2107a0aa18fe51a6_max_476x317.jpeg",
+        "url": "property-photo/8343f5529/88059105/8343f55299c72c0d2107a0aa18fe51a6.jpeg",
+        "caption": "External"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee907ec3f/88059105/ee907ec3f26000d8338afbc8c69153ae_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

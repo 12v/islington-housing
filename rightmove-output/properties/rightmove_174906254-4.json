@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-05T21:07:46.227007+00:00",
+  "postcode": "EC1V 2PQ",
+  "id": 174906254,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 2,
+  "numberOfVirtualTours": 0,
+  "summary": "LONG LET. A 2 bedroom penthouse apartment within a highly sought-after development featuring concierge, lift access, private roof terrace, expansive balcony and stylish accommodation across 3 floors.",
+  "displayAddress": "City Road, City, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52853,
+    "longitude": -0.09419
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f_max_476x317.jpeg",
+      "url": "property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d25c0e79/174906254/7d25c0e794459d6f21a445e2465e3e52_max_476x317.jpeg",
+      "url": "property-photo/7d25c0e79/174906254/7d25c0e794459d6f21a445e2465e3e52.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa59cb535/174906254/aa59cb535ab00531ce79be249788e50a_max_476x317.jpeg",
+      "url": "property-photo/aa59cb535/174906254/aa59cb535ab00531ce79be249788e50a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5fdd8077/174906254/f5fdd807730edd89a8919103f1aa92cf_max_476x317.jpeg",
+      "url": "property-photo/f5fdd8077/174906254/f5fdd807730edd89a8919103f1aa92cf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f67dc2d6c/174906254/f67dc2d6c18b3b0380fbb9d9758e7258_max_476x317.jpeg",
+      "url": "property-photo/f67dc2d6c/174906254/f67dc2d6c18b3b0380fbb9d9758e7258.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2cf046ce/174906254/f2cf046ce3118974f60c3cd631ddbe8b_max_476x317.jpeg",
+      "url": "property-photo/f2cf046ce/174906254/f2cf046ce3118974f60c3cd631ddbe8b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/314485467/174906254/314485467f11cc6fead089c40900fcc6_max_476x317.jpeg",
+      "url": "property-photo/314485467/174906254/314485467f11cc6fead089c40900fcc6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746940e05/174906254/746940e053789bff559514828402c79e_max_476x317.jpeg",
+      "url": "property-photo/746940e05/174906254/746940e053789bff559514828402c79e.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-04-24T18:00:04Z"
+  },
+  "price": {
+    "amount": 3750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3865 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 73120,
+    "brandPlusLogoURI": "/partner-logo/9988264-PRODUCTS_LOGO-1766060914.jpeg",
+    "contactTelephone": "020 3909 6448",
+    "branchDisplayName": "Foxtons, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Clerkenwell-73120.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-19T12:30:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9988264-PRODUCTS_LOGO-1766060914.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a34,327</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy,including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rentchecks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy wherethere are more than four individuals taking occupation of the property. The charge will not exceed this sum unless yourequest or cause one of the specific additional services or  fees  set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "1,050 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174906254#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174906254",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-24T17:54:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-05T07:05:39Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 bedroom PENTHOUSE",
+      "htmlDescription": "2 bedroom PENTHOUSE"
+    },
+    {
+      "order": 2,
+      "description": "Private ROOF TERRACE",
+      "htmlDescription": "Private ROOF TERRACE"
+    },
+    {
+      "order": 3,
+      "description": "Development with concierge",
+      "htmlDescription": "Development with concierge"
+    },
+    {
+      "order": 4,
+      "description": "Enviable location in the heart of the city",
+      "htmlDescription": "Enviable location in the heart of the city"
+    },
+    {
+      "order": 5,
+      "description": "Modern fixtures and fittings",
+      "htmlDescription": "Modern fixtures and fittings"
+    },
+    {
+      "order": 6,
+      "description": "Arranged across 3 floors",
+      "htmlDescription": "Arranged across 3 floors"
+    },
+    {
+      "order": 7,
+      "description": "Large private balcony",
+      "htmlDescription": "Large private balcony"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f_max_476x317.jpeg",
+        "url": "property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d25c0e79/174906254/7d25c0e794459d6f21a445e2465e3e52_max_476x317.jpeg",
+        "url": "property-photo/7d25c0e79/174906254/7d25c0e794459d6f21a445e2465e3e52.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa59cb535/174906254/aa59cb535ab00531ce79be249788e50a_max_476x317.jpeg",
+        "url": "property-photo/aa59cb535/174906254/aa59cb535ab00531ce79be249788e50a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5fdd8077/174906254/f5fdd807730edd89a8919103f1aa92cf_max_476x317.jpeg",
+        "url": "property-photo/f5fdd8077/174906254/f5fdd807730edd89a8919103f1aa92cf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f67dc2d6c/174906254/f67dc2d6c18b3b0380fbb9d9758e7258_max_476x317.jpeg",
+        "url": "property-photo/f67dc2d6c/174906254/f67dc2d6c18b3b0380fbb9d9758e7258.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2cf046ce/174906254/f2cf046ce3118974f60c3cd631ddbe8b_max_476x317.jpeg",
+        "url": "property-photo/f2cf046ce/174906254/f2cf046ce3118974f60c3cd631ddbe8b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/314485467/174906254/314485467f11cc6fead089c40900fcc6_max_476x317.jpeg",
+        "url": "property-photo/314485467/174906254/314485467f11cc6fead089c40900fcc6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746940e05/174906254/746940e053789bff559514828402c79e_max_476x317.jpeg",
+        "url": "property-photo/746940e05/174906254/746940e053789bff559514828402c79e.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182648a88/174906254/182648a88187dcca1b76b8722ba1264f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Clerkenwell",
+  "addedOrReduced": "Reduced on 24/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

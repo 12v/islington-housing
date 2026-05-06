@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-05T21:09:23.107049+00:00",
+  "postcode": "EC1V 3PW",
+  "id": 87908190,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Modern and stylish one double bedroom apartment located on the second floor of a secure development. The property benefits from secure entry, a private balcony, and is offered fully furnished, making it ideal for professional tenants.",
+  "displayAddress": "Paton Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.525814,
+    "longitude": -0.093939
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f_max_476x317.jpeg",
+      "url": "property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f.jpeg",
+      "caption": "Living room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9074cefa6/87908190/9074cefa6060fc32ea2189f48bb67ec6_max_476x317.jpeg",
+      "url": "property-photo/9074cefa6/87908190/9074cefa6060fc32ea2189f48bb67ec6.jpeg",
+      "caption": "External (2)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1d9e5b3/87908190/ef1d9e5b3866afc967bd89ffe6ed85ba_max_476x317.jpeg",
+      "url": "property-photo/ef1d9e5b3/87908190/ef1d9e5b3866afc967bd89ffe6ed85ba.jpeg",
+      "caption": "Bedroom."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/796141a15/87908190/796141a153f7722536d61347c05c8f4d_max_476x317.jpeg",
+      "url": "property-photo/796141a15/87908190/796141a153f7722536d61347c05c8f4d.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9ddbe986/87908190/d9ddbe98657bdb3ab4f62f6a8b0420a0_max_476x317.jpeg",
+      "url": "property-photo/d9ddbe986/87908190/d9ddbe98657bdb3ab4f62f6a8b0420a0.jpeg",
+      "caption": "Living area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb7d5627c/87908190/cb7d5627c4c231f897493c63f879d047_max_476x317.jpeg",
+      "url": "property-photo/cb7d5627c/87908190/cb7d5627c4c231f897493c63f879d047.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ca56d32a/87908190/5ca56d32aa7e2a83a76cf8783b76fe27_max_476x317.jpeg",
+      "url": "property-photo/5ca56d32a/87908190/5ca56d32aa7e2a83a76cf8783b76fe27.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc7604283/87908190/dc7604283e5cf5ebf7f3e0af1aefe26a_max_476x317.jpeg",
+      "url": "property-photo/dc7604283/87908190/dc7604283e5cf5ebf7f3e0af1aefe26a.jpeg",
+      "caption": "External"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-30T13:05:03Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-05T10:36:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/87908190#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=87908190",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-30T12:59:18Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-05T10:46:52Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Double Bedroom",
+      "htmlDescription": "One Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Private balcony",
+      "htmlDescription": "Private balcony"
+    },
+    {
+      "order": 4,
+      "description": "Bike store",
+      "htmlDescription": "Bike store"
+    },
+    {
+      "order": 5,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Super location",
+      "htmlDescription": "Super location"
+    },
+    {
+      "order": 7,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 8,
+      "description": "EPC Rating B",
+      "htmlDescription": "EPC Rating B"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f_max_476x317.jpeg",
+        "url": "property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f.jpeg",
+        "caption": "Living room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9074cefa6/87908190/9074cefa6060fc32ea2189f48bb67ec6_max_476x317.jpeg",
+        "url": "property-photo/9074cefa6/87908190/9074cefa6060fc32ea2189f48bb67ec6.jpeg",
+        "caption": "External (2)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1d9e5b3/87908190/ef1d9e5b3866afc967bd89ffe6ed85ba_max_476x317.jpeg",
+        "url": "property-photo/ef1d9e5b3/87908190/ef1d9e5b3866afc967bd89ffe6ed85ba.jpeg",
+        "caption": "Bedroom."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/796141a15/87908190/796141a153f7722536d61347c05c8f4d_max_476x317.jpeg",
+        "url": "property-photo/796141a15/87908190/796141a153f7722536d61347c05c8f4d.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9ddbe986/87908190/d9ddbe98657bdb3ab4f62f6a8b0420a0_max_476x317.jpeg",
+        "url": "property-photo/d9ddbe986/87908190/d9ddbe98657bdb3ab4f62f6a8b0420a0.jpeg",
+        "caption": "Living area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb7d5627c/87908190/cb7d5627c4c231f897493c63f879d047_max_476x317.jpeg",
+        "url": "property-photo/cb7d5627c/87908190/cb7d5627c4c231f897493c63f879d047.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ca56d32a/87908190/5ca56d32aa7e2a83a76cf8783b76fe27_max_476x317.jpeg",
+        "url": "property-photo/5ca56d32a/87908190/5ca56d32aa7e2a83a76cf8783b76fe27.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc7604283/87908190/dc7604283e5cf5ebf7f3e0af1aefe26a_max_476x317.jpeg",
+        "url": "property-photo/dc7604283/87908190/dc7604283e5cf5ebf7f3e0af1aefe26a.jpeg",
+        "caption": "External"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7de51798e/87908190/7de51798ec1f452a3af5396b0034eb3f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Added on 30/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

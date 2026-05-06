@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-05T21:01:38.118624+00:00",
+  "postcode": "EC1R 4UR",
+  "id": 88048377,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautifully presented two bedroom apartment with gym, concierge, secure underground parking and manicured communal gardens. - EPC D.",
+  "displayAddress": "Rosebery Avenue, Clerkenwell, London, EC1R",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528229,
+    "longitude": -0.107249
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0_max_476x317.jpeg",
+      "url": "property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8509f131e/88048377/8509f131e270d1e899234b5bc047a938_max_476x317.jpeg",
+      "url": "property-photo/8509f131e/88048377/8509f131e270d1e899234b5bc047a938.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c540354b9/88048377/c540354b937b052728a5b4f13a323e7f_max_476x317.jpeg",
+      "url": "property-photo/c540354b9/88048377/c540354b937b052728a5b4f13a323e7f.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e302a8ac8/88048377/e302a8ac85683e541c06e4d81318e903_max_476x317.jpeg",
+      "url": "property-photo/e302a8ac8/88048377/e302a8ac85683e541c06e4d81318e903.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b59e5a01b/88048377/b59e5a01b2616c7c647e61dfdc41ba1c_max_476x317.jpeg",
+      "url": "property-photo/b59e5a01b/88048377/b59e5a01b2616c7c647e61dfdc41ba1c.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fed9bf00b/88048377/fed9bf00bd9b9bdaa30d4f93ae2c36eb_max_476x317.jpeg",
+      "url": "property-photo/fed9bf00b/88048377/fed9bf00bd9b9bdaa30d4f93ae2c36eb.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eefbbd899/88048377/eefbbd8997e1c552e06dc5dedd42c33c_max_476x317.jpeg",
+      "url": "property-photo/eefbbd899/88048377/eefbbd8997e1c552e06dc5dedd42c33c.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e5973c25/88048377/5e5973c25981be056e5f4cc44daf68b3_max_476x317.jpeg",
+      "url": "property-photo/5e5973c25/88048377/5e5973c25981be056e5f4cc44daf68b3.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dad338ba/88048377/3dad338ba54de95b7e5849cc5a7b5783_max_476x317.jpeg",
+      "url": "property-photo/3dad338ba/88048377/3dad338ba54de95b7e5849cc5a7b5783.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628b39387/88048377/628b39387277a3496110805b04b7dd4b_max_476x317.jpeg",
+      "url": "property-photo/628b39387/88048377/628b39387277a3496110805b04b7dd4b.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d90721a78/88048377/d90721a780c4b40f93b2fdf5bcc99b92_max_476x317.jpeg",
+      "url": "property-photo/d90721a78/88048377/d90721a780c4b40f93b2fdf5bcc99b92.jpeg",
+      "caption": "Picture No. 12"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-05T09:50:56Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 48618,
+    "brandPlusLogoURI": "/partner-logo/9413-PRODUCTS_LOGO-1766057682.jpeg",
+    "contactTelephone": "020 3835 3470",
+    "branchDisplayName": "Carter Jonas Lettings, Kensington & Chelsea",
+    "branchName": "Kensington & Chelsea",
+    "brandTradingName": "Carter Jonas Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Carter-Jonas-Lettings/Kensington-and-Chelsea-48618.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:23:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9413-PRODUCTS_LOGO-1766057682.jpeg",
+    "primaryBrandColour": "#190041"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "PRICING INFORMATION:<br /><br />\n\nLettings fees information <br /> <br />\n\n<b>Lettings Fees & Charge for Tenants from September 2025:  Central London </b> <br /> <br />\n\nThe asking rent does not include letting fees.  Depending on your circumstances and the property you select, the following fees may apply:<br /> <br />\n\n<b>For Assured Shorthold Tenancies:</b> <br /> <br />\n\nIn accordance with the Tenant Fees Act 2019 the following are permitted payments for AST tenancies:<br /> <br />\n\n \tRent*<br />\n \tA capped Holding Deposit of 1 week s rent.<br />\n \tA capped Tenancy Deposit of 5 week s rent for rent less than \u00a350,000 per annum<br />\n \tA capped Tenancy Deposit of 6 week s rent for rent above \u00a350,000 per annum<br />\n \tPayments in the event of a default<br />\n \tPayment in the event of loss of keys<br />\n \tPayment of \u00a350 including VAT on a variation, assignment or novation of a tenancy<br />\n \tPayment on early termination (surrender) of a tenancy<br />\n \tPayment in respect of Council Tax, utilities (gas or other fuel, electricity, water or sewage, television license and communication services)<br />\n \tGreen deal charge (if applicable) <br /> \n\n<br />\n<b>For Non Housing Act Tenancies** including Company Lets the following are fees and payments for NHA tenancies:<br /> <br />\n\n \tRent*<br />\n \tA Holding Deposit<br />\n \tA Tenancy Deposit of 6 week s rent.  This may be increased if you have a pet. <br />\n \tApplication for References is \u00a390 inc VAT per person <br />\n \tContribution to the preparation of a Tenancy Agreement is \u00a3360 inc VAT per tenancy <br />\n \tExtension, renewal, rent review, periodic or variation to tenancy documentation is \u00a3180 inc VAT per tenancy<br />\n \tInventory check out (paid at the end of the tenancy) is \u00a3150 - \u00a3350 inc VAT although there may be additional charges for larger properties. <br />\n \tPayments in the event of a default<br />\n \tPayment in the event of loss of keys<br />\n \tPayment in respect of Council Tax, utilities (gas or other fuel, electricity, water or sewage) television license and communication services<br />\n \tGreen deal charge (if applicable) <br /><br /><br />\n\nThe deposit figure displayed on this listing may vary depending on the terms of the tenancy and the rental figure agreed.  <br /><br />\n\nFor all tenancies there are other costs that must be covered on top of the rent throughout the tenancy and at the end of a tenancy.  These might include:<br /><br />\n\nUtilities (gas or other fuel, electricity, water or sewage)<br />\nCouncil Tax<br />\nTelevision License<br />\nInstallation of cable/satellite<br />\nInsurance (for your personal and own contents)<br />\nGarden maintenance<br /><br />\n\nCleaning to a professional standard<br />\nInventory check out (paid at the end of a Non Housing Act tenancy including company lets) <br />\nDilapidations<br />\nReplacement key or security device costs<br />\nLate payment of rent interest charged at 3% above Bank of England based rate <b>\nReasonable costs will be charged to the tenant should the Landlord agree to an early termination (surrender) of the tenancy agreement at the tenants request.<br /><br />\n\n*Rents are advertised weekly or monthly but will be payable monthly, quarterly, bi-annually or annually in advance.<br />\n**For an Assured Shorthold tenancy (AST) to be granted the following must apply:  the rent is less than \u00a3100,000 per annum, the Tenant is a private individual, it is the Tenant s main home and the Landlord does not live at the property.  If one of the above does not apply, a Non Housing Act tenancy will be granted. <br /><br />\n\nFor further information on the above please contact our office and request our  Information for Prospective Tenants for AST  or  Information for Prospective Tenants for NHA  document. <br /><br />\n\nClient Money Protection: RICS<br /><br />\n\nThe Property Ombudsman     <br /><br />\n\nCarter Jonas as members of ARLA Propertymark    and RICS   <br /><br /></b></b>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88048377#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88048377",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-05T09:44:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-05T09:50:56Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Outside Space",
+      "htmlDescription": "Outside Space"
+    },
+    {
+      "order": 3,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 4,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Gym",
+      "htmlDescription": "Gym"
+    },
+    {
+      "order": 6,
+      "description": "Underground Parking",
+      "htmlDescription": "Underground Parking"
+    },
+    {
+      "order": 7,
+      "description": "Additional storage",
+      "htmlDescription": "Additional storage"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0_max_476x317.jpeg",
+        "url": "property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8509f131e/88048377/8509f131e270d1e899234b5bc047a938_max_476x317.jpeg",
+        "url": "property-photo/8509f131e/88048377/8509f131e270d1e899234b5bc047a938.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c540354b9/88048377/c540354b937b052728a5b4f13a323e7f_max_476x317.jpeg",
+        "url": "property-photo/c540354b9/88048377/c540354b937b052728a5b4f13a323e7f.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e302a8ac8/88048377/e302a8ac85683e541c06e4d81318e903_max_476x317.jpeg",
+        "url": "property-photo/e302a8ac8/88048377/e302a8ac85683e541c06e4d81318e903.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b59e5a01b/88048377/b59e5a01b2616c7c647e61dfdc41ba1c_max_476x317.jpeg",
+        "url": "property-photo/b59e5a01b/88048377/b59e5a01b2616c7c647e61dfdc41ba1c.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fed9bf00b/88048377/fed9bf00bd9b9bdaa30d4f93ae2c36eb_max_476x317.jpeg",
+        "url": "property-photo/fed9bf00b/88048377/fed9bf00bd9b9bdaa30d4f93ae2c36eb.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eefbbd899/88048377/eefbbd8997e1c552e06dc5dedd42c33c_max_476x317.jpeg",
+        "url": "property-photo/eefbbd899/88048377/eefbbd8997e1c552e06dc5dedd42c33c.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e5973c25/88048377/5e5973c25981be056e5f4cc44daf68b3_max_476x317.jpeg",
+        "url": "property-photo/5e5973c25/88048377/5e5973c25981be056e5f4cc44daf68b3.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dad338ba/88048377/3dad338ba54de95b7e5849cc5a7b5783_max_476x317.jpeg",
+        "url": "property-photo/3dad338ba/88048377/3dad338ba54de95b7e5849cc5a7b5783.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628b39387/88048377/628b39387277a3496110805b04b7dd4b_max_476x317.jpeg",
+        "url": "property-photo/628b39387/88048377/628b39387277a3496110805b04b7dd4b.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d90721a78/88048377/d90721a780c4b40f93b2fdf5bcc99b92_max_476x317.jpeg",
+        "url": "property-photo/d90721a78/88048377/d90721a780c4b40f93b2fdf5bcc99b92.jpeg",
+        "caption": "Picture No. 12"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d2d1fcf7/88048377/8d2d1fcf7541bc96dc2e053581a94fe0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Carter Jonas Lettings, Kensington & Chelsea",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
