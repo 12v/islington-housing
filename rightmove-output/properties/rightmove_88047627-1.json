@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-07T00:35:18.866269+00:00",
+  "postcode": "N7 7FE",
+  "id": 88047627,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "High specification studio suite in a modern portered development. The development is highly regarded with lift access, gym and landscaped gardens.",
+  "displayAddress": "Queensland Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55349,
+    "longitude": -0.10815
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d_max_476x317.jpeg",
+      "url": "property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2817336a/88047627/e2817336a7b7680cb51cc2ec80799c2d_max_476x317.jpeg",
+      "url": "property-photo/e2817336a/88047627/e2817336a7b7680cb51cc2ec80799c2d.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/35dd00b5e/88047627/35dd00b5e4d29c9326321241d83ae22e_max_476x317.jpeg",
+      "url": "property-photo/35dd00b5e/88047627/35dd00b5e4d29c9326321241d83ae22e.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fd493f11/88047627/3fd493f11cd2ec6a529a9ca45a277d5a_max_476x317.jpeg",
+      "url": "property-photo/3fd493f11/88047627/3fd493f11cd2ec6a529a9ca45a277d5a.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f1ef2834/88047627/5f1ef283458b32f285882d264745308b_max_476x317.jpeg",
+      "url": "property-photo/5f1ef2834/88047627/5f1ef283458b32f285882d264745308b.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e2ecf7d2/88047627/9e2ecf7d2852b6ed18f407eb542d89d3_max_476x317.jpeg",
+      "url": "property-photo/9e2ecf7d2/88047627/9e2ecf7d2852b6ed18f407eb542d89d3.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f69f73eeb/88047627/f69f73eeba7a78f5d82c5f213fcf07f0_max_476x317.jpeg",
+      "url": "property-photo/f69f73eeb/88047627/f69f73eeba7a78f5d82c5f213fcf07f0.jpeg",
+      "caption": "lovely new studio..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a85ee26c/88047627/1a85ee26c3e12525a0d393e5ad542154_max_476x317.jpeg",
+      "url": "property-photo/1a85ee26c/88047627/1a85ee26c3e12525a0d393e5ad542154.jpeg",
+      "caption": "lovely new studio..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/498a66af8/88047627/498a66af867828ca08e7642c77a9c828_max_476x317.jpeg",
+      "url": "property-photo/498a66af8/88047627/498a66af867828ca08e7642c77a9c828.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/deab3b448/88047627/deab3b4482a012cb884290c33e793272_max_476x317.jpeg",
+      "url": "property-photo/deab3b448/88047627/deab3b4482a012cb884290c33e793272.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bfbc9cd16/88047627/bfbc9cd16d92b91f11a78d30758a3b9b_max_476x317.jpeg",
+      "url": "property-photo/bfbc9cd16/88047627/bfbc9cd16d92b91f11a78d30758a3b9b.jpeg",
+      "caption": "3 5 Queensland Ro..."
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-05T09:39:05Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88047627#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88047627",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-05T09:33:24Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-06T03:36:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Modern development",
+      "htmlDescription": "Modern development"
+    },
+    {
+      "order": 2,
+      "description": "Excellent specification",
+      "htmlDescription": "Excellent specification"
+    },
+    {
+      "order": 3,
+      "description": "Generous storage",
+      "htmlDescription": "Generous storage"
+    },
+    {
+      "order": 4,
+      "description": "Lift access",
+      "htmlDescription": "Lift access"
+    },
+    {
+      "order": 5,
+      "description": "24hr porter",
+      "htmlDescription": "24hr porter"
+    },
+    {
+      "order": 6,
+      "description": "Landscaped gardens",
+      "htmlDescription": "Landscaped gardens"
+    },
+    {
+      "order": 7,
+      "description": "Residents fitness suite",
+      "htmlDescription": "Residents fitness suite"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d_max_476x317.jpeg",
+        "url": "property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2817336a/88047627/e2817336a7b7680cb51cc2ec80799c2d_max_476x317.jpeg",
+        "url": "property-photo/e2817336a/88047627/e2817336a7b7680cb51cc2ec80799c2d.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/35dd00b5e/88047627/35dd00b5e4d29c9326321241d83ae22e_max_476x317.jpeg",
+        "url": "property-photo/35dd00b5e/88047627/35dd00b5e4d29c9326321241d83ae22e.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fd493f11/88047627/3fd493f11cd2ec6a529a9ca45a277d5a_max_476x317.jpeg",
+        "url": "property-photo/3fd493f11/88047627/3fd493f11cd2ec6a529a9ca45a277d5a.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f1ef2834/88047627/5f1ef283458b32f285882d264745308b_max_476x317.jpeg",
+        "url": "property-photo/5f1ef2834/88047627/5f1ef283458b32f285882d264745308b.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e2ecf7d2/88047627/9e2ecf7d2852b6ed18f407eb542d89d3_max_476x317.jpeg",
+        "url": "property-photo/9e2ecf7d2/88047627/9e2ecf7d2852b6ed18f407eb542d89d3.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f69f73eeb/88047627/f69f73eeba7a78f5d82c5f213fcf07f0_max_476x317.jpeg",
+        "url": "property-photo/f69f73eeb/88047627/f69f73eeba7a78f5d82c5f213fcf07f0.jpeg",
+        "caption": "lovely new studio..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a85ee26c/88047627/1a85ee26c3e12525a0d393e5ad542154_max_476x317.jpeg",
+        "url": "property-photo/1a85ee26c/88047627/1a85ee26c3e12525a0d393e5ad542154.jpeg",
+        "caption": "lovely new studio..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/498a66af8/88047627/498a66af867828ca08e7642c77a9c828_max_476x317.jpeg",
+        "url": "property-photo/498a66af8/88047627/498a66af867828ca08e7642c77a9c828.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/deab3b448/88047627/deab3b4482a012cb884290c33e793272_max_476x317.jpeg",
+        "url": "property-photo/deab3b448/88047627/deab3b4482a012cb884290c33e793272.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bfbc9cd16/88047627/bfbc9cd16d92b91f11a78d30758a3b9b_max_476x317.jpeg",
+        "url": "property-photo/bfbc9cd16/88047627/bfbc9cd16d92b91f11a78d30758a3b9b.jpeg",
+        "caption": "3 5 Queensland Ro..."
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e25cf60b/88047627/6e25cf60b872ccb046be76564db2970d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added on 05/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-06T21:22:57.698305+00:00",
+  "postcode": "EC1V 8BG",
+  "id": 88147182,
+  "bedrooms": 2,
+  "bathrooms": null,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautiful Luxurious 2 bed Mews House overlooking a private and secure courtyard.",
+  "displayAddress": "Lever Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52778,
+    "longitude": -0.09206
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8_max_476x317.jpeg",
+      "url": "property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8380e88d4/88147182/8380e88d45ab058e599efa11ad049754_max_476x317.jpeg",
+      "url": "property-photo/8380e88d4/88147182/8380e88d45ab058e599efa11ad049754.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/258b3ade2/88147182/258b3ade279b97adeea92dbb164bdd96_max_476x317.jpeg",
+      "url": "property-photo/258b3ade2/88147182/258b3ade279b97adeea92dbb164bdd96.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80a2c530a/88147182/80a2c530a5a378a031e5ced530b6aec9_max_476x317.jpeg",
+      "url": "property-photo/80a2c530a/88147182/80a2c530a5a378a031e5ced530b6aec9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c33f71d5/88147182/0c33f71d5e5e37460865246306b2d645_max_476x317.jpeg",
+      "url": "property-photo/0c33f71d5/88147182/0c33f71d5e5e37460865246306b2d645.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e4fef1ba/88147182/1e4fef1ba532877c4656a0566d2cf785_max_476x317.jpeg",
+      "url": "property-photo/1e4fef1ba/88147182/1e4fef1ba532877c4656a0566d2cf785.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3b7c98f4/88147182/c3b7c98f4d02afe8a651b4cd5911644f_max_476x317.jpeg",
+      "url": "property-photo/c3b7c98f4/88147182/c3b7c98f4d02afe8a651b4cd5911644f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603b74aa8/88147182/603b74aa8e2551d7df2868b08b3842be_max_476x317.jpeg",
+      "url": "property-photo/603b74aa8/88147182/603b74aa8e2551d7df2868b08b3842be.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Mews",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-06T21:49:06Z"
+  },
+  "price": {
+    "amount": 3200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3738 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88147182#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88147182",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-06T21:44:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-06T21:49:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright & airy",
+      "htmlDescription": "Bright & airy"
+    },
+    {
+      "order": 2,
+      "description": "Fantastic location",
+      "htmlDescription": "Fantastic location"
+    },
+    {
+      "order": 3,
+      "description": "Must view",
+      "htmlDescription": "Must view"
+    },
+    {
+      "order": 4,
+      "description": "Split level",
+      "htmlDescription": "Split level"
+    },
+    {
+      "order": 5,
+      "description": "High ceilings",
+      "htmlDescription": "High ceilings"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8_max_476x317.jpeg",
+        "url": "property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8380e88d4/88147182/8380e88d45ab058e599efa11ad049754_max_476x317.jpeg",
+        "url": "property-photo/8380e88d4/88147182/8380e88d45ab058e599efa11ad049754.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/258b3ade2/88147182/258b3ade279b97adeea92dbb164bdd96_max_476x317.jpeg",
+        "url": "property-photo/258b3ade2/88147182/258b3ade279b97adeea92dbb164bdd96.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80a2c530a/88147182/80a2c530a5a378a031e5ced530b6aec9_max_476x317.jpeg",
+        "url": "property-photo/80a2c530a/88147182/80a2c530a5a378a031e5ced530b6aec9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c33f71d5/88147182/0c33f71d5e5e37460865246306b2d645_max_476x317.jpeg",
+        "url": "property-photo/0c33f71d5/88147182/0c33f71d5e5e37460865246306b2d645.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e4fef1ba/88147182/1e4fef1ba532877c4656a0566d2cf785_max_476x317.jpeg",
+        "url": "property-photo/1e4fef1ba/88147182/1e4fef1ba532877c4656a0566d2cf785.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3b7c98f4/88147182/c3b7c98f4d02afe8a651b4cd5911644f_max_476x317.jpeg",
+        "url": "property-photo/c3b7c98f4/88147182/c3b7c98f4d02afe8a651b4cd5911644f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/603b74aa8/88147182/603b74aa8e2551d7df2868b08b3842be_max_476x317.jpeg",
+        "url": "property-photo/603b74aa8/88147182/603b74aa8e2551d7df2868b08b3842be.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a5041c4/88147182/91a5041c4347c7618956e956f5b13ad8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom mews house",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

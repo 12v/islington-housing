@@ -1,0 +1,192 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-07T00:42:46.807430+00:00",
+  "postcode": "N7 8GP",
+  "id": 88140459,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented two bedroom two bathroom apartment with balcony, set the 7th floor of a modern development.",
+  "displayAddress": "Eden Grove, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.550363,
+    "longitude": -0.115694
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727_max_476x317.jpeg",
+      "url": "property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2336bf7a9/88140459/2336bf7a975cdd4a672ebd9cbc41ee8d_max_476x317.jpeg",
+      "url": "property-photo/2336bf7a9/88140459/2336bf7a975cdd4a672ebd9cbc41ee8d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fad45c240/88140459/fad45c240105423ac6da55a73d22c494_max_476x317.jpeg",
+      "url": "property-photo/fad45c240/88140459/fad45c240105423ac6da55a73d22c494.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62fdad645/88140459/62fdad645780d22980600ef90aa83861_max_476x317.jpeg",
+      "url": "property-photo/62fdad645/88140459/62fdad645780d22980600ef90aa83861.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f53cded0d/88140459/f53cded0dd0e35f9f9984c5671ddc12f_max_476x317.jpeg",
+      "url": "property-photo/f53cded0d/88140459/f53cded0dd0e35f9f9984c5671ddc12f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/753d366d8/88140459/753d366d828db27654f71eec2684f0d3_max_476x317.jpeg",
+      "url": "property-photo/753d366d8/88140459/753d366d828db27654f71eec2684f0d3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/815321494/88140459/8153214949c4a1d3cfd11a5dde8ee951_max_476x317.jpeg",
+      "url": "property-photo/815321494/88140459/8153214949c4a1d3cfd11a5dde8ee951.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-06T17:53:03Z"
+  },
+  "price": {
+    "amount": 2650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3612 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 45479,
+    "brandPlusLogoURI": "/partner-logo/49946-PRODUCTS_LOGO-1766058303.png",
+    "contactTelephone": "020 3892 3364",
+    "branchDisplayName": "Petermans, Edgware",
+    "branchName": "Edgware",
+    "brandTradingName": "Petermans",
+    "branchLandingPageUrl": "/estate-agents/agent/Petermans/Edgware-45479.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:10Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/49946-PRODUCTS_LOGO-1766058303.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88140459#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88140459",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-06T17:47:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-06T18:06:14Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727_max_476x317.jpeg",
+        "url": "property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2336bf7a9/88140459/2336bf7a975cdd4a672ebd9cbc41ee8d_max_476x317.jpeg",
+        "url": "property-photo/2336bf7a9/88140459/2336bf7a975cdd4a672ebd9cbc41ee8d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fad45c240/88140459/fad45c240105423ac6da55a73d22c494_max_476x317.jpeg",
+        "url": "property-photo/fad45c240/88140459/fad45c240105423ac6da55a73d22c494.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62fdad645/88140459/62fdad645780d22980600ef90aa83861_max_476x317.jpeg",
+        "url": "property-photo/62fdad645/88140459/62fdad645780d22980600ef90aa83861.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f53cded0d/88140459/f53cded0dd0e35f9f9984c5671ddc12f_max_476x317.jpeg",
+        "url": "property-photo/f53cded0d/88140459/f53cded0dd0e35f9f9984c5671ddc12f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/753d366d8/88140459/753d366d828db27654f71eec2684f0d3_max_476x317.jpeg",
+        "url": "property-photo/753d366d8/88140459/753d366d828db27654f71eec2684f0d3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/815321494/88140459/8153214949c4a1d3cfd11a5dde8ee951_max_476x317.jpeg",
+        "url": "property-photo/815321494/88140459/8153214949c4a1d3cfd11a5dde8ee951.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4054e15b/88140459/b4054e15b0c7eb79f7607cf0015bb727_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Petermans, Edgware",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
