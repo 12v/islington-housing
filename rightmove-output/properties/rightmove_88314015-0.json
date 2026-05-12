@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-11T22:55:01.818752+00:00",
+  "postcode": "N16 9DH",
+  "id": 88314015,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "*AVAILABLE 6TH AUGUST* An ultra modern one bedroom second floor apartment with lift access. The property is walking distance to Newington Green and close to Cannonbury and Dalston overground stations and bus links. ",
+  "displayAddress": "Embassy Lodge, Green Lanes, N16",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556401,
+    "longitude": -0.091559
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0_max_476x317.jpeg",
+      "url": "property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b9451bab/88314015/4b9451baba1efa917706abacb6830981_max_476x317.jpeg",
+      "url": "property-photo/4b9451bab/88314015/4b9451baba1efa917706abacb6830981.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8135bf503/88314015/8135bf503c9b0c249640b17d64ed625e_max_476x317.jpeg",
+      "url": "property-photo/8135bf503/88314015/8135bf503c9b0c249640b17d64ed625e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45c4c2407/88314015/45c4c240749b85fac96ff84174c38b9c_max_476x317.jpeg",
+      "url": "property-photo/45c4c2407/88314015/45c4c240749b85fac96ff84174c38b9c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8309f867e/88314015/8309f867e4825da7efa443d803d45751_max_476x317.jpeg",
+      "url": "property-photo/8309f867e/88314015/8309f867e4825da7efa443d803d45751.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f91504bc/88314015/6f91504bcf6c48bd21f3cdebedb4eed0_max_476x317.jpeg",
+      "url": "property-photo/6f91504bc/88314015/6f91504bcf6c48bd21f3cdebedb4eed0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78a25dc59/88314015/78a25dc59ebe2bab97cc284bd524acbd_max_476x317.jpeg",
+      "url": "property-photo/78a25dc59/88314015/78a25dc59ebe2bab97cc284bd524acbd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3784e2ae3/88314015/3784e2ae3b624ef37d038425e48efd61_max_476x317.jpeg",
+      "url": "property-photo/3784e2ae3/88314015/3784e2ae3b624ef37d038425e48efd61.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-04-21T10:55:10Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79893,
+    "brandPlusLogoURI": "/partner-logo/25209597-PRODUCTS_LOGO-1766061006.jpeg",
+    "contactTelephone": "020 3488 0310",
+    "branchDisplayName": "James Kei London, London",
+    "branchName": "London",
+    "brandTradingName": "James Kei London",
+    "branchLandingPageUrl": "/estate-agents/agent/James-Kei-London/London-79893.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-01-01T05:15:18Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/25209597-PRODUCTS_LOGO-1766061006.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes).  For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees.  It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "517 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88314015#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88314015",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-11T14:33:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-11T14:39:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "formattedBranchName": " by James Kei London, London",
+  "addedOrReduced": "Added on 21/04/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0_max_476x317.jpeg",
+        "url": "property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b9451bab/88314015/4b9451baba1efa917706abacb6830981_max_476x317.jpeg",
+        "url": "property-photo/4b9451bab/88314015/4b9451baba1efa917706abacb6830981.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8135bf503/88314015/8135bf503c9b0c249640b17d64ed625e_max_476x317.jpeg",
+        "url": "property-photo/8135bf503/88314015/8135bf503c9b0c249640b17d64ed625e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45c4c2407/88314015/45c4c240749b85fac96ff84174c38b9c_max_476x317.jpeg",
+        "url": "property-photo/45c4c2407/88314015/45c4c240749b85fac96ff84174c38b9c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8309f867e/88314015/8309f867e4825da7efa443d803d45751_max_476x317.jpeg",
+        "url": "property-photo/8309f867e/88314015/8309f867e4825da7efa443d803d45751.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f91504bc/88314015/6f91504bcf6c48bd21f3cdebedb4eed0_max_476x317.jpeg",
+        "url": "property-photo/6f91504bc/88314015/6f91504bcf6c48bd21f3cdebedb4eed0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78a25dc59/88314015/78a25dc59ebe2bab97cc284bd524acbd_max_476x317.jpeg",
+        "url": "property-photo/78a25dc59/88314015/78a25dc59ebe2bab97cc284bd524acbd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3784e2ae3/88314015/3784e2ae3b624ef37d038425e48efd61_max_476x317.jpeg",
+        "url": "property-photo/3784e2ae3/88314015/3784e2ae3b624ef37d038425e48efd61.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7356082b/88314015/d7356082b231bdcb8a0843e5a98a00f0_max_296x197.jpeg"
+  }
+}
