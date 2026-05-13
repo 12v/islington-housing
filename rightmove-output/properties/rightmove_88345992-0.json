@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-12T22:15:29.022163+00:00",
+  "postcode": "N1 2NA",
+  "id": 88345992,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A modern two bedroom flat with two double bedrooms, a contemporary kitchen, and a comfortable living area. Available on the 8th July and unfurnished.",
+  "displayAddress": "St Paul's Road, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.546164,
+    "longitude": -0.101155
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b_max_476x317.jpeg",
+      "url": "property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b.jpeg",
+      "caption": "Photo 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ae3da056/88345992/7ae3da0562bac2c24556db08fa87b54a_max_476x317.jpeg",
+      "url": "property-photo/7ae3da056/88345992/7ae3da0562bac2c24556db08fa87b54a.jpeg",
+      "caption": "Photo 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c66e4a1/88345992/87c66e4a14efc4ab7a72d5670f5e2bfc_max_476x317.jpeg",
+      "url": "property-photo/87c66e4a1/88345992/87c66e4a14efc4ab7a72d5670f5e2bfc.jpeg",
+      "caption": "Photo 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10db480d4/88345992/10db480d455e67f430d06a303a786f84_max_476x317.jpeg",
+      "url": "property-photo/10db480d4/88345992/10db480d455e67f430d06a303a786f84.jpeg",
+      "caption": "Photo 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7108635db/88345992/7108635db41914dbcf79f1d7ef6c5ba8_max_476x317.jpeg",
+      "url": "property-photo/7108635db/88345992/7108635db41914dbcf79f1d7ef6c5ba8.jpeg",
+      "caption": "Photo 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/852912a96/88345992/852912a960f9fdf5fd9c13a691c33b94_max_476x317.jpeg",
+      "url": "property-photo/852912a96/88345992/852912a960f9fdf5fd9c13a691c33b94.jpeg",
+      "caption": "Photo 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a7e297c9/88345992/3a7e297c9d010bec1fe31697d1c2716e_max_476x317.jpeg",
+      "url": "property-photo/3a7e297c9/88345992/3a7e297c9d010bec1fe31697d1c2716e.jpeg",
+      "caption": "Photo 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/631f9e7e1/88345992/631f9e7e1237c4ebf498572657feae95_max_476x317.jpeg",
+      "url": "property-photo/631f9e7e1/88345992/631f9e7e1237c4ebf498572657feae95.jpeg",
+      "caption": "Photo 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/545b69c9c/88345992/545b69c9c364b5efe4960ae7162312dd_max_476x317.jpeg",
+      "url": "property-photo/545b69c9c/88345992/545b69c9c364b5efe4960ae7162312dd.jpeg",
+      "caption": "Photo 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9334ff84c/88345992/9334ff84cc0f19a388004869fb44f16f_max_476x317.jpeg",
+      "url": "property-photo/9334ff84c/88345992/9334ff84cc0f19a388004869fb44f16f.jpeg",
+      "caption": "Photo 10"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-12T10:27:07Z"
+  },
+  "price": {
+    "amount": 3300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3762 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 51388,
+    "brandPlusLogoURI": "/partner-logo/6872431-PRODUCTS_LOGO-1766061844.png",
+    "contactTelephone": "020 3906 8587",
+    "branchDisplayName": "Hotblack Desiato, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hotblack Desiato",
+    "branchLandingPageUrl": "/estate-agents/agent/Hotblack-Desiato/Islington-51388.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/6872431-PRODUCTS_LOGO-1766061844.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "788 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88345992#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88345992",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-12T10:21:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-12T10:27:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "TWO BEDROOM FLAT",
+      "htmlDescription": "TWO BEDROOM FLAT"
+    },
+    {
+      "order": 2,
+      "description": "TWO BATHROOMS",
+      "htmlDescription": "TWO BATHROOMS"
+    },
+    {
+      "order": 3,
+      "description": "UNFURNISHED",
+      "htmlDescription": "UNFURNISHED"
+    },
+    {
+      "order": 4,
+      "description": "AVAILABLE 8TH JULY",
+      "htmlDescription": "AVAILABLE 8TH JULY"
+    },
+    {
+      "order": 5,
+      "description": "788 SQUARE FEET",
+      "htmlDescription": "788 SQUARE FEET"
+    },
+    {
+      "order": 6,
+      "description": "MOMENTS FROM ANGEL AND HIGHBURY AND ISLINGTON STATION",
+      "htmlDescription": "MOMENTS FROM ANGEL AND HIGHBURY AND ISLINGTON STATION"
+    },
+    {
+      "order": 7,
+      "description": "EPC BAND C",
+      "htmlDescription": "EPC BAND C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b_max_476x317.jpeg",
+        "url": "property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b.jpeg",
+        "caption": "Photo 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ae3da056/88345992/7ae3da0562bac2c24556db08fa87b54a_max_476x317.jpeg",
+        "url": "property-photo/7ae3da056/88345992/7ae3da0562bac2c24556db08fa87b54a.jpeg",
+        "caption": "Photo 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c66e4a1/88345992/87c66e4a14efc4ab7a72d5670f5e2bfc_max_476x317.jpeg",
+        "url": "property-photo/87c66e4a1/88345992/87c66e4a14efc4ab7a72d5670f5e2bfc.jpeg",
+        "caption": "Photo 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10db480d4/88345992/10db480d455e67f430d06a303a786f84_max_476x317.jpeg",
+        "url": "property-photo/10db480d4/88345992/10db480d455e67f430d06a303a786f84.jpeg",
+        "caption": "Photo 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7108635db/88345992/7108635db41914dbcf79f1d7ef6c5ba8_max_476x317.jpeg",
+        "url": "property-photo/7108635db/88345992/7108635db41914dbcf79f1d7ef6c5ba8.jpeg",
+        "caption": "Photo 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/852912a96/88345992/852912a960f9fdf5fd9c13a691c33b94_max_476x317.jpeg",
+        "url": "property-photo/852912a96/88345992/852912a960f9fdf5fd9c13a691c33b94.jpeg",
+        "caption": "Photo 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a7e297c9/88345992/3a7e297c9d010bec1fe31697d1c2716e_max_476x317.jpeg",
+        "url": "property-photo/3a7e297c9/88345992/3a7e297c9d010bec1fe31697d1c2716e.jpeg",
+        "caption": "Photo 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/631f9e7e1/88345992/631f9e7e1237c4ebf498572657feae95_max_476x317.jpeg",
+        "url": "property-photo/631f9e7e1/88345992/631f9e7e1237c4ebf498572657feae95.jpeg",
+        "caption": "Photo 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/545b69c9c/88345992/545b69c9c364b5efe4960ae7162312dd_max_476x317.jpeg",
+        "url": "property-photo/545b69c9c/88345992/545b69c9c364b5efe4960ae7162312dd.jpeg",
+        "caption": "Photo 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9334ff84c/88345992/9334ff84cc0f19a388004869fb44f16f_max_476x317.jpeg",
+        "url": "property-photo/9334ff84c/88345992/9334ff84cc0f19a388004869fb44f16f.jpeg",
+        "caption": "Photo 10"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f505559e8/88345992/f505559e85ee04fbfd24be592707453b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hotblack Desiato, Islington",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
