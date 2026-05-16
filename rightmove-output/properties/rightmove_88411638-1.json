@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-15T22:15:17.066503+00:00",
+  "postcode": "N1 2SF",
+  "id": 88411638,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright and spacious two-bedroom flat on Essex Road, featuring an open-plan living area, modern kitchen, and excellent transport links-perfect for sharers or professionals seeking within the Islington and Angel area.",
+  "displayAddress": "Essex Road, Angel",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53762,
+    "longitude": -0.10044
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5_max_476x317.jpeg",
+      "url": "property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ce5dcf9f/88411638/4ce5dcf9f1b33d1a41a49e19ecd14f27_max_476x317.jpeg",
+      "url": "property-photo/4ce5dcf9f/88411638/4ce5dcf9f1b33d1a41a49e19ecd14f27.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d3968a72/88411638/1d3968a723f55d929cb7de295c7520a1_max_476x317.jpeg",
+      "url": "property-photo/1d3968a72/88411638/1d3968a723f55d929cb7de295c7520a1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00e894711/88411638/00e894711453b2be0036bf5c8c0eb529_max_476x317.jpeg",
+      "url": "property-photo/00e894711/88411638/00e894711453b2be0036bf5c8c0eb529.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/381ebbddf/88411638/381ebbddf9f17a9cfb7f2991be084ccb_max_476x317.jpeg",
+      "url": "property-photo/381ebbddf/88411638/381ebbddf9f17a9cfb7f2991be084ccb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3eb83aa10/88411638/3eb83aa10786439aa17a0507ee83b8af_max_476x317.jpeg",
+      "url": "property-photo/3eb83aa10/88411638/3eb83aa10786439aa17a0507ee83b8af.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-13T11:39:04Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3519.23) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32596.15) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "469 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88411638#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88411638",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-13T11:33:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-15T19:07:01Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Flat",
+      "htmlDescription": "Two Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Spacious open-plan kitchen and reception room",
+      "htmlDescription": "Spacious open-plan kitchen and reception room"
+    },
+    {
+      "order": 3,
+      "description": "Modern three-piece bathroom suite",
+      "htmlDescription": "Modern three-piece bathroom suite"
+    },
+    {
+      "order": 4,
+      "description": "Fitted kitchen with gas hob, oven, fridge freezer, and washing machine",
+      "htmlDescription": "Fitted kitchen with gas hob, oven, fridge freezer, and washing machine"
+    },
+    {
+      "order": 5,
+      "description": "Double-glazed windows throughout",
+      "htmlDescription": "Double-glazed windows throughout"
+    },
+    {
+      "order": 6,
+      "description": "Excellent natural light",
+      "htmlDescription": "Excellent natural light"
+    },
+    {
+      "order": 7,
+      "description": "Offered unfurnished",
+      "htmlDescription": "Offered unfurnished"
+    },
+    {
+      "order": 8,
+      "description": "Well-sized and bright living spaces",
+      "htmlDescription": "Well-sized and bright living spaces"
+    },
+    {
+      "order": 9,
+      "description": "Close to Essex Road and Angel stations",
+      "htmlDescription": "Close to Essex Road and Angel stations"
+    },
+    {
+      "order": 10,
+      "description": "Moments from Upper Street amenities",
+      "htmlDescription": "Moments from Upper Street amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5_max_476x317.jpeg",
+        "url": "property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ce5dcf9f/88411638/4ce5dcf9f1b33d1a41a49e19ecd14f27_max_476x317.jpeg",
+        "url": "property-photo/4ce5dcf9f/88411638/4ce5dcf9f1b33d1a41a49e19ecd14f27.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d3968a72/88411638/1d3968a723f55d929cb7de295c7520a1_max_476x317.jpeg",
+        "url": "property-photo/1d3968a72/88411638/1d3968a723f55d929cb7de295c7520a1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00e894711/88411638/00e894711453b2be0036bf5c8c0eb529_max_476x317.jpeg",
+        "url": "property-photo/00e894711/88411638/00e894711453b2be0036bf5c8c0eb529.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/381ebbddf/88411638/381ebbddf9f17a9cfb7f2991be084ccb_max_476x317.jpeg",
+        "url": "property-photo/381ebbddf/88411638/381ebbddf9f17a9cfb7f2991be084ccb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3eb83aa10/88411638/3eb83aa10786439aa17a0507ee83b8af_max_476x317.jpeg",
+        "url": "property-photo/3eb83aa10/88411638/3eb83aa10786439aa17a0507ee83b8af.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dae68bf69/88411638/dae68bf69b0366dada023193860e92b5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added on 13/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

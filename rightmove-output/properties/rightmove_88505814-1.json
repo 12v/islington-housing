@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-16T00:07:25.153007+00:00",
+  "postcode": "N5 1RX",
+  "id": 88505814,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautifully presented large and bright one-bedroom flat with stunning views overlooking Highbury Fields.",
+  "displayAddress": "Wilmington House Highbury Crescent N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.549397,
+    "longitude": -0.104788
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e_max_476x317.jpeg",
+      "url": "property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045b1daf0/88505814/045b1daf04679695f6c2bf45e36ae024_max_476x317.jpeg",
+      "url": "property-photo/045b1daf0/88505814/045b1daf04679695f6c2bf45e36ae024.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de98d2a0/88505814/3de98d2a0e5a92f3db16e769fbf97739_max_476x317.jpeg",
+      "url": "property-photo/3de98d2a0/88505814/3de98d2a0e5a92f3db16e769fbf97739.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a1dc6733/88505814/4a1dc67336031ba88e7d765576c23f01_max_476x317.jpeg",
+      "url": "property-photo/4a1dc6733/88505814/4a1dc67336031ba88e7d765576c23f01.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf87ca0f9/88505814/cf87ca0f98809c608b6e4aac7596f311_max_476x317.jpeg",
+      "url": "property-photo/cf87ca0f9/88505814/cf87ca0f98809c608b6e4aac7596f311.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c62422996/88505814/c624229966818d27c954fadb7630bfaa_max_476x317.jpeg",
+      "url": "property-photo/c62422996/88505814/c624229966818d27c954fadb7630bfaa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a04baa1e9/88505814/a04baa1e91067490b49307d3617871bb_max_476x317.jpeg",
+      "url": "property-photo/a04baa1e9/88505814/a04baa1e91067490b49307d3617871bb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/492e6a5ba/88505814/492e6a5ba0c55f507d61344fd836186d_max_476x317.jpeg",
+      "url": "property-photo/492e6a5ba/88505814/492e6a5ba0c55f507d61344fd836186d.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-14T17:58:05Z"
+  },
+  "price": {
+    "amount": 2860,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,860 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3660 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 249341,
+    "brandPlusLogoURI": "/partner-logo/28485419-PRODUCTS_LOGO-1766062332.png",
+    "contactTelephone": "020 3889 8394",
+    "branchDisplayName": "Home Made, London",
+    "branchName": "London",
+    "brandTradingName": "Home Made",
+    "branchLandingPageUrl": "/estate-agents/agent/Home-Made/London-249341.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-11T16:20:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/28485419-PRODUCTS_LOGO-1766062332.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88505814#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88505814",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-14T17:52:49Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-14T17:58:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Double Bedroom",
+      "htmlDescription": "One Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Large Open-plan Reception",
+      "htmlDescription": "Large Open-plan Reception"
+    },
+    {
+      "order": 3,
+      "description": "Modern Bathroom",
+      "htmlDescription": "Modern Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Fully-equipped Kitchen",
+      "htmlDescription": "Fully-equipped Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Raised Ground Floor",
+      "htmlDescription": "Raised Ground Floor"
+    },
+    {
+      "order": 6,
+      "description": "Overlooking Highbury Fields",
+      "htmlDescription": "Overlooking Highbury Fields"
+    },
+    {
+      "order": 7,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 8,
+      "description": "Available Furnished",
+      "htmlDescription": "Available Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e_max_476x317.jpeg",
+        "url": "property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/045b1daf0/88505814/045b1daf04679695f6c2bf45e36ae024_max_476x317.jpeg",
+        "url": "property-photo/045b1daf0/88505814/045b1daf04679695f6c2bf45e36ae024.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3de98d2a0/88505814/3de98d2a0e5a92f3db16e769fbf97739_max_476x317.jpeg",
+        "url": "property-photo/3de98d2a0/88505814/3de98d2a0e5a92f3db16e769fbf97739.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a1dc6733/88505814/4a1dc67336031ba88e7d765576c23f01_max_476x317.jpeg",
+        "url": "property-photo/4a1dc6733/88505814/4a1dc67336031ba88e7d765576c23f01.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf87ca0f9/88505814/cf87ca0f98809c608b6e4aac7596f311_max_476x317.jpeg",
+        "url": "property-photo/cf87ca0f9/88505814/cf87ca0f98809c608b6e4aac7596f311.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c62422996/88505814/c624229966818d27c954fadb7630bfaa_max_476x317.jpeg",
+        "url": "property-photo/c62422996/88505814/c624229966818d27c954fadb7630bfaa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a04baa1e9/88505814/a04baa1e91067490b49307d3617871bb_max_476x317.jpeg",
+        "url": "property-photo/a04baa1e9/88505814/a04baa1e91067490b49307d3617871bb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/492e6a5ba/88505814/492e6a5ba0c55f507d61344fd836186d_max_476x317.jpeg",
+        "url": "property-photo/492e6a5ba/88505814/492e6a5ba0c55f507d61344fd836186d.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/780814d68/88505814/780814d68e7bab6a2cf9f91a77a4d90e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Home Made, London",
+  "addedOrReduced": "Added on 14/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
