@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-18T21:12:57.847809+00:00",
+  "postcode": "EC1V 2PW",
+  "id": 88639992,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A one bedroom apartment close to Angel Station",
+  "displayAddress": "St Mark's Apartments, 300 City Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52985,
+    "longitude": -0.098937
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e_max_476x317.jpeg",
+      "url": "property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/218d5f8a9/88639992/218d5f8a9fc5de8ca43606cc1439f168_max_476x317.jpeg",
+      "url": "property-photo/218d5f8a9/88639992/218d5f8a9fc5de8ca43606cc1439f168.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/670e15989/88639992/670e15989a9229361b9e82aadd670c5e_max_476x317.jpeg",
+      "url": "property-photo/670e15989/88639992/670e15989a9229361b9e82aadd670c5e.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e42a29c4e/88639992/e42a29c4e2f3b478faa90102e32bd28c_max_476x317.jpeg",
+      "url": "property-photo/e42a29c4e/88639992/e42a29c4e2f3b478faa90102e32bd28c.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4cd33f75d/88639992/4cd33f75dfccb9844ff4c9491ef513d0_max_476x317.jpeg",
+      "url": "property-photo/4cd33f75d/88639992/4cd33f75dfccb9844ff4c9491ef513d0.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2187b0031/88639992/2187b0031061f15a3cae6a837137ddd7_max_476x317.jpeg",
+      "url": "property-photo/2187b0031/88639992/2187b0031061f15a3cae6a837137ddd7.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11be9fb1/88639992/b11be9fb12bc2556ece8d2083f3ae509_max_476x317.jpeg",
+      "url": "property-photo/b11be9fb1/88639992/b11be9fb12bc2556ece8d2083f3ae509.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84c54f07b/88639992/84c54f07bc65ef3eec57ccd89593acee_max_476x317.jpeg",
+      "url": "property-photo/84c54f07b/88639992/84c54f07bc65ef3eec57ccd89593acee.jpeg",
+      "caption": "Reception Diner"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-14T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-18T16:27:07Z"
+  },
+  "price": {
+    "amount": 530,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,297 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3530 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 68234,
+    "brandPlusLogoURI": "/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "contactTelephone": "020 3834 8405",
+    "branchDisplayName": "Savills Lettings, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Savills Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Savills-Lettings/Clerkenwell-68234.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-08T16:06:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "primaryBrandColour": "#ffdf00"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy Information <br /><br /><br />Client money protection (CMP) provided by RICS: Savills.co.uk/client-money-protection <br /><br />Ombudsman services provided by PRS: theprs.co.uk/contactus <br /><br />Rules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br /><br />HOUSING ACT TENANCIES <br /><br />Holding deposit Equivalent of one weeks rent<br /><br />Changing tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Deposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br /><br />Change of sharer \u00a350 for one reference and a new tenancy agreement, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Early termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  Payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment<br /><br />Late, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Lost keys Any cost for the replacement of keys, fobs, security devices or associated items<br /><br />NON-HOUSING ACT TENANCIES (NHA)<br /><br />Pre Tenancy Application Charge (PTAC) Equivalent of one weeks rent or \u00a3600. If you withdraw from the tenancy: Private tenancies - minimum of \u00a3300 per person. Company tenancies - minimum of \u00a3600<br /><br />Tenancy paperwork \u00a3385<br /><br />Company reference checks \u00a3120 per reference<br /><br />Deposit Usually equivalent to six weeks rent / with pet eight weeks<br /><br />Check-in and/or out From \u00a3120 to \u00a3620 approx. Check your tenancy agreement to confirm who is responsible for paying this charge<br /><br />Call out services (inc out of hours)  \u00a360 per hour and/or the contractors invoice where your actions or lack of actions result in us or a contractor attending the property to remedy the situation<br /><br />Last minute cancellation of pre-arranged visits  \u00a360 per visit and any contractor invoice<br /><br />Hourly rate  \u00a360 plus any replacement costs if we or the landlord have to replace any damaged items, or return any fixtures or fittings to their original position, as per the inventory<br /><br />Any overseas payment charges  \u00a330 per payment<br /><br />Late/unpaid/returned rent payments  \u00a360 late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Change of sharer  \u00a3475 / Additional sharer (at the same time)  \u00a3100<br /><br />Renewal negotiation  \u00a3285 for each renewal. If additional referencing is required \u00a345 per reference<br /><br />Changing tenancy documents once signed \u00a3180<br /><br />Early termination (at landlord s discretion)  All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment",
+  "displaySize": "447 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88639992#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88639992",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-18T16:21:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-18T16:27:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom",
+      "htmlDescription": "One double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Close to Angel and The City",
+      "htmlDescription": "Close to Angel and The City"
+    },
+    {
+      "order": 3,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Private development",
+      "htmlDescription": "Private development"
+    },
+    {
+      "order": 5,
+      "description": "Great location",
+      "htmlDescription": "Great location"
+    },
+    {
+      "order": 6,
+      "description": "EPC Rating = C",
+      "htmlDescription": "EPC Rating = C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e_max_476x317.jpeg",
+        "url": "property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/218d5f8a9/88639992/218d5f8a9fc5de8ca43606cc1439f168_max_476x317.jpeg",
+        "url": "property-photo/218d5f8a9/88639992/218d5f8a9fc5de8ca43606cc1439f168.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/670e15989/88639992/670e15989a9229361b9e82aadd670c5e_max_476x317.jpeg",
+        "url": "property-photo/670e15989/88639992/670e15989a9229361b9e82aadd670c5e.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e42a29c4e/88639992/e42a29c4e2f3b478faa90102e32bd28c_max_476x317.jpeg",
+        "url": "property-photo/e42a29c4e/88639992/e42a29c4e2f3b478faa90102e32bd28c.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4cd33f75d/88639992/4cd33f75dfccb9844ff4c9491ef513d0_max_476x317.jpeg",
+        "url": "property-photo/4cd33f75d/88639992/4cd33f75dfccb9844ff4c9491ef513d0.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2187b0031/88639992/2187b0031061f15a3cae6a837137ddd7_max_476x317.jpeg",
+        "url": "property-photo/2187b0031/88639992/2187b0031061f15a3cae6a837137ddd7.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11be9fb1/88639992/b11be9fb12bc2556ece8d2083f3ae509_max_476x317.jpeg",
+        "url": "property-photo/b11be9fb1/88639992/b11be9fb12bc2556ece8d2083f3ae509.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84c54f07b/88639992/84c54f07bc65ef3eec57ccd89593acee_max_476x317.jpeg",
+        "url": "property-photo/84c54f07b/88639992/84c54f07bc65ef3eec57ccd89593acee.jpeg",
+        "caption": "Reception Diner"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6530ef988/88639992/6530ef9887005b55fe68d21cb967773e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Savills Lettings, Clerkenwell",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
