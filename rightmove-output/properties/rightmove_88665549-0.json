@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-19T21:15:08.150160+00:00",
+  "postcode": "EC1V 2AU",
+  "id": 88665549,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented one-bedroom, one-bathroom apartment within walking distance of Old Street and Angel Underground stations.",
+  "displayAddress": "250 City Road, Islington, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528479,
+    "longitude": -0.095488
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4_max_476x317.jpeg",
+      "url": "property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ac0cf6d4/88665549/5ac0cf6d4e5450e484596f2c611f29fb_max_476x317.jpeg",
+      "url": "property-photo/5ac0cf6d4/88665549/5ac0cf6d4e5450e484596f2c611f29fb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80259b377/88665549/80259b3777fdcd4f2e2192095992c5ea_max_476x317.jpeg",
+      "url": "property-photo/80259b377/88665549/80259b3777fdcd4f2e2192095992c5ea.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32b69c355/88665549/32b69c355e924235e6dfacf05703635f_max_476x317.jpeg",
+      "url": "property-photo/32b69c355/88665549/32b69c355e924235e6dfacf05703635f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a555d4f0/88665549/4a555d4f09f4910154c01e6ed38ad572_max_476x317.jpeg",
+      "url": "property-photo/4a555d4f0/88665549/4a555d4f09f4910154c01e6ed38ad572.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d492ac22/88665549/3d492ac228f850aab45c0b1188797444_max_476x317.jpeg",
+      "url": "property-photo/3d492ac22/88665549/3d492ac228f850aab45c0b1188797444.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/301b40d0e/88665549/301b40d0eb05acf263c8e9693386dde5_max_476x317.jpeg",
+      "url": "property-photo/301b40d0e/88665549/301b40d0eb05acf263c8e9693386dde5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee1d1c0cc/88665549/ee1d1c0ccbe23532687f4f662c026829_max_476x317.jpeg",
+      "url": "property-photo/ee1d1c0cc/88665549/ee1d1c0ccbe23532687f4f662c026829.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-19T11:02:08Z"
+  },
+  "price": {
+    "amount": 3300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3762 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 218051,
+    "brandPlusLogoURI": "/partner-logo/23437673-PRODUCTS_LOGO-1766066785.jpeg",
+    "contactTelephone": "020 3910 0884",
+    "branchDisplayName": "CROWN HOME BUYING AND LETTING, London",
+    "branchName": "London",
+    "brandTradingName": "CROWN HOME BUYING AND LETTING",
+    "branchLandingPageUrl": "/estate-agents/agent/CROWN-HOME-BUYING-AND-LETTING/London-218051.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-02T10:22:28Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23437673-PRODUCTS_LOGO-1766066785.jpeg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The asking rent does not include letting fees. Depending on your circumstances and the property you select, the letting agent may also apply the following upfront fees:<br /><ul><li><br /></li><li>general administration fees</li><li><br /></li><li>reference fees (including credit checks, bank, guarantor, previous landlord, etc)</li><li><br /></li><li>application fees</li><li><br /></li></ul>",
+  "displaySize": "549 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88665549#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88665549",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-19T10:56:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-19T11:02:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 2,
+      "description": "Short walk from Old Street & Angel Stations",
+      "htmlDescription": "Short walk from Old Street & Angel Stations"
+    },
+    {
+      "order": 3,
+      "description": "24 hour concierge",
+      "htmlDescription": "24 hour concierge"
+    },
+    {
+      "order": 4,
+      "description": "Yoga studio",
+      "htmlDescription": "Yoga studio"
+    },
+    {
+      "order": 5,
+      "description": "Residents' gym",
+      "htmlDescription": "Residents' gym"
+    },
+    {
+      "order": 6,
+      "description": "Residents' pool",
+      "htmlDescription": "Residents' pool"
+    },
+    {
+      "order": 7,
+      "description": "Floor-to-ceiling windows",
+      "htmlDescription": "Floor-to-ceiling windows"
+    },
+    {
+      "order": 8,
+      "description": "Residents' screening room",
+      "htmlDescription": "Residents' screening room"
+    },
+    {
+      "order": 9,
+      "description": "Designed by Foster + Partners",
+      "htmlDescription": " Designed by Foster + Partners"
+    },
+    {
+      "order": 10,
+      "description": "*Images are for illustrative purposes",
+      "htmlDescription": "*Images are for illustrative purposes"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4_max_476x317.jpeg",
+        "url": "property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ac0cf6d4/88665549/5ac0cf6d4e5450e484596f2c611f29fb_max_476x317.jpeg",
+        "url": "property-photo/5ac0cf6d4/88665549/5ac0cf6d4e5450e484596f2c611f29fb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80259b377/88665549/80259b3777fdcd4f2e2192095992c5ea_max_476x317.jpeg",
+        "url": "property-photo/80259b377/88665549/80259b3777fdcd4f2e2192095992c5ea.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32b69c355/88665549/32b69c355e924235e6dfacf05703635f_max_476x317.jpeg",
+        "url": "property-photo/32b69c355/88665549/32b69c355e924235e6dfacf05703635f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a555d4f0/88665549/4a555d4f09f4910154c01e6ed38ad572_max_476x317.jpeg",
+        "url": "property-photo/4a555d4f0/88665549/4a555d4f09f4910154c01e6ed38ad572.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d492ac22/88665549/3d492ac228f850aab45c0b1188797444_max_476x317.jpeg",
+        "url": "property-photo/3d492ac22/88665549/3d492ac228f850aab45c0b1188797444.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/301b40d0e/88665549/301b40d0eb05acf263c8e9693386dde5_max_476x317.jpeg",
+        "url": "property-photo/301b40d0e/88665549/301b40d0eb05acf263c8e9693386dde5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee1d1c0cc/88665549/ee1d1c0ccbe23532687f4f662c026829_max_476x317.jpeg",
+        "url": "property-photo/ee1d1c0cc/88665549/ee1d1c0ccbe23532687f4f662c026829.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2400e7c24/88665549/2400e7c244d83cd5d9d4a6ce5ec804f4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CROWN HOME BUYING AND LETTING, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
