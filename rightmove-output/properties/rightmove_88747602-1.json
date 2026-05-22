@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-22T00:34:43.586345+00:00",
+  "postcode": "N7 6HS",
+  "id": 88747602,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious top floor three double bedroom apartment within a well kept block in a highly convenient location. NO HMO.",
+  "displayAddress": "Holloway Road London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.558,
+    "longitude": -0.12037
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955_max_476x317.jpeg",
+      "url": "property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955.jpeg",
+      "caption": "Ph7_770865"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3cb2bd4a/88747602/d3cb2bd4a396a9cb0457073dcc36c1d1_max_476x317.jpeg",
+      "url": "property-photo/d3cb2bd4a/88747602/d3cb2bd4a396a9cb0457073dcc36c1d1.jpeg",
+      "caption": "Ph6_770864"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a9943bcd/88747602/7a9943bcd628556a0cb24ce76e791959_max_476x317.jpeg",
+      "url": "property-photo/7a9943bcd/88747602/7a9943bcd628556a0cb24ce76e791959.jpeg",
+      "caption": "Ph23_770881"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d23bb509/88747602/1d23bb50930ec0a2662ffdd76b241b5b_max_476x317.jpeg",
+      "url": "property-photo/1d23bb509/88747602/1d23bb50930ec0a2662ffdd76b241b5b.jpeg",
+      "caption": "Ph10_770868"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e07c29f24/88747602/e07c29f2420f854a2c73b64632ee3abd_max_476x317.jpeg",
+      "url": "property-photo/e07c29f24/88747602/e07c29f2420f854a2c73b64632ee3abd.jpeg",
+      "caption": "Ph11_770869"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4db5006a5/88747602/4db5006a5e8c1ccf3ccd7c40c147774d_max_476x317.jpeg",
+      "url": "property-photo/4db5006a5/88747602/4db5006a5e8c1ccf3ccd7c40c147774d.jpeg",
+      "caption": "Ph14_770872"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c576ec7b2/88747602/c576ec7b2914034d11ef5d74d43815b2_max_476x317.jpeg",
+      "url": "property-photo/c576ec7b2/88747602/c576ec7b2914034d11ef5d74d43815b2.jpeg",
+      "caption": "Ph16_770874"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f71fe600f/88747602/f71fe600f64e2b21ae94a0ab2b52b644_max_476x317.jpeg",
+      "url": "property-photo/f71fe600f/88747602/f71fe600f64e2b21ae94a0ab2b52b644.jpeg",
+      "caption": "Ph18_770876"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47efe631a/88747602/47efe631ac20806952aaab43342f76fe_max_476x317.jpeg",
+      "url": "property-photo/47efe631a/88747602/47efe631ac20806952aaab43342f76fe.jpeg",
+      "caption": "Ph20_770878"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b23c40df5/88747602/b23c40df5a3d75f7ca7f547906610add_max_476x317.jpeg",
+      "url": "property-photo/b23c40df5/88747602/b23c40df5a3d75f7ca7f547906610add.jpeg",
+      "caption": "Ph21_770879"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/870a77b2a/88747602/870a77b2aad6ccc3ed937b1fc923972a_max_476x317.jpeg",
+      "url": "property-photo/870a77b2a/88747602/870a77b2aad6ccc3ed937b1fc923972a.jpeg",
+      "caption": "Ph1_770838"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-22T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-20T14:20:05Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88747602#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88747602",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-20T16:47:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-21T03:49:33Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Double glazing",
+      "htmlDescription": "Double glazing"
+    },
+    {
+      "order": 3,
+      "description": "Well kept development",
+      "htmlDescription": "Well kept development"
+    },
+    {
+      "order": 4,
+      "description": "Offered unfurnished",
+      "htmlDescription": "Offered unfurnished"
+    },
+    {
+      "order": 5,
+      "description": "Highly convenient location",
+      "htmlDescription": "Highly convenient location"
+    },
+    {
+      "order": 6,
+      "description": "No HMO",
+      "htmlDescription": "No HMO"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955_max_476x317.jpeg",
+        "url": "property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955.jpeg",
+        "caption": "Ph7_770865"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3cb2bd4a/88747602/d3cb2bd4a396a9cb0457073dcc36c1d1_max_476x317.jpeg",
+        "url": "property-photo/d3cb2bd4a/88747602/d3cb2bd4a396a9cb0457073dcc36c1d1.jpeg",
+        "caption": "Ph6_770864"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a9943bcd/88747602/7a9943bcd628556a0cb24ce76e791959_max_476x317.jpeg",
+        "url": "property-photo/7a9943bcd/88747602/7a9943bcd628556a0cb24ce76e791959.jpeg",
+        "caption": "Ph23_770881"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d23bb509/88747602/1d23bb50930ec0a2662ffdd76b241b5b_max_476x317.jpeg",
+        "url": "property-photo/1d23bb509/88747602/1d23bb50930ec0a2662ffdd76b241b5b.jpeg",
+        "caption": "Ph10_770868"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e07c29f24/88747602/e07c29f2420f854a2c73b64632ee3abd_max_476x317.jpeg",
+        "url": "property-photo/e07c29f24/88747602/e07c29f2420f854a2c73b64632ee3abd.jpeg",
+        "caption": "Ph11_770869"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4db5006a5/88747602/4db5006a5e8c1ccf3ccd7c40c147774d_max_476x317.jpeg",
+        "url": "property-photo/4db5006a5/88747602/4db5006a5e8c1ccf3ccd7c40c147774d.jpeg",
+        "caption": "Ph14_770872"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c576ec7b2/88747602/c576ec7b2914034d11ef5d74d43815b2_max_476x317.jpeg",
+        "url": "property-photo/c576ec7b2/88747602/c576ec7b2914034d11ef5d74d43815b2.jpeg",
+        "caption": "Ph16_770874"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f71fe600f/88747602/f71fe600f64e2b21ae94a0ab2b52b644_max_476x317.jpeg",
+        "url": "property-photo/f71fe600f/88747602/f71fe600f64e2b21ae94a0ab2b52b644.jpeg",
+        "caption": "Ph18_770876"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47efe631a/88747602/47efe631ac20806952aaab43342f76fe_max_476x317.jpeg",
+        "url": "property-photo/47efe631a/88747602/47efe631ac20806952aaab43342f76fe.jpeg",
+        "caption": "Ph20_770878"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b23c40df5/88747602/b23c40df5a3d75f7ca7f547906610add_max_476x317.jpeg",
+        "url": "property-photo/b23c40df5/88747602/b23c40df5a3d75f7ca7f547906610add.jpeg",
+        "caption": "Ph21_770879"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/870a77b2a/88747602/870a77b2aad6ccc3ed937b1fc923972a_max_476x317.jpeg",
+        "url": "property-photo/870a77b2a/88747602/870a77b2aad6ccc3ed937b1fc923972a.jpeg",
+        "caption": "Ph1_770838"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56df0914f/88747602/56df0914f0e2b39d96e2e5ff0f410955_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added on 20/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
