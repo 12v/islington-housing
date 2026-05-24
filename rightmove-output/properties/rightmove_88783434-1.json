@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-23T22:29:50.358244+00:00",
+  "postcode": "N1 9FS",
+  "id": 88783434,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "2b2b apartment in TheCourtyard",
+  "displayAddress": "Flat , Fitzgerald Court, b Rodney Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.531658,
+    "longitude": -0.113986
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0_max_476x317.jpeg",
+      "url": "property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b26978ba6/88783434/b26978ba623db34cfdf7d144e1c1f35d_max_476x317.jpeg",
+      "url": "property-photo/b26978ba6/88783434/b26978ba623db34cfdf7d144e1c1f35d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd0ffb163/88783434/cd0ffb16352142981f1c236ba545b3ee_max_476x317.jpeg",
+      "url": "property-photo/cd0ffb163/88783434/cd0ffb16352142981f1c236ba545b3ee.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ed62ee/88783434/162ed62eeac52ff377cf959cb3cc85c2_max_476x317.jpeg",
+      "url": "property-photo/162ed62ee/88783434/162ed62eeac52ff377cf959cb3cc85c2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e6bd2e7e/88783434/3e6bd2e7ead281789d40f76fccc96730_max_476x317.jpeg",
+      "url": "property-photo/3e6bd2e7e/88783434/3e6bd2e7ead281789d40f76fccc96730.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01ab16c28/88783434/01ab16c286042fecb42592c4cf7121c8_max_476x317.jpeg",
+      "url": "property-photo/01ab16c28/88783434/01ab16c286042fecb42592c4cf7121c8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89705b86e/88783434/89705b86edf4c95b02d4c73ab3ef5202_max_476x317.jpeg",
+      "url": "property-photo/89705b86e/88783434/89705b86edf4c95b02d4c73ab3ef5202.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/681af3bc6/88783434/681af3bc697f8749a0e0ae7c144c53b8_max_476x317.jpeg",
+      "url": "property-photo/681af3bc6/88783434/681af3bc697f8749a0e0ae7c144c53b8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/468172e2d/88783434/468172e2dd85dc58dc9727e812887347_max_476x317.jpeg",
+      "url": "property-photo/468172e2d/88783434/468172e2dd85dc58dc9727e812887347.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ca154130/88783434/9ca1541300bf0ad464b5cad9819b048d_max_476x317.jpeg",
+      "url": "property-photo/9ca154130/88783434/9ca1541300bf0ad464b5cad9819b048d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fcfa0f09/88783434/2fcfa0f0986d80818bb173bcb3a943eb_max_476x317.jpeg",
+      "url": "property-photo/2fcfa0f09/88783434/2fcfa0f0986d80818bb173bcb3a943eb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d6c3a547/88783434/2d6c3a54732883156b0ed166308155dd_max_476x317.jpeg",
+      "url": "property-photo/2d6c3a547/88783434/2d6c3a54732883156b0ed166308155dd.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-21T13:58:04Z"
+  },
+  "price": {
+    "amount": 1080,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,680 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,080 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 252278,
+    "brandPlusLogoURI": "/partner-logo/29066645-PRODUCTS_LOGO-1766065089.jpeg",
+    "contactTelephone": "07747 884202",
+    "branchDisplayName": "CHARLES WILLIAM PROPERTY INVESTMENT, London",
+    "branchName": "London",
+    "brandTradingName": "CHARLES WILLIAM PROPERTY INVESTMENT",
+    "branchLandingPageUrl": "/estate-agents/agent/CHARLES-WILLIAM-PROPERTY-INVESTMENT/London-252278.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-14T17:03:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/29066645-PRODUCTS_LOGO-1766065089.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes). For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees. It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88783434#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88783434",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-21T13:52:12Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-23T01:04:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2b2b",
+      "htmlDescription": "2b2b"
+    },
+    {
+      "order": 2,
+      "description": "TheCourtyard",
+      "htmlDescription": "TheCourtyard"
+    },
+    {
+      "order": 3,
+      "description": "Gym",
+      "htmlDescription": "Gym"
+    },
+    {
+      "order": 4,
+      "description": "24h Concierge",
+      "htmlDescription": "24h Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Swimming Pool",
+      "htmlDescription": "Swimming Pool"
+    },
+    {
+      "order": 6,
+      "description": "Sauna room",
+      "htmlDescription": "Sauna room"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0_max_476x317.jpeg",
+        "url": "property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b26978ba6/88783434/b26978ba623db34cfdf7d144e1c1f35d_max_476x317.jpeg",
+        "url": "property-photo/b26978ba6/88783434/b26978ba623db34cfdf7d144e1c1f35d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd0ffb163/88783434/cd0ffb16352142981f1c236ba545b3ee_max_476x317.jpeg",
+        "url": "property-photo/cd0ffb163/88783434/cd0ffb16352142981f1c236ba545b3ee.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ed62ee/88783434/162ed62eeac52ff377cf959cb3cc85c2_max_476x317.jpeg",
+        "url": "property-photo/162ed62ee/88783434/162ed62eeac52ff377cf959cb3cc85c2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e6bd2e7e/88783434/3e6bd2e7ead281789d40f76fccc96730_max_476x317.jpeg",
+        "url": "property-photo/3e6bd2e7e/88783434/3e6bd2e7ead281789d40f76fccc96730.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01ab16c28/88783434/01ab16c286042fecb42592c4cf7121c8_max_476x317.jpeg",
+        "url": "property-photo/01ab16c28/88783434/01ab16c286042fecb42592c4cf7121c8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89705b86e/88783434/89705b86edf4c95b02d4c73ab3ef5202_max_476x317.jpeg",
+        "url": "property-photo/89705b86e/88783434/89705b86edf4c95b02d4c73ab3ef5202.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/681af3bc6/88783434/681af3bc697f8749a0e0ae7c144c53b8_max_476x317.jpeg",
+        "url": "property-photo/681af3bc6/88783434/681af3bc697f8749a0e0ae7c144c53b8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/468172e2d/88783434/468172e2dd85dc58dc9727e812887347_max_476x317.jpeg",
+        "url": "property-photo/468172e2d/88783434/468172e2dd85dc58dc9727e812887347.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ca154130/88783434/9ca1541300bf0ad464b5cad9819b048d_max_476x317.jpeg",
+        "url": "property-photo/9ca154130/88783434/9ca1541300bf0ad464b5cad9819b048d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fcfa0f09/88783434/2fcfa0f0986d80818bb173bcb3a943eb_max_476x317.jpeg",
+        "url": "property-photo/2fcfa0f09/88783434/2fcfa0f0986d80818bb173bcb3a943eb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d6c3a547/88783434/2d6c3a54732883156b0ed166308155dd_max_476x317.jpeg",
+        "url": "property-photo/2d6c3a547/88783434/2d6c3a54732883156b0ed166308155dd.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/134c87120/88783434/134c87120a7984dae4ce7261a41412d0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CHARLES WILLIAM PROPERTY INVESTMENT, London",
+  "addedOrReduced": "Added on 21/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
