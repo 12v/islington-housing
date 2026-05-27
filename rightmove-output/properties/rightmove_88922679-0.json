@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-26T21:24:27.185324+00:00",
+  "postcode": "EC1V 3SJ",
+  "id": 88922679,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Luxurious studio near Old Street Station with premium kitchen, onsite gym, pool, spa, and 24-hour concierge. Close to shops and cafes.",
+  "displayAddress": "City Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526544,
+    "longitude": -0.091939
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837_max_476x317.png",
+      "url": "property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d7a58dbc/88922679/8d7a58dbcc76cc100dce523835b22736_max_476x317.png",
+      "url": "property-photo/8d7a58dbc/88922679/8d7a58dbcc76cc100dce523835b22736.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2d9a5700/88922679/b2d9a5700301385d2d8f416f57820fe1_max_476x317.png",
+      "url": "property-photo/b2d9a5700/88922679/b2d9a5700301385d2d8f416f57820fe1.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db94ac341/88922679/db94ac34176eca735c37046090325b0d_max_476x317.jpeg",
+      "url": "property-photo/db94ac341/88922679/db94ac34176eca735c37046090325b0d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ecf337915/88922679/ecf337915a5eabfb2c9e8144d885e0a2_max_476x317.jpeg",
+      "url": "property-photo/ecf337915/88922679/ecf337915a5eabfb2c9e8144d885e0a2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c878f0cf1/88922679/c878f0cf13ec7dc24e05d9a89bfcef57_max_476x317.jpeg",
+      "url": "property-photo/c878f0cf1/88922679/c878f0cf13ec7dc24e05d9a89bfcef57.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef0c06da4/88922679/ef0c06da4ec5d0592ca7253c66043713_max_476x317.jpeg",
+      "url": "property-photo/ef0c06da4/88922679/ef0c06da4ec5d0592ca7253c66043713.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124fd08af/88922679/124fd08af61ae5702157919821295c70_max_476x317.jpeg",
+      "url": "property-photo/124fd08af/88922679/124fd08af61ae5702157919821295c70.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Not Specified",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-26T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-26T12:19:09Z"
+  },
+  "price": {
+    "amount": 2200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3508 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 105559,
+    "brandPlusLogoURI": "/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "contactTelephone": "020 3834 8041",
+    "branchDisplayName": "Austin Homes London, London",
+    "branchName": "London",
+    "brandTradingName": "Austin Homes London",
+    "branchLandingPageUrl": "/estate-agents/agent/Austin-Homes-London/London-105559.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "350 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88922679#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88922679",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-26T12:13:31Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-26T12:19:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Studio Apartment",
+      "htmlDescription": "Studio Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Moments from vibrant local shops, cafes and amenities",
+      "htmlDescription": "Moments from vibrant local shops, cafes and amenities"
+    },
+    {
+      "order": 3,
+      "description": "Short walk to Old Street Station and excellent transport links",
+      "htmlDescription": "Short walk to Old Street Station and excellent transport links"
+    },
+    {
+      "order": 4,
+      "description": "Luxury swimming pool and spa within the development",
+      "htmlDescription": "Luxury swimming pool and spa within the development"
+    },
+    {
+      "order": 5,
+      "description": "24-hour concierge providing security and peace of mind",
+      "htmlDescription": "24-hour concierge providing security and peace of mind"
+    },
+    {
+      "order": 6,
+      "description": "On-site gym",
+      "htmlDescription": "On-site gym"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837_max_476x317.png",
+        "url": "property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d7a58dbc/88922679/8d7a58dbcc76cc100dce523835b22736_max_476x317.png",
+        "url": "property-photo/8d7a58dbc/88922679/8d7a58dbcc76cc100dce523835b22736.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2d9a5700/88922679/b2d9a5700301385d2d8f416f57820fe1_max_476x317.png",
+        "url": "property-photo/b2d9a5700/88922679/b2d9a5700301385d2d8f416f57820fe1.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db94ac341/88922679/db94ac34176eca735c37046090325b0d_max_476x317.jpeg",
+        "url": "property-photo/db94ac341/88922679/db94ac34176eca735c37046090325b0d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ecf337915/88922679/ecf337915a5eabfb2c9e8144d885e0a2_max_476x317.jpeg",
+        "url": "property-photo/ecf337915/88922679/ecf337915a5eabfb2c9e8144d885e0a2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c878f0cf1/88922679/c878f0cf13ec7dc24e05d9a89bfcef57_max_476x317.jpeg",
+        "url": "property-photo/c878f0cf1/88922679/c878f0cf13ec7dc24e05d9a89bfcef57.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef0c06da4/88922679/ef0c06da4ec5d0592ca7253c66043713_max_476x317.jpeg",
+        "url": "property-photo/ef0c06da4/88922679/ef0c06da4ec5d0592ca7253c66043713.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/124fd08af/88922679/124fd08af61ae5702157919821295c70_max_476x317.jpeg",
+        "url": "property-photo/124fd08af/88922679/124fd08af61ae5702157919821295c70.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64fcca030/88922679/64fcca030063aa16427c9bbd9289f837_max_296x197.png"
+  },
+  "formattedBranchName": " by Austin Homes London, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Property",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
