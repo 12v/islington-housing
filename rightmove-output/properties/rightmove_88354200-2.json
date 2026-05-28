@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-27T23:32:01.319253+00:00",
+  "postcode": "N19 4QT",
+  "id": 88354200,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly redecorated one bedroom, top floor apartment, situated between Crouch End and Finsbury Park.",
+  "displayAddress": "Trinder Road, N19 4QT",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.571327,
+    "longitude": -0.119067
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4_max_476x317.jpeg",
+      "url": "property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4.jpeg",
+      "caption": "1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9b63c8d4/88354200/b9b63c8d40edceaf93602b8350bc4403_max_476x317.jpeg",
+      "url": "property-photo/b9b63c8d4/88354200/b9b63c8d40edceaf93602b8350bc4403.jpeg",
+      "caption": "2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e528acd5/88354200/2e528acd59532d35afd0d54d89c2b5d0_max_476x317.jpeg",
+      "url": "property-photo/2e528acd5/88354200/2e528acd59532d35afd0d54d89c2b5d0.jpeg",
+      "caption": "3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b52557e5/88354200/4b52557e57ac38fbb869796c51e97c06_max_476x317.jpeg",
+      "url": "property-photo/4b52557e5/88354200/4b52557e57ac38fbb869796c51e97c06.jpeg",
+      "caption": "4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00d24a7da/88354200/00d24a7da96b2ee29dad5743e386d9e8_max_476x317.jpeg",
+      "url": "property-photo/00d24a7da/88354200/00d24a7da96b2ee29dad5743e386d9e8.jpeg",
+      "caption": "5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2042230d/88354200/d2042230d18a8164e632b3631c58f6d9_max_476x317.jpeg",
+      "url": "property-photo/d2042230d/88354200/d2042230d18a8164e632b3631c58f6d9.jpeg",
+      "caption": "6"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-22T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-05-27T11:55:39Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 164045,
+    "brandPlusLogoURI": "/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "contactTelephone": "020 3906 1017",
+    "branchDisplayName": "James Edward, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "James Edward",
+    "branchLandingPageUrl": "/estate-agents/agent/James-Edward/Highbury-164045.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88354200#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88354200",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-12T12:00:58Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-27T11:55:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Top Floor",
+      "htmlDescription": "Top Floor"
+    },
+    {
+      "order": 2,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 3,
+      "description": "Flexible Furnishings",
+      "htmlDescription": "Flexible Furnishings"
+    },
+    {
+      "order": 4,
+      "description": "Newly Re-Decorated",
+      "htmlDescription": "Newly Re-Decorated"
+    },
+    {
+      "order": 5,
+      "description": "Short Walk to Crouch End & Finsbury Park",
+      "htmlDescription": "Short Walk to Crouch End & Finsbury Park"
+    },
+    {
+      "order": 6,
+      "description": "Close to Crouch Hill Station",
+      "htmlDescription": "Close to Crouch Hill Station"
+    },
+    {
+      "order": 7,
+      "description": "Separate Kitchen / Living Room",
+      "htmlDescription": "Separate Kitchen / Living Room"
+    },
+    {
+      "order": 8,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4_max_476x317.jpeg",
+        "url": "property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4.jpeg",
+        "caption": "1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9b63c8d4/88354200/b9b63c8d40edceaf93602b8350bc4403_max_476x317.jpeg",
+        "url": "property-photo/b9b63c8d4/88354200/b9b63c8d40edceaf93602b8350bc4403.jpeg",
+        "caption": "2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e528acd5/88354200/2e528acd59532d35afd0d54d89c2b5d0_max_476x317.jpeg",
+        "url": "property-photo/2e528acd5/88354200/2e528acd59532d35afd0d54d89c2b5d0.jpeg",
+        "caption": "3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b52557e5/88354200/4b52557e57ac38fbb869796c51e97c06_max_476x317.jpeg",
+        "url": "property-photo/4b52557e5/88354200/4b52557e57ac38fbb869796c51e97c06.jpeg",
+        "caption": "4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00d24a7da/88354200/00d24a7da96b2ee29dad5743e386d9e8_max_476x317.jpeg",
+        "url": "property-photo/00d24a7da/88354200/00d24a7da96b2ee29dad5743e386d9e8.jpeg",
+        "caption": "5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2042230d/88354200/d2042230d18a8164e632b3631c58f6d9_max_476x317.jpeg",
+        "url": "property-photo/d2042230d/88354200/d2042230d18a8164e632b3631c58f6d9.jpeg",
+        "caption": "6"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/074ec3322/88354200/074ec3322701c53a7d658b3d7bf854c4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by James Edward, Highbury",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
