@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-29T23:22:44.757071+00:00",
+  "postcode": "N19 4NR",
+  "id": 89011983,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious one bedroom apartment, situated close to Upper Holloway and Crouch Hill, N19",
+  "displayAddress": "Marlborough Road, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56666,
+    "longitude": -0.12246
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9_max_476x317.jpeg",
+      "url": "property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9127a3492/89011983/9127a3492b3dc523fd72949f2dff7c70_max_476x317.jpeg",
+      "url": "property-photo/9127a3492/89011983/9127a3492b3dc523fd72949f2dff7c70.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d455e489/89011983/5d455e4896584dfc697f2379a02ab7e9_max_476x317.jpeg",
+      "url": "property-photo/5d455e489/89011983/5d455e4896584dfc697f2379a02ab7e9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b17ae23c/89011983/5b17ae23c69403bdaa107da120fed400_max_476x317.jpeg",
+      "url": "property-photo/5b17ae23c/89011983/5b17ae23c69403bdaa107da120fed400.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99222390f/89011983/99222390fe915c2650dd7be39e49fea7_max_476x317.jpeg",
+      "url": "property-photo/99222390f/89011983/99222390fe915c2650dd7be39e49fea7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fede49ef/89011983/7fede49efe08c3ecdc99f0138fd95fd6_max_476x317.jpeg",
+      "url": "property-photo/7fede49ef/89011983/7fede49efe08c3ecdc99f0138fd95fd6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74c5568d1/89011983/74c5568d17dfd2b90b6f83bcb1280ffe_max_476x317.jpeg",
+      "url": "property-photo/74c5568d1/89011983/74c5568d17dfd2b90b6f83bcb1280ffe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c0444985/89011983/5c04449855d208649b06aea8aa248950_max_476x317.jpeg",
+      "url": "property-photo/5c0444985/89011983/5c04449855d208649b06aea8aa248950.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-28T11:00:09Z"
+  },
+  "price": {
+    "amount": 1800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3415 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 72329,
+    "brandPlusLogoURI": "/partner-logo/8219060-PRODUCTS_LOGO-1766058911.jpeg",
+    "contactTelephone": "020 3840 3830",
+    "branchDisplayName": "Hanley Estates Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Hanley Estates Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Hanley-Estates-Ltd/London-72329.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-12T11:28:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8219060-PRODUCTS_LOGO-1766058911.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3415.38) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32076.92) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89011983#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89011983",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-28T10:55:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-28T11:00:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Conversion",
+      "htmlDescription": "Conversion"
+    },
+    {
+      "order": 2,
+      "description": "One Bedroom",
+      "htmlDescription": "One Bedroom"
+    },
+    {
+      "order": 3,
+      "description": "Seperate Reception",
+      "htmlDescription": "Seperate  Reception"
+    },
+    {
+      "order": 4,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Seperate Kitchen",
+      "htmlDescription": "Seperate Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Wood Flooring",
+      "htmlDescription": "Wood Flooring"
+    },
+    {
+      "order": 7,
+      "description": "Modern Decor",
+      "htmlDescription": "Modern Decor"
+    },
+    {
+      "order": 8,
+      "description": "Store Room",
+      "htmlDescription": "Store Room"
+    },
+    {
+      "order": 9,
+      "description": "Close to Finsbury Park Station",
+      "htmlDescription": "Close to Finsbury Park Station"
+    },
+    {
+      "order": 10,
+      "description": "Close to Crouch Hill Overground",
+      "htmlDescription": "Close to Crouch Hill Overground"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9_max_476x317.jpeg",
+        "url": "property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9127a3492/89011983/9127a3492b3dc523fd72949f2dff7c70_max_476x317.jpeg",
+        "url": "property-photo/9127a3492/89011983/9127a3492b3dc523fd72949f2dff7c70.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d455e489/89011983/5d455e4896584dfc697f2379a02ab7e9_max_476x317.jpeg",
+        "url": "property-photo/5d455e489/89011983/5d455e4896584dfc697f2379a02ab7e9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b17ae23c/89011983/5b17ae23c69403bdaa107da120fed400_max_476x317.jpeg",
+        "url": "property-photo/5b17ae23c/89011983/5b17ae23c69403bdaa107da120fed400.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99222390f/89011983/99222390fe915c2650dd7be39e49fea7_max_476x317.jpeg",
+        "url": "property-photo/99222390f/89011983/99222390fe915c2650dd7be39e49fea7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fede49ef/89011983/7fede49efe08c3ecdc99f0138fd95fd6_max_476x317.jpeg",
+        "url": "property-photo/7fede49ef/89011983/7fede49efe08c3ecdc99f0138fd95fd6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74c5568d1/89011983/74c5568d17dfd2b90b6f83bcb1280ffe_max_476x317.jpeg",
+        "url": "property-photo/74c5568d1/89011983/74c5568d17dfd2b90b6f83bcb1280ffe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c0444985/89011983/5c04449855d208649b06aea8aa248950_max_476x317.jpeg",
+        "url": "property-photo/5c0444985/89011983/5c04449855d208649b06aea8aa248950.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a68b604/89011983/d3a68b60467c2b0146a2604b63202ea9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hanley Estates Ltd, London",
+  "addedOrReduced": "Added on 28/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
