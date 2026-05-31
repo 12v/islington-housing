@@ -1,0 +1,278 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-05-30T22:38:14.834437+00:00",
+  "postcode": "N1 9UU",
+  "id": 88212174,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented two-bedroom apartment in the sought-after Bridge Wharf, offering bright living space, one bathroom plus an additional guest WC, and a private terrace overlooking the canal. The property also features a dedicated study, ideal for a home office. Part furnished and ideally located ...",
+  "displayAddress": "Caledonian Road, London, UK, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.534754,
+    "longitude": -0.116827
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a_max_476x317.jpeg",
+      "url": "property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96619f5d1/88212174/96619f5d1d063344358ac8566a72c73b_max_476x317.jpeg",
+      "url": "property-photo/96619f5d1/88212174/96619f5d1d063344358ac8566a72c73b.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6284b63c6/88212174/6284b63c6367b6cd5ddbad0f44b0be6f_max_476x317.jpeg",
+      "url": "property-photo/6284b63c6/88212174/6284b63c6367b6cd5ddbad0f44b0be6f.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e3e726bf7/88212174/e3e726bf7a0a3e68e8a1e4a6621b8e2e_max_476x317.jpeg",
+      "url": "property-photo/e3e726bf7/88212174/e3e726bf7a0a3e68e8a1e4a6621b8e2e.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f277f445f/88212174/f277f445f867e10005462eac27601d34_max_476x317.jpeg",
+      "url": "property-photo/f277f445f/88212174/f277f445f867e10005462eac27601d34.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f08ade98/88212174/5f08ade988afedb71b633776d7fc7c54_max_476x317.jpeg",
+      "url": "property-photo/5f08ade98/88212174/5f08ade988afedb71b633776d7fc7c54.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0808511c0/88212174/0808511c069ef6db2417cb046785bca3_max_476x317.jpeg",
+      "url": "property-photo/0808511c0/88212174/0808511c069ef6db2417cb046785bca3.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a99bcf4b1/88212174/a99bcf4b1c313d3db1eba2d32f965afb_max_476x317.jpeg",
+      "url": "property-photo/a99bcf4b1/88212174/a99bcf4b1c313d3db1eba2d32f965afb.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2210ce6d9/88212174/2210ce6d9004c3e5dd876e7ac5c6d5b0_max_476x317.jpeg",
+      "url": "property-photo/2210ce6d9/88212174/2210ce6d9004c3e5dd876e7ac5c6d5b0.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5b8ff576/88212174/f5b8ff576655a9f86e228ad916c4e4cd_max_476x317.jpeg",
+      "url": "property-photo/f5b8ff576/88212174/f5b8ff576655a9f86e228ad916c4e4cd.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06ae3aa46/88212174/06ae3aa466123183745cb0df3255d56e_max_476x317.jpeg",
+      "url": "property-photo/06ae3aa46/88212174/06ae3aa466123183745cb0df3255d56e.jpeg",
+      "caption": "Picture No. 12"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-05-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-05-27T23:28:03Z"
+  },
+  "price": {
+    "amount": 3250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3750 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 77148,
+    "brandPlusLogoURI": "/partner-logo/21751098-PRODUCTS_LOGO-1766066471.jpeg",
+    "contactTelephone": "020 3869 0860",
+    "branchDisplayName": "Alliance London, London",
+    "branchName": "London",
+    "brandTradingName": "Alliance London",
+    "branchLandingPageUrl": "/estate-agents/agent/Alliance-London/London-77148.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-30T15:28:50Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21751098-PRODUCTS_LOGO-1766066471.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88212174#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88212174",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-08T10:22:05Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-30T23:28:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedrooms",
+      "htmlDescription": "Two Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Part Furnished",
+      "htmlDescription": "Part Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 4,
+      "description": "Transport Links",
+      "htmlDescription": "Transport Links"
+    },
+    {
+      "order": 5,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 6,
+      "description": "Separate W/C",
+      "htmlDescription": "Separate W/C"
+    },
+    {
+      "order": 7,
+      "description": "Duplex",
+      "htmlDescription": "Duplex"
+    },
+    {
+      "order": 8,
+      "description": "EPC Band C",
+      "htmlDescription": "EPC Band C"
+    },
+    {
+      "order": 9,
+      "description": "Prime Location",
+      "htmlDescription": "Prime Location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a_max_476x317.jpeg",
+        "url": "property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96619f5d1/88212174/96619f5d1d063344358ac8566a72c73b_max_476x317.jpeg",
+        "url": "property-photo/96619f5d1/88212174/96619f5d1d063344358ac8566a72c73b.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6284b63c6/88212174/6284b63c6367b6cd5ddbad0f44b0be6f_max_476x317.jpeg",
+        "url": "property-photo/6284b63c6/88212174/6284b63c6367b6cd5ddbad0f44b0be6f.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e3e726bf7/88212174/e3e726bf7a0a3e68e8a1e4a6621b8e2e_max_476x317.jpeg",
+        "url": "property-photo/e3e726bf7/88212174/e3e726bf7a0a3e68e8a1e4a6621b8e2e.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f277f445f/88212174/f277f445f867e10005462eac27601d34_max_476x317.jpeg",
+        "url": "property-photo/f277f445f/88212174/f277f445f867e10005462eac27601d34.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f08ade98/88212174/5f08ade988afedb71b633776d7fc7c54_max_476x317.jpeg",
+        "url": "property-photo/5f08ade98/88212174/5f08ade988afedb71b633776d7fc7c54.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0808511c0/88212174/0808511c069ef6db2417cb046785bca3_max_476x317.jpeg",
+        "url": "property-photo/0808511c0/88212174/0808511c069ef6db2417cb046785bca3.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a99bcf4b1/88212174/a99bcf4b1c313d3db1eba2d32f965afb_max_476x317.jpeg",
+        "url": "property-photo/a99bcf4b1/88212174/a99bcf4b1c313d3db1eba2d32f965afb.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2210ce6d9/88212174/2210ce6d9004c3e5dd876e7ac5c6d5b0_max_476x317.jpeg",
+        "url": "property-photo/2210ce6d9/88212174/2210ce6d9004c3e5dd876e7ac5c6d5b0.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5b8ff576/88212174/f5b8ff576655a9f86e228ad916c4e4cd_max_476x317.jpeg",
+        "url": "property-photo/f5b8ff576/88212174/f5b8ff576655a9f86e228ad916c4e4cd.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06ae3aa46/88212174/06ae3aa466123183745cb0df3255d56e_max_476x317.jpeg",
+        "url": "property-photo/06ae3aa46/88212174/06ae3aa466123183745cb0df3255d56e.jpeg",
+        "caption": "Picture No. 12"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b11738600/88212174/b1173860071f3016e2398deaed29a68a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alliance London, London",
+  "addedOrReduced": "Reduced on 27/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
