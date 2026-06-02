@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-01T23:32:25.397607+00:00",
+  "postcode": "N1 9RE",
+  "id": 174571163,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "SHORT LET -This charming 2 bedroom house situated in a highly desirable location near Kings Cross Station, offering a convenient and comfortable living experience.",
+  "displayAddress": "Caledonian Road, \nIslington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533958,
+    "longitude": -0.117926
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df_max_476x317.jpeg",
+      "url": "property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d29dc957/174571163/0d29dc9579923d5915eb837377117730_max_476x317.jpeg",
+      "url": "property-photo/0d29dc957/174571163/0d29dc9579923d5915eb837377117730.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df9ea5a2f/174571163/df9ea5a2f73ae1e26c86f68fff1963b0_max_476x317.jpeg",
+      "url": "property-photo/df9ea5a2f/174571163/df9ea5a2f73ae1e26c86f68fff1963b0.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a45b0ee9/174571163/3a45b0ee92181d5506a87dc31e13f27c_max_476x317.jpeg",
+      "url": "property-photo/3a45b0ee9/174571163/3a45b0ee92181d5506a87dc31e13f27c.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/333b8179e/174571163/333b8179ec1bdd38f0274eb5942544e8_max_476x317.jpeg",
+      "url": "property-photo/333b8179e/174571163/333b8179ec1bdd38f0274eb5942544e8.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b43f886c/174571163/9b43f886cd8bd821bc93c235c37c02be_max_476x317.jpeg",
+      "url": "property-photo/9b43f886c/174571163/9b43f886cd8bd821bc93c235c37c02be.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe87ea25/174571163/bbe87ea251dfd829c1692e386b44360b_max_476x317.jpeg",
+      "url": "property-photo/bbe87ea25/174571163/bbe87ea251dfd829c1692e386b44360b.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f113bfa83/174571163/f113bfa830a5c5acc6ad3dde85fd0006_max_476x317.jpeg",
+      "url": "property-photo/f113bfa83/174571163/f113bfa830a5c5acc6ad3dde85fd0006.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746c6da06/174571163/746c6da067f083bdfd30e3d663aee1d1_max_476x317.jpeg",
+      "url": "property-photo/746c6da06/174571163/746c6da067f083bdfd30e3d663aee1d1.jpeg",
+      "caption": "Picture No. 14"
+    }
+  ],
+  "propertySubType": "End of Terrace",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-05-12T12:30:01Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 26207,
+    "brandPlusLogoURI": "/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "contactTelephone": "020 3872 5359",
+    "branchDisplayName": "Chestertons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Chestertons",
+    "branchLandingPageUrl": "/estate-agents/agent/Chestertons/Islington-26207.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "primaryBrandColour": "#6f2476"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nTENANCY INFORMATION<br />\n<br />\nClient money protection (CMP) provided by PropertyMark. <br />\nOmbudsman services provided by the Property Redress Scheme <br />\n<br />\nRules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br />\n<br />\nHOUSING ACT TENANCIES<br />\n<br />\nHolding deposit Equivalent of one weeks rent.<br />\n<br />\nChanging tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350. This will include but is not limited to where you request to vary the terms of the tenancy agreement, request consent for a pet, or where one or more tenant wishes to be released from their contract by finding a replacement tenant, an additional tenant added or a tenant removed.<br />\n<br />\nDeposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000<br />\n<br />\nLate, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nLost keys Any cost for the replacement of keys, fobs, security devices or associated items<br />\n<br />\nNON-HOUSING ACT TENANCIES (NHA)<br />\n<br />\nTenancy Agreement Fee: \u00a3360<br />\n<br />\nReference checks: \u00a360 per reference<br />\n<br />\nDeposit Usually equivalent to six weeks rent.<br />\n<br />\nRight to Rent: \u00a330 per person per check (as required)<br />\n<br />\nCheck-in and/or out from \u00a3120 to \u00a3500 approx. depending on the size of the property. Check your tenancy agreement to confirm who is responsible for paying this charge<br />\n<br />\nLate/unpaid/returned rent payments: \u00a330 per week late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nTenant Swap: \u00a3420 administration fee + references<br />\n<br />\nRenewal: \u00a3210 for each renewal.<br />\n<br />\nChanging tenancy documents once signed: \u00a3150 <br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax payable on tenancies where the rent exceeds \u00a3125,000\n",
+  "displaySize": "792 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/174571163#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=174571163",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-04-17T10:31:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-01T16:30:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "SHORT LET WITH UTILITY BILLS INCLUDED!",
+      "htmlDescription": "SHORT LET WITH UTILITY BILLS INCLUDED!"
+    },
+    {
+      "order": 2,
+      "description": "Charming 2 bedroom house",
+      "htmlDescription": "Charming 2 bedroom house"
+    },
+    {
+      "order": 3,
+      "description": "Offering a convenient and comfortable living experience.",
+      "htmlDescription": "Offering a convenient and comfortable living experience. "
+    },
+    {
+      "order": 4,
+      "description": "Large c800sqft garden",
+      "htmlDescription": "Large c800sqft garden"
+    },
+    {
+      "order": 5,
+      "description": "Situated in a highly desirable location",
+      "htmlDescription": "Situated in a highly desirable location"
+    },
+    {
+      "order": 6,
+      "description": "Near Kings Cross Station",
+      "htmlDescription": "Near Kings Cross Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df_max_476x317.jpeg",
+        "url": "property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d29dc957/174571163/0d29dc9579923d5915eb837377117730_max_476x317.jpeg",
+        "url": "property-photo/0d29dc957/174571163/0d29dc9579923d5915eb837377117730.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df9ea5a2f/174571163/df9ea5a2f73ae1e26c86f68fff1963b0_max_476x317.jpeg",
+        "url": "property-photo/df9ea5a2f/174571163/df9ea5a2f73ae1e26c86f68fff1963b0.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a45b0ee9/174571163/3a45b0ee92181d5506a87dc31e13f27c_max_476x317.jpeg",
+        "url": "property-photo/3a45b0ee9/174571163/3a45b0ee92181d5506a87dc31e13f27c.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/333b8179e/174571163/333b8179ec1bdd38f0274eb5942544e8_max_476x317.jpeg",
+        "url": "property-photo/333b8179e/174571163/333b8179ec1bdd38f0274eb5942544e8.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b43f886c/174571163/9b43f886cd8bd821bc93c235c37c02be_max_476x317.jpeg",
+        "url": "property-photo/9b43f886c/174571163/9b43f886cd8bd821bc93c235c37c02be.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe87ea25/174571163/bbe87ea251dfd829c1692e386b44360b_max_476x317.jpeg",
+        "url": "property-photo/bbe87ea25/174571163/bbe87ea251dfd829c1692e386b44360b.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f113bfa83/174571163/f113bfa830a5c5acc6ad3dde85fd0006_max_476x317.jpeg",
+        "url": "property-photo/f113bfa83/174571163/f113bfa830a5c5acc6ad3dde85fd0006.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/746c6da06/174571163/746c6da067f083bdfd30e3d663aee1d1_max_476x317.jpeg",
+        "url": "property-photo/746c6da06/174571163/746c6da067f083bdfd30e3d663aee1d1.jpeg",
+        "caption": "Picture No. 14"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb4a8be88/174571163/bb4a8be88efb8961d36cac26f17a13df_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chestertons, Islington",
+  "addedOrReduced": "Reduced on 12/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom end of terrace house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
