@@ -1,0 +1,147 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-03T21:45:50.980619+00:00",
+  "postcode": "EC1V 2AE",
+  "id": 88328088,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 2,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "Stylish 1-bed apartment in Carrara Tower, 250 City Road (Islington, London EC1V). 8-min walk to Old Street/Angel Stations, furnished with balcony & modern finishes. Ideal for professionals/students.",
+  "displayAddress": "Carrara Tower, 1 Bollinder Place, London, EC1V 2AE",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529056,
+    "longitude": -0.096252
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea_max_476x317.jpeg",
+      "url": "property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae40096e7/88328088/ae40096e7ae9a0fe350c5dfd0f6712bf_max_476x317.jpeg",
+      "url": "property-photo/ae40096e7/88328088/ae40096e7ae9a0fe350c5dfd0f6712bf.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-12T09:10:06Z"
+  },
+  "price": {
+    "amount": 3705,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,705 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3855 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 272480,
+    "brandPlusLogoURI": "/partner-logo/32256578-PRODUCTS_LOGO-1778598964012.jpg",
+    "contactTelephone": "020 4538 0709",
+    "branchDisplayName": "Bamboo Living, London",
+    "branchName": "London",
+    "brandTradingName": "Bamboo Living",
+    "branchLandingPageUrl": "/estate-agents/agent/Bamboo-Living/London-272480.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-03T16:29:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/32256578-PRODUCTS_LOGO-1778598964012.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88328088#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88328088",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-12T09:04:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-05-29T18:12:19Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea_max_476x317.jpeg",
+        "url": "property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae40096e7/88328088/ae40096e7ae9a0fe350c5dfd0f6712bf_max_476x317.jpeg",
+        "url": "property-photo/ae40096e7/88328088/ae40096e7ae9a0fe350c5dfd0f6712bf.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d05f6d1a/88328088/2d05f6d1a8d0cc1bd5179845b38c8cea_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Bamboo Living, London",
+  "addedOrReduced": "Added on 12/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

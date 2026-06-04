@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-04T00:25:33.723494+00:00",
+  "postcode": "N4 3LR",
+  "id": 89192808,
+  "bedrooms": 1,
+  "bathrooms": 0,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Bills Included Fully furnished Double Room set within a quiet, clean and well maintained house",
+  "displayAddress": "Turlewray Close, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.567103,
+    "longitude": -0.117151
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e_max_476x317.jpeg",
+      "url": "property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ef629f3e/89192808/0ef629f3e5e6f067bc4c604faa124023_max_476x317.jpeg",
+      "url": "property-photo/0ef629f3e/89192808/0ef629f3e5e6f067bc4c604faa124023.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8290875f/89192808/a8290875fd73778426e2aa4f71f8bac1_max_476x317.jpeg",
+      "url": "property-photo/a8290875f/89192808/a8290875fd73778426e2aa4f71f8bac1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f5296288/89192808/2f5296288e01fa105bf62b2d47e5933e_max_476x317.jpeg",
+      "url": "property-photo/2f5296288/89192808/2f5296288e01fa105bf62b2d47e5933e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00b41eaaf/89192808/00b41eaafe07060de77bb6fddf5e46bf_max_476x317.jpeg",
+      "url": "property-photo/00b41eaaf/89192808/00b41eaafe07060de77bb6fddf5e46bf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fe469719/89192808/4fe469719e01edc1324d6e423167bef3_max_476x317.jpeg",
+      "url": "property-photo/4fe469719/89192808/4fe469719e01edc1324d6e423167bef3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77b5c4f14/89192808/77b5c4f14912a5993f9842df4227b86e_max_476x317.jpeg",
+      "url": "property-photo/77b5c4f14/89192808/77b5c4f14912a5993f9842df4227b86e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ddbc8a90/89192808/6ddbc8a909d1a616e3b1dcccf7da8aeb_max_476x317.jpeg",
+      "url": "property-photo/6ddbc8a90/89192808/6ddbc8a909d1a616e3b1dcccf7da8aeb.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "House of Multiple Occupation",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-06-02T13:35:07Z"
+  },
+  "price": {
+    "amount": 775,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3775 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3179 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 144152,
+    "brandPlusLogoURI": "/partner-logo/15815135-PRODUCTS_LOGO-1766063623.jpeg",
+    "contactTelephone": "020 3909 3825",
+    "branchDisplayName": "Varosi Lettings & Estates, London",
+    "branchName": "London",
+    "brandTradingName": "Varosi Lettings & Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Varosi-Lettings-and-Estates/London-144152.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-03T16:29:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/15815135-PRODUCTS_LOGO-1766063623.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "13 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89192808#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89192808",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-02T13:29:32Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-02T13:48:38Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Short Walk To Finsbury Park Underground Station",
+      "htmlDescription": "Short Walk To Finsbury Park Underground Station"
+    },
+    {
+      "order": 2,
+      "description": "Local bus connections minutes away",
+      "htmlDescription": "Local bus connections minutes away"
+    },
+    {
+      "order": 3,
+      "description": "Excellent Amenities",
+      "htmlDescription": "Excellent Amenities "
+    },
+    {
+      "order": 4,
+      "description": "Double Room",
+      "htmlDescription": "Double Room"
+    },
+    {
+      "order": 5,
+      "description": "Fully Fitted Modern Kitchen",
+      "htmlDescription": "Fully Fitted Modern Kitchen "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e_max_476x317.jpeg",
+        "url": "property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ef629f3e/89192808/0ef629f3e5e6f067bc4c604faa124023_max_476x317.jpeg",
+        "url": "property-photo/0ef629f3e/89192808/0ef629f3e5e6f067bc4c604faa124023.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8290875f/89192808/a8290875fd73778426e2aa4f71f8bac1_max_476x317.jpeg",
+        "url": "property-photo/a8290875f/89192808/a8290875fd73778426e2aa4f71f8bac1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f5296288/89192808/2f5296288e01fa105bf62b2d47e5933e_max_476x317.jpeg",
+        "url": "property-photo/2f5296288/89192808/2f5296288e01fa105bf62b2d47e5933e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00b41eaaf/89192808/00b41eaafe07060de77bb6fddf5e46bf_max_476x317.jpeg",
+        "url": "property-photo/00b41eaaf/89192808/00b41eaafe07060de77bb6fddf5e46bf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fe469719/89192808/4fe469719e01edc1324d6e423167bef3_max_476x317.jpeg",
+        "url": "property-photo/4fe469719/89192808/4fe469719e01edc1324d6e423167bef3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77b5c4f14/89192808/77b5c4f14912a5993f9842df4227b86e_max_476x317.jpeg",
+        "url": "property-photo/77b5c4f14/89192808/77b5c4f14912a5993f9842df4227b86e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ddbc8a90/89192808/6ddbc8a909d1a616e3b1dcccf7da8aeb_max_476x317.jpeg",
+        "url": "property-photo/6ddbc8a90/89192808/6ddbc8a909d1a616e3b1dcccf7da8aeb.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/422c169ab/89192808/422c169ab8baa917dd0904e1a14ac10e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Varosi Lettings & Estates, London",
+  "addedOrReduced": "Reduced on 02/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house of multiple occupation",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
