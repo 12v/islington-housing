@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-06T00:06:04.394566+00:00",
+  "postcode": "N4 3NU",
+  "id": 88437420,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "LONG LET. This bright and spacious lower ground floor flat is well finished throughout featuring a open plan kitchen and reception room looking into a rear yard, a huge main bedroom with en-suite and well sized second bedroom.",
+  "displayAddress": "Yonge Park, Finsbury Park, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56151,
+    "longitude": -0.10955
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26_max_476x317.jpeg",
+      "url": "property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ae2cf431/88437420/6ae2cf4311ad1862c2462d197316504f_max_476x317.jpeg",
+      "url": "property-photo/6ae2cf431/88437420/6ae2cf4311ad1862c2462d197316504f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9dcd7b731/88437420/9dcd7b7319443d7b7fb68d825f2e3f83_max_476x317.jpeg",
+      "url": "property-photo/9dcd7b731/88437420/9dcd7b7319443d7b7fb68d825f2e3f83.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964d57180/88437420/964d571803df6eceabfd8d03b5577e88_max_476x317.jpeg",
+      "url": "property-photo/964d57180/88437420/964d571803df6eceabfd8d03b5577e88.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51c56579f/88437420/51c56579f7dbc0865dfc8417890331da_max_476x317.jpeg",
+      "url": "property-photo/51c56579f/88437420/51c56579f7dbc0865dfc8417890331da.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d147b8512/88437420/d147b85126455ce68d4bf4ee7045d98d_max_476x317.jpeg",
+      "url": "property-photo/d147b8512/88437420/d147b85126455ce68d4bf4ee7045d98d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f30fc099/88437420/5f30fc0999c3711bb4547c0004b64d27_max_476x317.jpeg",
+      "url": "property-photo/5f30fc099/88437420/5f30fc0999c3711bb4547c0004b64d27.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/393d5d225/88437420/393d5d2258055430376965509508aae4_max_476x317.jpeg",
+      "url": "property-photo/393d5d225/88437420/393d5d2258055430376965509508aae4.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-06-05T10:59:01Z"
+  },
+  "price": {
+    "amount": 2579,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,579 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3595 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 15954,
+    "brandPlusLogoURI": "/partner-logo/23106-PRODUCTS_LOGO-1766060863.jpeg",
+    "contactTelephone": "020 3840 3931",
+    "branchDisplayName": "Foxtons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Islington-15954.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23106-PRODUCTS_LOGO-1766060863.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a32,975</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250.00 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy, including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rent checks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250.00 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy where there are more than four individuals taking occupation of the property. The charge will not exceed this sum unless you request or cause one of the specific additional services or fees set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "875 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88437420#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88437420",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-13T16:39:26Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-05T10:59:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright and spacious lower ground level flat",
+      "htmlDescription": "Bright and spacious lower ground level flat"
+    },
+    {
+      "order": 2,
+      "description": "Modern finishings throughout",
+      "htmlDescription": "Modern finishings throughout"
+    },
+    {
+      "order": 3,
+      "description": "Large open plan kitchen and reception room",
+      "htmlDescription": "Large open plan kitchen and reception room"
+    },
+    {
+      "order": 4,
+      "description": "Rear garden",
+      "htmlDescription": "Rear garden"
+    },
+    {
+      "order": 5,
+      "description": "Huge main bedroom with en-suite",
+      "htmlDescription": "Huge main bedroom with en-suite"
+    },
+    {
+      "order": 6,
+      "description": "Well sized second bedroom",
+      "htmlDescription": "Well sized second bedroom"
+    },
+    {
+      "order": 7,
+      "description": "Great location",
+      "htmlDescription": "Great location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26_max_476x317.jpeg",
+        "url": "property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ae2cf431/88437420/6ae2cf4311ad1862c2462d197316504f_max_476x317.jpeg",
+        "url": "property-photo/6ae2cf431/88437420/6ae2cf4311ad1862c2462d197316504f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9dcd7b731/88437420/9dcd7b7319443d7b7fb68d825f2e3f83_max_476x317.jpeg",
+        "url": "property-photo/9dcd7b731/88437420/9dcd7b7319443d7b7fb68d825f2e3f83.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964d57180/88437420/964d571803df6eceabfd8d03b5577e88_max_476x317.jpeg",
+        "url": "property-photo/964d57180/88437420/964d571803df6eceabfd8d03b5577e88.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51c56579f/88437420/51c56579f7dbc0865dfc8417890331da_max_476x317.jpeg",
+        "url": "property-photo/51c56579f/88437420/51c56579f7dbc0865dfc8417890331da.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d147b8512/88437420/d147b85126455ce68d4bf4ee7045d98d_max_476x317.jpeg",
+        "url": "property-photo/d147b8512/88437420/d147b85126455ce68d4bf4ee7045d98d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f30fc099/88437420/5f30fc0999c3711bb4547c0004b64d27_max_476x317.jpeg",
+        "url": "property-photo/5f30fc099/88437420/5f30fc0999c3711bb4547c0004b64d27.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/393d5d225/88437420/393d5d2258055430376965509508aae4_max_476x317.jpeg",
+        "url": "property-photo/393d5d225/88437420/393d5d2258055430376965509508aae4.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d816d9988/88437420/d816d99882d62b72b273e3d0d4b6cf26_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Islington",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
