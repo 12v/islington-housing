@@ -1,0 +1,403 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-06T21:54:14.518094+00:00",
+  "postcode": "N1 1ED",
+  "id": 89284395,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 25,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Large two bedroom maisonette, featuring attractive contemporary styling and a private patio garden and terrace.",
+  "displayAddress": "Caledonian Road, Barnsbury, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.538997,
+    "longitude": -0.117026
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132_max_476x317.jpeg",
+      "url": "property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132.jpeg",
+      "caption": "External"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ae9417a3/89284395/6ae9417a3f1ec91e9cd9f23c2d0fb30a_max_476x317.jpeg",
+      "url": "property-photo/6ae9417a3/89284395/6ae9417a3f1ec91e9cd9f23c2d0fb30a.jpeg",
+      "caption": "Open Plan Living"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10efb10f1/89284395/10efb10f1ac6eae8a41a19df7d2a2a2a_max_476x317.jpeg",
+      "url": "property-photo/10efb10f1/89284395/10efb10f1ac6eae8a41a19df7d2a2a2a.jpeg",
+      "caption": "Open Plan Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8926f57d1/89284395/8926f57d16b9156aedf55c8503e208a7_max_476x317.jpeg",
+      "url": "property-photo/8926f57d1/89284395/8926f57d16b9156aedf55c8503e208a7.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb816c5e/89284395/5bb816c5ebcbaa59d3d6d446490bc6b7_max_476x317.jpeg",
+      "url": "property-photo/5bb816c5e/89284395/5bb816c5ebcbaa59d3d6d446490bc6b7.jpeg",
+      "caption": "Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fda9557c3/89284395/fda9557c3bec9ea25778d3e3a3edddc7_max_476x317.jpeg",
+      "url": "property-photo/fda9557c3/89284395/fda9557c3bec9ea25778d3e3a3edddc7.jpeg",
+      "caption": "Open Plan Living"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9053e242/89284395/c9053e242bd9aef7b2b894c16b085610_max_476x317.jpeg",
+      "url": "property-photo/c9053e242/89284395/c9053e242bd9aef7b2b894c16b085610.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c9d93683/89284395/2c9d936833c7971983375d8c143c795d_max_476x317.jpeg",
+      "url": "property-photo/2c9d93683/89284395/2c9d936833c7971983375d8c143c795d.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcdaa3501/89284395/bcdaa35012af63043ea341a7ceb216f9_max_476x317.jpeg",
+      "url": "property-photo/bcdaa3501/89284395/bcdaa35012af63043ea341a7ceb216f9.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba4c241e/89284395/5ba4c241e58a73ff6dbc6b1e2dde1765_max_476x317.jpeg",
+      "url": "property-photo/5ba4c241e/89284395/5ba4c241e58a73ff6dbc6b1e2dde1765.jpeg",
+      "caption": "Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/482a165ea/89284395/482a165eaa27e8077dd3398e75790928_max_476x317.jpeg",
+      "url": "property-photo/482a165ea/89284395/482a165eaa27e8077dd3398e75790928.jpeg",
+      "caption": "Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af1455763/89284395/af1455763b1f87b08e75935c715f827e_max_476x317.jpeg",
+      "url": "property-photo/af1455763/89284395/af1455763b1f87b08e75935c715f827e.jpeg",
+      "caption": "Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c0598478/89284395/1c05984788fa50a4905bc67113013f64_max_476x317.jpeg",
+      "url": "property-photo/1c0598478/89284395/1c05984788fa50a4905bc67113013f64.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef2ea75b6/89284395/ef2ea75b6c0ecb227610e38709541555_max_476x317.jpeg",
+      "url": "property-photo/ef2ea75b6/89284395/ef2ea75b6c0ecb227610e38709541555.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a5786613/89284395/1a57866133435801e5c84341313751d6_max_476x317.jpeg",
+      "url": "property-photo/1a5786613/89284395/1a57866133435801e5c84341313751d6.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/172455093/89284395/17245509335a775ef376e89790b1e357_max_476x317.jpeg",
+      "url": "property-photo/172455093/89284395/17245509335a775ef376e89790b1e357.jpeg",
+      "caption": "Open Plan Living"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a98d3db67/89284395/a98d3db6798d3e8d265632b1f4c01c2f_max_476x317.jpeg",
+      "url": "property-photo/a98d3db67/89284395/a98d3db6798d3e8d265632b1f4c01c2f.jpeg",
+      "caption": "Open Plan Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ae04b52c/89284395/7ae04b52c2f07e01ac706ec3b8e6b697_max_476x317.jpeg",
+      "url": "property-photo/7ae04b52c/89284395/7ae04b52c2f07e01ac706ec3b8e6b697.jpeg",
+      "caption": "Open Plan Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e78f876e/89284395/5e78f876e1a0a1b81b911ea0be8feeeb_max_476x317.jpeg",
+      "url": "property-photo/5e78f876e/89284395/5e78f876e1a0a1b81b911ea0be8feeeb.jpeg",
+      "caption": "Open Plan Living"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e76c1c6c0/89284395/e76c1c6c0680c75c0ea0d8830762beb3_max_476x317.jpeg",
+      "url": "property-photo/e76c1c6c0/89284395/e76c1c6c0680c75c0ea0d8830762beb3.jpeg",
+      "caption": "Open Plan Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88bb6a041/89284395/88bb6a0416957c7f4d5ca6b2a6b2a383_max_476x317.jpeg",
+      "url": "property-photo/88bb6a041/89284395/88bb6a0416957c7f4d5ca6b2a6b2a383.jpeg",
+      "caption": "Open Plan Living"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e09ac917a/89284395/e09ac917a6423de2fe992eba4802570d_max_476x317.jpeg",
+      "url": "property-photo/e09ac917a/89284395/e09ac917a6423de2fe992eba4802570d.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/425b32599/89284395/425b32599ad391ca0874bbd91134ac1a_max_476x317.jpeg",
+      "url": "property-photo/425b32599/89284395/425b32599ad391ca0874bbd91134ac1a.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33f0db780/89284395/33f0db780269431e272a4bb4a994fdbb_max_476x317.jpeg",
+      "url": "property-photo/33f0db780/89284395/33f0db780269431e272a4bb4a994fdbb.jpeg",
+      "caption": "Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd2ca4a5b/89284395/cd2ca4a5b8b46b3b8560293dba8de1a7_max_476x317.jpeg",
+      "url": "property-photo/cd2ca4a5b/89284395/cd2ca4a5b8b46b3b8560293dba8de1a7.jpeg",
+      "caption": "Garden"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-04T10:58:06Z"
+  },
+  "price": {
+    "amount": 795,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,445 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3795 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 49012,
+    "brandPlusLogoURI": "/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "contactTelephone": "020 3835 4523",
+    "branchDisplayName": "Savills Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Savills Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Savills-Lettings/Islington-49012.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-08T16:16:00Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13328-PRODUCTS_LOGO-1766064025.jpeg",
+    "primaryBrandColour": "#ffdf00"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy Information <br /><br /><br />Client money protection (CMP) provided by RICS: Savills.co.uk/client-money-protection <br /><br />Ombudsman services provided by PRS: theprs.co.uk/contactus <br /><br />Rules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br /><br />HOUSING ACT TENANCIES <br /><br />Holding deposit Equivalent of one weeks rent<br /><br />Changing tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Deposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br /><br />Change of sharer \u00a350 for one reference and a new tenancy agreement, or any reasonable costs incurred if these are higher than \u00a350<br /><br />Early termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  Payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment<br /><br />Late, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Lost keys Any cost for the replacement of keys, fobs, security devices or associated items<br /><br />NON-HOUSING ACT TENANCIES (NHA)<br /><br />Pre Tenancy Application Charge (PTAC) Equivalent of one weeks rent or \u00a3600. If you withdraw from the tenancy: Private tenancies - minimum of \u00a3300 per person. Company tenancies - minimum of \u00a3600<br /><br />Tenancy paperwork \u00a3385<br /><br />Company reference checks \u00a3120 per reference<br /><br />Deposit Usually equivalent to six weeks rent / with pet eight weeks<br /><br />Check-in and/or out From \u00a3120 to \u00a3620 approx. Check your tenancy agreement to confirm who is responsible for paying this charge<br /><br />Call out services (inc out of hours)  \u00a360 per hour and/or the contractors invoice where your actions or lack of actions result in us or a contractor attending the property to remedy the situation<br /><br />Last minute cancellation of pre-arranged visits  \u00a360 per visit and any contractor invoice<br /><br />Hourly rate  \u00a360 plus any replacement costs if we or the landlord have to replace any damaged items, or return any fixtures or fittings to their original position, as per the inventory<br /><br />Any overseas payment charges  \u00a330 per payment<br /><br />Late/unpaid/returned rent payments  \u00a360 late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br /><br />Change of sharer  \u00a3475 / Additional sharer (at the same time)  \u00a3100<br /><br />Renewal negotiation  \u00a3285 for each renewal. If additional referencing is required \u00a345 per reference<br /><br />Changing tenancy documents once signed \u00a3180<br /><br />Early termination (at landlord s discretion)  All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br /><br />Stamp Duty Land Tax  payable on tenancies where the rent exceeds \u00a3125,000<br /><br />Bank charges if you ask us to pay an overseas account we ll charge \u00a330 per payment",
+  "displaySize": "801 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89284395#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89284395",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-04T10:52:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-04T10:58:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Modern maisonette",
+      "htmlDescription": "Modern maisonette"
+    },
+    {
+      "order": 2,
+      "description": "Two bedrooms",
+      "htmlDescription": "Two bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Two bathrooms",
+      "htmlDescription": "Two bathrooms"
+    },
+    {
+      "order": 4,
+      "description": "Private garden and terrace",
+      "htmlDescription": "Private garden and terrace"
+    },
+    {
+      "order": 5,
+      "description": "Great transport links",
+      "htmlDescription": "Great transport links"
+    },
+    {
+      "order": 6,
+      "description": "EPC Rating = C",
+      "htmlDescription": "EPC Rating = C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132_max_476x317.jpeg",
+        "url": "property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132.jpeg",
+        "caption": "External"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ae9417a3/89284395/6ae9417a3f1ec91e9cd9f23c2d0fb30a_max_476x317.jpeg",
+        "url": "property-photo/6ae9417a3/89284395/6ae9417a3f1ec91e9cd9f23c2d0fb30a.jpeg",
+        "caption": "Open Plan Living"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10efb10f1/89284395/10efb10f1ac6eae8a41a19df7d2a2a2a_max_476x317.jpeg",
+        "url": "property-photo/10efb10f1/89284395/10efb10f1ac6eae8a41a19df7d2a2a2a.jpeg",
+        "caption": "Open Plan Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8926f57d1/89284395/8926f57d16b9156aedf55c8503e208a7_max_476x317.jpeg",
+        "url": "property-photo/8926f57d1/89284395/8926f57d16b9156aedf55c8503e208a7.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb816c5e/89284395/5bb816c5ebcbaa59d3d6d446490bc6b7_max_476x317.jpeg",
+        "url": "property-photo/5bb816c5e/89284395/5bb816c5ebcbaa59d3d6d446490bc6b7.jpeg",
+        "caption": "Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fda9557c3/89284395/fda9557c3bec9ea25778d3e3a3edddc7_max_476x317.jpeg",
+        "url": "property-photo/fda9557c3/89284395/fda9557c3bec9ea25778d3e3a3edddc7.jpeg",
+        "caption": "Open Plan Living"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9053e242/89284395/c9053e242bd9aef7b2b894c16b085610_max_476x317.jpeg",
+        "url": "property-photo/c9053e242/89284395/c9053e242bd9aef7b2b894c16b085610.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c9d93683/89284395/2c9d936833c7971983375d8c143c795d_max_476x317.jpeg",
+        "url": "property-photo/2c9d93683/89284395/2c9d936833c7971983375d8c143c795d.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcdaa3501/89284395/bcdaa35012af63043ea341a7ceb216f9_max_476x317.jpeg",
+        "url": "property-photo/bcdaa3501/89284395/bcdaa35012af63043ea341a7ceb216f9.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba4c241e/89284395/5ba4c241e58a73ff6dbc6b1e2dde1765_max_476x317.jpeg",
+        "url": "property-photo/5ba4c241e/89284395/5ba4c241e58a73ff6dbc6b1e2dde1765.jpeg",
+        "caption": "Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/482a165ea/89284395/482a165eaa27e8077dd3398e75790928_max_476x317.jpeg",
+        "url": "property-photo/482a165ea/89284395/482a165eaa27e8077dd3398e75790928.jpeg",
+        "caption": "Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af1455763/89284395/af1455763b1f87b08e75935c715f827e_max_476x317.jpeg",
+        "url": "property-photo/af1455763/89284395/af1455763b1f87b08e75935c715f827e.jpeg",
+        "caption": "Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c0598478/89284395/1c05984788fa50a4905bc67113013f64_max_476x317.jpeg",
+        "url": "property-photo/1c0598478/89284395/1c05984788fa50a4905bc67113013f64.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef2ea75b6/89284395/ef2ea75b6c0ecb227610e38709541555_max_476x317.jpeg",
+        "url": "property-photo/ef2ea75b6/89284395/ef2ea75b6c0ecb227610e38709541555.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a5786613/89284395/1a57866133435801e5c84341313751d6_max_476x317.jpeg",
+        "url": "property-photo/1a5786613/89284395/1a57866133435801e5c84341313751d6.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/172455093/89284395/17245509335a775ef376e89790b1e357_max_476x317.jpeg",
+        "url": "property-photo/172455093/89284395/17245509335a775ef376e89790b1e357.jpeg",
+        "caption": "Open Plan Living"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a98d3db67/89284395/a98d3db6798d3e8d265632b1f4c01c2f_max_476x317.jpeg",
+        "url": "property-photo/a98d3db67/89284395/a98d3db6798d3e8d265632b1f4c01c2f.jpeg",
+        "caption": "Open Plan Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ae04b52c/89284395/7ae04b52c2f07e01ac706ec3b8e6b697_max_476x317.jpeg",
+        "url": "property-photo/7ae04b52c/89284395/7ae04b52c2f07e01ac706ec3b8e6b697.jpeg",
+        "caption": "Open Plan Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e78f876e/89284395/5e78f876e1a0a1b81b911ea0be8feeeb_max_476x317.jpeg",
+        "url": "property-photo/5e78f876e/89284395/5e78f876e1a0a1b81b911ea0be8feeeb.jpeg",
+        "caption": "Open Plan Living"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e76c1c6c0/89284395/e76c1c6c0680c75c0ea0d8830762beb3_max_476x317.jpeg",
+        "url": "property-photo/e76c1c6c0/89284395/e76c1c6c0680c75c0ea0d8830762beb3.jpeg",
+        "caption": "Open Plan Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88bb6a041/89284395/88bb6a0416957c7f4d5ca6b2a6b2a383_max_476x317.jpeg",
+        "url": "property-photo/88bb6a041/89284395/88bb6a0416957c7f4d5ca6b2a6b2a383.jpeg",
+        "caption": "Open Plan Living"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e09ac917a/89284395/e09ac917a6423de2fe992eba4802570d_max_476x317.jpeg",
+        "url": "property-photo/e09ac917a/89284395/e09ac917a6423de2fe992eba4802570d.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/425b32599/89284395/425b32599ad391ca0874bbd91134ac1a_max_476x317.jpeg",
+        "url": "property-photo/425b32599/89284395/425b32599ad391ca0874bbd91134ac1a.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33f0db780/89284395/33f0db780269431e272a4bb4a994fdbb_max_476x317.jpeg",
+        "url": "property-photo/33f0db780/89284395/33f0db780269431e272a4bb4a994fdbb.jpeg",
+        "caption": "Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd2ca4a5b/89284395/cd2ca4a5b8b46b3b8560293dba8de1a7_max_476x317.jpeg",
+        "url": "property-photo/cd2ca4a5b/89284395/cd2ca4a5b8b46b3b8560293dba8de1a7.jpeg",
+        "caption": "Garden"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84ae94bf8/89284395/84ae94bf86f8c1f3246c9426d535f132_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Savills Lettings, Islington",
+  "addedOrReduced": "Added on 04/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

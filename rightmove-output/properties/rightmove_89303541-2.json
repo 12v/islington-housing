@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-06T21:58:12.132818+00:00",
+  "postcode": "N1 1LS",
+  "id": 89303541,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly decorated three bedroom maisonette with a large private garden and ideally located close to Highbury & Islington station.",
+  "displayAddress": "Arundel Place, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.544522,
+    "longitude": -0.108724
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53_max_476x317.jpeg",
+      "url": "property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ffb02d0/89303541/09ffb02d0fa56135e13b0db32e452dfa_max_476x317.jpeg",
+      "url": "property-photo/09ffb02d0/89303541/09ffb02d0fa56135e13b0db32e452dfa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1878ea78/89303541/b1878ea7803a90860a57535c39354e1a_max_476x317.png",
+      "url": "property-photo/b1878ea78/89303541/b1878ea7803a90860a57535c39354e1a.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64c98f423/89303541/64c98f42303e06d4a995f25bb536455e_max_476x317.jpeg",
+      "url": "property-photo/64c98f423/89303541/64c98f42303e06d4a995f25bb536455e.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-04T14:44:06Z"
+  },
+  "price": {
+    "amount": 3800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3877 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 282839,
+    "brandPlusLogoURI": "/partner-logo/35111288-PRODUCTS_LOGO-1766062813.png",
+    "contactTelephone": "020 4572 3463",
+    "branchDisplayName": "Rayners.com, Hackney",
+    "branchName": "Hackney",
+    "brandTradingName": "Rayners.com",
+    "branchLandingPageUrl": "/estate-agents/agent/Raynerscom/Hackney-282839.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-04T16:48:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/35111288-PRODUCTS_LOGO-1766062813.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89303541#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89303541",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-04T14:38:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-05T16:57:44Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Photos to follow",
+      "htmlDescription": "Photos to follow"
+    },
+    {
+      "order": 2,
+      "description": "Newly decorated throughout",
+      "htmlDescription": "Newly decorated throughout"
+    },
+    {
+      "order": 3,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Spacious living room",
+      "htmlDescription": "Spacious living room"
+    },
+    {
+      "order": 5,
+      "description": "Modern kitchen diner",
+      "htmlDescription": "Modern kitchen diner"
+    },
+    {
+      "order": 6,
+      "description": "Shower room",
+      "htmlDescription": "Shower room"
+    },
+    {
+      "order": 7,
+      "description": "Separate WC",
+      "htmlDescription": "Separate WC"
+    },
+    {
+      "order": 8,
+      "description": "Large private garden",
+      "htmlDescription": "Large private garden"
+    },
+    {
+      "order": 9,
+      "description": "Close to Highbury & Islington station and local amenities",
+      "htmlDescription": "Close to Highbury & Islington station and local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53_max_476x317.jpeg",
+        "url": "property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ffb02d0/89303541/09ffb02d0fa56135e13b0db32e452dfa_max_476x317.jpeg",
+        "url": "property-photo/09ffb02d0/89303541/09ffb02d0fa56135e13b0db32e452dfa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1878ea78/89303541/b1878ea7803a90860a57535c39354e1a_max_476x317.png",
+        "url": "property-photo/b1878ea78/89303541/b1878ea7803a90860a57535c39354e1a.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64c98f423/89303541/64c98f42303e06d4a995f25bb536455e_max_476x317.jpeg",
+        "url": "property-photo/64c98f423/89303541/64c98f42303e06d4a995f25bb536455e.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5de82b913/89303541/5de82b913e67b995ceb0877b79f8ff53_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rayners.com, Hackney",
+  "addedOrReduced": "Added on 04/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
