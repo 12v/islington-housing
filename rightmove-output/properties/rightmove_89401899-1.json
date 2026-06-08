@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-08T01:06:15.435846+00:00",
+  "postcode": "WC1X 0EA",
+  "id": 89401899,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A one bedroom apartment set within the luxury Postmark development in the heart of Central London, Clerkenwell WC1X. The apartment offers large open-plan living area/kitchen with fully integrated appliances and modern fittings, connected to sizable balcony, spacious bedroom and smart ...",
+  "displayAddress": "Opus House, 3 Salutation Gardens, London, WC1X",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.524601,
+    "longitude": -0.114273
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d_max_476x317.jpeg",
+      "url": "property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcdb50109/89401899/dcdb501090f91396ef482b891e1baeb2_max_476x317.jpeg",
+      "url": "property-photo/dcdb50109/89401899/dcdb501090f91396ef482b891e1baeb2.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0c94fae5/89401899/d0c94fae59982df1f6bfa3c4ddfa5210_max_476x317.jpeg",
+      "url": "property-photo/d0c94fae5/89401899/d0c94fae59982df1f6bfa3c4ddfa5210.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a7eea7ca/89401899/2a7eea7cab1dc2650c68edcc2ae4c953_max_476x317.jpeg",
+      "url": "property-photo/2a7eea7ca/89401899/2a7eea7cab1dc2650c68edcc2ae4c953.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/561a71217/89401899/561a712179fe1edb4a9075b8365214d6_max_476x317.jpeg",
+      "url": "property-photo/561a71217/89401899/561a712179fe1edb4a9075b8365214d6.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2641c4c30/89401899/2641c4c308de19608ba8689872cdcaf2_max_476x317.jpeg",
+      "url": "property-photo/2641c4c30/89401899/2641c4c308de19608ba8689872cdcaf2.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac64a153f/89401899/ac64a153fd5c1f651c2cec9adbf6aa44_max_476x317.jpeg",
+      "url": "property-photo/ac64a153f/89401899/ac64a153fd5c1f651c2cec9adbf6aa44.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5c826196/89401899/b5c8261966e7e0943d62af94e4f2c5c9_max_476x317.jpeg",
+      "url": "property-photo/b5c826196/89401899/b5c8261966e7e0943d62af94e4f2c5c9.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ca047a30/89401899/6ca047a305b5446f211fba927f85ed84_max_476x317.jpeg",
+      "url": "property-photo/6ca047a30/89401899/6ca047a305b5446f211fba927f85ed84.jpeg",
+      "caption": "Balcony"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-06T18:22:05Z"
+  },
+  "price": {
+    "amount": 675,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,925 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3675 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97423,
+    "brandPlusLogoURI": "/partner-logo/13243285-LOGO-1765963581.jpg",
+    "contactTelephone": "020 3840 4014",
+    "branchDisplayName": "Chase Evans, City & Aldgate",
+    "branchName": "City & Aldgate",
+    "brandTradingName": "Chase Evans",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13243285-LOGO-1765963581.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "454 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89401899#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89401899",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-06T18:16:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-06T18:22:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "ONE BEDROOM",
+      "htmlDescription": "ONE BEDROOM"
+    },
+    {
+      "order": 2,
+      "description": "ONE BATHROOM",
+      "htmlDescription": "ONE BATHROOM"
+    },
+    {
+      "order": 3,
+      "description": "PRIVATE BALCONY",
+      "htmlDescription": "PRIVATE BALCONY"
+    },
+    {
+      "order": 4,
+      "description": "NO PARKING",
+      "htmlDescription": "NO PARKING"
+    },
+    {
+      "order": 5,
+      "description": "LOCAL AMENITIES",
+      "htmlDescription": "LOCAL AMENITIES"
+    },
+    {
+      "order": 6,
+      "description": "NEARBY TRANSPORT LINKS",
+      "htmlDescription": "NEARBY TRANSPORT LINKS"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d_max_476x317.jpeg",
+        "url": "property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcdb50109/89401899/dcdb501090f91396ef482b891e1baeb2_max_476x317.jpeg",
+        "url": "property-photo/dcdb50109/89401899/dcdb501090f91396ef482b891e1baeb2.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0c94fae5/89401899/d0c94fae59982df1f6bfa3c4ddfa5210_max_476x317.jpeg",
+        "url": "property-photo/d0c94fae5/89401899/d0c94fae59982df1f6bfa3c4ddfa5210.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a7eea7ca/89401899/2a7eea7cab1dc2650c68edcc2ae4c953_max_476x317.jpeg",
+        "url": "property-photo/2a7eea7ca/89401899/2a7eea7cab1dc2650c68edcc2ae4c953.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/561a71217/89401899/561a712179fe1edb4a9075b8365214d6_max_476x317.jpeg",
+        "url": "property-photo/561a71217/89401899/561a712179fe1edb4a9075b8365214d6.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2641c4c30/89401899/2641c4c308de19608ba8689872cdcaf2_max_476x317.jpeg",
+        "url": "property-photo/2641c4c30/89401899/2641c4c308de19608ba8689872cdcaf2.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac64a153f/89401899/ac64a153fd5c1f651c2cec9adbf6aa44_max_476x317.jpeg",
+        "url": "property-photo/ac64a153f/89401899/ac64a153fd5c1f651c2cec9adbf6aa44.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5c826196/89401899/b5c8261966e7e0943d62af94e4f2c5c9_max_476x317.jpeg",
+        "url": "property-photo/b5c826196/89401899/b5c8261966e7e0943d62af94e4f2c5c9.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ca047a30/89401899/6ca047a305b5446f211fba927f85ed84_max_476x317.jpeg",
+        "url": "property-photo/6ca047a30/89401899/6ca047a305b5446f211fba927f85ed84.jpeg",
+        "caption": "Balcony"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf757771/89401899/cdf757771367d5b720dfa92a43cb697d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Evans, City & Aldgate",
+  "addedOrReduced": "Added on 06/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

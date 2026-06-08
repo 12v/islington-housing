@@ -1,0 +1,273 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-07T21:59:40.704728+00:00",
+  "postcode": "N1 1LX",
+  "id": 89350734,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stunning two double bedroom, two bath maisonette with private garden in Barnsbury.",
+  "displayAddress": "Liverpool Road, Barnsbury, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539983,
+    "longitude": -0.106732
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31_max_476x317.jpeg",
+      "url": "property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08aa5f2cb/89350734/08aa5f2cb15e68162b0fab192a850f2b_max_476x317.jpeg",
+      "url": "property-photo/08aa5f2cb/89350734/08aa5f2cb15e68162b0fab192a850f2b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b6a5c5a3/89350734/6b6a5c5a3988f0b080164925918f5b47_max_476x317.jpeg",
+      "url": "property-photo/6b6a5c5a3/89350734/6b6a5c5a3988f0b080164925918f5b47.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/929386fe5/89350734/929386fe5cd09b5c2efa7c7d54e1416d_max_476x317.jpeg",
+      "url": "property-photo/929386fe5/89350734/929386fe5cd09b5c2efa7c7d54e1416d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f275057a/89350734/9f275057a13a32f4562acd6b77956ca2_max_476x317.jpeg",
+      "url": "property-photo/9f275057a/89350734/9f275057a13a32f4562acd6b77956ca2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d9dd1774/89350734/2d9dd17744d480e799b741b33bd3808d_max_476x317.jpeg",
+      "url": "property-photo/2d9dd1774/89350734/2d9dd17744d480e799b741b33bd3808d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14320c251/89350734/14320c2515a90487a4e113e6fbd29b5d_max_476x317.jpeg",
+      "url": "property-photo/14320c251/89350734/14320c2515a90487a4e113e6fbd29b5d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/331da37cf/89350734/331da37cfaa48ec5773284d648fc1d45_max_476x317.jpeg",
+      "url": "property-photo/331da37cf/89350734/331da37cfaa48ec5773284d648fc1d45.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab98ec31/89350734/1ab98ec3152508f55b10922d5b534f85_max_476x317.jpeg",
+      "url": "property-photo/1ab98ec31/89350734/1ab98ec3152508f55b10922d5b534f85.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57fdacf5d/89350734/57fdacf5d972cace0a0de2a53028ffa8_max_476x317.jpeg",
+      "url": "property-photo/57fdacf5d/89350734/57fdacf5d972cace0a0de2a53028ffa8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec51890ca/89350734/ec51890ca61823ce89045de0a4aabfef_max_476x317.jpeg",
+      "url": "property-photo/ec51890ca/89350734/ec51890ca61823ce89045de0a4aabfef.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81222ecd9/89350734/81222ecd9fac0de64b33737985c507cd_max_476x317.jpeg",
+      "url": "property-photo/81222ecd9/89350734/81222ecd9fac0de64b33737985c507cd.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-05T14:21:07Z"
+  },
+  "price": {
+    "amount": 4000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3923 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 95275,
+    "brandPlusLogoURI": "/partner-logo/12983281-PRODUCTS_LOGO-1766059664.jpeg",
+    "contactTelephone": "020 7834 8000",
+    "branchDisplayName": "Hogarth Estates, Pimlico",
+    "branchName": "Pimlico",
+    "brandTradingName": "Hogarth Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Hogarth-Estates/Pimlico-95275.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/12983281-PRODUCTS_LOGO-1766059664.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (22302)<br />Client Money Protection provided by: Propertymark (C0126196 )",
+  "displaySize": "806 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89350734#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89350734",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-05T14:15:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-05T14:21:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bedrooms",
+      "htmlDescription": "2 Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "2 Bathrooms",
+      "htmlDescription": "2 Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Graden",
+      "htmlDescription": "Graden"
+    },
+    {
+      "order": 4,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 5,
+      "description": "Liverpool Road",
+      "htmlDescription": "Liverpool Road"
+    },
+    {
+      "order": 6,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31_max_476x317.jpeg",
+        "url": "property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08aa5f2cb/89350734/08aa5f2cb15e68162b0fab192a850f2b_max_476x317.jpeg",
+        "url": "property-photo/08aa5f2cb/89350734/08aa5f2cb15e68162b0fab192a850f2b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b6a5c5a3/89350734/6b6a5c5a3988f0b080164925918f5b47_max_476x317.jpeg",
+        "url": "property-photo/6b6a5c5a3/89350734/6b6a5c5a3988f0b080164925918f5b47.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/929386fe5/89350734/929386fe5cd09b5c2efa7c7d54e1416d_max_476x317.jpeg",
+        "url": "property-photo/929386fe5/89350734/929386fe5cd09b5c2efa7c7d54e1416d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f275057a/89350734/9f275057a13a32f4562acd6b77956ca2_max_476x317.jpeg",
+        "url": "property-photo/9f275057a/89350734/9f275057a13a32f4562acd6b77956ca2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d9dd1774/89350734/2d9dd17744d480e799b741b33bd3808d_max_476x317.jpeg",
+        "url": "property-photo/2d9dd1774/89350734/2d9dd17744d480e799b741b33bd3808d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14320c251/89350734/14320c2515a90487a4e113e6fbd29b5d_max_476x317.jpeg",
+        "url": "property-photo/14320c251/89350734/14320c2515a90487a4e113e6fbd29b5d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/331da37cf/89350734/331da37cfaa48ec5773284d648fc1d45_max_476x317.jpeg",
+        "url": "property-photo/331da37cf/89350734/331da37cfaa48ec5773284d648fc1d45.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab98ec31/89350734/1ab98ec3152508f55b10922d5b534f85_max_476x317.jpeg",
+        "url": "property-photo/1ab98ec31/89350734/1ab98ec3152508f55b10922d5b534f85.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57fdacf5d/89350734/57fdacf5d972cace0a0de2a53028ffa8_max_476x317.jpeg",
+        "url": "property-photo/57fdacf5d/89350734/57fdacf5d972cace0a0de2a53028ffa8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec51890ca/89350734/ec51890ca61823ce89045de0a4aabfef_max_476x317.jpeg",
+        "url": "property-photo/ec51890ca/89350734/ec51890ca61823ce89045de0a4aabfef.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81222ecd9/89350734/81222ecd9fac0de64b33737985c507cd_max_476x317.jpeg",
+        "url": "property-photo/81222ecd9/89350734/81222ecd9fac0de64b33737985c507cd.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bee1ae05f/89350734/bee1ae05f6a0c8751a2ce22e773f3a31_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hogarth Estates, Pimlico",
+  "addedOrReduced": "Added on 05/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
