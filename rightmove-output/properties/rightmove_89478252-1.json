@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-11T22:05:45.262260+00:00",
+  "postcode": "N1 0GL",
+  "id": 89478252,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Acquire Estate Agents are delighted to offer a large two double bedroom apartment at the Kings Quarter Development in Kings Cross, moments from Kings Cross BR and the local amenities of the area",
+  "displayAddress": "Copenhagen Street, London,N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.537149,
+    "longitude": -0.119539
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2_max_476x317.jpeg",
+      "url": "property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36d882f4f/89478252/36d882f4f02702d5de1c782d1e97009d_max_476x317.jpeg",
+      "url": "property-photo/36d882f4f/89478252/36d882f4f02702d5de1c782d1e97009d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ecd85724/89478252/0ecd85724eda150f39150e0a315a3707_max_476x317.jpeg",
+      "url": "property-photo/0ecd85724/89478252/0ecd85724eda150f39150e0a315a3707.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/faa40e48e/89478252/faa40e48e7936da2ec38da1896207027_max_476x317.jpeg",
+      "url": "property-photo/faa40e48e/89478252/faa40e48e7936da2ec38da1896207027.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1615ddcf7/89478252/1615ddcf74934ae5f110c047751ee421_max_476x317.jpeg",
+      "url": "property-photo/1615ddcf7/89478252/1615ddcf74934ae5f110c047751ee421.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6cbc8f42/89478252/f6cbc8f42bb721bee6c3eb169d58a9c5_max_476x317.jpeg",
+      "url": "property-photo/f6cbc8f42/89478252/f6cbc8f42bb721bee6c3eb169d58a9c5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43010e762/89478252/43010e7627c676767d5a5a90e40b6110_max_476x317.jpeg",
+      "url": "property-photo/43010e762/89478252/43010e7627c676767d5a5a90e40b6110.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0573026c/89478252/b0573026c529b31b4ac973c7760d0736_max_476x317.jpeg",
+      "url": "property-photo/b0573026c/89478252/b0573026c529b31b4ac973c7760d0736.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-09T11:35:13Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 302288,
+    "brandPlusLogoURI": "/partner-logo/44961992-PRODUCTS_LOGO-1776873873105.png",
+    "contactTelephone": "020 3958 4273",
+    "branchDisplayName": "Acquire Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Acquire Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Acquire-Estate-Agents/London-302288.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-03T16:29:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/44961992-PRODUCTS_LOGO-1776873873105.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (D01390)<br />Client Money Protection provided by: ARLA Propertymark (M0194655)",
+  "displaySize": "560 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89478252#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89478252",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-09T11:30:04Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-09T13:00:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "New Build Development",
+      "htmlDescription": "New Build Development"
+    },
+    {
+      "order": 2,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 3,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Lift and Concierge",
+      "htmlDescription": "Lift and Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Open Plan living room/kitchen",
+      "htmlDescription": "Open Plan living room/kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2_max_476x317.jpeg",
+        "url": "property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36d882f4f/89478252/36d882f4f02702d5de1c782d1e97009d_max_476x317.jpeg",
+        "url": "property-photo/36d882f4f/89478252/36d882f4f02702d5de1c782d1e97009d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ecd85724/89478252/0ecd85724eda150f39150e0a315a3707_max_476x317.jpeg",
+        "url": "property-photo/0ecd85724/89478252/0ecd85724eda150f39150e0a315a3707.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/faa40e48e/89478252/faa40e48e7936da2ec38da1896207027_max_476x317.jpeg",
+        "url": "property-photo/faa40e48e/89478252/faa40e48e7936da2ec38da1896207027.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1615ddcf7/89478252/1615ddcf74934ae5f110c047751ee421_max_476x317.jpeg",
+        "url": "property-photo/1615ddcf7/89478252/1615ddcf74934ae5f110c047751ee421.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6cbc8f42/89478252/f6cbc8f42bb721bee6c3eb169d58a9c5_max_476x317.jpeg",
+        "url": "property-photo/f6cbc8f42/89478252/f6cbc8f42bb721bee6c3eb169d58a9c5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43010e762/89478252/43010e7627c676767d5a5a90e40b6110_max_476x317.jpeg",
+        "url": "property-photo/43010e762/89478252/43010e7627c676767d5a5a90e40b6110.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0573026c/89478252/b0573026c529b31b4ac973c7760d0736_max_476x317.jpeg",
+        "url": "property-photo/b0573026c/89478252/b0573026c529b31b4ac973c7760d0736.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb17a6c67/89478252/bb17a6c67082d6526819720fa757daa2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Acquire Estate Agents, London",
+  "addedOrReduced": "Added on 09/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
