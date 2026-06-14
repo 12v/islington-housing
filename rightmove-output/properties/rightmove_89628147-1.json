@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-13T23:43:01.628258+00:00",
+  "postcode": "N4 3FQ",
+  "id": 89628147,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "A New Build Flat, right next to Finsbury Park Station (20 second walk from the station) located on the third floor. Flat Features 1 bedroom and 1 bathroom (474 sq/ft) , as well as: 24-hour concie... ** Property Reference: 2917188 **",
+  "displayAddress": "City North East Tower, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56441,
+    "longitude": -0.107777
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137_max_476x317.jpeg",
+      "url": "property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137.jpeg",
+      "caption": "Living Room / Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e8e97a15/89628147/6e8e97a15c22fbc21dde1f2f7e8523c5_max_476x317.jpeg",
+      "url": "property-photo/6e8e97a15/89628147/6e8e97a15c22fbc21dde1f2f7e8523c5.jpeg",
+      "caption": "Entrance"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec1fd3dd5/89628147/ec1fd3dd59ec91497aaa46054a0929db_max_476x317.jpeg",
+      "url": "property-photo/ec1fd3dd5/89628147/ec1fd3dd59ec91497aaa46054a0929db.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce8ae63d0/89628147/ce8ae63d048b2ee91431741327f49118_max_476x317.jpeg",
+      "url": "property-photo/ce8ae63d0/89628147/ce8ae63d048b2ee91431741327f49118.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c76925e9f/89628147/c76925e9f514a2ba20a45d5bf2d60289_max_476x317.jpeg",
+      "url": "property-photo/c76925e9f/89628147/c76925e9f514a2ba20a45d5bf2d60289.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff2ce7faf/89628147/ff2ce7faf1ddd860552382b529f714cd_max_476x317.jpeg",
+      "url": "property-photo/ff2ce7faf/89628147/ff2ce7faf1ddd860552382b529f714cd.jpeg",
+      "caption": "Bedroom "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d027ae97a/89628147/d027ae97a1a78a1e691ce2411f3a7158_max_476x317.jpeg",
+      "url": "property-photo/d027ae97a/89628147/d027ae97a1a78a1e691ce2411f3a7158.jpeg",
+      "caption": "Utility Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea42c173f/89628147/ea42c173fa6372fe058c019603c94b9b_max_476x317.jpeg",
+      "url": "property-photo/ea42c173f/89628147/ea42c173fa6372fe058c019603c94b9b.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e3bc7b7a/89628147/9e3bc7b7a94cfdb0f274a97cd6556a27_max_476x317.jpeg",
+      "url": "property-photo/9e3bc7b7a/89628147/9e3bc7b7a94cfdb0f274a97cd6556a27.jpeg",
+      "caption": "Cgi Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930f0b71d/89628147/930f0b71dd292d15890edb108dc14706_max_476x317.jpeg",
+      "url": "property-photo/930f0b71d/89628147/930f0b71dd292d15890edb108dc14706.jpeg",
+      "caption": "Cgi Development"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac573d10a/89628147/ac573d10ab7cdb30d67cb8257c3d6f39_max_476x317.jpeg",
+      "url": "property-photo/ac573d10a/89628147/ac573d10ab7cdb30d67cb8257c3d6f39.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-12T11:16:07Z"
+  },
+  "price": {
+    "amount": 2125,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,125 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3490 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-19T11:19:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89628147#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89628147",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-12T11:10:46Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-12T14:29:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Students Can Enquire",
+      "htmlDescription": "Students Can Enquire"
+    },
+    {
+      "order": 3,
+      "description": "Property Reference Number: 2917188",
+      "htmlDescription": "Property Reference Number: 2917188"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Added on 12/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137_max_476x317.jpeg",
+        "url": "property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137.jpeg",
+        "caption": "Living Room / Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e8e97a15/89628147/6e8e97a15c22fbc21dde1f2f7e8523c5_max_476x317.jpeg",
+        "url": "property-photo/6e8e97a15/89628147/6e8e97a15c22fbc21dde1f2f7e8523c5.jpeg",
+        "caption": "Entrance"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec1fd3dd5/89628147/ec1fd3dd59ec91497aaa46054a0929db_max_476x317.jpeg",
+        "url": "property-photo/ec1fd3dd5/89628147/ec1fd3dd59ec91497aaa46054a0929db.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce8ae63d0/89628147/ce8ae63d048b2ee91431741327f49118_max_476x317.jpeg",
+        "url": "property-photo/ce8ae63d0/89628147/ce8ae63d048b2ee91431741327f49118.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c76925e9f/89628147/c76925e9f514a2ba20a45d5bf2d60289_max_476x317.jpeg",
+        "url": "property-photo/c76925e9f/89628147/c76925e9f514a2ba20a45d5bf2d60289.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff2ce7faf/89628147/ff2ce7faf1ddd860552382b529f714cd_max_476x317.jpeg",
+        "url": "property-photo/ff2ce7faf/89628147/ff2ce7faf1ddd860552382b529f714cd.jpeg",
+        "caption": "Bedroom "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d027ae97a/89628147/d027ae97a1a78a1e691ce2411f3a7158_max_476x317.jpeg",
+        "url": "property-photo/d027ae97a/89628147/d027ae97a1a78a1e691ce2411f3a7158.jpeg",
+        "caption": "Utility Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea42c173f/89628147/ea42c173fa6372fe058c019603c94b9b_max_476x317.jpeg",
+        "url": "property-photo/ea42c173f/89628147/ea42c173fa6372fe058c019603c94b9b.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e3bc7b7a/89628147/9e3bc7b7a94cfdb0f274a97cd6556a27_max_476x317.jpeg",
+        "url": "property-photo/9e3bc7b7a/89628147/9e3bc7b7a94cfdb0f274a97cd6556a27.jpeg",
+        "caption": "Cgi Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930f0b71d/89628147/930f0b71dd292d15890edb108dc14706_max_476x317.jpeg",
+        "url": "property-photo/930f0b71d/89628147/930f0b71dd292d15890edb108dc14706.jpeg",
+        "caption": "Cgi Development"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac573d10a/89628147/ac573d10ab7cdb30d67cb8257c3d6f39_max_476x317.jpeg",
+        "url": "property-photo/ac573d10a/89628147/ac573d10ab7cdb30d67cb8257c3d6f39.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/65fb5fede/89628147/65fb5fede120151d5ac654a13613f137_max_296x197.jpeg"
+  }
+}
