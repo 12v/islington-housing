@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-16T22:48:06.524617+00:00",
+  "postcode": "N1 2SF",
+  "id": 89774475,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright and spacious two-bedroom flat on Essex Road with Private patio, featuring an open-plan living area, modern kitchen, and excellent transport links perfect for sharers or professionals seeking within the Islington and Angel area.",
+  "displayAddress": "Essex Road, Angel",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53762,
+    "longitude": -0.10044
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c_max_476x317.jpeg",
+      "url": "property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40956a9cc/89774475/40956a9cc5dc6401fab1a7845b571c9d_max_476x317.jpeg",
+      "url": "property-photo/40956a9cc/89774475/40956a9cc5dc6401fab1a7845b571c9d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/defd4aad7/89774475/defd4aad7a6b88e4861f9f91ae89c23c_max_476x317.jpeg",
+      "url": "property-photo/defd4aad7/89774475/defd4aad7a6b88e4861f9f91ae89c23c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/efd51f676/89774475/efd51f6764f11ba0cbea58e018cb0032_max_476x317.jpeg",
+      "url": "property-photo/efd51f676/89774475/efd51f6764f11ba0cbea58e018cb0032.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e4ac23df/89774475/2e4ac23df5f964958d146bae4a702843_max_476x317.jpeg",
+      "url": "property-photo/2e4ac23df/89774475/2e4ac23df5f964958d146bae4a702843.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3da499af8/89774475/3da499af8347d8ca2118d4d8e714d7f7_max_476x317.jpeg",
+      "url": "property-photo/3da499af8/89774475/3da499af8347d8ca2118d4d8e714d7f7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b396ae817/89774475/b396ae817156afe912ae2876a0f8a52d_max_476x317.jpeg",
+      "url": "property-photo/b396ae817/89774475/b396ae817156afe912ae2876a0f8a52d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc66087db/89774475/fc66087dbb7968a57d0912053c13b852_max_476x317.jpeg",
+      "url": "property-photo/fc66087db/89774475/fc66087dbb7968a57d0912053c13b852.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-16T16:05:08Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3565.38) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32826.92) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "463 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89774475#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89774475",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-16T15:59:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-16T16:05:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Flat",
+      "htmlDescription": "Two Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Private Patio",
+      "htmlDescription": "Private Patio"
+    },
+    {
+      "order": 3,
+      "description": "Spacious open-plan kitchen and reception room",
+      "htmlDescription": "Spacious open-plan kitchen and reception room"
+    },
+    {
+      "order": 4,
+      "description": "Modern three-piece bathroom suite",
+      "htmlDescription": "Modern three-piece bathroom suite"
+    },
+    {
+      "order": 5,
+      "description": "Fitted kitchen with gas hob, oven, fridge freezer, and washing machine",
+      "htmlDescription": "Fitted kitchen with gas hob, oven, fridge freezer, and washing machine"
+    },
+    {
+      "order": 6,
+      "description": "Double-glazed windows throughout",
+      "htmlDescription": "Double-glazed windows throughout"
+    },
+    {
+      "order": 7,
+      "description": "Excellent natural light",
+      "htmlDescription": "Excellent natural light"
+    },
+    {
+      "order": 8,
+      "description": "Offered unfurnished",
+      "htmlDescription": "Offered unfurnished"
+    },
+    {
+      "order": 9,
+      "description": "Well-sized and bright living spaces",
+      "htmlDescription": "Well-sized and bright living spaces"
+    },
+    {
+      "order": 10,
+      "description": "Close to Essex Road and Angel stations",
+      "htmlDescription": "Close to Essex Road and Angel stations"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c_max_476x317.jpeg",
+        "url": "property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40956a9cc/89774475/40956a9cc5dc6401fab1a7845b571c9d_max_476x317.jpeg",
+        "url": "property-photo/40956a9cc/89774475/40956a9cc5dc6401fab1a7845b571c9d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/defd4aad7/89774475/defd4aad7a6b88e4861f9f91ae89c23c_max_476x317.jpeg",
+        "url": "property-photo/defd4aad7/89774475/defd4aad7a6b88e4861f9f91ae89c23c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/efd51f676/89774475/efd51f6764f11ba0cbea58e018cb0032_max_476x317.jpeg",
+        "url": "property-photo/efd51f676/89774475/efd51f6764f11ba0cbea58e018cb0032.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e4ac23df/89774475/2e4ac23df5f964958d146bae4a702843_max_476x317.jpeg",
+        "url": "property-photo/2e4ac23df/89774475/2e4ac23df5f964958d146bae4a702843.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3da499af8/89774475/3da499af8347d8ca2118d4d8e714d7f7_max_476x317.jpeg",
+        "url": "property-photo/3da499af8/89774475/3da499af8347d8ca2118d4d8e714d7f7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b396ae817/89774475/b396ae817156afe912ae2876a0f8a52d_max_476x317.jpeg",
+        "url": "property-photo/b396ae817/89774475/b396ae817156afe912ae2876a0f8a52d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc66087db/89774475/fc66087dbb7968a57d0912053c13b852_max_476x317.jpeg",
+        "url": "property-photo/fc66087db/89774475/fc66087dbb7968a57d0912053c13b852.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6a6b2ab0/89774475/a6a6b2ab0d72079e194ef82866acbb9c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
