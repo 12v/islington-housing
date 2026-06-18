@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-17T23:47:32.435852+00:00",
+  "postcode": "N19 5SE",
+  "id": 89574714,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Fantastic two bedroom flat to rent set on the second floor above a commercial premises minutes from Archway tube station. The property comprises two double bedrooms, a luxury shower room and separate fitted kitchen. Located on Holloway Road with a wealth of amenities available close by and a sho...",
+  "displayAddress": "Holloway Road, Archway, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56486,
+    "longitude": -0.13336
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a_max_476x317.jpeg",
+      "url": "property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f53d49510/89574714/f53d495103d0632296b35484b1022ce4_max_476x317.jpeg",
+      "url": "property-photo/f53d49510/89574714/f53d495103d0632296b35484b1022ce4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/038eda3d9/89574714/038eda3d95983ed2145839c6c673e635_max_476x317.jpeg",
+      "url": "property-photo/038eda3d9/89574714/038eda3d95983ed2145839c6c673e635.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bd40dfab/89574714/1bd40dfab0d68e2ad233664bd36031a7_max_476x317.jpeg",
+      "url": "property-photo/1bd40dfab/89574714/1bd40dfab0d68e2ad233664bd36031a7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd94fdac1/89574714/bd94fdac1b6b665f9803c37198078b8e_max_476x317.jpeg",
+      "url": "property-photo/bd94fdac1/89574714/bd94fdac1b6b665f9803c37198078b8e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1702b76d1/89574714/1702b76d1e891c4a55094078670a81be_max_476x317.jpeg",
+      "url": "property-photo/1702b76d1/89574714/1702b76d1e891c4a55094078670a81be.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d1c16dc7/89574714/8d1c16dc7b763ffa8b8de29b16e5db30_max_476x317.jpeg",
+      "url": "property-photo/8d1c16dc7/89574714/8d1c16dc7b763ffa8b8de29b16e5db30.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fad3776a/89574714/1fad3776a8e598a84b32385a451e1882_max_476x317.jpeg",
+      "url": "property-photo/1fad3776a/89574714/1fad3776a8e598a84b32385a451e1882.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-06-16T16:06:24Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 176261,
+    "brandPlusLogoURI": "/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "contactTelephone": "020 3889 9033",
+    "branchDisplayName": "David Astburys Ltd, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "David Astburys Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys-Ltd/Crouch-End-176261.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:05:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "primaryBrandColour": "#9b2743"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Company Information \n\n David Astburys Ltd \n Company Registration Number: 10474483 \n Registered Office: 27 Mortimer Street, London, W1T 3BL \n\n Tenant Fees / Permitted Payments \n- Holding Deposit: One week's rent \n- Security Deposit: Five weeks' rent (under \u00a350,000 per annum) or six weeks' rent (over \u00a350,000 per annum) \n\n Permitted payments during the tenancy include: \n- \u00a350 (inc. VAT) for variation of contract \n- \u00a350 (inc. VAT) for change of sharer \n- Interest on unpaid rent at 3% (3.6% inc VAT) above the Bank of England Base Rate (applicable after 14 days) \n- Reasonable costs for lost keys or security devices \n- Reasonable costs associated with early termination of the tenancy \n\n Client Money Protection \n\n David Astburys is a member of the Propertymark Client Money Protection Scheme. \n\n Our membership is available on our website .davidastburys.com \n\n Redress Scheme \n\n David Astburys is a member of The Property Ombudsman Scheme (Membership No. T08450). \n\n Our membership certificate is available on our website .davidastburys.com \n\n If you have any further questions about our fees, please contact a member of staff  ",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89574714#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89574714",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-11T10:18:42Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-17T06:45:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Flat",
+      "htmlDescription": "Two Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Bright Reception Room",
+      "htmlDescription": "Bright Reception Room"
+    },
+    {
+      "order": 3,
+      "description": "Second Floor",
+      "htmlDescription": "Second Floor"
+    },
+    {
+      "order": 4,
+      "description": "Luxury Shower Room",
+      "htmlDescription": "Luxury Shower Room"
+    },
+    {
+      "order": 5,
+      "description": "Separate Kitchen",
+      "htmlDescription": "Separate Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Minutes From Archway Tube Station",
+      "htmlDescription": "Minutes From Archway Tube Station"
+    },
+    {
+      "order": 7,
+      "description": "Minutes From Upper Holloway Station",
+      "htmlDescription": "Minutes From Upper Holloway Station"
+    },
+    {
+      "order": 8,
+      "description": "Student Friendly",
+      "htmlDescription": "Student Friendly"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a_max_476x317.jpeg",
+        "url": "property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f53d49510/89574714/f53d495103d0632296b35484b1022ce4_max_476x317.jpeg",
+        "url": "property-photo/f53d49510/89574714/f53d495103d0632296b35484b1022ce4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/038eda3d9/89574714/038eda3d95983ed2145839c6c673e635_max_476x317.jpeg",
+        "url": "property-photo/038eda3d9/89574714/038eda3d95983ed2145839c6c673e635.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bd40dfab/89574714/1bd40dfab0d68e2ad233664bd36031a7_max_476x317.jpeg",
+        "url": "property-photo/1bd40dfab/89574714/1bd40dfab0d68e2ad233664bd36031a7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd94fdac1/89574714/bd94fdac1b6b665f9803c37198078b8e_max_476x317.jpeg",
+        "url": "property-photo/bd94fdac1/89574714/bd94fdac1b6b665f9803c37198078b8e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1702b76d1/89574714/1702b76d1e891c4a55094078670a81be_max_476x317.jpeg",
+        "url": "property-photo/1702b76d1/89574714/1702b76d1e891c4a55094078670a81be.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d1c16dc7/89574714/8d1c16dc7b763ffa8b8de29b16e5db30_max_476x317.jpeg",
+        "url": "property-photo/8d1c16dc7/89574714/8d1c16dc7b763ffa8b8de29b16e5db30.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fad3776a/89574714/1fad3776a8e598a84b32385a451e1882_max_476x317.jpeg",
+        "url": "property-photo/1fad3776a/89574714/1fad3776a8e598a84b32385a451e1882.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/840e0e561/89574714/840e0e561f1672222fefbde48d36e49a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys Ltd, Crouch End",
+  "addedOrReduced": "Reduced on 16/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

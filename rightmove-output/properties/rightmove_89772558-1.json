@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-17T23:02:28.980941+00:00",
+  "postcode": "N1 8AR",
+  "id": 89772558,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "** Virtual Tour Available ** Stylish 2-Bedroom Mews House in Private Gated Development - Prime Angel Location This Beautifully presented 2 bedroom, 2 bathroom mews house (829 sq. ft.) has been recently redecorated and is located within a secure, private gated development, just a short walk...",
+  "displayAddress": "Bridel Mews, Angel, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.535619,
+    "longitude": -0.102051
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408_max_476x317.jpeg",
+      "url": "property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408.jpeg",
+      "caption": "EXTERNAL"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c4019140/89772558/5c4019140a3fa28b3d1dc1865338637c_max_476x317.jpeg",
+      "url": "property-photo/5c4019140/89772558/5c4019140a3fa28b3d1dc1865338637c.jpeg",
+      "caption": "RECEPTION"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53047d6ed/89772558/53047d6ed05e9dfec77f505c17eee58f_max_476x317.jpeg",
+      "url": "property-photo/53047d6ed/89772558/53047d6ed05e9dfec77f505c17eee58f.jpeg",
+      "caption": "RECEPTION"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/646af1016/89772558/646af10163c6f2caad2f7129822ed885_max_476x317.jpeg",
+      "url": "property-photo/646af1016/89772558/646af10163c6f2caad2f7129822ed885.jpeg",
+      "caption": "KITCHEN"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17bf98ad9/89772558/17bf98ad9b28ffc603b716493bc19f8a_max_476x317.jpeg",
+      "url": "property-photo/17bf98ad9/89772558/17bf98ad9b28ffc603b716493bc19f8a.jpeg",
+      "caption": "RECEPTION"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46932c9da/89772558/46932c9da39d3f4f684665aefa8add33_max_476x317.jpeg",
+      "url": "property-photo/46932c9da/89772558/46932c9da39d3f4f684665aefa8add33.jpeg",
+      "caption": "DINING AREA"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac9f9148/89772558/fac9f9148724ed5825515ede1c996db3_max_476x317.jpeg",
+      "url": "property-photo/fac9f9148/89772558/fac9f9148724ed5825515ede1c996db3.jpeg",
+      "caption": "BEDROOM 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd33057f8/89772558/fd33057f840b0007cd663a0c51f6eb51_max_476x317.jpeg",
+      "url": "property-photo/fd33057f8/89772558/fd33057f840b0007cd663a0c51f6eb51.jpeg",
+      "caption": "BEDROOM 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23e138b12/89772558/23e138b121b551b3d97ded6cb103bf7e_max_476x317.jpeg",
+      "url": "property-photo/23e138b12/89772558/23e138b121b551b3d97ded6cb103bf7e.jpeg",
+      "caption": "BALCONY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a88b28a8/89772558/5a88b28a83a330623e44cbebf2756e65_max_476x317.jpeg",
+      "url": "property-photo/5a88b28a8/89772558/5a88b28a83a330623e44cbebf2756e65.jpeg",
+      "caption": "BATHROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bd559262/89772558/6bd55926274a622747cff249b8988d82_max_476x317.jpeg",
+      "url": "property-photo/6bd559262/89772558/6bd55926274a622747cff249b8988d82.jpeg",
+      "caption": "SHOWER ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f77f93d60/89772558/f77f93d6098bb010e2098e18821f8923_max_476x317.jpeg",
+      "url": "property-photo/f77f93d60/89772558/f77f93d6098bb010e2098e18821f8923.jpeg",
+      "caption": "BALCONY"
+    }
+  ],
+  "propertySubType": "Mews",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-16T15:36:13Z"
+  },
+  "price": {
+    "amount": 795,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,445 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3795 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 33048,
+    "brandPlusLogoURI": "/partner-logo/7416771-PRODUCTS_LOGO-1766055799.png",
+    "contactTelephone": "020 3835 3240",
+    "branchDisplayName": "Daniel Rose Residential Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Daniel Rose Residential Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Daniel-Rose-Residential-Ltd/London-33048.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T20:15:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7416771-PRODUCTS_LOGO-1766055799.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><strong>\u00a0</strong></p><p><strong>\u00a0</strong></p><p><strong>PERMITTED PAYMENTS FOR TENANTS OF ASSURD SHORTHOLD TENANCIES</strong><br /><strong>1ST JUNE 2019</strong></p><p><strong></strong><br /><strong>TENANTS PERMITTED PAYMENTS FOR ASSURED SHORTHOLD TENANCIES / LICENCES / GUARANTOR & RELEVANT PERSONS</strong></p><p><strong></strong><br />Permitted Payments By Tenants<br />1. Rent<br />2. A refundable tenancy deposit of no more than six weeks rent for rents in excess of \u00a350K per annum or a tenancy deposit of 5 weeks for rents up to \u00a350K per annum.<br />3. A refundable holding deposit of no more than one week\u2019s rent<br />4. A payment that is required in the event of a default by the tenant such as late payment or breach of the tenancy agreement by the tenant provided this is no more than the landlord\u2019s or agent\u2019s reasonable costs<br />5. Payments on assignment, variation or novation of a tenancy at the tenant\u2019s request, capped at \u00a350 inclusive of VAT or the reasonable incurred costs (net costs, any excess is considered a prohibited payment)<br />6. Payments in respect of early termination of a tenancy agreement at the tenant\u2019s request capped at the landlord\u2019s loss<br />7. Payment to a local authority in respect of council tax<br />8. Payments in respect of energy and other utilities<br />9. Payments to the BBC in respect of a television licence<br />10. Payments in respect of communication services.</p><p><strong>CHARGES FOR COMPANY LETS & COMMON LAW TENANCIES</strong></p><p>Bank Reference<br />Your bank may charge you for supplying a status enquiry. The cost varies according to the bank, but is usually between \u00a38 and \u00a325.<br />Credit Check<br />We normally ask the applicants to sign up with Equifax to obtain a credit report. Equifax will provide the report free of charge as a part of their 30-day free trial, after which a monthly fee of \u00a314.95 will apply if not opted out.<br />Inventory Check-Out<br />The check-out fee is approximately \u00a3120 - \u00a3250 and varies according to the size of the property and the amount of furniture. We will advise you of the exact cost before a holding deposit is paid.<br />___________________________________________________________________________</p><p>Daniel Rose Residential Ltd are registered for Money Laundering Regulations and are members of:<br />\u2022 Client Money Protect (CMP)<br />\u2022 The Property Ombudsman (Property Redress Scheme) (  )</p><p>\u00a0</p><p>\u00a0</p>",
+  "displaySize": "829 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89772558#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89772558",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-16T15:30:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-16T15:36:13Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Bedroom Mews House",
+      "htmlDescription": "2 Bedroom Mews House"
+    },
+    {
+      "order": 2,
+      "description": "Private Gated Development",
+      "htmlDescription": "Private Gated Development"
+    },
+    {
+      "order": 3,
+      "description": "3 Floors / 829 sq ft",
+      "htmlDescription": "3 Floors / 829 sq ft"
+    },
+    {
+      "order": 4,
+      "description": "2 Bathrooms (1 Shower Room)",
+      "htmlDescription": "2 Bathrooms (1 Shower Room)"
+    },
+    {
+      "order": 5,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 6,
+      "description": "Private Parking Space",
+      "htmlDescription": "Private Parking Space"
+    },
+    {
+      "order": 7,
+      "description": "Recently Decorated",
+      "htmlDescription": "Recently Decorated"
+    },
+    {
+      "order": 8,
+      "description": "Laundry Room",
+      "htmlDescription": "Laundry Room"
+    },
+    {
+      "order": 9,
+      "description": "Moments to Angel & Upper Street",
+      "htmlDescription": "Moments to Angel & Upper Street"
+    },
+    {
+      "order": 10,
+      "description": "Available 7th August 2026",
+      "htmlDescription": "Available 7th August 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408_max_476x317.jpeg",
+        "url": "property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408.jpeg",
+        "caption": "EXTERNAL"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c4019140/89772558/5c4019140a3fa28b3d1dc1865338637c_max_476x317.jpeg",
+        "url": "property-photo/5c4019140/89772558/5c4019140a3fa28b3d1dc1865338637c.jpeg",
+        "caption": "RECEPTION"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53047d6ed/89772558/53047d6ed05e9dfec77f505c17eee58f_max_476x317.jpeg",
+        "url": "property-photo/53047d6ed/89772558/53047d6ed05e9dfec77f505c17eee58f.jpeg",
+        "caption": "RECEPTION"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/646af1016/89772558/646af10163c6f2caad2f7129822ed885_max_476x317.jpeg",
+        "url": "property-photo/646af1016/89772558/646af10163c6f2caad2f7129822ed885.jpeg",
+        "caption": "KITCHEN"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17bf98ad9/89772558/17bf98ad9b28ffc603b716493bc19f8a_max_476x317.jpeg",
+        "url": "property-photo/17bf98ad9/89772558/17bf98ad9b28ffc603b716493bc19f8a.jpeg",
+        "caption": "RECEPTION"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46932c9da/89772558/46932c9da39d3f4f684665aefa8add33_max_476x317.jpeg",
+        "url": "property-photo/46932c9da/89772558/46932c9da39d3f4f684665aefa8add33.jpeg",
+        "caption": "DINING AREA"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac9f9148/89772558/fac9f9148724ed5825515ede1c996db3_max_476x317.jpeg",
+        "url": "property-photo/fac9f9148/89772558/fac9f9148724ed5825515ede1c996db3.jpeg",
+        "caption": "BEDROOM 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd33057f8/89772558/fd33057f840b0007cd663a0c51f6eb51_max_476x317.jpeg",
+        "url": "property-photo/fd33057f8/89772558/fd33057f840b0007cd663a0c51f6eb51.jpeg",
+        "caption": "BEDROOM 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23e138b12/89772558/23e138b121b551b3d97ded6cb103bf7e_max_476x317.jpeg",
+        "url": "property-photo/23e138b12/89772558/23e138b121b551b3d97ded6cb103bf7e.jpeg",
+        "caption": "BALCONY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a88b28a8/89772558/5a88b28a83a330623e44cbebf2756e65_max_476x317.jpeg",
+        "url": "property-photo/5a88b28a8/89772558/5a88b28a83a330623e44cbebf2756e65.jpeg",
+        "caption": "BATHROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bd559262/89772558/6bd55926274a622747cff249b8988d82_max_476x317.jpeg",
+        "url": "property-photo/6bd559262/89772558/6bd55926274a622747cff249b8988d82.jpeg",
+        "caption": "SHOWER ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f77f93d60/89772558/f77f93d6098bb010e2098e18821f8923_max_476x317.jpeg",
+        "url": "property-photo/f77f93d60/89772558/f77f93d6098bb010e2098e18821f8923.jpeg",
+        "caption": "BALCONY"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6c2b79ec/89772558/c6c2b79ec529916e02c261ba255c4408_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Daniel Rose Residential Ltd, London",
+  "addedOrReduced": "Added on 16/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom mews house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

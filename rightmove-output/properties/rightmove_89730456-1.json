@@ -1,0 +1,448 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-17T21:33:18.029496+00:00",
+  "postcode": "EC1R 4UL",
+  "id": 89730456,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 29,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "An excellent two bedroom apartment in the impressive New River Head development. The property features a modern kitchen and spacious reception/dining room with parquet flooring, which leads out onto a private patio overlooking the courtyard. It also comprises two double bedrooms with a tiled bath...",
+  "displayAddress": "Rosebery Avenue, London, EC1R",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528329,
+    "longitude": -0.107864
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d_max_476x317.jpeg",
+      "url": "property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7d76bcd3/89730456/c7d76bcd341e29fbc24bec955ece1600_max_476x317.jpeg",
+      "url": "property-photo/c7d76bcd3/89730456/c7d76bcd341e29fbc24bec955ece1600.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd6d4efb6/89730456/bd6d4efb6ea89bff67c5eadd2bef0149_max_476x317.jpeg",
+      "url": "property-photo/bd6d4efb6/89730456/bd6d4efb6ea89bff67c5eadd2bef0149.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/30da17acb/89730456/30da17acbe46ecf2e0262bee36f456ba_max_476x317.jpeg",
+      "url": "property-photo/30da17acb/89730456/30da17acbe46ecf2e0262bee36f456ba.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/275f33d0d/89730456/275f33d0d9dd75f90997775ed2101cac_max_476x317.jpeg",
+      "url": "property-photo/275f33d0d/89730456/275f33d0d9dd75f90997775ed2101cac.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/801812bda/89730456/801812bdafd6e4384106c86df14f7c57_max_476x317.jpeg",
+      "url": "property-photo/801812bda/89730456/801812bdafd6e4384106c86df14f7c57.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3e3b064c/89730456/f3e3b064ceb70ee02b8ba6f53aca6f05_max_476x317.jpeg",
+      "url": "property-photo/f3e3b064c/89730456/f3e3b064ceb70ee02b8ba6f53aca6f05.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ab230eeb/89730456/0ab230eebafed04dfaaab8928ec6c63e_max_476x317.jpeg",
+      "url": "property-photo/0ab230eeb/89730456/0ab230eebafed04dfaaab8928ec6c63e.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36f94f349/89730456/36f94f34931f82c616f78cec4d285752_max_476x317.jpeg",
+      "url": "property-photo/36f94f349/89730456/36f94f34931f82c616f78cec4d285752.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3910f7f7/89730456/d3910f7f756d11ca8e5467bebb920380_max_476x317.jpeg",
+      "url": "property-photo/d3910f7f7/89730456/d3910f7f756d11ca8e5467bebb920380.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f11812e0/89730456/8f11812e043a43e1603a0c3b11684d04_max_476x317.jpeg",
+      "url": "property-photo/8f11812e0/89730456/8f11812e043a43e1603a0c3b11684d04.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09df196ed/89730456/09df196edaa51510e6874c0af003bfdf_max_476x317.jpeg",
+      "url": "property-photo/09df196ed/89730456/09df196edaa51510e6874c0af003bfdf.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77e966f41/89730456/77e966f419548beaabd190d41650c94f_max_476x317.jpeg",
+      "url": "property-photo/77e966f41/89730456/77e966f419548beaabd190d41650c94f.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1e32ccc9/89730456/f1e32ccc93dcc594fd07a0fb4966e595_max_476x317.jpeg",
+      "url": "property-photo/f1e32ccc9/89730456/f1e32ccc93dcc594fd07a0fb4966e595.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/702f2cc9c/89730456/702f2cc9cdfe2e146132f7cf1a1ae837_max_476x317.jpeg",
+      "url": "property-photo/702f2cc9c/89730456/702f2cc9cdfe2e146132f7cf1a1ae837.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3cfcab8b/89730456/a3cfcab8b6143c171aba908d279827be_max_476x317.jpeg",
+      "url": "property-photo/a3cfcab8b/89730456/a3cfcab8b6143c171aba908d279827be.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b012fc7aa/89730456/b012fc7aaede182ae9b9806ec66d21b3_max_476x317.jpeg",
+      "url": "property-photo/b012fc7aa/89730456/b012fc7aaede182ae9b9806ec66d21b3.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8602da8c/89730456/d8602da8cd220e2a2f4eb0f27cbfef71_max_476x317.jpeg",
+      "url": "property-photo/d8602da8c/89730456/d8602da8cd220e2a2f4eb0f27cbfef71.jpeg",
+      "caption": "Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f11e8cfe5/89730456/f11e8cfe5071658012b44282032e2843_max_476x317.jpeg",
+      "url": "property-photo/f11e8cfe5/89730456/f11e8cfe5071658012b44282032e2843.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0d57447f/89730456/f0d57447f93365d332026447fae64925_max_476x317.jpeg",
+      "url": "property-photo/f0d57447f/89730456/f0d57447f93365d332026447fae64925.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec7252ffb/89730456/ec7252ffb7abdc34fcb35bef890fd4ad_max_476x317.jpeg",
+      "url": "property-photo/ec7252ffb/89730456/ec7252ffb7abdc34fcb35bef890fd4ad.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49d1b0d51/89730456/49d1b0d51386c7d75853ac3800a126f8_max_476x317.jpeg",
+      "url": "property-photo/49d1b0d51/89730456/49d1b0d51386c7d75853ac3800a126f8.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c083beb96/89730456/c083beb9661e4cd38598f962eb47bde5_max_476x317.jpeg",
+      "url": "property-photo/c083beb96/89730456/c083beb9661e4cd38598f962eb47bde5.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b1b0fe0/89730456/84b1b0fe01299ab7cd1fd554de38b531_max_476x317.jpeg",
+      "url": "property-photo/84b1b0fe0/89730456/84b1b0fe01299ab7cd1fd554de38b531.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1e6e8511/89730456/a1e6e851118979ded0ef609a990acf2d_max_476x317.jpeg",
+      "url": "property-photo/a1e6e8511/89730456/a1e6e851118979ded0ef609a990acf2d.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4523aa69e/89730456/4523aa69ee4f24dfa464dff57a0cb953_max_476x317.jpeg",
+      "url": "property-photo/4523aa69e/89730456/4523aa69ee4f24dfa464dff57a0cb953.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10c77bf9e/89730456/10c77bf9e846c95d49058eb67168eda4_max_476x317.jpeg",
+      "url": "property-photo/10c77bf9e/89730456/10c77bf9e846c95d49058eb67168eda4.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b71c6dec4/89730456/b71c6dec4815c021506c971505700fa2_max_476x317.jpeg",
+      "url": "property-photo/b71c6dec4/89730456/b71c6dec4815c021506c971505700fa2.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96d17b307/89730456/96d17b3075547bc8e8dc6e1c0ff8e97a_max_476x317.jpeg",
+      "url": "property-photo/96d17b307/89730456/96d17b3075547bc8e8dc6e1c0ff8e97a.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-15T17:53:10Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 77493,
+    "brandPlusLogoURI": "/partner-logo/31823069-PRODUCTS_LOGO-1766065943.jpeg",
+    "contactTelephone": "020 3889 9167",
+    "branchDisplayName": "Stirling Ackroyd Lettings, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Stirling Ackroyd Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Stirling-Ackroyd-Lettings/Clerkenwell-77493.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T09:14:07Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31823069-PRODUCTS_LOGO-1766065943.jpeg",
+    "primaryBrandColour": "#1e2245"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "We are a member of Propertymark (which includes their Client Money Protection Scheme) and The Property Ombudsman. The information given below is provided to ensure you are fully informed of any fees and costs involved in renting a property. All fees & charges are shown inc VAT.<br /><br /> <b><u>Holding deposit (per tenancy):</u></b> <br /><br />One week s rent. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).<br /><br /> Security Deposit (per tenancy, Rent of less than \u00a350,000 per year):Five weeks  rent. This covers damage or defaults on the part of the tenant during the tenancy.<br /><br /> Security Deposit (per tenancy, Rent of \u00a350,000 or over per year):Six weeks  rent. This covers damages or defaults on the part of the tenant during the tenancy.<br /><br /> <b><u>Unpaid Rent:</u></b> <br /><br />\rInterest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please note: This will not be levied until the rent is more than 14 days in arrears.<br /><br /> <b><u>Lost Key(s) or other Security Device(s):</u></b> <br /><br /> Tenants are liable for the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord and any other persons requiring keys will be charged to the tenant.<br /><br /> <b><u>Variation of Contract (Tenant s Request):</u></b> <br /><br /> \u00a350 (inc VAT) per agreed variation. To cover the costs associated with taking landlord s instructions as well as the preparation and execution of new legal documents.<br /><br /> <b><u>Change of sharer (Tenant s Request):</u></b> <br /><br />\r\u00a350 (inc VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord s instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution.<br /><br /> <b><u>Early Termination (Tenant s Request):</u></b> <br /><br />Should the tenant wish to leave their contract early, they shall be liable to the landlord s costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy <br /><br /> <b><u>No Deposit Option:</u></b> <br /><br />\rOur No Deposit Option (NDO) is part of the Residency membership. With this option the tenant can pay the monthly membership fee and not need to have the traditional deposit amount tied up for the duration of the tenancy. The tenant will still be liable for any damages at the end of the tenancy. <br /><br />",
+  "displaySize": "1,067 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89730456#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89730456",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-15T17:47:14Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-17T13:11:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    },
+    {
+      "order": 2,
+      "description": "Private enclosed patio",
+      "htmlDescription": "Private enclosed patio"
+    },
+    {
+      "order": 3,
+      "description": "Over 1000sqft",
+      "htmlDescription": "Over 1000sqft"
+    },
+    {
+      "order": 4,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Close to Exmouth Market & Angel",
+      "htmlDescription": "Close to Exmouth Market & Angel"
+    },
+    {
+      "order": 6,
+      "description": "Residents Gym",
+      "htmlDescription": "Residents Gym"
+    },
+    {
+      "order": 7,
+      "description": "Parking space",
+      "htmlDescription": "Parking space"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d_max_476x317.jpeg",
+        "url": "property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7d76bcd3/89730456/c7d76bcd341e29fbc24bec955ece1600_max_476x317.jpeg",
+        "url": "property-photo/c7d76bcd3/89730456/c7d76bcd341e29fbc24bec955ece1600.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd6d4efb6/89730456/bd6d4efb6ea89bff67c5eadd2bef0149_max_476x317.jpeg",
+        "url": "property-photo/bd6d4efb6/89730456/bd6d4efb6ea89bff67c5eadd2bef0149.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/30da17acb/89730456/30da17acbe46ecf2e0262bee36f456ba_max_476x317.jpeg",
+        "url": "property-photo/30da17acb/89730456/30da17acbe46ecf2e0262bee36f456ba.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/275f33d0d/89730456/275f33d0d9dd75f90997775ed2101cac_max_476x317.jpeg",
+        "url": "property-photo/275f33d0d/89730456/275f33d0d9dd75f90997775ed2101cac.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/801812bda/89730456/801812bdafd6e4384106c86df14f7c57_max_476x317.jpeg",
+        "url": "property-photo/801812bda/89730456/801812bdafd6e4384106c86df14f7c57.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3e3b064c/89730456/f3e3b064ceb70ee02b8ba6f53aca6f05_max_476x317.jpeg",
+        "url": "property-photo/f3e3b064c/89730456/f3e3b064ceb70ee02b8ba6f53aca6f05.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ab230eeb/89730456/0ab230eebafed04dfaaab8928ec6c63e_max_476x317.jpeg",
+        "url": "property-photo/0ab230eeb/89730456/0ab230eebafed04dfaaab8928ec6c63e.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36f94f349/89730456/36f94f34931f82c616f78cec4d285752_max_476x317.jpeg",
+        "url": "property-photo/36f94f349/89730456/36f94f34931f82c616f78cec4d285752.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3910f7f7/89730456/d3910f7f756d11ca8e5467bebb920380_max_476x317.jpeg",
+        "url": "property-photo/d3910f7f7/89730456/d3910f7f756d11ca8e5467bebb920380.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f11812e0/89730456/8f11812e043a43e1603a0c3b11684d04_max_476x317.jpeg",
+        "url": "property-photo/8f11812e0/89730456/8f11812e043a43e1603a0c3b11684d04.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09df196ed/89730456/09df196edaa51510e6874c0af003bfdf_max_476x317.jpeg",
+        "url": "property-photo/09df196ed/89730456/09df196edaa51510e6874c0af003bfdf.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77e966f41/89730456/77e966f419548beaabd190d41650c94f_max_476x317.jpeg",
+        "url": "property-photo/77e966f41/89730456/77e966f419548beaabd190d41650c94f.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1e32ccc9/89730456/f1e32ccc93dcc594fd07a0fb4966e595_max_476x317.jpeg",
+        "url": "property-photo/f1e32ccc9/89730456/f1e32ccc93dcc594fd07a0fb4966e595.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/702f2cc9c/89730456/702f2cc9cdfe2e146132f7cf1a1ae837_max_476x317.jpeg",
+        "url": "property-photo/702f2cc9c/89730456/702f2cc9cdfe2e146132f7cf1a1ae837.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3cfcab8b/89730456/a3cfcab8b6143c171aba908d279827be_max_476x317.jpeg",
+        "url": "property-photo/a3cfcab8b/89730456/a3cfcab8b6143c171aba908d279827be.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b012fc7aa/89730456/b012fc7aaede182ae9b9806ec66d21b3_max_476x317.jpeg",
+        "url": "property-photo/b012fc7aa/89730456/b012fc7aaede182ae9b9806ec66d21b3.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8602da8c/89730456/d8602da8cd220e2a2f4eb0f27cbfef71_max_476x317.jpeg",
+        "url": "property-photo/d8602da8c/89730456/d8602da8cd220e2a2f4eb0f27cbfef71.jpeg",
+        "caption": "Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f11e8cfe5/89730456/f11e8cfe5071658012b44282032e2843_max_476x317.jpeg",
+        "url": "property-photo/f11e8cfe5/89730456/f11e8cfe5071658012b44282032e2843.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0d57447f/89730456/f0d57447f93365d332026447fae64925_max_476x317.jpeg",
+        "url": "property-photo/f0d57447f/89730456/f0d57447f93365d332026447fae64925.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec7252ffb/89730456/ec7252ffb7abdc34fcb35bef890fd4ad_max_476x317.jpeg",
+        "url": "property-photo/ec7252ffb/89730456/ec7252ffb7abdc34fcb35bef890fd4ad.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49d1b0d51/89730456/49d1b0d51386c7d75853ac3800a126f8_max_476x317.jpeg",
+        "url": "property-photo/49d1b0d51/89730456/49d1b0d51386c7d75853ac3800a126f8.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c083beb96/89730456/c083beb9661e4cd38598f962eb47bde5_max_476x317.jpeg",
+        "url": "property-photo/c083beb96/89730456/c083beb9661e4cd38598f962eb47bde5.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b1b0fe0/89730456/84b1b0fe01299ab7cd1fd554de38b531_max_476x317.jpeg",
+        "url": "property-photo/84b1b0fe0/89730456/84b1b0fe01299ab7cd1fd554de38b531.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1e6e8511/89730456/a1e6e851118979ded0ef609a990acf2d_max_476x317.jpeg",
+        "url": "property-photo/a1e6e8511/89730456/a1e6e851118979ded0ef609a990acf2d.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4523aa69e/89730456/4523aa69ee4f24dfa464dff57a0cb953_max_476x317.jpeg",
+        "url": "property-photo/4523aa69e/89730456/4523aa69ee4f24dfa464dff57a0cb953.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10c77bf9e/89730456/10c77bf9e846c95d49058eb67168eda4_max_476x317.jpeg",
+        "url": "property-photo/10c77bf9e/89730456/10c77bf9e846c95d49058eb67168eda4.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b71c6dec4/89730456/b71c6dec4815c021506c971505700fa2_max_476x317.jpeg",
+        "url": "property-photo/b71c6dec4/89730456/b71c6dec4815c021506c971505700fa2.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96d17b307/89730456/96d17b3075547bc8e8dc6e1c0ff8e97a_max_476x317.jpeg",
+        "url": "property-photo/96d17b307/89730456/96d17b3075547bc8e8dc6e1c0ff8e97a.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99ca3556a/89730456/99ca3556af80294e6c4d681e8ac2d05d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Stirling Ackroyd Lettings, Clerkenwell",
+  "addedOrReduced": "Added on 15/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
