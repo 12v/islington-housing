@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-18T21:33:54.341981+00:00",
+  "postcode": "EC1V 2AD",
+  "id": 89890014,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Available Now | Old Street (Northern, National Rail) | Angel (Northern) | Furnished | 2 Bedrooms 2 Bathroom | 24hr concierge | Gym | Business lounge | Cinema room | Swimming pool | Yoga room | Sauna & steam | Communal gardens",
+  "displayAddress": "Carrara Tower, 250 City Road, Angel, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529056,
+    "longitude": -0.096252
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3_max_476x317.jpeg",
+      "url": "property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d1a17cc9/89890014/9d1a17cc94b4b067d13510740f07b6ac_max_476x317.jpeg",
+      "url": "property-photo/9d1a17cc9/89890014/9d1a17cc94b4b067d13510740f07b6ac.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4273bd6ac/89890014/4273bd6ac735e01f0858ad005fa02c0f_max_476x317.jpeg",
+      "url": "property-photo/4273bd6ac/89890014/4273bd6ac735e01f0858ad005fa02c0f.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fef2d71a/89890014/7fef2d71a072c379975325a04ddeec24_max_476x317.jpeg",
+      "url": "property-photo/7fef2d71a/89890014/7fef2d71a072c379975325a04ddeec24.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b729f1cd0/89890014/b729f1cd084a0bfa6e898ec37437a9ae_max_476x317.jpeg",
+      "url": "property-photo/b729f1cd0/89890014/b729f1cd084a0bfa6e898ec37437a9ae.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5843f4775/89890014/5843f4775cdc19c6ec4af90805054fc1_max_476x317.jpeg",
+      "url": "property-photo/5843f4775/89890014/5843f4775cdc19c6ec4af90805054fc1.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ad6e46c0/89890014/1ad6e46c0a0cdc94977abb182be723d3_max_476x317.jpeg",
+      "url": "property-photo/1ad6e46c0/89890014/1ad6e46c0a0cdc94977abb182be723d3.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1023e7f3a/89890014/1023e7f3abb7cddd4367004a5fb16609_max_476x317.jpeg",
+      "url": "property-photo/1023e7f3a/89890014/1023e7f3abb7cddd4367004a5fb16609.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f92bde8bb/89890014/f92bde8bbb80b3b39ceaa0bc5f11f316_max_476x317.jpeg",
+      "url": "property-photo/f92bde8bb/89890014/f92bde8bbb80b3b39ceaa0bc5f11f316.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d8b474f2/89890014/2d8b474f26596163a398fd9613f11374_max_476x317.jpeg",
+      "url": "property-photo/2d8b474f2/89890014/2d8b474f26596163a398fd9613f11374.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3afc4a3d/89890014/b3afc4a3d54517aaead8139c90d4eeb9_max_476x317.jpeg",
+      "url": "property-photo/b3afc4a3d/89890014/b3afc4a3d54517aaead8139c90d4eeb9.jpeg",
+      "caption": "Picture No. 11"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-18T17:58:03Z"
+  },
+  "price": {
+    "amount": 4680,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,680 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,080 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97850,
+    "brandPlusLogoURI": "/partner-logo/11671661-PRODUCTS_LOGO-1766065627.jpeg",
+    "contactTelephone": "020 3909 6757",
+    "branchDisplayName": "London Property Guru, London",
+    "branchName": "London",
+    "brandTradingName": "London Property Guru",
+    "branchLandingPageUrl": "/estate-agents/agent/London-Property-Guru/London-97850.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-15T12:38:42Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11671661-PRODUCTS_LOGO-1766065627.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89890014#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89890014",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-18T17:52:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-18T17:58:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Short walk to the trendy restaurants and cafes of Shoreditch and Old Street",
+      "htmlDescription": "Short walk to the trendy restaurants and cafes of Shoreditch and Old Street"
+    },
+    {
+      "order": 2,
+      "description": "Easy access to peaceful waterside walks along the nearby Regent's Canal",
+      "htmlDescription": "Easy access to peaceful waterside walks along the nearby Regent's Canal"
+    },
+    {
+      "order": 3,
+      "description": "Exceptional peace of mind with a dedicated 24-hour concierge service",
+      "htmlDescription": "Exceptional peace of mind with a dedicated 24-hour concierge service"
+    },
+    {
+      "order": 4,
+      "description": "Exclusive resident access to a swimming pool, gym, yoga room, sauna and steam",
+      "htmlDescription": "Exclusive resident access to a swimming pool, gym, yoga room, sauna and steam"
+    },
+    {
+      "order": 5,
+      "description": "Professional business lounge offering an ideal space for remote working",
+      "htmlDescription": "Professional business lounge offering an ideal space for remote working"
+    },
+    {
+      "order": 6,
+      "description": "Private resident cinema room and beautifully landscaped communal gardens",
+      "htmlDescription": "Private resident cinema room and beautifully landscaped communal gardens"
+    },
+    {
+      "order": 7,
+      "description": "Well-proportioned two-bedroom and one-bathroom living accommodation",
+      "htmlDescription": "Well-proportioned two-bedroom and one-bathroom living accommodation"
+    },
+    {
+      "order": 8,
+      "description": "Offered fully furnished for an immediate and completely convenient move",
+      "htmlDescription": "Offered fully furnished for an immediate and completely convenient move"
+    },
+    {
+      "order": 9,
+      "description": "Old Street Station (Zone 1 - Northern Line, National Rail) - 10 mins walk",
+      "htmlDescription": "Old Street Station (Zone 1 - Northern Line, National Rail) - 10 mins walk"
+    },
+    {
+      "order": 10,
+      "description": "Angel Station (Zone 1 - Northern Line) - 10 mins walk",
+      "htmlDescription": "Angel Station (Zone 1 - Northern Line) - 10 mins walk"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3_max_476x317.jpeg",
+        "url": "property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d1a17cc9/89890014/9d1a17cc94b4b067d13510740f07b6ac_max_476x317.jpeg",
+        "url": "property-photo/9d1a17cc9/89890014/9d1a17cc94b4b067d13510740f07b6ac.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4273bd6ac/89890014/4273bd6ac735e01f0858ad005fa02c0f_max_476x317.jpeg",
+        "url": "property-photo/4273bd6ac/89890014/4273bd6ac735e01f0858ad005fa02c0f.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fef2d71a/89890014/7fef2d71a072c379975325a04ddeec24_max_476x317.jpeg",
+        "url": "property-photo/7fef2d71a/89890014/7fef2d71a072c379975325a04ddeec24.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b729f1cd0/89890014/b729f1cd084a0bfa6e898ec37437a9ae_max_476x317.jpeg",
+        "url": "property-photo/b729f1cd0/89890014/b729f1cd084a0bfa6e898ec37437a9ae.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5843f4775/89890014/5843f4775cdc19c6ec4af90805054fc1_max_476x317.jpeg",
+        "url": "property-photo/5843f4775/89890014/5843f4775cdc19c6ec4af90805054fc1.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ad6e46c0/89890014/1ad6e46c0a0cdc94977abb182be723d3_max_476x317.jpeg",
+        "url": "property-photo/1ad6e46c0/89890014/1ad6e46c0a0cdc94977abb182be723d3.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1023e7f3a/89890014/1023e7f3abb7cddd4367004a5fb16609_max_476x317.jpeg",
+        "url": "property-photo/1023e7f3a/89890014/1023e7f3abb7cddd4367004a5fb16609.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f92bde8bb/89890014/f92bde8bbb80b3b39ceaa0bc5f11f316_max_476x317.jpeg",
+        "url": "property-photo/f92bde8bb/89890014/f92bde8bbb80b3b39ceaa0bc5f11f316.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d8b474f2/89890014/2d8b474f26596163a398fd9613f11374_max_476x317.jpeg",
+        "url": "property-photo/2d8b474f2/89890014/2d8b474f26596163a398fd9613f11374.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3afc4a3d/89890014/b3afc4a3d54517aaead8139c90d4eeb9_max_476x317.jpeg",
+        "url": "property-photo/b3afc4a3d/89890014/b3afc4a3d54517aaead8139c90d4eeb9.jpeg",
+        "caption": "Picture No. 11"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02f62d716/89890014/02f62d716913ebe0790421273beed9f3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by London Property Guru, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
