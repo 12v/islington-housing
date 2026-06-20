@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-20T00:30:11.433748+00:00",
+  "postcode": "N7 7BW",
+  "id": 89854569,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented three-bedroom, two-bathroom split-level period conversion, offering generous living space, contemporary interiors, and a private roof terrace in a highly sought-after North London location.",
+  "displayAddress": "Benwell Road London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55325,
+    "longitude": -0.11018
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0_max_476x317.jpeg",
+      "url": "property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dffcc8d5/89854569/6dffcc8d5b0efee1392ef21a2bb06765_max_476x317.jpeg",
+      "url": "property-photo/6dffcc8d5/89854569/6dffcc8d5b0efee1392ef21a2bb06765.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b006ab65e/89854569/b006ab65e8e7f2731433cc65472c1ad6_max_476x317.jpeg",
+      "url": "property-photo/b006ab65e/89854569/b006ab65e8e7f2731433cc65472c1ad6.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f3612877/89854569/7f3612877a460f25461662474cbd8382_max_476x317.jpeg",
+      "url": "property-photo/7f3612877/89854569/7f3612877a460f25461662474cbd8382.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/322cd7f8e/89854569/322cd7f8eb4e07e955f6436b22e64f77_max_476x317.jpeg",
+      "url": "property-photo/322cd7f8e/89854569/322cd7f8eb4e07e955f6436b22e64f77.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bdf60d8f0/89854569/bdf60d8f03159aa4697c9bdf2c6bb751_max_476x317.jpeg",
+      "url": "property-photo/bdf60d8f0/89854569/bdf60d8f03159aa4697c9bdf2c6bb751.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee680872d/89854569/ee680872de1182812fcc3572871ad3df_max_476x317.jpeg",
+      "url": "property-photo/ee680872d/89854569/ee680872de1182812fcc3572871ad3df.jpeg",
+      "caption": "Benwell Road"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34ed046c8/89854569/34ed046c8bc4870455a9abf6b53a38fc_max_476x317.jpeg",
+      "url": "property-photo/34ed046c8/89854569/34ed046c8bc4870455a9abf6b53a38fc.jpeg",
+      "caption": "Benwell Road"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-22T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-18T10:19:02Z"
+  },
+  "price": {
+    "amount": 4000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3923 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T20:01:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy information\n\nHamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED PERIODIC TENANCIES:\nHolding Deposit - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place:\nThe annual rent exceeds \u00a3100,000.\nThe property is occupied by an entity (Company let) rather that an individual.\nThe property is not used as a main or primary home.\nThere is a Resident Landlord.\nTenancy Setup Fee - \u00a3360 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee   Per Person \u00a360 inc VAT. Per Company \u00a3120 inc VAT\nTenancy Continuation - \u00a3300 inc VAT.\nChange of (Tenant) Householder - \u00a3300 inc VAT.\nEarly Termination Administration - \u00a3300 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per person, \u00a3120 inc vat per company.\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash.\nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89854569#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89854569",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-18T10:11:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-19T09:10:21Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three Bedrooms",
+      "htmlDescription": "Three Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Open Plan Reception",
+      "htmlDescription": "Open Plan Reception"
+    },
+    {
+      "order": 4,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Roof Terrace",
+      "htmlDescription": "Roof Terrace"
+    },
+    {
+      "order": 6,
+      "description": "Split Level Conversion",
+      "htmlDescription": "Split Level Conversion"
+    },
+    {
+      "order": 7,
+      "description": "High Specification",
+      "htmlDescription": "High Specification"
+    },
+    {
+      "order": 8,
+      "description": "Offered Furnished",
+      "htmlDescription": "Offered Furnished"
+    },
+    {
+      "order": 9,
+      "description": "Council Tax - Band D",
+      "htmlDescription": "Council Tax - Band D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0_max_476x317.jpeg",
+        "url": "property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dffcc8d5/89854569/6dffcc8d5b0efee1392ef21a2bb06765_max_476x317.jpeg",
+        "url": "property-photo/6dffcc8d5/89854569/6dffcc8d5b0efee1392ef21a2bb06765.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b006ab65e/89854569/b006ab65e8e7f2731433cc65472c1ad6_max_476x317.jpeg",
+        "url": "property-photo/b006ab65e/89854569/b006ab65e8e7f2731433cc65472c1ad6.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f3612877/89854569/7f3612877a460f25461662474cbd8382_max_476x317.jpeg",
+        "url": "property-photo/7f3612877/89854569/7f3612877a460f25461662474cbd8382.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/322cd7f8e/89854569/322cd7f8eb4e07e955f6436b22e64f77_max_476x317.jpeg",
+        "url": "property-photo/322cd7f8e/89854569/322cd7f8eb4e07e955f6436b22e64f77.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bdf60d8f0/89854569/bdf60d8f03159aa4697c9bdf2c6bb751_max_476x317.jpeg",
+        "url": "property-photo/bdf60d8f0/89854569/bdf60d8f03159aa4697c9bdf2c6bb751.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee680872d/89854569/ee680872de1182812fcc3572871ad3df_max_476x317.jpeg",
+        "url": "property-photo/ee680872d/89854569/ee680872de1182812fcc3572871ad3df.jpeg",
+        "caption": "Benwell Road"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34ed046c8/89854569/34ed046c8bc4870455a9abf6b53a38fc_max_476x317.jpeg",
+        "url": "property-photo/34ed046c8/89854569/34ed046c8bc4870455a9abf6b53a38fc.jpeg",
+        "caption": "Benwell Road"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0513e0026/89854569/0513e00267a69076113bf2d6050ac0a0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added on 18/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

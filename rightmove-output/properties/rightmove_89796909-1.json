@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-19T22:19:08.779292+00:00",
+  "postcode": "N1 2UN",
+  "id": 89796909,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Recently decorated with beautiful character features overlooking Compton Terrace Gardens is a stunning Two Bedroom apartment located moments from all the amenities. Set within the popular Compton Terrace near the Union Chapel is a property comprising of two bedrooms, tiled bathroom, f...",
+  "displayAddress": "Compton Terrace, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.543846,
+    "longitude": -0.101147
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1_max_476x317.jpeg",
+      "url": "property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1.jpeg",
+      "caption": "610998 (2)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15c05325d/89796909/15c05325d5e1a0b2b3f7b944826c8860_max_476x317.jpeg",
+      "url": "property-photo/15c05325d/89796909/15c05325d5e1a0b2b3f7b944826c8860.jpeg",
+      "caption": "610998 (4)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d05e6471/89796909/4d05e6471976c3c3cae44dc4feed2e89_max_476x317.jpeg",
+      "url": "property-photo/4d05e6471/89796909/4d05e6471976c3c3cae44dc4feed2e89.jpeg",
+      "caption": "610998 (3)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eae5a85a/89796909/6eae5a85a64ed21360a9413e746c3101_max_476x317.jpeg",
+      "url": "property-photo/6eae5a85a/89796909/6eae5a85a64ed21360a9413e746c3101.jpeg",
+      "caption": "610998 (1)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c38171414/89796909/c3817141485a258bfeb4370b558f879d_max_476x317.jpeg",
+      "url": "property-photo/c38171414/89796909/c3817141485a258bfeb4370b558f879d.jpeg",
+      "caption": "610998 (5)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e7cf2f50/89796909/6e7cf2f5050b7a029f2241c8e014ba28_max_476x317.jpeg",
+      "url": "property-photo/6e7cf2f50/89796909/6e7cf2f5050b7a029f2241c8e014ba28.jpeg",
+      "caption": "610998 (6)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5343c3aa/89796909/a5343c3aa0ef2bcfbcb31d8b529e700a_max_476x317.jpeg",
+      "url": "property-photo/a5343c3aa/89796909/a5343c3aa0ef2bcfbcb31d8b529e700a.jpeg",
+      "caption": "610998 (7)"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-17T09:14:04Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:43:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "567 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89796909#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89796909",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-17T09:08:42Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-17T19:19:22Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedrooms",
+      "htmlDescription": "Two Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "End of terrace conversion",
+      "htmlDescription": "End of terrace conversion"
+    },
+    {
+      "order": 3,
+      "description": "Excellent condition",
+      "htmlDescription": "Excellent condition"
+    },
+    {
+      "order": 4,
+      "description": "Great central location",
+      "htmlDescription": "Great central location"
+    },
+    {
+      "order": 5,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 6,
+      "description": "EPC Rating D",
+      "htmlDescription": "EPC Rating D"
+    },
+    {
+      "order": 7,
+      "description": "Available 3rd August 2026",
+      "htmlDescription": "Available 3rd August 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1_max_476x317.jpeg",
+        "url": "property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1.jpeg",
+        "caption": "610998 (2)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15c05325d/89796909/15c05325d5e1a0b2b3f7b944826c8860_max_476x317.jpeg",
+        "url": "property-photo/15c05325d/89796909/15c05325d5e1a0b2b3f7b944826c8860.jpeg",
+        "caption": "610998 (4)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d05e6471/89796909/4d05e6471976c3c3cae44dc4feed2e89_max_476x317.jpeg",
+        "url": "property-photo/4d05e6471/89796909/4d05e6471976c3c3cae44dc4feed2e89.jpeg",
+        "caption": "610998 (3)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eae5a85a/89796909/6eae5a85a64ed21360a9413e746c3101_max_476x317.jpeg",
+        "url": "property-photo/6eae5a85a/89796909/6eae5a85a64ed21360a9413e746c3101.jpeg",
+        "caption": "610998 (1)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c38171414/89796909/c3817141485a258bfeb4370b558f879d_max_476x317.jpeg",
+        "url": "property-photo/c38171414/89796909/c3817141485a258bfeb4370b558f879d.jpeg",
+        "caption": "610998 (5)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e7cf2f50/89796909/6e7cf2f5050b7a029f2241c8e014ba28_max_476x317.jpeg",
+        "url": "property-photo/6e7cf2f50/89796909/6e7cf2f5050b7a029f2241c8e014ba28.jpeg",
+        "caption": "610998 (6)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5343c3aa/89796909/a5343c3aa0ef2bcfbcb31d8b529e700a_max_476x317.jpeg",
+        "url": "property-photo/a5343c3aa/89796909/a5343c3aa0ef2bcfbcb31d8b529e700a.jpeg",
+        "caption": "610998 (7)"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d10972673/89796909/d10972673e2d16f8648dae82525201e1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Added on 17/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

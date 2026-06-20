@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-19T21:51:06.253076+00:00",
+  "postcode": "N1 0PY",
+  "id": 89937000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Suitable for three sharers - Three bedrooms - Two bathrooms - Furnished - Balcony - Close to local amenities - Walking distance to transport links.",
+  "displayAddress": "Liverpool Road, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.534705,
+    "longitude": -0.106915
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200_max_476x317.jpeg",
+      "url": "property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a5a38b62/89937000/1a5a38b62d4d368d28d9662a29cc7ad6_max_476x317.jpeg",
+      "url": "property-photo/1a5a38b62/89937000/1a5a38b62d4d368d28d9662a29cc7ad6.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3bf23c99b/89937000/3bf23c99bb6ae7e2d09e17ac9eb1fac0_max_476x317.jpeg",
+      "url": "property-photo/3bf23c99b/89937000/3bf23c99bb6ae7e2d09e17ac9eb1fac0.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1e2f487e/89937000/d1e2f487e85449c4c0cbc0a1a068ec7c_max_476x317.jpeg",
+      "url": "property-photo/d1e2f487e/89937000/d1e2f487e85449c4c0cbc0a1a068ec7c.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/143515a3b/89937000/143515a3bf3b4138a813a61c6609d0ee_max_476x317.jpeg",
+      "url": "property-photo/143515a3b/89937000/143515a3bf3b4138a813a61c6609d0ee.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29401736a/89937000/29401736a1f0bd78e108640c8c327bec_max_476x317.jpeg",
+      "url": "property-photo/29401736a/89937000/29401736a1f0bd78e108640c8c327bec.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fec47de93/89937000/fec47de934b244c710eb689e6ce55048_max_476x317.jpeg",
+      "url": "property-photo/fec47de93/89937000/fec47de934b244c710eb689e6ce55048.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8302dacd/89937000/c8302dacd9ca17f4b0a9424752dc8a98_max_476x317.jpeg",
+      "url": "property-photo/c8302dacd/89937000/c8302dacd9ca17f4b0a9424752dc8a98.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e097b955/89937000/1e097b95587c95bdf793f3445f5ec4d5_max_476x317.jpeg",
+      "url": "property-photo/1e097b955/89937000/1e097b95587c95bdf793f3445f5ec4d5.jpeg",
+      "caption": "Picture No. 01"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-19T17:15:08Z"
+  },
+  "price": {
+    "amount": 4500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,038 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 50021,
+    "brandPlusLogoURI": "/partner-logo/7362536-PRODUCTS_LOGO-1766060623.png",
+    "contactTelephone": "020 3835 3387",
+    "branchDisplayName": "LDG, London",
+    "branchName": "London",
+    "brandTradingName": "LDG",
+    "branchLandingPageUrl": "/estate-agents/agent/LDG/London-50021.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7362536-PRODUCTS_LOGO-1766060623.png",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "1,076 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89937000#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89937000",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-19T17:09:54Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-19T17:15:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available 6th July",
+      "htmlDescription": "Available 6th July"
+    },
+    {
+      "order": 2,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Bright reception room",
+      "htmlDescription": "Bright reception room"
+    },
+    {
+      "order": 4,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Suitable for sharers",
+      "htmlDescription": "Suitable for sharers"
+    },
+    {
+      "order": 6,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    },
+    {
+      "order": 7,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 8,
+      "description": "Close to local amenities",
+      "htmlDescription": "Close to local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200_max_476x317.jpeg",
+        "url": "property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a5a38b62/89937000/1a5a38b62d4d368d28d9662a29cc7ad6_max_476x317.jpeg",
+        "url": "property-photo/1a5a38b62/89937000/1a5a38b62d4d368d28d9662a29cc7ad6.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3bf23c99b/89937000/3bf23c99bb6ae7e2d09e17ac9eb1fac0_max_476x317.jpeg",
+        "url": "property-photo/3bf23c99b/89937000/3bf23c99bb6ae7e2d09e17ac9eb1fac0.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d1e2f487e/89937000/d1e2f487e85449c4c0cbc0a1a068ec7c_max_476x317.jpeg",
+        "url": "property-photo/d1e2f487e/89937000/d1e2f487e85449c4c0cbc0a1a068ec7c.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/143515a3b/89937000/143515a3bf3b4138a813a61c6609d0ee_max_476x317.jpeg",
+        "url": "property-photo/143515a3b/89937000/143515a3bf3b4138a813a61c6609d0ee.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29401736a/89937000/29401736a1f0bd78e108640c8c327bec_max_476x317.jpeg",
+        "url": "property-photo/29401736a/89937000/29401736a1f0bd78e108640c8c327bec.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fec47de93/89937000/fec47de934b244c710eb689e6ce55048_max_476x317.jpeg",
+        "url": "property-photo/fec47de93/89937000/fec47de934b244c710eb689e6ce55048.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c8302dacd/89937000/c8302dacd9ca17f4b0a9424752dc8a98_max_476x317.jpeg",
+        "url": "property-photo/c8302dacd/89937000/c8302dacd9ca17f4b0a9424752dc8a98.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e097b955/89937000/1e097b95587c95bdf793f3445f5ec4d5_max_476x317.jpeg",
+        "url": "property-photo/1e097b955/89937000/1e097b95587c95bdf793f3445f5ec4d5.jpeg",
+        "caption": "Picture No. 01"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9c34341c0/89937000/9c34341c0413ef0db0fce7abc7054200_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by LDG, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

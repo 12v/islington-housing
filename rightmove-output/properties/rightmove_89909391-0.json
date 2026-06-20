@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-19T22:45:11.987212+00:00",
+  "postcode": "N1 9ES",
+  "id": 89909391,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Recently built luxury top floor 2 bedroom flat located off Chapel Market in Angel. This very well presented flat consists of a variety of stunning features such as wood floors, large windows, set over 2 floors which is separated by a spiral stair case. Situated off the bustling Chapel Market, min...",
+  "displayAddress": "Baron Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53309,
+    "longitude": -0.10914
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978_max_476x317.jpeg",
+      "url": "property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cef5691c6/89909391/cef5691c6ab33a7d88b54cb2f152d9c6_max_476x317.jpeg",
+      "url": "property-photo/cef5691c6/89909391/cef5691c6ab33a7d88b54cb2f152d9c6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23ec1e69c/89909391/23ec1e69c915af4a3ece9ed5bb334cec_max_476x317.jpeg",
+      "url": "property-photo/23ec1e69c/89909391/23ec1e69c915af4a3ece9ed5bb334cec.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cad01b3dd/89909391/cad01b3dd88a2e990f58fd1f8cbdb2dd_max_476x317.jpeg",
+      "url": "property-photo/cad01b3dd/89909391/cad01b3dd88a2e990f58fd1f8cbdb2dd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/246676a19/89909391/246676a199814d161fd7f26a3369f69d_max_476x317.jpeg",
+      "url": "property-photo/246676a19/89909391/246676a199814d161fd7f26a3369f69d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61f33c143/89909391/61f33c143414f87fb611f2e9ab67f486_max_476x317.jpeg",
+      "url": "property-photo/61f33c143/89909391/61f33c143414f87fb611f2e9ab67f486.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b90e215cb/89909391/b90e215cb0f1a52679393090dcce5a4d_max_476x317.jpeg",
+      "url": "property-photo/b90e215cb/89909391/b90e215cb0f1a52679393090dcce5a4d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/199f1d2d6/89909391/199f1d2d6cdf92691d57d8a66fef22b8_max_476x317.jpeg",
+      "url": "property-photo/199f1d2d6/89909391/199f1d2d6cdf92691d57d8a66fef22b8.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-19T11:12:10Z"
+  },
+  "price": {
+    "amount": 2840,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,840 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3655 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 52868,
+    "brandPlusLogoURI": "/partner-logo/7549919-LOGO-1765963869.jpeg",
+    "contactTelephone": "020 3835 3764",
+    "branchDisplayName": "Elkay Properties, London",
+    "branchName": "London",
+    "brandTradingName": "Elkay Properties",
+    "branchLandingPageUrl": "/estate-agents/agent/Elkay-Properties/London-52868.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:03:04Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7549919-LOGO-1765963869.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "We do not charge any fees to Tenants",
+  "displaySize": "800 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89909391#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89909391",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-19T11:06:18Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-19T11:30:20Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Luxury Apartment",
+      "htmlDescription": "Luxury Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Wood Floors",
+      "htmlDescription": "Wood Floors "
+    },
+    {
+      "order": 3,
+      "description": "Large Windows",
+      "htmlDescription": "Large Windows "
+    },
+    {
+      "order": 4,
+      "description": "Situated off Chapel Market",
+      "htmlDescription": "Situated off Chapel Market"
+    },
+    {
+      "order": 5,
+      "description": "Located in Angel",
+      "htmlDescription": "Located in Angel"
+    },
+    {
+      "order": 6,
+      "description": "Finished to a very high standard",
+      "htmlDescription": "Finished to a very high standard"
+    },
+    {
+      "order": 7,
+      "description": "Set over 2 floors",
+      "htmlDescription": "Set over 2 floors"
+    },
+    {
+      "order": 8,
+      "description": "Recently built",
+      "htmlDescription": "Recently built"
+    },
+    {
+      "order": 9,
+      "description": "Shops and high street are very close",
+      "htmlDescription": "Shops and high street are very close"
+    },
+    {
+      "order": 10,
+      "description": "Sainbury Supermarket is merely yards away",
+      "htmlDescription": "Sainbury Supermarket is merely yards away"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978_max_476x317.jpeg",
+        "url": "property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cef5691c6/89909391/cef5691c6ab33a7d88b54cb2f152d9c6_max_476x317.jpeg",
+        "url": "property-photo/cef5691c6/89909391/cef5691c6ab33a7d88b54cb2f152d9c6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23ec1e69c/89909391/23ec1e69c915af4a3ece9ed5bb334cec_max_476x317.jpeg",
+        "url": "property-photo/23ec1e69c/89909391/23ec1e69c915af4a3ece9ed5bb334cec.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cad01b3dd/89909391/cad01b3dd88a2e990f58fd1f8cbdb2dd_max_476x317.jpeg",
+        "url": "property-photo/cad01b3dd/89909391/cad01b3dd88a2e990f58fd1f8cbdb2dd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/246676a19/89909391/246676a199814d161fd7f26a3369f69d_max_476x317.jpeg",
+        "url": "property-photo/246676a19/89909391/246676a199814d161fd7f26a3369f69d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61f33c143/89909391/61f33c143414f87fb611f2e9ab67f486_max_476x317.jpeg",
+        "url": "property-photo/61f33c143/89909391/61f33c143414f87fb611f2e9ab67f486.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b90e215cb/89909391/b90e215cb0f1a52679393090dcce5a4d_max_476x317.jpeg",
+        "url": "property-photo/b90e215cb/89909391/b90e215cb0f1a52679393090dcce5a4d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/199f1d2d6/89909391/199f1d2d6cdf92691d57d8a66fef22b8_max_476x317.jpeg",
+        "url": "property-photo/199f1d2d6/89909391/199f1d2d6cdf92691d57d8a66fef22b8.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/17ca755fc/89909391/17ca755fc4ac3f85e63a79539cdc8978_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Elkay Properties, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
