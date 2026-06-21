@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-20T21:18:00.529979+00:00",
+  "postcode": "EC1V 7NQ",
+  "id": 89861757,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Located on Rawstorne Street and based within a converted former Clerkenwell pub is this 1 bed 1 bath apartment spanning 555 sqft (approx).",
+  "displayAddress": "Rawstorne Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529014,
+    "longitude": -0.103772
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912_max_476x317.jpeg",
+      "url": "property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/096aa63ef/89861757/096aa63efda77c119c272b06ae1470ad_max_476x317.jpeg",
+      "url": "property-photo/096aa63ef/89861757/096aa63efda77c119c272b06ae1470ad.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/705ee6307/89861757/705ee63072673dbeedab86cdbbe071b5_max_476x317.jpeg",
+      "url": "property-photo/705ee6307/89861757/705ee63072673dbeedab86cdbbe071b5.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58b608ab5/89861757/58b608ab5fa18e3e6a492276ff7fffa7_max_476x317.jpeg",
+      "url": "property-photo/58b608ab5/89861757/58b608ab5fa18e3e6a492276ff7fffa7.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0ee634eb/89861757/c0ee634eb8100c7d9c9ee854e507e3d2_max_476x317.jpeg",
+      "url": "property-photo/c0ee634eb/89861757/c0ee634eb8100c7d9c9ee854e507e3d2.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa1052f3d/89861757/aa1052f3d428137ba9e1c6ef9f9317c0_max_476x317.jpeg",
+      "url": "property-photo/aa1052f3d/89861757/aa1052f3d428137ba9e1c6ef9f9317c0.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c3883b65/89861757/3c3883b65543d40e412bd2ea2d32bf2e_max_476x317.jpeg",
+      "url": "property-photo/3c3883b65/89861757/3c3883b65543d40e412bd2ea2d32bf2e.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f75a6a708/89861757/f75a6a70874e16bfb470eab1e641cbdc_max_476x317.jpeg",
+      "url": "property-photo/f75a6a708/89861757/f75a6a70874e16bfb470eab1e641cbdc.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30c95b07/89861757/f30c95b07e3ef22a74206bcb4fda8647_max_476x317.jpeg",
+      "url": "property-photo/f30c95b07/89861757/f30c95b07e3ef22a74206bcb4fda8647.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e78a0982c/89861757/e78a0982c86790bd7f00e6a673d4d768_max_476x317.jpeg",
+      "url": "property-photo/e78a0982c/89861757/e78a0982c86790bd7f00e6a673d4d768.jpeg",
+      "caption": "Picture No. 03"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-18T11:57:08Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 131029,
+    "brandPlusLogoURI": "/partner-logo/23247547-PRODUCTS_LOGO-1766061082.jpeg",
+    "contactTelephone": "020 3834 8059",
+    "branchDisplayName": "The Bespoke Agent, London",
+    "branchName": "London",
+    "brandTradingName": "The Bespoke Agent",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Bespoke-Agent/London-131029.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-05-29T20:41:06Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23247547-PRODUCTS_LOGO-1766061082.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "555 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89861757#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89861757",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-18T11:51:46Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-20T04:57:55Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Converted Pub",
+      "htmlDescription": "Converted Pub"
+    },
+    {
+      "order": 2,
+      "description": "Quiet Street",
+      "htmlDescription": "Quiet Street"
+    },
+    {
+      "order": 3,
+      "description": "Open Plan",
+      "htmlDescription": "Open Plan"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912_max_476x317.jpeg",
+        "url": "property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/096aa63ef/89861757/096aa63efda77c119c272b06ae1470ad_max_476x317.jpeg",
+        "url": "property-photo/096aa63ef/89861757/096aa63efda77c119c272b06ae1470ad.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/705ee6307/89861757/705ee63072673dbeedab86cdbbe071b5_max_476x317.jpeg",
+        "url": "property-photo/705ee6307/89861757/705ee63072673dbeedab86cdbbe071b5.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/58b608ab5/89861757/58b608ab5fa18e3e6a492276ff7fffa7_max_476x317.jpeg",
+        "url": "property-photo/58b608ab5/89861757/58b608ab5fa18e3e6a492276ff7fffa7.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0ee634eb/89861757/c0ee634eb8100c7d9c9ee854e507e3d2_max_476x317.jpeg",
+        "url": "property-photo/c0ee634eb/89861757/c0ee634eb8100c7d9c9ee854e507e3d2.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa1052f3d/89861757/aa1052f3d428137ba9e1c6ef9f9317c0_max_476x317.jpeg",
+        "url": "property-photo/aa1052f3d/89861757/aa1052f3d428137ba9e1c6ef9f9317c0.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c3883b65/89861757/3c3883b65543d40e412bd2ea2d32bf2e_max_476x317.jpeg",
+        "url": "property-photo/3c3883b65/89861757/3c3883b65543d40e412bd2ea2d32bf2e.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f75a6a708/89861757/f75a6a70874e16bfb470eab1e641cbdc_max_476x317.jpeg",
+        "url": "property-photo/f75a6a708/89861757/f75a6a70874e16bfb470eab1e641cbdc.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f30c95b07/89861757/f30c95b07e3ef22a74206bcb4fda8647_max_476x317.jpeg",
+        "url": "property-photo/f30c95b07/89861757/f30c95b07e3ef22a74206bcb4fda8647.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e78a0982c/89861757/e78a0982c86790bd7f00e6a673d4d768_max_476x317.jpeg",
+        "url": "property-photo/e78a0982c/89861757/e78a0982c86790bd7f00e6a673d4d768.jpeg",
+        "caption": "Picture No. 03"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5902c494b/89861757/5902c494b6a0989fe13f1150f9491912_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Bespoke Agent, London",
+  "addedOrReduced": "Added on 18/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

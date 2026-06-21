@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-20T21:45:45.940462+00:00",
+  "postcode": "N1 0HX",
+  "id": 89956791,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well presented one bedroom garden flat, situated in the highly sought-after Cloudesley Street.",
+  "displayAddress": "Cloudesley Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.536543,
+    "longitude": -0.107988
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21_max_476x317.png",
+      "url": "property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c3039f20/89956791/8c3039f203ca03dc5357f53ebd54e04a_max_476x317.png",
+      "url": "property-photo/8c3039f20/89956791/8c3039f203ca03dc5357f53ebd54e04a.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56a76cbd1/89956791/56a76cbd1b1433486bfb098f10766cbb_max_476x317.png",
+      "url": "property-photo/56a76cbd1/89956791/56a76cbd1b1433486bfb098f10766cbb.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6de7df716/89956791/6de7df716983164d2f5662c73b44b018_max_476x317.png",
+      "url": "property-photo/6de7df716/89956791/6de7df716983164d2f5662c73b44b018.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a69b013e7/89956791/a69b013e70aee7333d092e33f542bdf4_max_476x317.png",
+      "url": "property-photo/a69b013e7/89956791/a69b013e70aee7333d092e33f542bdf4.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3bb53895/89956791/c3bb53895bf6bb6445422d19adfb2777_max_476x317.png",
+      "url": "property-photo/c3bb53895/89956791/c3bb53895bf6bb6445422d19adfb2777.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec7957b7b/89956791/ec7957b7ba6f77e82824257e8ab9c04f_max_476x317.png",
+      "url": "property-photo/ec7957b7b/89956791/ec7957b7ba6f77e82824257e8ab9c04f.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a573d977/89956791/5a573d97722c04be2087d33049c8dc67_max_476x317.png",
+      "url": "property-photo/5a573d977/89956791/5a573d97722c04be2087d33049c8dc67.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc5e4948/89956791/8cc5e49483568f1abed69209992f2692_max_476x317.png",
+      "url": "property-photo/8cc5e4948/89956791/8cc5e49483568f1abed69209992f2692.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5ff00034/89956791/b5ff00034c54d181aec49a5a1ade30d9_max_476x317.png",
+      "url": "property-photo/b5ff00034/89956791/b5ff00034c54d181aec49a5a1ade30d9.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee92b9e4f/89956791/ee92b9e4f98f62c3f1f4b800ea767a81_max_476x317.png",
+      "url": "property-photo/ee92b9e4f/89956791/ee92b9e4f98f62c3f1f4b800ea767a81.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7393a3ae/89956791/f7393a3ae751a597f5e11c23a7420894_max_476x317.png",
+      "url": "property-photo/f7393a3ae/89956791/f7393a3ae751a597f5e11c23a7420894.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-20T16:08:04Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 270254,
+    "brandPlusLogoURI": "/partner-logo/31740032-PRODUCTS_LOGO-1766065287.jpeg",
+    "contactTelephone": "020 3411 1143",
+    "branchDisplayName": "Nathan K Real Estate, London",
+    "branchName": "London",
+    "brandTradingName": "Nathan K Real Estate",
+    "branchLandingPageUrl": "/estate-agents/agent/Nathan-K-Real-Estate/London-270254.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T14:46:23Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31740032-PRODUCTS_LOGO-1766065287.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "484 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89956791#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89956791",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-20T16:02:30Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-20T16:08:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 2,
+      "description": "Prime Location",
+      "htmlDescription": "Prime Location"
+    },
+    {
+      "order": 3,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Available From 1st August 2026",
+      "htmlDescription": "Available From 1st August 2026"
+    },
+    {
+      "order": 5,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21_max_476x317.png",
+        "url": "property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c3039f20/89956791/8c3039f203ca03dc5357f53ebd54e04a_max_476x317.png",
+        "url": "property-photo/8c3039f20/89956791/8c3039f203ca03dc5357f53ebd54e04a.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/56a76cbd1/89956791/56a76cbd1b1433486bfb098f10766cbb_max_476x317.png",
+        "url": "property-photo/56a76cbd1/89956791/56a76cbd1b1433486bfb098f10766cbb.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6de7df716/89956791/6de7df716983164d2f5662c73b44b018_max_476x317.png",
+        "url": "property-photo/6de7df716/89956791/6de7df716983164d2f5662c73b44b018.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a69b013e7/89956791/a69b013e70aee7333d092e33f542bdf4_max_476x317.png",
+        "url": "property-photo/a69b013e7/89956791/a69b013e70aee7333d092e33f542bdf4.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3bb53895/89956791/c3bb53895bf6bb6445422d19adfb2777_max_476x317.png",
+        "url": "property-photo/c3bb53895/89956791/c3bb53895bf6bb6445422d19adfb2777.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ec7957b7b/89956791/ec7957b7ba6f77e82824257e8ab9c04f_max_476x317.png",
+        "url": "property-photo/ec7957b7b/89956791/ec7957b7ba6f77e82824257e8ab9c04f.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a573d977/89956791/5a573d97722c04be2087d33049c8dc67_max_476x317.png",
+        "url": "property-photo/5a573d977/89956791/5a573d97722c04be2087d33049c8dc67.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc5e4948/89956791/8cc5e49483568f1abed69209992f2692_max_476x317.png",
+        "url": "property-photo/8cc5e4948/89956791/8cc5e49483568f1abed69209992f2692.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5ff00034/89956791/b5ff00034c54d181aec49a5a1ade30d9_max_476x317.png",
+        "url": "property-photo/b5ff00034/89956791/b5ff00034c54d181aec49a5a1ade30d9.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee92b9e4f/89956791/ee92b9e4f98f62c3f1f4b800ea767a81_max_476x317.png",
+        "url": "property-photo/ee92b9e4f/89956791/ee92b9e4f98f62c3f1f4b800ea767a81.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7393a3ae/89956791/f7393a3ae751a597f5e11c23a7420894_max_476x317.png",
+        "url": "property-photo/f7393a3ae/89956791/f7393a3ae751a597f5e11c23a7420894.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4dbbef57/89956791/d4dbbef575101b3452d6f2186e541c21_max_296x197.png"
+  },
+  "formattedBranchName": " by Nathan K Real Estate, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
