@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-22T00:01:45.801934+00:00",
+  "postcode": "N5 1AT",
+  "id": 89952906,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautifully presented Three Double Bedroom Two Bathroom flat to rent arranged over the top three floors of this impressive period house in the heart of Highbury. Property comprises Three Double Bedrooms, Two bathrooms, modern kitchen diner, a spacious reception with wood flooring throu...",
+  "displayAddress": "Highbury Hill, Islington, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555943,
+    "longitude": -0.102418
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b_max_476x317.jpeg",
+      "url": "property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b.jpeg",
+      "caption": "Picture 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d83f39637/89952906/d83f39637e3220c70abdc7770b218dfd_max_476x317.jpeg",
+      "url": "property-photo/d83f39637/89952906/d83f39637e3220c70abdc7770b218dfd.jpeg",
+      "caption": "Picture 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1aa16aef/89952906/f1aa16aefca2eec59162664ec8bf00a2_max_476x317.jpeg",
+      "url": "property-photo/f1aa16aef/89952906/f1aa16aefca2eec59162664ec8bf00a2.jpeg",
+      "caption": "Picture 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e7710c3c/89952906/5e7710c3c990fcb7bff91190efd84b3f_max_476x317.jpeg",
+      "url": "property-photo/5e7710c3c/89952906/5e7710c3c990fcb7bff91190efd84b3f.jpeg",
+      "caption": "Picture 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/241f6d348/89952906/241f6d348793d5d08871220fcfc7820c_max_476x317.jpeg",
+      "url": "property-photo/241f6d348/89952906/241f6d348793d5d08871220fcfc7820c.jpeg",
+      "caption": "Picture 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/baf507995/89952906/baf50799529678d6a79d47f7c4995952_max_476x317.jpeg",
+      "url": "property-photo/baf507995/89952906/baf50799529678d6a79d47f7c4995952.jpeg",
+      "caption": "Picture 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c2928570/89952906/4c2928570db347032b9847e171a2dc3c_max_476x317.jpeg",
+      "url": "property-photo/4c2928570/89952906/4c2928570db347032b9847e171a2dc3c.jpeg",
+      "caption": "Picture 7"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-20T12:23:05Z"
+  },
+  "price": {
+    "amount": 3800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3877 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:43:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89952906#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89952906",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-20T12:17:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-20T19:13:46Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three Double Bedrooms",
+      "htmlDescription": "Three Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Large reception with wood floors",
+      "htmlDescription": "Large reception with wood floors"
+    },
+    {
+      "order": 3,
+      "description": "Stylish eat in kitchen",
+      "htmlDescription": "Stylish eat in kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Two luxury bathrooms",
+      "htmlDescription": "Two luxury bathrooms"
+    },
+    {
+      "order": 5,
+      "description": "Private terrace",
+      "htmlDescription": "Private terrace"
+    },
+    {
+      "order": 6,
+      "description": "HMO Licence",
+      "htmlDescription": "HMO Licence"
+    },
+    {
+      "order": 7,
+      "description": "Close to local amenitites",
+      "htmlDescription": "Close to local amenitites"
+    },
+    {
+      "order": 8,
+      "description": "Available 1st August 2026",
+      "htmlDescription": "Available 1st August 2026"
+    },
+    {
+      "order": 9,
+      "description": "EPC Rating D",
+      "htmlDescription": "EPC Rating D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b_max_476x317.jpeg",
+        "url": "property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b.jpeg",
+        "caption": "Picture 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d83f39637/89952906/d83f39637e3220c70abdc7770b218dfd_max_476x317.jpeg",
+        "url": "property-photo/d83f39637/89952906/d83f39637e3220c70abdc7770b218dfd.jpeg",
+        "caption": "Picture 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1aa16aef/89952906/f1aa16aefca2eec59162664ec8bf00a2_max_476x317.jpeg",
+        "url": "property-photo/f1aa16aef/89952906/f1aa16aefca2eec59162664ec8bf00a2.jpeg",
+        "caption": "Picture 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e7710c3c/89952906/5e7710c3c990fcb7bff91190efd84b3f_max_476x317.jpeg",
+        "url": "property-photo/5e7710c3c/89952906/5e7710c3c990fcb7bff91190efd84b3f.jpeg",
+        "caption": "Picture 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/241f6d348/89952906/241f6d348793d5d08871220fcfc7820c_max_476x317.jpeg",
+        "url": "property-photo/241f6d348/89952906/241f6d348793d5d08871220fcfc7820c.jpeg",
+        "caption": "Picture 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/baf507995/89952906/baf50799529678d6a79d47f7c4995952_max_476x317.jpeg",
+        "url": "property-photo/baf507995/89952906/baf50799529678d6a79d47f7c4995952.jpeg",
+        "caption": "Picture 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c2928570/89952906/4c2928570db347032b9847e171a2dc3c_max_476x317.jpeg",
+        "url": "property-photo/4c2928570/89952906/4c2928570db347032b9847e171a2dc3c.jpeg",
+        "caption": "Picture 7"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7dfc5ef2f/89952906/7dfc5ef2f82d94b1217e4496c539d27b_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Added on 20/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
