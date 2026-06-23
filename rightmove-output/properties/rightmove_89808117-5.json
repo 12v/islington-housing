@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-22T23:42:27.569491+00:00",
+  "postcode": "N19 5HA",
+  "id": 89808117,
+  "bedrooms": 2,
+  "bathrooms": 0,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "This beautifully presented two bedroom apartment offers a welcoming and practical layout, spanning 48 sq m (516 sq ft) close to Tufnell Park (Northern Line).",
+  "displayAddress": "Corinne Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555057,
+    "longitude": -0.134253
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36_max_476x317.jpeg",
+      "url": "property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd068d550/89808117/fd068d5502c35bceedb574cd257efa50_max_476x317.jpeg",
+      "url": "property-photo/fd068d550/89808117/fd068d5502c35bceedb574cd257efa50.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/767759719/89808117/767759719891dab074c56c96d8c24d98_max_476x317.jpeg",
+      "url": "property-photo/767759719/89808117/767759719891dab074c56c96d8c24d98.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/219b7f105/89808117/219b7f105c26a21eef590550fe4b0120_max_476x317.jpeg",
+      "url": "property-photo/219b7f105/89808117/219b7f105c26a21eef590550fe4b0120.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe80ff605/89808117/fe80ff605bc34e8cf27827f5090922e9_max_476x317.jpeg",
+      "url": "property-photo/fe80ff605/89808117/fe80ff605bc34e8cf27827f5090922e9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c97fb2f76/89808117/c97fb2f76fd948cb9c50017b96d57feb_max_476x317.jpeg",
+      "url": "property-photo/c97fb2f76/89808117/c97fb2f76fd948cb9c50017b96d57feb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/945f032fa/89808117/945f032fabb727b3a1f2fff26342dc17_max_476x317.jpeg",
+      "url": "property-photo/945f032fa/89808117/945f032fabb727b3a1f2fff26342dc17.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4c4f0d99/89808117/f4c4f0d998ca2d61002c39442b2756c7_max_476x317.jpeg",
+      "url": "property-photo/f4c4f0d99/89808117/f4c4f0d998ca2d61002c39442b2756c7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60c944669/89808117/60c944669872bcee4b2ba7bf55285286_max_476x317.jpeg",
+      "url": "property-photo/60c944669/89808117/60c944669872bcee4b2ba7bf55285286.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee89ee727/89808117/ee89ee7272da25070429fc46c85308a9_max_476x317.jpeg",
+      "url": "property-photo/ee89ee727/89808117/ee89ee7272da25070429fc46c85308a9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/362821b35/89808117/362821b35df391dd338ba30a06ef51d2_max_476x317.jpeg",
+      "url": "property-photo/362821b35/89808117/362821b35df391dd338ba30a06ef51d2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a1f788b8/89808117/9a1f788b80361f9c9632d3f178b608a1_max_476x317.jpeg",
+      "url": "property-photo/9a1f788b8/89808117/9a1f788b80361f9c9632d3f178b608a1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-17T11:38:08Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84953,
+    "brandPlusLogoURI": "/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "contactTelephone": "020 3840 3854",
+    "branchDisplayName": "David Andrew, Archway",
+    "branchName": "Archway",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Archway-84953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "517 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89808117#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89808117",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-17T11:32:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-22T06:37:15Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Apartment",
+      "htmlDescription": "Two Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Comprising 48 sq mt / 516 sq ft",
+      "htmlDescription": "Comprising 48 sq mt / 516 sq ft"
+    },
+    {
+      "order": 3,
+      "description": "Separated Reception Room / Kitchen",
+      "htmlDescription": "Separated Reception Room / Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Fully Fitted Kitchen",
+      "htmlDescription": "Fully Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "New flooring Throughout the Property",
+      "htmlDescription": "New flooring Throughout the Property"
+    },
+    {
+      "order": 6,
+      "description": "Good Natural Light",
+      "htmlDescription": "Good Natural Light"
+    },
+    {
+      "order": 7,
+      "description": "Suitable for Families or Couples",
+      "htmlDescription": "Suitable for Families or Couples"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Tufnell Park Station",
+      "htmlDescription": "Walking Distance to Tufnell Park Station"
+    },
+    {
+      "order": 9,
+      "description": "Offered Part - Furnished",
+      "htmlDescription": "Offered Part - Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Available 4th of July",
+      "htmlDescription": "Available 4th of July"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36_max_476x317.jpeg",
+        "url": "property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd068d550/89808117/fd068d5502c35bceedb574cd257efa50_max_476x317.jpeg",
+        "url": "property-photo/fd068d550/89808117/fd068d5502c35bceedb574cd257efa50.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/767759719/89808117/767759719891dab074c56c96d8c24d98_max_476x317.jpeg",
+        "url": "property-photo/767759719/89808117/767759719891dab074c56c96d8c24d98.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/219b7f105/89808117/219b7f105c26a21eef590550fe4b0120_max_476x317.jpeg",
+        "url": "property-photo/219b7f105/89808117/219b7f105c26a21eef590550fe4b0120.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe80ff605/89808117/fe80ff605bc34e8cf27827f5090922e9_max_476x317.jpeg",
+        "url": "property-photo/fe80ff605/89808117/fe80ff605bc34e8cf27827f5090922e9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c97fb2f76/89808117/c97fb2f76fd948cb9c50017b96d57feb_max_476x317.jpeg",
+        "url": "property-photo/c97fb2f76/89808117/c97fb2f76fd948cb9c50017b96d57feb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/945f032fa/89808117/945f032fabb727b3a1f2fff26342dc17_max_476x317.jpeg",
+        "url": "property-photo/945f032fa/89808117/945f032fabb727b3a1f2fff26342dc17.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4c4f0d99/89808117/f4c4f0d998ca2d61002c39442b2756c7_max_476x317.jpeg",
+        "url": "property-photo/f4c4f0d99/89808117/f4c4f0d998ca2d61002c39442b2756c7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60c944669/89808117/60c944669872bcee4b2ba7bf55285286_max_476x317.jpeg",
+        "url": "property-photo/60c944669/89808117/60c944669872bcee4b2ba7bf55285286.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee89ee727/89808117/ee89ee7272da25070429fc46c85308a9_max_476x317.jpeg",
+        "url": "property-photo/ee89ee727/89808117/ee89ee7272da25070429fc46c85308a9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/362821b35/89808117/362821b35df391dd338ba30a06ef51d2_max_476x317.jpeg",
+        "url": "property-photo/362821b35/89808117/362821b35df391dd338ba30a06ef51d2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a1f788b8/89808117/9a1f788b80361f9c9632d3f178b608a1_max_476x317.jpeg",
+        "url": "property-photo/9a1f788b8/89808117/9a1f788b80361f9c9632d3f178b608a1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6abdad453/89808117/6abdad453fe78335f29eac69507a9b36_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Archway",
+  "addedOrReduced": "Added on 17/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
