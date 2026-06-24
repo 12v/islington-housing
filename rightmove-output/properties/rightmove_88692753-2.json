@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-23T22:12:57.617660+00:00",
+  "postcode": "N1 1BF",
+  "id": 88692753,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Square Quarters are proud to present this great value two bedroom apartment (No Lounge) in a purpose built building located in Islington N1.",
+  "displayAddress": "Kember Street,  Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541182,
+    "longitude": -0.117476
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9_max_476x317.jpeg",
+      "url": "property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eeb23ee7/88692753/6eeb23ee7a4dffa7d73ad0c61ee865ac_max_476x317.jpeg",
+      "url": "property-photo/6eeb23ee7/88692753/6eeb23ee7a4dffa7d73ad0c61ee865ac.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a57a15254/88692753/a57a1525481ac58529a1efcfb28bb5dc_max_476x317.jpeg",
+      "url": "property-photo/a57a15254/88692753/a57a1525481ac58529a1efcfb28bb5dc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/008a891ef/88692753/008a891eff0528b3cc6de17b97417f75_max_476x317.jpeg",
+      "url": "property-photo/008a891ef/88692753/008a891eff0528b3cc6de17b97417f75.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8093c2625/88692753/8093c2625d7ea10cf1dcf2fca6e34dd4_max_476x317.jpeg",
+      "url": "property-photo/8093c2625/88692753/8093c2625d7ea10cf1dcf2fca6e34dd4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffc4bcb55/88692753/ffc4bcb557b67627505add328e46ed6e_max_476x317.jpeg",
+      "url": "property-photo/ffc4bcb55/88692753/ffc4bcb557b67627505add328e46ed6e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86b76a0ae/88692753/86b76a0aece9292d9920d2ca35c92ba5_max_476x317.jpeg",
+      "url": "property-photo/86b76a0ae/88692753/86b76a0aece9292d9920d2ca35c92ba5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c92145da/88692753/6c92145dad44eb6c9b2350a45672efb5_max_476x317.jpeg",
+      "url": "property-photo/6c92145da/88692753/6c92145dad44eb6c9b2350a45672efb5.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-06-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-05-19T16:08:05Z"
+  },
+  "price": {
+    "amount": 500,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,167 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3500 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 76064,
+    "brandPlusLogoURI": "/partner-logo/8422490-LOGO-1765968596.jpeg",
+    "contactTelephone": "020 3828 7119",
+    "branchDisplayName": "Square Quarters, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Square Quarters",
+    "branchLandingPageUrl": "/estate-agents/agent/Square-Quarters/Islington-76064.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8422490-LOGO-1765968596.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "No fees to tenants.<br /><br />Square Quarters are a member of the PRS (Property Redress Scheme).<br /> <br />Square Quarters are a member of UKALA and CMP (Client Money Protect) client money protection scheme.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88692753#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88692753",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-19T16:02:22Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-23T12:59:38Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Close to amenities",
+      "htmlDescription": "Close to amenities"
+    },
+    {
+      "order": 2,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Double glazing",
+      "htmlDescription": "Double glazing"
+    },
+    {
+      "order": 4,
+      "description": "Fully Furnished",
+      "htmlDescription": "Fully Furnished"
+    },
+    {
+      "order": 5,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 6,
+      "description": "Wood Floors",
+      "htmlDescription": "Wood Floors"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9_max_476x317.jpeg",
+        "url": "property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eeb23ee7/88692753/6eeb23ee7a4dffa7d73ad0c61ee865ac_max_476x317.jpeg",
+        "url": "property-photo/6eeb23ee7/88692753/6eeb23ee7a4dffa7d73ad0c61ee865ac.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a57a15254/88692753/a57a1525481ac58529a1efcfb28bb5dc_max_476x317.jpeg",
+        "url": "property-photo/a57a15254/88692753/a57a1525481ac58529a1efcfb28bb5dc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/008a891ef/88692753/008a891eff0528b3cc6de17b97417f75_max_476x317.jpeg",
+        "url": "property-photo/008a891ef/88692753/008a891eff0528b3cc6de17b97417f75.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8093c2625/88692753/8093c2625d7ea10cf1dcf2fca6e34dd4_max_476x317.jpeg",
+        "url": "property-photo/8093c2625/88692753/8093c2625d7ea10cf1dcf2fca6e34dd4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffc4bcb55/88692753/ffc4bcb557b67627505add328e46ed6e_max_476x317.jpeg",
+        "url": "property-photo/ffc4bcb55/88692753/ffc4bcb557b67627505add328e46ed6e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86b76a0ae/88692753/86b76a0aece9292d9920d2ca35c92ba5_max_476x317.jpeg",
+        "url": "property-photo/86b76a0ae/88692753/86b76a0aece9292d9920d2ca35c92ba5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c92145da/88692753/6c92145dad44eb6c9b2350a45672efb5_max_476x317.jpeg",
+        "url": "property-photo/6c92145da/88692753/6c92145dad44eb6c9b2350a45672efb5.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1f2e2ec/88692753/bb1f2e2ece6812b6170cbf5e383824d9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Square Quarters, Islington",
+  "addedOrReduced": "Added on 19/05/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

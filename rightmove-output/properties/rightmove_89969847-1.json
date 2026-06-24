@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-24T00:24:51.107837+00:00",
+  "postcode": "N5 1EL",
+  "id": 89969847,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "We offer this modern studio flat set on the raised ground floor offers a great living space with modern fixtures and fittings, a modern shower room and a great location close to Highbury Barn. Elwood Street is a quiet residential area situated within easy reach of the amenities of Hig...",
+  "displayAddress": "Elwood Street, Islington, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55825,
+    "longitude": -0.100316
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3_max_476x317.jpeg",
+      "url": "property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3.jpeg",
+      "caption": "101a Twyford House"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55ef94c69/89969847/55ef94c6904ddbf34a647059ec0cdf94_max_476x317.jpeg",
+      "url": "property-photo/55ef94c69/89969847/55ef94c6904ddbf34a647059ec0cdf94.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6fcf89eed/89969847/6fcf89eed9fe1b94d2d19489d0dfd43c_max_476x317.jpeg",
+      "url": "property-photo/6fcf89eed/89969847/6fcf89eed9fe1b94d2d19489d0dfd43c.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29e802598/89969847/29e8025985e2d87e79e545f4c8950dc3_max_476x317.jpeg",
+      "url": "property-photo/29e802598/89969847/29e8025985e2d87e79e545f4c8950dc3.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a5c8ad9d/89969847/5a5c8ad9d9d818b07728687cb02e2d70_max_476x317.jpeg",
+      "url": "property-photo/5a5c8ad9d/89969847/5a5c8ad9d9d818b07728687cb02e2d70.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d265c2322/89969847/d265c232230669dcf3bd0412ea66ad97_max_476x317.jpeg",
+      "url": "property-photo/d265c2322/89969847/d265c232230669dcf3bd0412ea66ad97.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/141fdc2bb/89969847/141fdc2bbd5b3a71a966009698e26bdd_max_476x317.jpeg",
+      "url": "property-photo/141fdc2bb/89969847/141fdc2bbd5b3a71a966009698e26bdd.jpeg",
+      "caption": "Picture No. 11"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-22T09:15:04Z"
+  },
+  "price": {
+    "amount": 1350,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,350 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3312 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 226418,
+    "brandPlusLogoURI": "/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "contactTelephone": "020 3866 4652",
+    "branchDisplayName": "NEILSON & BAUER LTD, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "NEILSON & BAUER LTD",
+    "branchLandingPageUrl": "/estate-agents/agent/NEILSON-and-BAUER-LTD/Islington-226418.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-23T13:54:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "228 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89969847#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89969847",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-22T09:09:26Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-23T22:26:14Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Studio apartment",
+      "htmlDescription": "Studio apartment"
+    },
+    {
+      "order": 2,
+      "description": "Fully furnished",
+      "htmlDescription": "Fully furnished"
+    },
+    {
+      "order": 3,
+      "description": "Raised ground floor",
+      "htmlDescription": "Raised ground floor"
+    },
+    {
+      "order": 4,
+      "description": "Available 19th July at the earliest",
+      "htmlDescription": "Available 19th July at the earliest"
+    },
+    {
+      "order": 5,
+      "description": "\u00a3311.53 Holding deposit required (One weeks rent)",
+      "htmlDescription": "\u00a3311.53 Holding deposit required (One weeks rent)"
+    },
+    {
+      "order": 6,
+      "description": "\u00a31557.69 Security deposit required (Five weeks rent)",
+      "htmlDescription": "\u00a31557.69 Security deposit required (Five weeks rent)"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3_max_476x317.jpeg",
+        "url": "property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3.jpeg",
+        "caption": "101a Twyford House"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55ef94c69/89969847/55ef94c6904ddbf34a647059ec0cdf94_max_476x317.jpeg",
+        "url": "property-photo/55ef94c69/89969847/55ef94c6904ddbf34a647059ec0cdf94.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6fcf89eed/89969847/6fcf89eed9fe1b94d2d19489d0dfd43c_max_476x317.jpeg",
+        "url": "property-photo/6fcf89eed/89969847/6fcf89eed9fe1b94d2d19489d0dfd43c.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29e802598/89969847/29e8025985e2d87e79e545f4c8950dc3_max_476x317.jpeg",
+        "url": "property-photo/29e802598/89969847/29e8025985e2d87e79e545f4c8950dc3.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a5c8ad9d/89969847/5a5c8ad9d9d818b07728687cb02e2d70_max_476x317.jpeg",
+        "url": "property-photo/5a5c8ad9d/89969847/5a5c8ad9d9d818b07728687cb02e2d70.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d265c2322/89969847/d265c232230669dcf3bd0412ea66ad97_max_476x317.jpeg",
+        "url": "property-photo/d265c2322/89969847/d265c232230669dcf3bd0412ea66ad97.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/141fdc2bb/89969847/141fdc2bbd5b3a71a966009698e26bdd_max_476x317.jpeg",
+        "url": "property-photo/141fdc2bb/89969847/141fdc2bbd5b3a71a966009698e26bdd.jpeg",
+        "caption": "Picture No. 11"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f6edc417b/89969847/f6edc417b7e8ada3dc80d0fa3ef165a3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NEILSON & BAUER LTD, Islington",
+  "addedOrReduced": "Added on 22/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
