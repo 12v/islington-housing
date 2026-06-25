@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-24T22:37:40.631597+00:00",
+  "postcode": "N1 7FW",
+  "id": 89998497,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A LARGER THAN AVERAGE (OVER 610 SQ FT) ONE BEDROOM MAISONETTE WITH ITS OWN PRIVATE GARDEN LOCATED IN PACKINGTON SQUARE, A MODERN DEVELOPMENT ON THE REGENTS CANAL IN ISLINGTON N1 The oversized accommodation starts from the apartments own front door leading into a spacious hallway with amp...",
+  "displayAddress": "Packington Square, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.535194,
+    "longitude": -0.095919
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d_max_476x317.jpeg",
+      "url": "property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca4da1500/89998497/ca4da1500750c836f54d595a0043bcef_max_476x317.jpeg",
+      "url": "property-photo/ca4da1500/89998497/ca4da1500750c836f54d595a0043bcef.jpeg",
+      "caption": "PRIVATE GARDEN"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf99450be/89998497/bf99450be7777e70c0447fa76c9d5bb8_max_476x317.jpeg",
+      "url": "property-photo/bf99450be/89998497/bf99450be7777e70c0447fa76c9d5bb8.jpeg",
+      "caption": "BEDROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ffb8bfe2/89998497/6ffb8bfe2f46a2b58037a4eb4968d344_max_476x317.jpeg",
+      "url": "property-photo/6ffb8bfe2/89998497/6ffb8bfe2f46a2b58037a4eb4968d344.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13e2624ef/89998497/13e2624ef3248be2dc94530f6d1a7af2_max_476x317.jpeg",
+      "url": "property-photo/13e2624ef/89998497/13e2624ef3248be2dc94530f6d1a7af2.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d109bb3b8/89998497/d109bb3b822986a28c6ca40d017fe57a_max_476x317.jpeg",
+      "url": "property-photo/d109bb3b8/89998497/d109bb3b822986a28c6ca40d017fe57a.jpeg",
+      "caption": "RECEPTION ROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0deb8a359/89998497/0deb8a359277bffe30944a5cf0cdd5ed_max_476x317.jpeg",
+      "url": "property-photo/0deb8a359/89998497/0deb8a359277bffe30944a5cf0cdd5ed.jpeg",
+      "caption": "HALLWAY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a960d3c3c/89998497/a960d3c3c148afd60eb41c765e645aad_max_476x317.jpeg",
+      "url": "property-photo/a960d3c3c/89998497/a960d3c3c148afd60eb41c765e645aad.jpeg",
+      "caption": "PRIVATE GARDEN"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47dd4a1f2/89998497/47dd4a1f29b2b6265099530f4153bf54_max_476x317.jpeg",
+      "url": "property-photo/47dd4a1f2/89998497/47dd4a1f29b2b6265099530f4153bf54.jpeg",
+      "caption": "PACKINGTON SQUARE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e16c2cdd6/89998497/e16c2cdd61e6f3d5910b1a66d94786f2_max_476x317.jpeg",
+      "url": "property-photo/e16c2cdd6/89998497/e16c2cdd61e6f3d5910b1a66d94786f2.jpeg",
+      "caption": "PACKINGTON SQUARE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ce243eb/89998497/09ce243eb3e6a20369b4ec8e25563579_max_476x317.jpeg",
+      "url": "property-photo/09ce243eb/89998497/09ce243eb3e6a20369b4ec8e25563579.jpeg",
+      "caption": "OWN ENTRANCE TO FLAT"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-22T15:55:25Z"
+  },
+  "price": {
+    "amount": 685,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,968 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3685 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 29861,
+    "brandPlusLogoURI": "/partner-logo/69846-PRODUCTS_LOGO-1766061817.jpg",
+    "contactTelephone": "020 3879 9100",
+    "branchDisplayName": "CityZEN, London",
+    "branchName": "London",
+    "brandTradingName": "CityZEN",
+    "branchLandingPageUrl": "/estate-agents/agent/CityZEN/London-29861.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T17:14:39Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/69846-PRODUCTS_LOGO-1766061817.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89998497#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89998497",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-22T15:50:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-24T06:47:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "PACKINGTON SQUARE ISLINGTON N1",
+      "htmlDescription": "PACKINGTON SQUARE ISLINGTON N1"
+    },
+    {
+      "order": 2,
+      "description": "OVER SIZED ONE BEDROOM MAISONETTE",
+      "htmlDescription": "OVER SIZED ONE BEDROOM MAISONETTE"
+    },
+    {
+      "order": 3,
+      "description": "OWN PRIVATE GARDEN 22FT X 17FT",
+      "htmlDescription": "OWN PRIVATE GARDEN 22FT X 17FT"
+    },
+    {
+      "order": 4,
+      "description": "OVER 610 SQUARE FEET",
+      "htmlDescription": "OVER 610 SQUARE FEET"
+    },
+    {
+      "order": 5,
+      "description": "24 FOOT RECEPTION ROOM OPENING ONTO GARDEN",
+      "htmlDescription": "24 FOOT RECEPTION ROOM OPENING ONTO GARDEN"
+    },
+    {
+      "order": 6,
+      "description": "FURNISHED AND AVAILABLE FROM 24.08.2026",
+      "htmlDescription": "FURNISHED AND AVAILABLE FROM 24.08.2026"
+    },
+    {
+      "order": 7,
+      "description": "WALK TO UPPER STREET",
+      "htmlDescription": "WALK TO UPPER STREET"
+    },
+    {
+      "order": 8,
+      "description": "CLOSE TO REGENTS CANAL",
+      "htmlDescription": "CLOSE TO REGENTS CANAL"
+    },
+    {
+      "order": 9,
+      "description": "ESSEX ROAD STATION ZONE 2",
+      "htmlDescription": "ESSEX ROAD STATION ZONE 2"
+    },
+    {
+      "order": 10,
+      "description": "AMAZING LIVING SPACE",
+      "htmlDescription": "AMAZING LIVING SPACE"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d_max_476x317.jpeg",
+        "url": "property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca4da1500/89998497/ca4da1500750c836f54d595a0043bcef_max_476x317.jpeg",
+        "url": "property-photo/ca4da1500/89998497/ca4da1500750c836f54d595a0043bcef.jpeg",
+        "caption": "PRIVATE GARDEN"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf99450be/89998497/bf99450be7777e70c0447fa76c9d5bb8_max_476x317.jpeg",
+        "url": "property-photo/bf99450be/89998497/bf99450be7777e70c0447fa76c9d5bb8.jpeg",
+        "caption": "BEDROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ffb8bfe2/89998497/6ffb8bfe2f46a2b58037a4eb4968d344_max_476x317.jpeg",
+        "url": "property-photo/6ffb8bfe2/89998497/6ffb8bfe2f46a2b58037a4eb4968d344.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13e2624ef/89998497/13e2624ef3248be2dc94530f6d1a7af2_max_476x317.jpeg",
+        "url": "property-photo/13e2624ef/89998497/13e2624ef3248be2dc94530f6d1a7af2.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d109bb3b8/89998497/d109bb3b822986a28c6ca40d017fe57a_max_476x317.jpeg",
+        "url": "property-photo/d109bb3b8/89998497/d109bb3b822986a28c6ca40d017fe57a.jpeg",
+        "caption": "RECEPTION ROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0deb8a359/89998497/0deb8a359277bffe30944a5cf0cdd5ed_max_476x317.jpeg",
+        "url": "property-photo/0deb8a359/89998497/0deb8a359277bffe30944a5cf0cdd5ed.jpeg",
+        "caption": "HALLWAY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a960d3c3c/89998497/a960d3c3c148afd60eb41c765e645aad_max_476x317.jpeg",
+        "url": "property-photo/a960d3c3c/89998497/a960d3c3c148afd60eb41c765e645aad.jpeg",
+        "caption": "PRIVATE GARDEN"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47dd4a1f2/89998497/47dd4a1f29b2b6265099530f4153bf54_max_476x317.jpeg",
+        "url": "property-photo/47dd4a1f2/89998497/47dd4a1f29b2b6265099530f4153bf54.jpeg",
+        "caption": "PACKINGTON SQUARE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e16c2cdd6/89998497/e16c2cdd61e6f3d5910b1a66d94786f2_max_476x317.jpeg",
+        "url": "property-photo/e16c2cdd6/89998497/e16c2cdd61e6f3d5910b1a66d94786f2.jpeg",
+        "caption": "PACKINGTON SQUARE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ce243eb/89998497/09ce243eb3e6a20369b4ec8e25563579_max_476x317.jpeg",
+        "url": "property-photo/09ce243eb/89998497/09ce243eb3e6a20369b4ec8e25563579.jpeg",
+        "caption": "OWN ENTRANCE TO FLAT"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b7a4a466/89998497/0b7a4a466ea23ed9fb96d40c45e4ae5d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CityZEN, London",
+  "addedOrReduced": "Added on 22/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
