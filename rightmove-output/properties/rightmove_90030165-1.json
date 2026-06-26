@@ -1,0 +1,218 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-25T21:33:42.890575+00:00",
+  "postcode": "EC1V 8DN",
+  "id": 90030165,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 5,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "JS Estate Management is delighted to present this brand-new, fully furnished 1-bedroom flat, offering an expansive 560 sq ft of internal living space. This modern flat is designed to provide comfort a...",
+  "displayAddress": "8 Dingley Road, London, EC1V 8DN",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.527985,
+    "longitude": -0.094837
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c_max_476x317.jpeg",
+      "url": "property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2c2bd59b/90030165/d2c2bd59b0cd75a388e987f131e82d88_max_476x317.jpeg",
+      "url": "property-photo/d2c2bd59b/90030165/d2c2bd59b0cd75a388e987f131e82d88.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a241877a8/90030165/a241877a8c956b31b6030286cb5d441d_max_476x317.jpeg",
+      "url": "property-photo/a241877a8/90030165/a241877a8c956b31b6030286cb5d441d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22106209d/90030165/22106209d46ed60ab3e0a2c9c5ab03ac_max_476x317.jpeg",
+      "url": "property-photo/22106209d/90030165/22106209d46ed60ab3e0a2c9c5ab03ac.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e3991176/90030165/1e39911760d2c7b600ced5d2f145495d_max_476x317.jpeg",
+      "url": "property-photo/1e3991176/90030165/1e39911760d2c7b600ced5d2f145495d.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-23T12:10:03Z"
+  },
+  "price": {
+    "amount": 876,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,796 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3876 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 264161,
+    "brandPlusLogoURI": "/partner-logo/30515276-PRODUCTS_LOGO-1766060312.png",
+    "contactTelephone": "020 4538 7393",
+    "branchDisplayName": "JS Estate Management, London",
+    "branchName": "London",
+    "brandTradingName": "JS Estate Management",
+    "branchLandingPageUrl": "/estate-agents/agent/JS-Estate-Management/London-264161.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30515276-PRODUCTS_LOGO-1766060312.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90030165#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90030165",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-23T12:04:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-25T06:57:15Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "24 hour concierge",
+      "htmlDescription": "24 hour concierge"
+    },
+    {
+      "order": 3,
+      "description": "Spa, Gym & Swimming Pool",
+      "htmlDescription": "Spa, Gym & Swimming Pool"
+    },
+    {
+      "order": 4,
+      "description": "Under Floor Heating",
+      "htmlDescription": "Under Floor Heating"
+    },
+    {
+      "order": 5,
+      "description": "4th Floor",
+      "htmlDescription": "4th Floor"
+    },
+    {
+      "order": 6,
+      "description": "Air con",
+      "htmlDescription": "Air con"
+    },
+    {
+      "order": 7,
+      "description": "1.9 acres of Wi-fi enabled green space",
+      "htmlDescription": "1.9 acres of Wi-fi enabled green space"
+    },
+    {
+      "order": 8,
+      "description": "Spacious Balcony",
+      "htmlDescription": "Spacious Balcony"
+    },
+    {
+      "order": 9,
+      "description": "Built in wardrobe",
+      "htmlDescription": "Built in wardrobe"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c_max_476x317.jpeg",
+        "url": "property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2c2bd59b/90030165/d2c2bd59b0cd75a388e987f131e82d88_max_476x317.jpeg",
+        "url": "property-photo/d2c2bd59b/90030165/d2c2bd59b0cd75a388e987f131e82d88.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a241877a8/90030165/a241877a8c956b31b6030286cb5d441d_max_476x317.jpeg",
+        "url": "property-photo/a241877a8/90030165/a241877a8c956b31b6030286cb5d441d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22106209d/90030165/22106209d46ed60ab3e0a2c9c5ab03ac_max_476x317.jpeg",
+        "url": "property-photo/22106209d/90030165/22106209d46ed60ab3e0a2c9c5ab03ac.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e3991176/90030165/1e39911760d2c7b600ced5d2f145495d_max_476x317.jpeg",
+        "url": "property-photo/1e3991176/90030165/1e39911760d2c7b600ced5d2f145495d.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/093a80137/90030165/093a801374acf4c37509dd2ad8306f7c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by JS Estate Management, London",
+  "addedOrReduced": "Added on 23/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

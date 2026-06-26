@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-25T21:18:40.739987+00:00",
+  "postcode": "EC1V 0EP",
+  "id": 90141612,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "We are proud to offer this delightful 3 bedroom, 1 bathroom flat in a great location. Available to move in from 24 August 2026. Property is offered furnished. Viewing highly recommended. Contact... ** Property Reference: 2936178 **",
+  "displayAddress": "Emberton Court, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52648,
+    "longitude": -0.102951
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a_max_476x317.jpeg",
+      "url": "property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a.jpeg",
+      "caption": "Entrance"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a17e3b643/90141612/a17e3b643f1796d8fa334ac16e9ba257_max_476x317.jpeg",
+      "url": "property-photo/a17e3b643/90141612/a17e3b643f1796d8fa334ac16e9ba257.jpeg",
+      "caption": "Bedroom 1 - Balcony Access"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5997d97b/90141612/d5997d97b11b792569dc1d836c59ec68_max_476x317.jpeg",
+      "url": "property-photo/d5997d97b/90141612/d5997d97b11b792569dc1d836c59ec68.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f00a8684b/90141612/f00a8684b7fea174d3acf1922b2440c6_max_476x317.jpeg",
+      "url": "property-photo/f00a8684b/90141612/f00a8684b7fea174d3acf1922b2440c6.jpeg",
+      "caption": "Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6025ae8ad/90141612/6025ae8ad8249ef7e727f299dba88616_max_476x317.jpeg",
+      "url": "property-photo/6025ae8ad/90141612/6025ae8ad8249ef7e727f299dba88616.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80e7adf46/90141612/80e7adf466c311abda882105b89283a8_max_476x317.jpeg",
+      "url": "property-photo/80e7adf46/90141612/80e7adf466c311abda882105b89283a8.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3019f3f8c/90141612/3019f3f8c32b9349eb2a09928e5bc2b6_max_476x317.jpeg",
+      "url": "property-photo/3019f3f8c/90141612/3019f3f8c32b9349eb2a09928e5bc2b6.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b60ff0ed6/90141612/b60ff0ed6ee8ab36d2b37fe7035f2f26_max_476x317.jpeg",
+      "url": "property-photo/b60ff0ed6/90141612/b60ff0ed6ee8ab36d2b37fe7035f2f26.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/458917f44/90141612/458917f44d3cfe389f6bf8bae06457a1_max_476x317.jpeg",
+      "url": "property-photo/458917f44/90141612/458917f44d3cfe389f6bf8bae06457a1.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d596e9288/90141612/d596e92880e6db78945fe777750ffcac_max_476x317.jpeg",
+      "url": "property-photo/d596e9288/90141612/d596e92880e6db78945fe777750ffcac.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18c6232a1/90141612/18c6232a15a65efb61381f66cf4079f0_max_476x317.jpeg",
+      "url": "property-photo/18c6232a1/90141612/18c6232a15a65efb61381f66cf4079f0.jpeg",
+      "caption": "Bedroom 3"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-25T15:24:25Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-22T11:04:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90141612#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90141612",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-25T15:18:57Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-25T15:24:25Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Students Can Enquire",
+      "htmlDescription": "Students Can Enquire"
+    },
+    {
+      "order": 3,
+      "description": "Property Reference Number: 2936178",
+      "htmlDescription": "Property Reference Number: 2936178"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a_max_476x317.jpeg",
+        "url": "property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a.jpeg",
+        "caption": "Entrance"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a17e3b643/90141612/a17e3b643f1796d8fa334ac16e9ba257_max_476x317.jpeg",
+        "url": "property-photo/a17e3b643/90141612/a17e3b643f1796d8fa334ac16e9ba257.jpeg",
+        "caption": "Bedroom 1 - Balcony Access"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5997d97b/90141612/d5997d97b11b792569dc1d836c59ec68_max_476x317.jpeg",
+        "url": "property-photo/d5997d97b/90141612/d5997d97b11b792569dc1d836c59ec68.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f00a8684b/90141612/f00a8684b7fea174d3acf1922b2440c6_max_476x317.jpeg",
+        "url": "property-photo/f00a8684b/90141612/f00a8684b7fea174d3acf1922b2440c6.jpeg",
+        "caption": "Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6025ae8ad/90141612/6025ae8ad8249ef7e727f299dba88616_max_476x317.jpeg",
+        "url": "property-photo/6025ae8ad/90141612/6025ae8ad8249ef7e727f299dba88616.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80e7adf46/90141612/80e7adf466c311abda882105b89283a8_max_476x317.jpeg",
+        "url": "property-photo/80e7adf46/90141612/80e7adf466c311abda882105b89283a8.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3019f3f8c/90141612/3019f3f8c32b9349eb2a09928e5bc2b6_max_476x317.jpeg",
+        "url": "property-photo/3019f3f8c/90141612/3019f3f8c32b9349eb2a09928e5bc2b6.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b60ff0ed6/90141612/b60ff0ed6ee8ab36d2b37fe7035f2f26_max_476x317.jpeg",
+        "url": "property-photo/b60ff0ed6/90141612/b60ff0ed6ee8ab36d2b37fe7035f2f26.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/458917f44/90141612/458917f44d3cfe389f6bf8bae06457a1_max_476x317.jpeg",
+        "url": "property-photo/458917f44/90141612/458917f44d3cfe389f6bf8bae06457a1.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d596e9288/90141612/d596e92880e6db78945fe777750ffcac_max_476x317.jpeg",
+        "url": "property-photo/d596e9288/90141612/d596e92880e6db78945fe777750ffcac.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18c6232a1/90141612/18c6232a15a65efb61381f66cf4079f0_max_476x317.jpeg",
+        "url": "property-photo/18c6232a1/90141612/18c6232a15a65efb61381f66cf4079f0.jpeg",
+        "caption": "Bedroom 3"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8524d6a86/90141612/8524d6a8645152cc6ee6772ab994509a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
