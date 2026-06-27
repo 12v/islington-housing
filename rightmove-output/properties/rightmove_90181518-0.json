@@ -1,0 +1,153 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-27T00:14:38.339857+00:00",
+  "postcode": "N5 1FJ",
+  "id": 90181518,
+  "bedrooms": 0,
+  "bathrooms": 0,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Two secure, private parking spaces are available to rent exclusively for residents and owners of Highbury Square Apartments. Located within the development, both spaces offer safe, convenient 24/7 access. Each space is available for \u00a325 per week. Please get in touch for availability or to a...",
+  "displayAddress": "Highbury Stadium Square, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.558418,
+    "longitude": -0.103514
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e_max_476x317.jpeg",
+      "url": "property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e.jpeg",
+      "caption": "Photo 1"
+    }
+  ],
+  "propertySubType": "Land",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-26T12:21:08Z"
+  },
+  "price": {
+    "amount": 25,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3108 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a325 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 207578,
+    "brandPlusLogoURI": "/partner-logo/22425125-PRODUCTS_LOGO-1766060981.png",
+    "contactTelephone": "020 7201 0700",
+    "branchDisplayName": "Quintessentially Estates, London",
+    "branchName": "London",
+    "brandTradingName": "Quintessentially Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Quintessentially-Estates/London-207578.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-07-04T12:25:32Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22425125-PRODUCTS_LOGO-1766060981.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": true,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90181518#/?channel=COM_LET",
+  "contactUrl": "/commercial-property-to-let/contactBranch.html?propertyId=90181518",
+  "staticMapUrl": null,
+  "channel": "COMMERCIAL_RENT",
+  "firstVisibleDate": "2026-06-26T12:16:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-26T13:09:55Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    },
+    {
+      "order": 2,
+      "description": "24/7 access",
+      "htmlDescription": "24/7 access"
+    },
+    {
+      "order": 3,
+      "description": "Underground",
+      "htmlDescription": "Underground "
+    },
+    {
+      "order": 4,
+      "description": "Secured",
+      "htmlDescription": "Secured"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e_max_476x317.jpeg",
+        "url": "property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e.jpeg",
+        "caption": "Photo 1"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e205544ce/90181518/e205544ced7c438882ac135e4dc2721e_max_296x197.jpeg"
+  },
+  "formattedBranchName": "Marketed by Quintessentially Estates, London",
+  "addedOrReduced": "",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Land",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

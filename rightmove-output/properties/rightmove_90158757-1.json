@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-27T00:34:53.966651+00:00",
+  "postcode": "N7 0LR",
+  "id": 90158757,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Bright and Spacious 2 Bedroom Flat - Available From 6th September Great transport links (zone 2) and amenities including food & drink and supermarkets. The Property Newly Renovated 1 Ye... ** Property Reference: 2894391 **",
+  "displayAddress": "Parkhurst Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555847,
+    "longitude": -0.122106
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a_max_476x317.jpeg",
+      "url": "property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/150166d19/90158757/150166d19e251738422a3a496e45939b_max_476x317.jpeg",
+      "url": "property-photo/150166d19/90158757/150166d19e251738422a3a496e45939b.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b84396bfb/90158757/b84396bfbee25893f40accac4c6f10c4_max_476x317.jpeg",
+      "url": "property-photo/b84396bfb/90158757/b84396bfbee25893f40accac4c6f10c4.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9359acc2d/90158757/9359acc2d4f66726c3b88282bacfa1b3_max_476x317.jpeg",
+      "url": "property-photo/9359acc2d/90158757/9359acc2d4f66726c3b88282bacfa1b3.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c73c186a4/90158757/c73c186a46a87996b24eb50fc9a82f2a_max_476x317.jpeg",
+      "url": "property-photo/c73c186a4/90158757/c73c186a46a87996b24eb50fc9a82f2a.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36d7ea23d/90158757/36d7ea23def1c9d933c4dfc670f148ab_max_476x317.jpeg",
+      "url": "property-photo/36d7ea23d/90158757/36d7ea23def1c9d933c4dfc670f148ab.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e051e826/90158757/5e051e826f198c09845d5869ee04a651_max_476x317.jpeg",
+      "url": "property-photo/5e051e826/90158757/5e051e826f198c09845d5869ee04a651.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/281fb0073/90158757/281fb00736ace17dbf6075c97e2990e3_max_476x317.jpeg",
+      "url": "property-photo/281fb0073/90158757/281fb00736ace17dbf6075c97e2990e3.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-25T20:11:34Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-22T11:04:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90158757#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90158757",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-25T20:06:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-26T00:06:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Property Reference Number: 2894391",
+      "htmlDescription": "Property Reference Number: 2894391"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a_max_476x317.jpeg",
+        "url": "property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/150166d19/90158757/150166d19e251738422a3a496e45939b_max_476x317.jpeg",
+        "url": "property-photo/150166d19/90158757/150166d19e251738422a3a496e45939b.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b84396bfb/90158757/b84396bfbee25893f40accac4c6f10c4_max_476x317.jpeg",
+        "url": "property-photo/b84396bfb/90158757/b84396bfbee25893f40accac4c6f10c4.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9359acc2d/90158757/9359acc2d4f66726c3b88282bacfa1b3_max_476x317.jpeg",
+        "url": "property-photo/9359acc2d/90158757/9359acc2d4f66726c3b88282bacfa1b3.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c73c186a4/90158757/c73c186a46a87996b24eb50fc9a82f2a_max_476x317.jpeg",
+        "url": "property-photo/c73c186a4/90158757/c73c186a46a87996b24eb50fc9a82f2a.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36d7ea23d/90158757/36d7ea23def1c9d933c4dfc670f148ab_max_476x317.jpeg",
+        "url": "property-photo/36d7ea23d/90158757/36d7ea23def1c9d933c4dfc670f148ab.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e051e826/90158757/5e051e826f198c09845d5869ee04a651_max_476x317.jpeg",
+        "url": "property-photo/5e051e826/90158757/5e051e826f198c09845d5869ee04a651.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/281fb0073/90158757/281fb00736ace17dbf6075c97e2990e3_max_476x317.jpeg",
+        "url": "property-photo/281fb0073/90158757/281fb00736ace17dbf6075c97e2990e3.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f416fd373/90158757/f416fd373084606fc0a8cf2f4ca26b1a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Added on 25/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
