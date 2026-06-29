@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-28T21:47:44.417406+00:00",
+  "postcode": "N1 0HB",
+  "id": 90193902,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "An ideally located one double bedroom period apartment situated just moments away from Angel tube, Chapel Market and Islington's bustling Upper Street, N1.",
+  "displayAddress": "Barnsbury Road, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53423,
+    "longitude": -0.111285
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7_max_476x317.jpeg",
+      "url": "property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251e42347/90193902/251e42347b105bce06f44ccb29d244f8_max_476x317.jpeg",
+      "url": "property-photo/251e42347/90193902/251e42347b105bce06f44ccb29d244f8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a11fb8f97/90193902/a11fb8f9704b0feb4aa9f1a2f9dba8b9_max_476x317.jpeg",
+      "url": "property-photo/a11fb8f97/90193902/a11fb8f9704b0feb4aa9f1a2f9dba8b9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba41db918/90193902/ba41db918cb4194021421a5cda660d03_max_476x317.jpeg",
+      "url": "property-photo/ba41db918/90193902/ba41db918cb4194021421a5cda660d03.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42ef89cad/90193902/42ef89cadc3dd66121a29183f6d4291b_max_476x317.jpeg",
+      "url": "property-photo/42ef89cad/90193902/42ef89cadc3dd66121a29183f6d4291b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07497f398/90193902/07497f3984299b8cb318363eb36e9732_max_476x317.jpeg",
+      "url": "property-photo/07497f398/90193902/07497f3984299b8cb318363eb36e9732.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1234f4819/90193902/1234f481953d85320725664f9732458c_max_476x317.jpeg",
+      "url": "property-photo/1234f4819/90193902/1234f481953d85320725664f9732458c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f1feb36d/90193902/9f1feb36d9a65fb806dea2ec7b2a56c1_max_476x317.jpeg",
+      "url": "property-photo/9f1feb36d/90193902/9f1feb36d9a65fb806dea2ec7b2a56c1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-26T15:00:18Z"
+  },
+  "price": {
+    "amount": 510,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,210 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3510 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 53027,
+    "brandPlusLogoURI": "/partner-logo/7555097-LOGO-1765820788.jpg",
+    "contactTelephone": "020 3834 8758",
+    "branchDisplayName": "Fyfe McDade Limited, Shoreditch",
+    "branchName": "Shoreditch",
+    "brandTradingName": "Fyfe McDade Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Fyfe-McDade-Limited/Shoreditch-53027.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7555097-LOGO-1765820788.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "TENANT FEES SCHEDULE NEW ASSURED SHORTHOLD TENANCIES (ASTs) SIGNED ON OR AFTER 1 JUNE 2019 Holding Deposit (per tenancy) One week's rent. This is to reserve a property. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing). Security Deposit (per tenancy. Rent under \u00a350,000 per year) Five weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy. Security Deposit (per tenancy. Rent of \u00a350,000 or over per year) Six weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy. Unpaid Rent Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears. Lost Key(s) or other Security Device(s) Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant. If extra costs are incurred there will be a charge of \u00a315 per hour (inc. VAT) for the time taken replacing lost key(s) or other security device(s). Variation of Contract (Tenant's Request) \u00a350 (inc. VAT) per agreed variation. To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents. Change of Sharer (Tenant's Request) \u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents. Early Termination (Tenant's Request) Should the tenant wish to leave their contract early, they shall be liable to the landlord's costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy. Please ask a member of staff if you have any questions about our fees. CLIENT MONEY PROTECTION: propertymark.co.uk Membership Number: C0012943 INDEPENDENT REDRESS: tpos.co.uk Membership Number: N031129",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90193902#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90193902",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-26T14:54:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-28T05:56:30Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished one double bedroom period apartment",
+      "htmlDescription": "Furnished one double bedroom period apartment"
+    },
+    {
+      "order": 2,
+      "description": "Excellent transport links closeby",
+      "htmlDescription": "Excellent transport links closeby"
+    },
+    {
+      "order": 3,
+      "description": "First floor property",
+      "htmlDescription": "First floor property"
+    },
+    {
+      "order": 4,
+      "description": "Bright and high ceilings",
+      "htmlDescription": "Bright and high ceilings"
+    },
+    {
+      "order": 5,
+      "description": "Available for long let from 5th September 2026",
+      "htmlDescription": "Available for long let from 5th September 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7_max_476x317.jpeg",
+        "url": "property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251e42347/90193902/251e42347b105bce06f44ccb29d244f8_max_476x317.jpeg",
+        "url": "property-photo/251e42347/90193902/251e42347b105bce06f44ccb29d244f8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a11fb8f97/90193902/a11fb8f9704b0feb4aa9f1a2f9dba8b9_max_476x317.jpeg",
+        "url": "property-photo/a11fb8f97/90193902/a11fb8f9704b0feb4aa9f1a2f9dba8b9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba41db918/90193902/ba41db918cb4194021421a5cda660d03_max_476x317.jpeg",
+        "url": "property-photo/ba41db918/90193902/ba41db918cb4194021421a5cda660d03.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42ef89cad/90193902/42ef89cadc3dd66121a29183f6d4291b_max_476x317.jpeg",
+        "url": "property-photo/42ef89cad/90193902/42ef89cadc3dd66121a29183f6d4291b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07497f398/90193902/07497f3984299b8cb318363eb36e9732_max_476x317.jpeg",
+        "url": "property-photo/07497f398/90193902/07497f3984299b8cb318363eb36e9732.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1234f4819/90193902/1234f481953d85320725664f9732458c_max_476x317.jpeg",
+        "url": "property-photo/1234f4819/90193902/1234f481953d85320725664f9732458c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f1feb36d/90193902/9f1feb36d9a65fb806dea2ec7b2a56c1_max_476x317.jpeg",
+        "url": "property-photo/9f1feb36d/90193902/9f1feb36d9a65fb806dea2ec7b2a56c1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52f3acf3e/90193902/52f3acf3e773ca0142110a0dea3a8dc7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Fyfe McDade Limited, Shoreditch",
+  "addedOrReduced": "Added on 26/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
