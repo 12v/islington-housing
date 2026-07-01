@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-06-30T23:04:17.757849+00:00",
+  "postcode": "N1 9RW",
+  "id": 140504141,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious, bright and extremely well-presented 3rd floor, two bedroom apartment located in one of the most popular New Wharf developments.",
+  "displayAddress": "Ice Wharf, New Wharf  Road, London, N1 9RW",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53483,
+    "longitude": -0.11988
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2_max_476x317.png",
+      "url": "property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4d504688/140504141/e4d50468832ca042909829b92a7cf0bd_max_476x317.jpeg",
+      "url": "property-photo/e4d504688/140504141/e4d50468832ca042909829b92a7cf0bd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00cdaa26d/140504141/00cdaa26d9868ef7913c099fa2086a20_max_476x317.jpeg",
+      "url": "property-photo/00cdaa26d/140504141/00cdaa26d9868ef7913c099fa2086a20.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96141cb8c/140504141/96141cb8c5e98632afb53ef7e2654cfd_max_476x317.jpeg",
+      "url": "property-photo/96141cb8c/140504141/96141cb8c5e98632afb53ef7e2654cfd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdacc8606/140504141/cdacc8606f732fc436cd386ad54bc188_max_476x317.jpeg",
+      "url": "property-photo/cdacc8606/140504141/cdacc8606f732fc436cd386ad54bc188.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b31fe14/140504141/84b31fe148c97e525c9a3296b689ae89_max_476x317.jpeg",
+      "url": "property-photo/84b31fe14/140504141/84b31fe148c97e525c9a3296b689ae89.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87f28bfb3/140504141/87f28bfb3a165ef19747d7229f4d00ee_max_476x317.jpeg",
+      "url": "property-photo/87f28bfb3/140504141/87f28bfb3a165ef19747d7229f4d00ee.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b37c6053c/140504141/b37c6053c056a7c11a9326a6984b988e_max_476x317.jpeg",
+      "url": "property-photo/b37c6053c/140504141/b37c6053c056a7c11a9326a6984b988e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d32c52b94/140504141/d32c52b944ff14d367297afec2183184_max_476x317.jpeg",
+      "url": "property-photo/d32c52b94/140504141/d32c52b944ff14d367297afec2183184.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f3c26631/140504141/0f3c266317fa33a80ccad754b5e5d541_max_476x317.jpeg",
+      "url": "property-photo/0f3c26631/140504141/0f3c266317fa33a80ccad754b5e5d541.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-30T09:37:11Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": "Guide Price"
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": "Guide Price"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 286127,
+    "brandPlusLogoURI": "/partner-logo/36381848-PRODUCTS_LOGO-1766059403.jpeg",
+    "contactTelephone": "01623 701206",
+    "branchDisplayName": "TH Advisors, Marylebone",
+    "branchName": "Marylebone",
+    "brandTradingName": "TH Advisors",
+    "branchLandingPageUrl": "/estate-agents/agent/TH-Advisors/Marylebone-286127.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-04T16:48:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/36381848-PRODUCTS_LOGO-1766059403.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": true,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please See:  \n\nCMP Membership UKALA No: 006277\nICO Registration reference: ZB598722\nPRS Property Redress Scheme: PRS028230",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/140504141#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=140504141",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2023-09-27T13:45:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": [
+      {
+        "type": "NEW_HOME",
+        "priority": 4
+      }
+    ]
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-06-30T10:15:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright and spacious",
+      "htmlDescription": "Bright and spacious"
+    },
+    {
+      "order": 2,
+      "description": "3rd Floor",
+      "htmlDescription": "3rd Floor"
+    },
+    {
+      "order": 3,
+      "description": "0.4 miles to King's Cross Station",
+      "htmlDescription": "0.4 miles to King's Cross Station"
+    },
+    {
+      "order": 4,
+      "description": "2 Bedrooms",
+      "htmlDescription": "2 Bedrooms"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2_max_476x317.png",
+        "url": "property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4d504688/140504141/e4d50468832ca042909829b92a7cf0bd_max_476x317.jpeg",
+        "url": "property-photo/e4d504688/140504141/e4d50468832ca042909829b92a7cf0bd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00cdaa26d/140504141/00cdaa26d9868ef7913c099fa2086a20_max_476x317.jpeg",
+        "url": "property-photo/00cdaa26d/140504141/00cdaa26d9868ef7913c099fa2086a20.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96141cb8c/140504141/96141cb8c5e98632afb53ef7e2654cfd_max_476x317.jpeg",
+        "url": "property-photo/96141cb8c/140504141/96141cb8c5e98632afb53ef7e2654cfd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdacc8606/140504141/cdacc8606f732fc436cd386ad54bc188_max_476x317.jpeg",
+        "url": "property-photo/cdacc8606/140504141/cdacc8606f732fc436cd386ad54bc188.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b31fe14/140504141/84b31fe148c97e525c9a3296b689ae89_max_476x317.jpeg",
+        "url": "property-photo/84b31fe14/140504141/84b31fe148c97e525c9a3296b689ae89.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87f28bfb3/140504141/87f28bfb3a165ef19747d7229f4d00ee_max_476x317.jpeg",
+        "url": "property-photo/87f28bfb3/140504141/87f28bfb3a165ef19747d7229f4d00ee.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b37c6053c/140504141/b37c6053c056a7c11a9326a6984b988e_max_476x317.jpeg",
+        "url": "property-photo/b37c6053c/140504141/b37c6053c056a7c11a9326a6984b988e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d32c52b94/140504141/d32c52b944ff14d367297afec2183184_max_476x317.jpeg",
+        "url": "property-photo/d32c52b94/140504141/d32c52b944ff14d367297afec2183184.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f3c26631/140504141/0f3c266317fa33a80ccad754b5e5d541_max_476x317.jpeg",
+        "url": "property-photo/0f3c26631/140504141/0f3c266317fa33a80ccad754b5e5d541.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8a523b17/140504141/a8a523b17394e2d78c5127a215d108f2_max_296x197.png"
+  },
+  "formattedBranchName": " by TH Advisors, Marylebone",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
