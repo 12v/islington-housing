@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-01T22:55:45.562956+00:00",
+  "postcode": "N1 9DT",
+  "id": 90344049,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A charming & tranquil split level one bedroom apartment in a convenient location within Kings Cross. Positioned above a beautiful, independent, boutique florist this really is a must see. The property offers an abundance of natural light.",
+  "displayAddress": "Caledonian Road, Kings Cross, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.531911,
+    "longitude": -0.120493
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46_max_476x317.jpeg",
+      "url": "property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4019349cd/90344049/4019349cd8eefa30dc1ed31e532d2ba8_max_476x317.jpeg",
+      "url": "property-photo/4019349cd/90344049/4019349cd8eefa30dc1ed31e532d2ba8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f51242ec9/90344049/f51242ec9dca618acc6f96aba9f2e68a_max_476x317.jpeg",
+      "url": "property-photo/f51242ec9/90344049/f51242ec9dca618acc6f96aba9f2e68a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/82ff1df42/90344049/82ff1df42e3e5ad16b6142a401416177_max_476x317.jpeg",
+      "url": "property-photo/82ff1df42/90344049/82ff1df42e3e5ad16b6142a401416177.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19993c6d8/90344049/19993c6d8a39b5a95bec0a4dbf2f26a4_max_476x317.jpeg",
+      "url": "property-photo/19993c6d8/90344049/19993c6d8a39b5a95bec0a4dbf2f26a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff7161b18/90344049/ff7161b18723ba7076236da26a2c9e7e_max_476x317.jpeg",
+      "url": "property-photo/ff7161b18/90344049/ff7161b18723ba7076236da26a2c9e7e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb59de8e3/90344049/bb59de8e306eab07c53fbd5be8ae4641_max_476x317.jpeg",
+      "url": "property-photo/bb59de8e3/90344049/bb59de8e306eab07c53fbd5be8ae4641.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48c5aa02a/90344049/48c5aa02aeca8df25c9a703edbb31ea8_max_476x317.jpeg",
+      "url": "property-photo/48c5aa02a/90344049/48c5aa02aeca8df25c9a703edbb31ea8.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": "FREEHOLD"
+  },
+  "letAvailableDate": "2026-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-01T10:09:10Z"
+  },
+  "price": {
+    "amount": 500,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,167 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3500 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 153329,
+    "brandPlusLogoURI": "/partner-logo/16871303-PRODUCTS_LOGO-1766067115.jpeg",
+    "contactTelephone": "020 3893 8926",
+    "branchDisplayName": "Greater London Properties, Bloomsbury",
+    "branchName": "Bloomsbury",
+    "brandTradingName": "Greater London Properties",
+    "branchLandingPageUrl": "/estate-agents/agent/Greater-London-Properties/Bloomsbury-153329.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:34:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16871303-PRODUCTS_LOGO-1766067115.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "537 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90344049#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90344049",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-01T10:04:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-01T10:09:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Apartment",
+      "htmlDescription": "One Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Duplex - Two Floors",
+      "htmlDescription": "Duplex - Two Floors"
+    },
+    {
+      "order": 3,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Lots of Natural Light",
+      "htmlDescription": "Lots of Natural Light"
+    },
+    {
+      "order": 5,
+      "description": "Great Transport Links",
+      "htmlDescription": "Great Transport Links"
+    },
+    {
+      "order": 6,
+      "description": "Kings Cross",
+      "htmlDescription": "Kings Cross"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46_max_476x317.jpeg",
+        "url": "property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4019349cd/90344049/4019349cd8eefa30dc1ed31e532d2ba8_max_476x317.jpeg",
+        "url": "property-photo/4019349cd/90344049/4019349cd8eefa30dc1ed31e532d2ba8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f51242ec9/90344049/f51242ec9dca618acc6f96aba9f2e68a_max_476x317.jpeg",
+        "url": "property-photo/f51242ec9/90344049/f51242ec9dca618acc6f96aba9f2e68a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/82ff1df42/90344049/82ff1df42e3e5ad16b6142a401416177_max_476x317.jpeg",
+        "url": "property-photo/82ff1df42/90344049/82ff1df42e3e5ad16b6142a401416177.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/19993c6d8/90344049/19993c6d8a39b5a95bec0a4dbf2f26a4_max_476x317.jpeg",
+        "url": "property-photo/19993c6d8/90344049/19993c6d8a39b5a95bec0a4dbf2f26a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff7161b18/90344049/ff7161b18723ba7076236da26a2c9e7e_max_476x317.jpeg",
+        "url": "property-photo/ff7161b18/90344049/ff7161b18723ba7076236da26a2c9e7e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb59de8e3/90344049/bb59de8e306eab07c53fbd5be8ae4641_max_476x317.jpeg",
+        "url": "property-photo/bb59de8e3/90344049/bb59de8e306eab07c53fbd5be8ae4641.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48c5aa02a/90344049/48c5aa02aeca8df25c9a703edbb31ea8_max_476x317.jpeg",
+        "url": "property-photo/48c5aa02a/90344049/48c5aa02aeca8df25c9a703edbb31ea8.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a822ab3a1/90344049/a822ab3a1c4df63e90a32dfddfa04f46_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Greater London Properties, Bloomsbury",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

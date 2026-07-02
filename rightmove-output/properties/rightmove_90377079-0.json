@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-02T00:32:14.190737+00:00",
+  "postcode": "N7 0SQ",
+  "id": 90377079,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Rochester Place are proud to present this Bright and Spacious 4 double bedroom house with own rear garden, a spacious reception room, fitted modern kitchen, two bathroom and ample stroage. Benefiting from double glazed windows, neutral d\u00e9cor & wood floors. Located on a quiet residential roa...",
+  "displayAddress": "Williamson Street, Islington, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555317,
+    "longitude": -0.121609
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9_max_476x317.jpeg",
+      "url": "property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/480621dad/90377079/480621dad6f1b0f92886e898c2d5ef18_max_476x317.jpeg",
+      "url": "property-photo/480621dad/90377079/480621dad6f1b0f92886e898c2d5ef18.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2befcd2a2/90377079/2befcd2a276144dcd3342e9ebf6655d2_max_476x317.jpeg",
+      "url": "property-photo/2befcd2a2/90377079/2befcd2a276144dcd3342e9ebf6655d2.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ad2282e8/90377079/3ad2282e8ad088ffe2591be91a9ed2f8_max_476x317.jpeg",
+      "url": "property-photo/3ad2282e8/90377079/3ad2282e8ad088ffe2591be91a9ed2f8.jpeg",
+      "caption": "Bedroom1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abd35f9e6/90377079/abd35f9e60aa7ece0044c1aea14fbe02_max_476x317.jpeg",
+      "url": "property-photo/abd35f9e6/90377079/abd35f9e60aa7ece0044c1aea14fbe02.jpeg",
+      "caption": "Bedroom1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ed87490c/90377079/9ed87490ca62008b0d89a09e5a2daba8_max_476x317.jpeg",
+      "url": "property-photo/9ed87490c/90377079/9ed87490ca62008b0d89a09e5a2daba8.jpeg",
+      "caption": "Bedroom2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c66545ed/90377079/4c66545edc6238cb2f78284271f6f4ca_max_476x317.jpeg",
+      "url": "property-photo/4c66545ed/90377079/4c66545edc6238cb2f78284271f6f4ca.jpeg",
+      "caption": "Bedroom2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/476c9bd6d/90377079/476c9bd6d5bd5e55546cd37e546e3f74_max_476x317.jpeg",
+      "url": "property-photo/476c9bd6d/90377079/476c9bd6d5bd5e55546cd37e546e3f74.jpeg",
+      "caption": "Bedroom3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22f863a4a/90377079/22f863a4a59a8610c606f3995cda4147_max_476x317.jpeg",
+      "url": "property-photo/22f863a4a/90377079/22f863a4a59a8610c606f3995cda4147.jpeg",
+      "caption": "Bedroom3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ef8b23e3/90377079/2ef8b23e32e287552de20f384853d352_max_476x317.jpeg",
+      "url": "property-photo/2ef8b23e3/90377079/2ef8b23e32e287552de20f384853d352.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/601f240cc/90377079/601f240cc0ab522197dc22722d7faca8_max_476x317.jpeg",
+      "url": "property-photo/601f240cc/90377079/601f240cc0ab522197dc22722d7faca8.jpeg",
+      "caption": "Patio"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-01T16:51:05Z"
+  },
+  "price": {
+    "amount": 4766,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,766 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,100 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96542,
+    "brandPlusLogoURI": "/partner-logo/11431973-LOGO-1765972915.jpeg",
+    "contactTelephone": "020 3909 6661",
+    "branchDisplayName": "Rochester Place, London",
+    "branchName": "London",
+    "brandTradingName": "Rochester Place",
+    "branchLandingPageUrl": "/estate-agents/agent/Rochester-Place/London-96542.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-24T10:58:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11431973-LOGO-1765972915.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<h3>TENANT INFORMATION</h3><table><tbody><tr><td>Holding deposit</td><td>1 weeks rent</td></tr><tr><td>Security deposit</td><td><p>Capped at 5 weeks rent for annual rental under \u00a350,000, </p><p>or 6 weeks rent for annual rental over \u00a350,000 </p></td></tr><tr><td>Rent</td><td>The agreed monthly rent</td></tr><tr><td>Changes to tenancy</td><td>\u00a350 inclusive of rent</td></tr><tr><td>Early termination charge</td><td>Not exceeding the landlord\u2019s financial losses\u00a0</td></tr><tr><td>\u00a0Late payment of rent</td><td><p>Interest of 3% above BoE base rate for each day the rent is late, </p><p>once it is 14 days overdue\u00a0</p></td></tr><tr><td>Client Money Protection Scheme</td><td>Safeagent<br />Member: A2850</td></tr><tr><td><p>Property Redress Scheme\u00a0 </p></td><td><p>The Property Redress Scheme</p>Member: PRS012995<p>\u00a0</p></td></tr></tbody></table>",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90377079#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90377079",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-01T16:45:34Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-01T16:51:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "3 Storey House",
+      "htmlDescription": "3 Storey House"
+    },
+    {
+      "order": 2,
+      "description": "Great Location",
+      "htmlDescription": "Great Location"
+    },
+    {
+      "order": 3,
+      "description": "Modern",
+      "htmlDescription": "Modern"
+    },
+    {
+      "order": 4,
+      "description": "Bright",
+      "htmlDescription": "Bright"
+    },
+    {
+      "order": 5,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    },
+    {
+      "order": 6,
+      "description": "Well Presented",
+      "htmlDescription": "Well Presented"
+    },
+    {
+      "order": 7,
+      "description": "Wood Floors",
+      "htmlDescription": "Wood Floors"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9_max_476x317.jpeg",
+        "url": "property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/480621dad/90377079/480621dad6f1b0f92886e898c2d5ef18_max_476x317.jpeg",
+        "url": "property-photo/480621dad/90377079/480621dad6f1b0f92886e898c2d5ef18.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2befcd2a2/90377079/2befcd2a276144dcd3342e9ebf6655d2_max_476x317.jpeg",
+        "url": "property-photo/2befcd2a2/90377079/2befcd2a276144dcd3342e9ebf6655d2.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ad2282e8/90377079/3ad2282e8ad088ffe2591be91a9ed2f8_max_476x317.jpeg",
+        "url": "property-photo/3ad2282e8/90377079/3ad2282e8ad088ffe2591be91a9ed2f8.jpeg",
+        "caption": "Bedroom1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abd35f9e6/90377079/abd35f9e60aa7ece0044c1aea14fbe02_max_476x317.jpeg",
+        "url": "property-photo/abd35f9e6/90377079/abd35f9e60aa7ece0044c1aea14fbe02.jpeg",
+        "caption": "Bedroom1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ed87490c/90377079/9ed87490ca62008b0d89a09e5a2daba8_max_476x317.jpeg",
+        "url": "property-photo/9ed87490c/90377079/9ed87490ca62008b0d89a09e5a2daba8.jpeg",
+        "caption": "Bedroom2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c66545ed/90377079/4c66545edc6238cb2f78284271f6f4ca_max_476x317.jpeg",
+        "url": "property-photo/4c66545ed/90377079/4c66545edc6238cb2f78284271f6f4ca.jpeg",
+        "caption": "Bedroom2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/476c9bd6d/90377079/476c9bd6d5bd5e55546cd37e546e3f74_max_476x317.jpeg",
+        "url": "property-photo/476c9bd6d/90377079/476c9bd6d5bd5e55546cd37e546e3f74.jpeg",
+        "caption": "Bedroom3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22f863a4a/90377079/22f863a4a59a8610c606f3995cda4147_max_476x317.jpeg",
+        "url": "property-photo/22f863a4a/90377079/22f863a4a59a8610c606f3995cda4147.jpeg",
+        "caption": "Bedroom3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ef8b23e3/90377079/2ef8b23e32e287552de20f384853d352_max_476x317.jpeg",
+        "url": "property-photo/2ef8b23e3/90377079/2ef8b23e32e287552de20f384853d352.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/601f240cc/90377079/601f240cc0ab522197dc22722d7faca8_max_476x317.jpeg",
+        "url": "property-photo/601f240cc/90377079/601f240cc0ab522197dc22722d7faca8.jpeg",
+        "caption": "Patio"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2919bcbbe/90377079/2919bcbbe2cc3b11c87f2edac1760cd9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rochester Place, London",
+  "addedOrReduced": "Added yesterday",
+  "heading": "",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
