@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-06T00:17:39.347335+00:00",
+  "postcode": "N4 3JA",
+  "id": 90501801,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "This impressive four double bedroom maisonette presents a rare opportunity to secure an elegant and spacious residence with a private garden moments away from Finsbury Park station N4.",
+  "displayAddress": "Lennox Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.566186,
+    "longitude": -0.109817
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906_max_476x317.jpeg",
+      "url": "property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b0b10cb8/90501801/9b0b10cb839323dd76d8b8937cb27afd_max_476x317.jpeg",
+      "url": "property-photo/9b0b10cb8/90501801/9b0b10cb839323dd76d8b8937cb27afd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61c2043e9/90501801/61c2043e971c173cc8e4c1090792cc1a_max_476x317.jpeg",
+      "url": "property-photo/61c2043e9/90501801/61c2043e971c173cc8e4c1090792cc1a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/658e36a73/90501801/658e36a7306d8c94da92f346928746e9_max_476x317.jpeg",
+      "url": "property-photo/658e36a73/90501801/658e36a7306d8c94da92f346928746e9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b565615/90501801/84b56561501fc0fc04651b64fa7459c6_max_476x317.jpeg",
+      "url": "property-photo/84b565615/90501801/84b56561501fc0fc04651b64fa7459c6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23a252860/90501801/23a25286079f7d86be561716ffbf9245_max_476x317.jpeg",
+      "url": "property-photo/23a252860/90501801/23a25286079f7d86be561716ffbf9245.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/085448dca/90501801/085448dca7ba23aa3663db2e03635554_max_476x317.jpeg",
+      "url": "property-photo/085448dca/90501801/085448dca7ba23aa3663db2e03635554.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcffd1f5f/90501801/bcffd1f5ff9ab6191b0b54d6714b2e1e_max_476x317.jpeg",
+      "url": "property-photo/bcffd1f5f/90501801/bcffd1f5ff9ab6191b0b54d6714b2e1e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f69474e36/90501801/f69474e36175a87f46fb40a8f0912e90_max_476x317.jpeg",
+      "url": "property-photo/f69474e36/90501801/f69474e36175a87f46fb40a8f0912e90.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7df0a884/90501801/a7df0a884522ad908bf409b5c88fa496_max_476x317.jpeg",
+      "url": "property-photo/a7df0a884/90501801/a7df0a884522ad908bf409b5c88fa496.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/534be6ac3/90501801/534be6ac31ad10f9ffb746c970a50d32_max_476x317.jpeg",
+      "url": "property-photo/534be6ac3/90501801/534be6ac31ad10f9ffb746c970a50d32.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/04daff577/90501801/04daff577980a71827393d1911ca279e_max_476x317.jpeg",
+      "url": "property-photo/04daff577/90501801/04daff577980a71827393d1911ca279e.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-04T19:09:30Z"
+  },
+  "price": {
+    "amount": 4750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,096 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 93623,
+    "brandPlusLogoURI": "/partner-logo/10725737-PRODUCTS_LOGO-1766063259.png",
+    "contactTelephone": "020 3889 9127",
+    "branchDisplayName": "David Andrew, Finsbury Park",
+    "branchName": "Finsbury Park",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Finsbury-Park-93623.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10725737-PRODUCTS_LOGO-1766063259.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "1,088 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90501801#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90501801",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-04T19:02:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-05T09:41:31Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Four Double Bedroom Maisonette",
+      "htmlDescription": "Four Double Bedroom Maisonette"
+    },
+    {
+      "order": 2,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 3,
+      "description": "Comprising 1088sqft/101sqm",
+      "htmlDescription": "Comprising 1088sqft/101sqm"
+    },
+    {
+      "order": 4,
+      "description": "Modern Fully Fitted Kitchen",
+      "htmlDescription": "Modern Fully Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    },
+    {
+      "order": 6,
+      "description": "Separated Reception Room",
+      "htmlDescription": "Separated Reception Room"
+    },
+    {
+      "order": 7,
+      "description": "Wooden Flooring and Carpet Throughout",
+      "htmlDescription": "Wooden Flooring and Carpet Throughout"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Finsbury Park and Crouch Hill Stations",
+      "htmlDescription": "Walking Distance to Finsbury Park and Crouch Hill Stations"
+    },
+    {
+      "order": 9,
+      "description": "Offered Furnished",
+      "htmlDescription": "Offered Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Available on 5th of September",
+      "htmlDescription": "Available on 5th of September"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906_max_476x317.jpeg",
+        "url": "property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b0b10cb8/90501801/9b0b10cb839323dd76d8b8937cb27afd_max_476x317.jpeg",
+        "url": "property-photo/9b0b10cb8/90501801/9b0b10cb839323dd76d8b8937cb27afd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61c2043e9/90501801/61c2043e971c173cc8e4c1090792cc1a_max_476x317.jpeg",
+        "url": "property-photo/61c2043e9/90501801/61c2043e971c173cc8e4c1090792cc1a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/658e36a73/90501801/658e36a7306d8c94da92f346928746e9_max_476x317.jpeg",
+        "url": "property-photo/658e36a73/90501801/658e36a7306d8c94da92f346928746e9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84b565615/90501801/84b56561501fc0fc04651b64fa7459c6_max_476x317.jpeg",
+        "url": "property-photo/84b565615/90501801/84b56561501fc0fc04651b64fa7459c6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23a252860/90501801/23a25286079f7d86be561716ffbf9245_max_476x317.jpeg",
+        "url": "property-photo/23a252860/90501801/23a25286079f7d86be561716ffbf9245.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/085448dca/90501801/085448dca7ba23aa3663db2e03635554_max_476x317.jpeg",
+        "url": "property-photo/085448dca/90501801/085448dca7ba23aa3663db2e03635554.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bcffd1f5f/90501801/bcffd1f5ff9ab6191b0b54d6714b2e1e_max_476x317.jpeg",
+        "url": "property-photo/bcffd1f5f/90501801/bcffd1f5ff9ab6191b0b54d6714b2e1e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f69474e36/90501801/f69474e36175a87f46fb40a8f0912e90_max_476x317.jpeg",
+        "url": "property-photo/f69474e36/90501801/f69474e36175a87f46fb40a8f0912e90.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7df0a884/90501801/a7df0a884522ad908bf409b5c88fa496_max_476x317.jpeg",
+        "url": "property-photo/a7df0a884/90501801/a7df0a884522ad908bf409b5c88fa496.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/534be6ac3/90501801/534be6ac31ad10f9ffb746c970a50d32_max_476x317.jpeg",
+        "url": "property-photo/534be6ac3/90501801/534be6ac31ad10f9ffb746c970a50d32.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/04daff577/90501801/04daff577980a71827393d1911ca279e_max_476x317.jpeg",
+        "url": "property-photo/04daff577/90501801/04daff577980a71827393d1911ca279e.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c09ee4a11/90501801/c09ee4a117b9777e49c175096310d906_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Finsbury Park",
+  "addedOrReduced": "Added on 04/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
