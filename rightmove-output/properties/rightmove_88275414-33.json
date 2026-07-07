@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-07T00:54:13.738851+00:00",
+  "postcode": "N4 2QH",
+  "id": 88275414,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well presented two bedroom flat in a period conversion, located on sought-after St.",
+  "displayAddress": "St. Thomas's Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.562924,
+    "longitude": -0.105722
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61_max_476x317.jpeg",
+      "url": "property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/965abe1ea/88275414/965abe1ea0f99ab94d453eb4f669f843_max_476x317.jpeg",
+      "url": "property-photo/965abe1ea/88275414/965abe1ea0f99ab94d453eb4f669f843.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3299e7303/88275414/3299e7303398eaf2d52c8fdf8dbf0d45_max_476x317.jpeg",
+      "url": "property-photo/3299e7303/88275414/3299e7303398eaf2d52c8fdf8dbf0d45.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12f7374c2/88275414/12f7374c2eccedfefb65ec70c0cd576a_max_476x317.jpeg",
+      "url": "property-photo/12f7374c2/88275414/12f7374c2eccedfefb65ec70c0cd576a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6cc2f1ee1/88275414/6cc2f1ee14cb55d6c3608ab31135911f_max_476x317.jpeg",
+      "url": "property-photo/6cc2f1ee1/88275414/6cc2f1ee14cb55d6c3608ab31135911f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32d8a091c/88275414/32d8a091c32311d7b2a8db298ac8294d_max_476x317.jpeg",
+      "url": "property-photo/32d8a091c/88275414/32d8a091c32311d7b2a8db298ac8294d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/910f6d4b8/88275414/910f6d4b8011835825a1c035c8fe857b_max_476x317.jpeg",
+      "url": "property-photo/910f6d4b8/88275414/910f6d4b8011835825a1c035c8fe857b.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-06-22T11:23:34Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80996,
+    "brandPlusLogoURI": "/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "contactTelephone": "020 3889 9038",
+    "branchDisplayName": "David Andrew, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Highbury-80996.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:42:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "348 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/88275414#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=88275414",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-05-09T15:21:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-05T05:56:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available 6 th July 2026",
+      "htmlDescription": "Available 6 th July 2026"
+    },
+    {
+      "order": 2,
+      "description": "Offered Unfurnished",
+      "htmlDescription": "Offered Unfurnished"
+    },
+    {
+      "order": 3,
+      "description": "32.3 sqm / 348 sq ft",
+      "htmlDescription": "32.3 sqm / 348 sq ft"
+    },
+    {
+      "order": 4,
+      "description": "Situated on the First Floor",
+      "htmlDescription": "Situated on the First Floor"
+    },
+    {
+      "order": 5,
+      "description": "Virtual furniture staged.",
+      "htmlDescription": "Virtual furniture staged."
+    },
+    {
+      "order": 6,
+      "description": "Two bedroom apartment",
+      "htmlDescription": "Two bedroom apartment"
+    },
+    {
+      "order": 7,
+      "description": "Located on a Residential Road",
+      "htmlDescription": "Located on a Residential Road"
+    },
+    {
+      "order": 8,
+      "description": "Close to Local Parks",
+      "htmlDescription": "Close to Local Parks"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61_max_476x317.jpeg",
+        "url": "property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/965abe1ea/88275414/965abe1ea0f99ab94d453eb4f669f843_max_476x317.jpeg",
+        "url": "property-photo/965abe1ea/88275414/965abe1ea0f99ab94d453eb4f669f843.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3299e7303/88275414/3299e7303398eaf2d52c8fdf8dbf0d45_max_476x317.jpeg",
+        "url": "property-photo/3299e7303/88275414/3299e7303398eaf2d52c8fdf8dbf0d45.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12f7374c2/88275414/12f7374c2eccedfefb65ec70c0cd576a_max_476x317.jpeg",
+        "url": "property-photo/12f7374c2/88275414/12f7374c2eccedfefb65ec70c0cd576a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6cc2f1ee1/88275414/6cc2f1ee14cb55d6c3608ab31135911f_max_476x317.jpeg",
+        "url": "property-photo/6cc2f1ee1/88275414/6cc2f1ee14cb55d6c3608ab31135911f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32d8a091c/88275414/32d8a091c32311d7b2a8db298ac8294d_max_476x317.jpeg",
+        "url": "property-photo/32d8a091c/88275414/32d8a091c32311d7b2a8db298ac8294d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/910f6d4b8/88275414/910f6d4b8011835825a1c035c8fe857b_max_476x317.jpeg",
+        "url": "property-photo/910f6d4b8/88275414/910f6d4b8011835825a1c035c8fe857b.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/964100fe8/88275414/964100fe840bb8527b866771ad6c2e61_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Highbury",
+  "addedOrReduced": "Reduced on 22/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
