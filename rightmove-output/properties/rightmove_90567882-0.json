@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-07T22:49:01.998711+00:00",
+  "postcode": "N1 1ET",
+  "id": 90567882,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Lovely two bedroom apartment with excellent light and balcony in a central Barnsbury location.",
+  "displayAddress": "Lofting Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54126,
+    "longitude": -0.10837
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e_max_476x317.jpeg",
+      "url": "property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32b76b125/90567882/32b76b125cba5711cafcae3826c668cf_max_476x317.jpeg",
+      "url": "property-photo/32b76b125/90567882/32b76b125cba5711cafcae3826c668cf.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cef649483/90567882/cef649483f990ba4275eca879bbe3907_max_476x317.jpeg",
+      "url": "property-photo/cef649483/90567882/cef649483f990ba4275eca879bbe3907.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf781e33/90567882/cdf781e333f70424cd6bb6bd2cf7395e_max_476x317.jpeg",
+      "url": "property-photo/cdf781e33/90567882/cdf781e333f70424cd6bb6bd2cf7395e.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed5de4b8/90567882/bed5de4b8f31f9196065abbe55bd0c23_max_476x317.jpeg",
+      "url": "property-photo/bed5de4b8/90567882/bed5de4b8f31f9196065abbe55bd0c23.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3305996/90567882/4a3305996c3e3e1f8b62df6da3492cca_max_476x317.jpeg",
+      "url": "property-photo/4a3305996/90567882/4a3305996c3e3e1f8b62df6da3492cca.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fa001708/90567882/2fa001708f88895ca8d9fd66d5dcbc99_max_476x317.jpeg",
+      "url": "property-photo/2fa001708/90567882/2fa001708f88895ca8d9fd66d5dcbc99.jpeg",
+      "caption": "Large 2 bedroom f..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1014fcd/90567882/bb1014fcdf4398d14fcece94cdc5ed8a_max_476x317.jpeg",
+      "url": "property-photo/bb1014fcd/90567882/bb1014fcdf4398d14fcece94cdc5ed8a.jpeg",
+      "caption": "Large 2 bedroom f..."
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-07T10:18:27Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90567882#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90567882",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-07T10:12:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-07T10:18:27Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Large corner reception",
+      "htmlDescription": "Large corner reception"
+    },
+    {
+      "order": 2,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Double bedrooms",
+      "htmlDescription": "Double bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Wood flooring",
+      "htmlDescription": "Wood flooring"
+    },
+    {
+      "order": 6,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 7,
+      "description": "Convenient location",
+      "htmlDescription": "Convenient location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e_max_476x317.jpeg",
+        "url": "property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32b76b125/90567882/32b76b125cba5711cafcae3826c668cf_max_476x317.jpeg",
+        "url": "property-photo/32b76b125/90567882/32b76b125cba5711cafcae3826c668cf.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cef649483/90567882/cef649483f990ba4275eca879bbe3907_max_476x317.jpeg",
+        "url": "property-photo/cef649483/90567882/cef649483f990ba4275eca879bbe3907.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cdf781e33/90567882/cdf781e333f70424cd6bb6bd2cf7395e_max_476x317.jpeg",
+        "url": "property-photo/cdf781e33/90567882/cdf781e333f70424cd6bb6bd2cf7395e.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed5de4b8/90567882/bed5de4b8f31f9196065abbe55bd0c23_max_476x317.jpeg",
+        "url": "property-photo/bed5de4b8/90567882/bed5de4b8f31f9196065abbe55bd0c23.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3305996/90567882/4a3305996c3e3e1f8b62df6da3492cca_max_476x317.jpeg",
+        "url": "property-photo/4a3305996/90567882/4a3305996c3e3e1f8b62df6da3492cca.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fa001708/90567882/2fa001708f88895ca8d9fd66d5dcbc99_max_476x317.jpeg",
+        "url": "property-photo/2fa001708/90567882/2fa001708f88895ca8d9fd66d5dcbc99.jpeg",
+        "caption": "Large 2 bedroom f..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb1014fcd/90567882/bb1014fcdf4398d14fcece94cdc5ed8a_max_476x317.jpeg",
+        "url": "property-photo/bb1014fcd/90567882/bb1014fcdf4398d14fcece94cdc5ed8a.jpeg",
+        "caption": "Large 2 bedroom f..."
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dedce3eb/90567882/5dedce3eb58f5041a7a5fc09378c830e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

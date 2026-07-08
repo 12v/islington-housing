@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-08T01:38:24.427109+00:00",
+  "postcode": "N7 8SR",
+  "id": 90573513,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "Alex Crown are delighted to present this newly refurbished two-bedroom house, ideally suited to a family or a maximum of two sharers.",
+  "displayAddress": "Sophia Close, Caledonian Road",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54662,
+    "longitude": -0.11752
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40_max_476x317.jpeg",
+      "url": "property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd2299680/90573513/dd22996806236954192175ea82ba07da_max_476x317.jpeg",
+      "url": "property-photo/dd2299680/90573513/dd22996806236954192175ea82ba07da.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fcb404b9/90573513/3fcb404b9aff4f95699080514b644c33_max_476x317.jpeg",
+      "url": "property-photo/3fcb404b9/90573513/3fcb404b9aff4f95699080514b644c33.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b5974263/90573513/0b5974263d4516e7672d21133ab04068_max_476x317.jpeg",
+      "url": "property-photo/0b5974263/90573513/0b5974263d4516e7672d21133ab04068.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cb598fa/90573513/32cb598fac2b4b5db2f2790afd5113b5_max_476x317.jpeg",
+      "url": "property-photo/32cb598fa/90573513/32cb598fac2b4b5db2f2790afd5113b5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a244c8f5a/90573513/a244c8f5a092cb8d451ed8a44c1d7ccd_max_476x317.jpeg",
+      "url": "property-photo/a244c8f5a/90573513/a244c8f5a092cb8d451ed8a44c1d7ccd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98a0b9ce5/90573513/98a0b9ce5cf658ecf286206feaf15088_max_476x317.jpeg",
+      "url": "property-photo/98a0b9ce5/90573513/98a0b9ce5cf658ecf286206feaf15088.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8522416d/90573513/e8522416d5a15b8350493874b74b2a87_max_476x317.jpeg",
+      "url": "property-photo/e8522416d/90573513/e8522416d5a15b8350493874b74b2a87.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Terraced",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-07T11:13:09Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 102122,
+    "brandPlusLogoURI": "/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "contactTelephone": "020 3834 8137",
+    "branchDisplayName": "Alex Crown Lettings & Estate Agents, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Alex Crown Lettings & Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Crown-Lettings-and-Estate-Agents/Islington-102122.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-16T17:11:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3692.31) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a33461.54) \n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n\nAlex Crown Lettings & Estate Agents is a member of PI+CMP which is a client money protection scheme, and also a member of The Property Ombudsman which is a redress scheme.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90573513#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90573513",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-07T11:07:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-07T11:13:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Suitable for a family or a maximum of two sharers",
+      "htmlDescription": "Suitable for a family or a maximum of two sharers"
+    },
+    {
+      "order": 2,
+      "description": "Students and professionals welcome",
+      "htmlDescription": "Students and professionals welcome"
+    },
+    {
+      "order": 3,
+      "description": "Newly refurbished two-bedroom house",
+      "htmlDescription": "Newly refurbished two-bedroom house"
+    },
+    {
+      "order": 4,
+      "description": "One bedroom with an en-suite bathroom",
+      "htmlDescription": "One bedroom with an en-suite bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Additional family bathroom",
+      "htmlDescription": "Additional family bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Separate reception room",
+      "htmlDescription": "Separate reception room"
+    },
+    {
+      "order": 7,
+      "description": "Fully fitted kitchen",
+      "htmlDescription": "Fully fitted kitchen"
+    },
+    {
+      "order": 8,
+      "description": "Private garden",
+      "htmlDescription": "Private garden"
+    },
+    {
+      "order": 9,
+      "description": "Approximately three minutes' walk from Caledonian Road Underground Station",
+      "htmlDescription": "Approximately three minutes' walk from Caledonian Road Underground Station"
+    },
+    {
+      "order": 10,
+      "description": "Around ten minutes' walk from Holloway Road Underground Station",
+      "htmlDescription": "Around ten minutes' walk from Holloway Road Underground Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40_max_476x317.jpeg",
+        "url": "property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd2299680/90573513/dd22996806236954192175ea82ba07da_max_476x317.jpeg",
+        "url": "property-photo/dd2299680/90573513/dd22996806236954192175ea82ba07da.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3fcb404b9/90573513/3fcb404b9aff4f95699080514b644c33_max_476x317.jpeg",
+        "url": "property-photo/3fcb404b9/90573513/3fcb404b9aff4f95699080514b644c33.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b5974263/90573513/0b5974263d4516e7672d21133ab04068_max_476x317.jpeg",
+        "url": "property-photo/0b5974263/90573513/0b5974263d4516e7672d21133ab04068.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32cb598fa/90573513/32cb598fac2b4b5db2f2790afd5113b5_max_476x317.jpeg",
+        "url": "property-photo/32cb598fa/90573513/32cb598fac2b4b5db2f2790afd5113b5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a244c8f5a/90573513/a244c8f5a092cb8d451ed8a44c1d7ccd_max_476x317.jpeg",
+        "url": "property-photo/a244c8f5a/90573513/a244c8f5a092cb8d451ed8a44c1d7ccd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98a0b9ce5/90573513/98a0b9ce5cf658ecf286206feaf15088_max_476x317.jpeg",
+        "url": "property-photo/98a0b9ce5/90573513/98a0b9ce5cf658ecf286206feaf15088.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8522416d/90573513/e8522416d5a15b8350493874b74b2a87_max_476x317.jpeg",
+        "url": "property-photo/e8522416d/90573513/e8522416d5a15b8350493874b74b2a87.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daafe1f40/90573513/daafe1f4003751b70f0fb2f2f783bd40_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Crown Lettings & Estate Agents, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom terraced house",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
