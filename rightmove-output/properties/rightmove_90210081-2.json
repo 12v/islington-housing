@@ -1,0 +1,218 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-08T22:41:34.015671+00:00",
+  "postcode": "N1 2DA",
+  "id": 90210081,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Nestled in the vibrant heart of Islington, this charming second-floor apartment on Astey's Row offers a delightful living experience. With one spacious bedroom, this property is perfect for individuals or couples seeking a comfortable and stylish home. The apartment features a well-appointed rece...",
+  "displayAddress": "Astey's Row, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.540023,
+    "longitude": -0.097559
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e_max_476x317.jpeg",
+      "url": "property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e.jpeg",
+      "caption": "8e8b1ffb3688d77235f59fdcfd4641dd.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1516bc5/90210081/7c1516bc5bbc5d3176a79d1141e58705_max_476x317.jpeg",
+      "url": "property-photo/7c1516bc5/90210081/7c1516bc5bbc5d3176a79d1141e58705.jpeg",
+      "caption": "3958309f14036fb843a5b3920650cf48.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2755b604/90210081/c2755b604d00727f6b7a47fca4ab976d_max_476x317.jpeg",
+      "url": "property-photo/c2755b604/90210081/c2755b604d00727f6b7a47fca4ab976d.jpeg",
+      "caption": "c78b51a77a479a749f0017d3cb52391a.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff2c92667/90210081/ff2c9266711640c3627be88e0c51523e_max_476x317.jpeg",
+      "url": "property-photo/ff2c92667/90210081/ff2c9266711640c3627be88e0c51523e.jpeg",
+      "caption": "b61cf01217bdd3dbf0d762f1a44d25c8.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/711882eb5/90210081/711882eb5610b0759e0e287d5d3e3a89_max_476x317.jpeg",
+      "url": "property-photo/711882eb5/90210081/711882eb5610b0759e0e287d5d3e3a89.jpeg",
+      "caption": "d57bd6deeec978209ccc75352cddd902.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d8558fc2/90210081/8d8558fc26c2407b3a04d512a0246058_max_476x317.jpeg",
+      "url": "property-photo/8d8558fc2/90210081/8d8558fc26c2407b3a04d512a0246058.jpeg",
+      "caption": "f0e82e8c65e3aed16bf46c232642a999.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ce9dbb6b/90210081/8ce9dbb6b9044cc91e60e6252794556f_max_476x317.jpeg",
+      "url": "property-photo/8ce9dbb6b/90210081/8ce9dbb6b9044cc91e60e6252794556f.jpeg",
+      "caption": "f7b75b973ad5ad27cd4de9a55f9d9980.jpeg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-26T17:37:09Z"
+  },
+  "price": {
+    "amount": 2350,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,350 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3542 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 201083,
+    "brandPlusLogoURI": "/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "contactTelephone": "020 3840 3380",
+    "branchDisplayName": "Hemmingfords, London",
+    "branchName": "London",
+    "brandTradingName": "Hemmingfords",
+    "branchLandingPageUrl": "/estate-agents/agent/Hemmingfords/London-201083.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-03T14:37:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "395 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90210081#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90210081",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-26T17:31:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-08T17:47:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bespoke cabinets",
+      "htmlDescription": "Bespoke cabinets"
+    },
+    {
+      "order": 2,
+      "description": "Seperate kitchen",
+      "htmlDescription": "Seperate kitchen"
+    },
+    {
+      "order": 3,
+      "description": "2nd floor",
+      "htmlDescription": "2nd floor"
+    },
+    {
+      "order": 4,
+      "description": "Moments from Upper Street",
+      "htmlDescription": "Moments from Upper Street"
+    },
+    {
+      "order": 5,
+      "description": "Close to Rosemary Gardens",
+      "htmlDescription": "Close to Rosemary Gardens"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e_max_476x317.jpeg",
+        "url": "property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e.jpeg",
+        "caption": "8e8b1ffb3688d77235f59fdcfd4641dd.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1516bc5/90210081/7c1516bc5bbc5d3176a79d1141e58705_max_476x317.jpeg",
+        "url": "property-photo/7c1516bc5/90210081/7c1516bc5bbc5d3176a79d1141e58705.jpeg",
+        "caption": "3958309f14036fb843a5b3920650cf48.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2755b604/90210081/c2755b604d00727f6b7a47fca4ab976d_max_476x317.jpeg",
+        "url": "property-photo/c2755b604/90210081/c2755b604d00727f6b7a47fca4ab976d.jpeg",
+        "caption": "c78b51a77a479a749f0017d3cb52391a.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff2c92667/90210081/ff2c9266711640c3627be88e0c51523e_max_476x317.jpeg",
+        "url": "property-photo/ff2c92667/90210081/ff2c9266711640c3627be88e0c51523e.jpeg",
+        "caption": "b61cf01217bdd3dbf0d762f1a44d25c8.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/711882eb5/90210081/711882eb5610b0759e0e287d5d3e3a89_max_476x317.jpeg",
+        "url": "property-photo/711882eb5/90210081/711882eb5610b0759e0e287d5d3e3a89.jpeg",
+        "caption": "d57bd6deeec978209ccc75352cddd902.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d8558fc2/90210081/8d8558fc26c2407b3a04d512a0246058_max_476x317.jpeg",
+        "url": "property-photo/8d8558fc2/90210081/8d8558fc26c2407b3a04d512a0246058.jpeg",
+        "caption": "f0e82e8c65e3aed16bf46c232642a999.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ce9dbb6b/90210081/8ce9dbb6b9044cc91e60e6252794556f_max_476x317.jpeg",
+        "url": "property-photo/8ce9dbb6b/90210081/8ce9dbb6b9044cc91e60e6252794556f.jpeg",
+        "caption": "f7b75b973ad5ad27cd4de9a55f9d9980.jpeg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5a8b824d9/90210081/5a8b824d94506edc230e46bdd7beef6e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hemmingfords, London",
+  "addedOrReduced": "Added on 26/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
