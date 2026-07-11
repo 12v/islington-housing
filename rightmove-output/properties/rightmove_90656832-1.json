@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-10T21:43:28.584755+00:00",
+  "postcode": "EC1V 1AL",
+  "id": 90656832,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "One bed apartment on the exclusive Chronicle Tower, Lexicon development. 4th floor",
+  "displayAddress": "Chronicle Tower, City Road, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529861,
+    "longitude": -0.096832
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c_max_476x317.jpeg",
+      "url": "property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/626d2f076/90656832/626d2f0762ed9ea37f14be2aa7e81a9c_max_476x317.jpeg",
+      "url": "property-photo/626d2f076/90656832/626d2f0762ed9ea37f14be2aa7e81a9c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1c8a5dce/90656832/f1c8a5dce7532d3c2fa0f57c31cd9ee5_max_476x317.jpeg",
+      "url": "property-photo/f1c8a5dce/90656832/f1c8a5dce7532d3c2fa0f57c31cd9ee5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b933cd66/90656832/7b933cd66bc2609745d4c3c586c344c1_max_476x317.jpeg",
+      "url": "property-photo/7b933cd66/90656832/7b933cd66bc2609745d4c3c586c344c1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5098ba089/90656832/5098ba0899522f02c8c7c261513c870b_max_476x317.jpeg",
+      "url": "property-photo/5098ba089/90656832/5098ba0899522f02c8c7c261513c870b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/905041c8d/90656832/905041c8dad7868f6cbbc0bc858456e8_max_476x317.jpeg",
+      "url": "property-photo/905041c8d/90656832/905041c8dad7868f6cbbc0bc858456e8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af97c1281/90656832/af97c1281fddb4dd77bee5ef06c4db46_max_476x317.jpeg",
+      "url": "property-photo/af97c1281/90656832/af97c1281fddb4dd77bee5ef06c4db46.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/696b18b30/90656832/696b18b3043dff08ee48f5e9b489a035_max_476x317.jpeg",
+      "url": "property-photo/696b18b30/90656832/696b18b3043dff08ee48f5e9b489a035.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-08T18:26:17Z"
+  },
+  "price": {
+    "amount": 2850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3658 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 270212,
+    "brandPlusLogoURI": "/partner-logo/31737308-PRODUCTS_LOGO-1766059686.jpeg",
+    "contactTelephone": "020 3974 1647",
+    "branchDisplayName": "Property Inside London, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "Property Inside London",
+    "branchLandingPageUrl": "/estate-agents/agent/Property-Inside-London/Covering-London-270212.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31737308-PRODUCTS_LOGO-1766059686.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Managed by Property Inside London Limited, a member of UKALA",
+  "displaySize": "568 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90656832#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90656832",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-08T18:21:04Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-08T18:26:17Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "24 hour concierge",
+      "htmlDescription": "24 hour concierge"
+    },
+    {
+      "order": 2,
+      "description": "Residents gym and swimming pool",
+      "htmlDescription": "Residents gym and swimming pool"
+    },
+    {
+      "order": 3,
+      "description": "Water views",
+      "htmlDescription": "Water views"
+    },
+    {
+      "order": 4,
+      "description": "4th floor",
+      "htmlDescription": "4th floor"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c_max_476x317.jpeg",
+        "url": "property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/626d2f076/90656832/626d2f0762ed9ea37f14be2aa7e81a9c_max_476x317.jpeg",
+        "url": "property-photo/626d2f076/90656832/626d2f0762ed9ea37f14be2aa7e81a9c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1c8a5dce/90656832/f1c8a5dce7532d3c2fa0f57c31cd9ee5_max_476x317.jpeg",
+        "url": "property-photo/f1c8a5dce/90656832/f1c8a5dce7532d3c2fa0f57c31cd9ee5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b933cd66/90656832/7b933cd66bc2609745d4c3c586c344c1_max_476x317.jpeg",
+        "url": "property-photo/7b933cd66/90656832/7b933cd66bc2609745d4c3c586c344c1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5098ba089/90656832/5098ba0899522f02c8c7c261513c870b_max_476x317.jpeg",
+        "url": "property-photo/5098ba089/90656832/5098ba0899522f02c8c7c261513c870b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/905041c8d/90656832/905041c8dad7868f6cbbc0bc858456e8_max_476x317.jpeg",
+        "url": "property-photo/905041c8d/90656832/905041c8dad7868f6cbbc0bc858456e8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af97c1281/90656832/af97c1281fddb4dd77bee5ef06c4db46_max_476x317.jpeg",
+        "url": "property-photo/af97c1281/90656832/af97c1281fddb4dd77bee5ef06c4db46.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/696b18b30/90656832/696b18b3043dff08ee48f5e9b489a035_max_476x317.jpeg",
+        "url": "property-photo/696b18b30/90656832/696b18b3043dff08ee48f5e9b489a035.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41db92231/90656832/41db922317bc1a5ac2eef1826bd3013c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Property Inside London, Covering London",
+  "addedOrReduced": "Added on 08/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

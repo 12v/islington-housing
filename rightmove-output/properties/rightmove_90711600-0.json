@@ -1,0 +1,192 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-10T21:47:01.554195+00:00",
+  "postcode": "EC1V 3PW",
+  "id": 90711600,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Modern 2-bedroom apartment with lift access and a private balcony. This property boasts a spacious living area, contemporary kitchen, and stylish bathroom. Located in a sought-after area close to amenities, this apartment offers a comfortable and convenient lifestyle. Book a viewing today!",
+  "displayAddress": "Paton Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526329,
+    "longitude": -0.09569
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a_max_476x317.jpeg",
+      "url": "property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e81395a76/90711600/e81395a762b0fbe7ab785208640803c5_max_476x317.jpeg",
+      "url": "property-photo/e81395a76/90711600/e81395a762b0fbe7ab785208640803c5.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d2c9b8c6/90711600/2d2c9b8c6a419fccf6181c30af9febaa_max_476x317.jpeg",
+      "url": "property-photo/2d2c9b8c6/90711600/2d2c9b8c6a419fccf6181c30af9febaa.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c9a3e543/90711600/5c9a3e5435b285d3e89682b0517ad287_max_476x317.jpeg",
+      "url": "property-photo/5c9a3e543/90711600/5c9a3e5435b285d3e89682b0517ad287.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39112b874/90711600/39112b874346af9bfd418b05b261ba76_max_476x317.jpeg",
+      "url": "property-photo/39112b874/90711600/39112b874346af9bfd418b05b261ba76.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d9ecce1/90711600/d7d9ecce169be6108938191b85a0b3ca_max_476x317.jpeg",
+      "url": "property-photo/d7d9ecce1/90711600/d7d9ecce169be6108938191b85a0b3ca.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5aee0cb3/90711600/c5aee0cb33604405e2882601d01cd96c_max_476x317.jpeg",
+      "url": "property-photo/c5aee0cb3/90711600/c5aee0cb33604405e2882601d01cd96c.jpeg",
+      "caption": "Picture No. 08"
+    }
+  ],
+  "propertySubType": "Not Specified",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-22T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-10T01:16:03Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260405,
+    "brandPlusLogoURI": "/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "contactTelephone": "020 4548 1336",
+    "branchDisplayName": "Benham & Reeves - City, City",
+    "branchName": "City",
+    "brandTradingName": "Benham & Reeves - City",
+    "branchLandingPageUrl": "/estate-agents/agent/Benham-and-Reeves---City/City-260405.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-08T15:48:18Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "752 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90711600#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90711600",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-10T01:10:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-10T01:16:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a_max_476x317.jpeg",
+        "url": "property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e81395a76/90711600/e81395a762b0fbe7ab785208640803c5_max_476x317.jpeg",
+        "url": "property-photo/e81395a76/90711600/e81395a762b0fbe7ab785208640803c5.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d2c9b8c6/90711600/2d2c9b8c6a419fccf6181c30af9febaa_max_476x317.jpeg",
+        "url": "property-photo/2d2c9b8c6/90711600/2d2c9b8c6a419fccf6181c30af9febaa.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c9a3e543/90711600/5c9a3e5435b285d3e89682b0517ad287_max_476x317.jpeg",
+        "url": "property-photo/5c9a3e543/90711600/5c9a3e5435b285d3e89682b0517ad287.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39112b874/90711600/39112b874346af9bfd418b05b261ba76_max_476x317.jpeg",
+        "url": "property-photo/39112b874/90711600/39112b874346af9bfd418b05b261ba76.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d9ecce1/90711600/d7d9ecce169be6108938191b85a0b3ca_max_476x317.jpeg",
+        "url": "property-photo/d7d9ecce1/90711600/d7d9ecce169be6108938191b85a0b3ca.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5aee0cb3/90711600/c5aee0cb33604405e2882601d01cd96c_max_476x317.jpeg",
+        "url": "property-photo/c5aee0cb3/90711600/c5aee0cb33604405e2882601d01cd96c.jpeg",
+        "caption": "Picture No. 08"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a47ec71f1/90711600/a47ec71f14e0efc3f7d11c7cc4a0758a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Benham & Reeves - City, City",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom property",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

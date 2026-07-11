@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-10T21:12:45.152548+00:00",
+  "postcode": "EC1A 4JQ",
+  "id": 89765955,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Discover this bright two-bedroom flat in Aldersgate Street, offering efficient open-plan living, excellent transport links, and proximity to vibrant local amenities.",
+  "displayAddress": "Aldersgate Street, London, EC1A",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.520907,
+    "longitude": -0.097679
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51_max_476x317.jpeg",
+      "url": "property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/004246d31/89765955/004246d31731a26572307d77a718c336_max_476x317.jpeg",
+      "url": "property-photo/004246d31/89765955/004246d31731a26572307d77a718c336.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e07126991/89765955/e07126991961aa8a97231c075ded91df_max_476x317.jpeg",
+      "url": "property-photo/e07126991/89765955/e07126991961aa8a97231c075ded91df.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fef55b242/89765955/fef55b2422ce48963913a96811d73781_max_476x317.jpeg",
+      "url": "property-photo/fef55b242/89765955/fef55b2422ce48963913a96811d73781.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bb5e5af3/89765955/7bb5e5af392ebdfd725c9fbc4f509214_max_476x317.jpeg",
+      "url": "property-photo/7bb5e5af3/89765955/7bb5e5af392ebdfd725c9fbc4f509214.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8899f3cc1/89765955/8899f3cc1f7064eecbf82801840c3aef_max_476x317.jpeg",
+      "url": "property-photo/8899f3cc1/89765955/8899f3cc1f7064eecbf82801840c3aef.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d811dd9f1/89765955/d811dd9f10673f12d302eb9a5b393971_max_476x317.jpeg",
+      "url": "property-photo/d811dd9f1/89765955/d811dd9f10673f12d302eb9a5b393971.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34d37d823/89765955/34d37d823bef6d421c94d65876a55908_max_476x317.jpeg",
+      "url": "property-photo/34d37d823/89765955/34d37d823bef6d421c94d65876a55908.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8b8c7b37/89765955/f8b8c7b37f435bee6f019323e3334906_max_476x317.jpeg",
+      "url": "property-photo/f8b8c7b37/89765955/f8b8c7b37f435bee6f019323e3334906.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba4d1f1e1/89765955/ba4d1f1e1409b7e8666b1690956e7ba1_max_476x317.jpeg",
+      "url": "property-photo/ba4d1f1e1/89765955/ba4d1f1e1409b7e8666b1690956e7ba1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-10-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-06-18T13:10:12Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 86166,
+    "brandPlusLogoURI": "/partner-logo/34405347-PRODUCTS_LOGO-1781018395621.jpg",
+    "contactTelephone": "020 4652 3575",
+    "branchDisplayName": "Victorstone, London",
+    "branchName": "London",
+    "brandTradingName": "Victorstone",
+    "branchLandingPageUrl": "/estate-agents/agent/Victorstone/London-86166.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-10T18:21:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/34405347-PRODUCTS_LOGO-1781018395621.jpg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89765955#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89765955",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-16T15:40:30Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-10T19:26:34Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Walking distance to Barbican, Farringdon (Elizabeth Line), and St. Paul\u2019s stations",
+      "htmlDescription": "Walking distance to Barbican, Farringdon (Elizabeth Line), and St. Paul\u2019s stations"
+    },
+    {
+      "order": 2,
+      "description": "Efficient open-plan living space ideal for professionals or students",
+      "htmlDescription": "Efficient open-plan living space ideal for professionals or students"
+    },
+    {
+      "order": 3,
+      "description": "Close to Local Amenities",
+      "htmlDescription": "Close to Local Amenities"
+    },
+    {
+      "order": 4,
+      "description": "Affluent location",
+      "htmlDescription": "Affluent location"
+    },
+    {
+      "order": 5,
+      "description": "Plethora of natural light",
+      "htmlDescription": "Plethora of natural light"
+    },
+    {
+      "order": 6,
+      "description": "Bathroom as well as a separate water closet",
+      "htmlDescription": "Bathroom as well as a separate water closet"
+    },
+    {
+      "order": 7,
+      "description": "Practical Kitchen Space With Appliances Inc. Washing Machine",
+      "htmlDescription": "Practical Kitchen Space With Appliances Inc. Washing Machine"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51_max_476x317.jpeg",
+        "url": "property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/004246d31/89765955/004246d31731a26572307d77a718c336_max_476x317.jpeg",
+        "url": "property-photo/004246d31/89765955/004246d31731a26572307d77a718c336.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e07126991/89765955/e07126991961aa8a97231c075ded91df_max_476x317.jpeg",
+        "url": "property-photo/e07126991/89765955/e07126991961aa8a97231c075ded91df.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fef55b242/89765955/fef55b2422ce48963913a96811d73781_max_476x317.jpeg",
+        "url": "property-photo/fef55b242/89765955/fef55b2422ce48963913a96811d73781.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bb5e5af3/89765955/7bb5e5af392ebdfd725c9fbc4f509214_max_476x317.jpeg",
+        "url": "property-photo/7bb5e5af3/89765955/7bb5e5af392ebdfd725c9fbc4f509214.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8899f3cc1/89765955/8899f3cc1f7064eecbf82801840c3aef_max_476x317.jpeg",
+        "url": "property-photo/8899f3cc1/89765955/8899f3cc1f7064eecbf82801840c3aef.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d811dd9f1/89765955/d811dd9f10673f12d302eb9a5b393971_max_476x317.jpeg",
+        "url": "property-photo/d811dd9f1/89765955/d811dd9f10673f12d302eb9a5b393971.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34d37d823/89765955/34d37d823bef6d421c94d65876a55908_max_476x317.jpeg",
+        "url": "property-photo/34d37d823/89765955/34d37d823bef6d421c94d65876a55908.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8b8c7b37/89765955/f8b8c7b37f435bee6f019323e3334906_max_476x317.jpeg",
+        "url": "property-photo/f8b8c7b37/89765955/f8b8c7b37f435bee6f019323e3334906.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba4d1f1e1/89765955/ba4d1f1e1409b7e8666b1690956e7ba1_max_476x317.jpeg",
+        "url": "property-photo/ba4d1f1e1/89765955/ba4d1f1e1409b7e8666b1690956e7ba1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cfaa2acc/89765955/8cfaa2acc971937bb388d662a3579d51_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Victorstone, London",
+  "addedOrReduced": "Reduced on 18/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
