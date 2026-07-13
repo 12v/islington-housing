@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-12T21:33:59.673451+00:00",
+  "postcode": "EC1V 4JH",
+  "id": 90078981,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stylish one bedroom apartment in Brewery Square with concierge and lift access, moments from Farringdon Station and local amenities.",
+  "displayAddress": "Gardner Court, Brewery Square, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.523918,
+    "longitude": -0.102485
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531_max_476x317.jpeg",
+      "url": "property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1252a3b0/90078981/e1252a3b084aeef26e2853ff0dba8982_max_476x317.jpeg",
+      "url": "property-photo/e1252a3b0/90078981/e1252a3b084aeef26e2853ff0dba8982.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a48c86c32/90078981/a48c86c32844cc1afb6288e944e02b22_max_476x317.jpeg",
+      "url": "property-photo/a48c86c32/90078981/a48c86c32844cc1afb6288e944e02b22.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27cfc7801/90078981/27cfc78011d586686d00200e23fe5ae5_max_476x317.jpeg",
+      "url": "property-photo/27cfc7801/90078981/27cfc78011d586686d00200e23fe5ae5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d95c84597/90078981/d95c845973c4e2b4a587e506f141b95e_max_476x317.jpeg",
+      "url": "property-photo/d95c84597/90078981/d95c845973c4e2b4a587e506f141b95e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99f194f70/90078981/99f194f70533527afd351df416584b67_max_476x317.jpeg",
+      "url": "property-photo/99f194f70/90078981/99f194f70533527afd351df416584b67.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2637f9381/90078981/2637f938166121fcfba9c083133eac50_max_476x317.jpeg",
+      "url": "property-photo/2637f9381/90078981/2637f938166121fcfba9c083133eac50.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a50391c1f/90078981/a50391c1f9d04be41708bf6d54436431_max_476x317.jpeg",
+      "url": "property-photo/a50391c1f/90078981/a50391c1f9d04be41708bf6d54436431.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb09022a2/90078981/cb09022a222a3377da6120c4d36efea6_max_476x317.jpeg",
+      "url": "property-photo/cb09022a2/90078981/cb09022a222a3377da6120c4d36efea6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7115b88ea/90078981/7115b88ead6f65f714a3631b9e683afe_max_476x317.jpeg",
+      "url": "property-photo/7115b88ea/90078981/7115b88ead6f65f714a3631b9e683afe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a06bc1ce3/90078981/a06bc1ce362b6303c6a4c0d32c1780eb_max_476x317.jpeg",
+      "url": "property-photo/a06bc1ce3/90078981/a06bc1ce362b6303c6a4c0d32c1780eb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71969814a/90078981/71969814a92f8bcc7c9a2fc69380d200_max_476x317.jpeg",
+      "url": "property-photo/71969814a/90078981/71969814a92f8bcc7c9a2fc69380d200.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-24T12:24:13Z"
+  },
+  "price": {
+    "amount": 630,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,730 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3630 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 289043,
+    "brandPlusLogoURI": "/partner-logo/37839206-PRODUCTS_LOGO-1766067804.jpeg",
+    "contactTelephone": "020 4538 6470",
+    "branchDisplayName": "Unihood, London",
+    "branchName": "London",
+    "brandTradingName": "Unihood",
+    "branchLandingPageUrl": "/estate-agents/agent/Unihood/London-289043.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-11T06:30:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/37839206-PRODUCTS_LOGO-1766067804.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "ARLA Propertymark\nPropertymark Client Money Protection\nMy Deposits\nProperty Redress Scheme",
+  "displaySize": "560 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90078981#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90078981",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-24T12:19:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-06T07:03:34Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Large one bedroom apartment",
+      "htmlDescription": "Large one bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "24-hour Concierge",
+      "htmlDescription": "24-hour Concierge"
+    },
+    {
+      "order": 3,
+      "description": "Lift access to all floors",
+      "htmlDescription": "Lift access to all floors"
+    },
+    {
+      "order": 4,
+      "description": "Located in the popular Brewery Square development",
+      "htmlDescription": "Located in the popular Brewery Square development"
+    },
+    {
+      "order": 5,
+      "description": "Wooden floors throughout",
+      "htmlDescription": "Wooden floors throughout"
+    },
+    {
+      "order": 6,
+      "description": "Close to local amenities - Waitrose",
+      "htmlDescription": "Close to local amenities - Waitrose"
+    },
+    {
+      "order": 7,
+      "description": "Council tax band: E",
+      "htmlDescription": "Council tax band: E"
+    },
+    {
+      "order": 8,
+      "description": "Mains utilities supply connect",
+      "htmlDescription": "Mains utilities supply connect"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531_max_476x317.jpeg",
+        "url": "property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1252a3b0/90078981/e1252a3b084aeef26e2853ff0dba8982_max_476x317.jpeg",
+        "url": "property-photo/e1252a3b0/90078981/e1252a3b084aeef26e2853ff0dba8982.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a48c86c32/90078981/a48c86c32844cc1afb6288e944e02b22_max_476x317.jpeg",
+        "url": "property-photo/a48c86c32/90078981/a48c86c32844cc1afb6288e944e02b22.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27cfc7801/90078981/27cfc78011d586686d00200e23fe5ae5_max_476x317.jpeg",
+        "url": "property-photo/27cfc7801/90078981/27cfc78011d586686d00200e23fe5ae5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d95c84597/90078981/d95c845973c4e2b4a587e506f141b95e_max_476x317.jpeg",
+        "url": "property-photo/d95c84597/90078981/d95c845973c4e2b4a587e506f141b95e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99f194f70/90078981/99f194f70533527afd351df416584b67_max_476x317.jpeg",
+        "url": "property-photo/99f194f70/90078981/99f194f70533527afd351df416584b67.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2637f9381/90078981/2637f938166121fcfba9c083133eac50_max_476x317.jpeg",
+        "url": "property-photo/2637f9381/90078981/2637f938166121fcfba9c083133eac50.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a50391c1f/90078981/a50391c1f9d04be41708bf6d54436431_max_476x317.jpeg",
+        "url": "property-photo/a50391c1f/90078981/a50391c1f9d04be41708bf6d54436431.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb09022a2/90078981/cb09022a222a3377da6120c4d36efea6_max_476x317.jpeg",
+        "url": "property-photo/cb09022a2/90078981/cb09022a222a3377da6120c4d36efea6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7115b88ea/90078981/7115b88ead6f65f714a3631b9e683afe_max_476x317.jpeg",
+        "url": "property-photo/7115b88ea/90078981/7115b88ead6f65f714a3631b9e683afe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a06bc1ce3/90078981/a06bc1ce362b6303c6a4c0d32c1780eb_max_476x317.jpeg",
+        "url": "property-photo/a06bc1ce3/90078981/a06bc1ce362b6303c6a4c0d32c1780eb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71969814a/90078981/71969814a92f8bcc7c9a2fc69380d200_max_476x317.jpeg",
+        "url": "property-photo/71969814a/90078981/71969814a92f8bcc7c9a2fc69380d200.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ed230531/90078981/6ed23053169c35d1f6f9e881d3606531_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Unihood, London",
+  "addedOrReduced": "Added on 24/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
