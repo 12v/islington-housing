@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-13T21:39:38.583045+00:00",
+  "postcode": "EC1V 4NA",
+  "id": 90823473,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Beautifully presented first floor apartment located just a short walk from both Angel underground & Kings Cross St Pancras stations. Property comprises: One double bedroom, one family sized bathroom, bright & spacious reception room with open plan fully equipped kitchen. Close to the loca...",
+  "displayAddress": "Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5308,
+    "longitude": -0.105728
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5_max_476x317.jpeg",
+      "url": "property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/facdc17a8/90823473/facdc17a8caeab6579c6aec0bd9a0f0e_max_476x317.jpeg",
+      "url": "property-photo/facdc17a8/90823473/facdc17a8caeab6579c6aec0bd9a0f0e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b82f889eb/90823473/b82f889ebd3ccc61749f57658fd6e6e9_max_476x317.jpeg",
+      "url": "property-photo/b82f889eb/90823473/b82f889ebd3ccc61749f57658fd6e6e9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ccd1640a/90823473/7ccd1640a3cc2d1af6c6ddb324666792_max_476x317.jpeg",
+      "url": "property-photo/7ccd1640a/90823473/7ccd1640a3cc2d1af6c6ddb324666792.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/911429a23/90823473/911429a237d5ebbdbb76f5446b1e4649_max_476x317.jpeg",
+      "url": "property-photo/911429a23/90823473/911429a237d5ebbdbb76f5446b1e4649.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/509a5a523/90823473/509a5a523fd5ff7901862413754fcd1c_max_476x317.jpeg",
+      "url": "property-photo/509a5a523/90823473/509a5a523fd5ff7901862413754fcd1c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1f3e4ccd/90823473/f1f3e4ccd7707f1707f0570b33cbdf24_max_476x317.jpeg",
+      "url": "property-photo/f1f3e4ccd/90823473/f1f3e4ccd7707f1707f0570b33cbdf24.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed910b7c0/90823473/ed910b7c0c24923e44f23bd5ff1f0906_max_476x317.jpeg",
+      "url": "property-photo/ed910b7c0/90823473/ed910b7c0c24923e44f23bd5ff1f0906.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/145b1772f/90823473/145b1772fa270f879b9100b1ee536f77_max_476x317.jpeg",
+      "url": "property-photo/145b1772f/90823473/145b1772fa270f879b9100b1ee536f77.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-13T16:18:13Z"
+  },
+  "price": {
+    "amount": 2350,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,350 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3542 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 74524,
+    "brandPlusLogoURI": "/partner-logo/9773425-PRODUCTS_LOGO-1766056136.jpeg",
+    "contactTelephone": "020 3907 3306",
+    "branchDisplayName": "Martin & Co, Camden",
+    "branchName": "Camden",
+    "brandTradingName": "Martin & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Martin-and-Co/Camden-74524.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-22T15:44:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9773425-PRODUCTS_LOGO-1766056136.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Applies to Assured Periodic Tenancies (APTs) in England\n \nAll assured shorthold tenancies will automatically becomeassured periodic tenancies on or after 1 May 2026.\n \nHolding Deposit (per tenancy): One week's rent. This is to reserve a property. Note this will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and/or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).\n \nSecurity Deposit (per tenancy. Rent under \u00a350,000 per year): Five weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.\n \nSecurity Deposit (per tenancy. Rent of \u00a350,000 or over per year) Six weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy. Properties over \u00a3100k are not covered by the Tenant Fees Act 2019.\n \nRent: The rent must not be more than the advertised amount, and must clearly explain what is included. Rent should be required at regular intervals and should be equally split across the tenancy. You cannot pay rent before a tenancy agreement is signed.\n \nRent in Advance: A landlord or agent can ask for a maximum of 1 month's rent in advance, after the tenant and landlord have signed the tenancy agreement and before the tenancy start date.\n \nUnpaid Rent: Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears.\n \nLost Key(s) or other Security Device(s): Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant.\n \nVariation of Contract (Tenant's Request): \u00a350 (inc. VAT) per agreed variation. To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents.\n \nChange of Sharer (Tenant's Request): \u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents.\n \nEarly Termination (Tenant's Request): Should the tenant wish to end the tenancy then they must give 2 months' notice. The landlord can charge a fee if their tenant does not give the correct amount of notice. The landlord can charge up to the amount of rent they would have received if the tenant had given the correct amount of notice.\n \nClient Money Protection (CMP): ARLA Propertymark\nRedress scheme: The Property Ombudsman",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90823473#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90823473",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-13T16:12:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-13T16:18:13Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom Apartment",
+      "htmlDescription": "One double bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "First Floor",
+      "htmlDescription": "First Floor"
+    },
+    {
+      "order": 3,
+      "description": "Open plan fully equipped kitchen",
+      "htmlDescription": "Open plan fully equipped kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Generous reception room",
+      "htmlDescription": "Generous reception room"
+    },
+    {
+      "order": 5,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Fantastic Location",
+      "htmlDescription": "Fantastic Location"
+    },
+    {
+      "order": 7,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 8,
+      "description": "Amazing transport links",
+      "htmlDescription": "Amazing transport links"
+    },
+    {
+      "order": 9,
+      "description": "Close to local amenities",
+      "htmlDescription": "Close to local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5_max_476x317.jpeg",
+        "url": "property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/facdc17a8/90823473/facdc17a8caeab6579c6aec0bd9a0f0e_max_476x317.jpeg",
+        "url": "property-photo/facdc17a8/90823473/facdc17a8caeab6579c6aec0bd9a0f0e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b82f889eb/90823473/b82f889ebd3ccc61749f57658fd6e6e9_max_476x317.jpeg",
+        "url": "property-photo/b82f889eb/90823473/b82f889ebd3ccc61749f57658fd6e6e9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7ccd1640a/90823473/7ccd1640a3cc2d1af6c6ddb324666792_max_476x317.jpeg",
+        "url": "property-photo/7ccd1640a/90823473/7ccd1640a3cc2d1af6c6ddb324666792.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/911429a23/90823473/911429a237d5ebbdbb76f5446b1e4649_max_476x317.jpeg",
+        "url": "property-photo/911429a23/90823473/911429a237d5ebbdbb76f5446b1e4649.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/509a5a523/90823473/509a5a523fd5ff7901862413754fcd1c_max_476x317.jpeg",
+        "url": "property-photo/509a5a523/90823473/509a5a523fd5ff7901862413754fcd1c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1f3e4ccd/90823473/f1f3e4ccd7707f1707f0570b33cbdf24_max_476x317.jpeg",
+        "url": "property-photo/f1f3e4ccd/90823473/f1f3e4ccd7707f1707f0570b33cbdf24.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed910b7c0/90823473/ed910b7c0c24923e44f23bd5ff1f0906_max_476x317.jpeg",
+        "url": "property-photo/ed910b7c0/90823473/ed910b7c0c24923e44f23bd5ff1f0906.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/145b1772f/90823473/145b1772fa270f879b9100b1ee536f77_max_476x317.jpeg",
+        "url": "property-photo/145b1772f/90823473/145b1772fa270f879b9100b1ee536f77.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4d2b6a2/90823473/7c4d2b6a2b95f7ec9798c63d0858b4c5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Martin & Co, Camden",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
