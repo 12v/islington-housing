@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-15T00:46:16.552127+00:00",
+  "postcode": "N7 0JJ",
+  "id": 90829953,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A modern first floor apartment offering two double bedrooms, a bright lounge with balcony and modern kitchen and bathroom. The building has lift access to all floors and forms part of the Tufnell Park environmental zone. The property is a short distance from both Tufnell Park and Kentish Town...",
+  "displayAddress": "Dalmeny Avenue, Tufnell Park, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553512,
+    "longitude": -0.127872
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd_max_476x317.jpeg",
+      "url": "property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251c68f78/90829953/251c68f787c5223ad1fa8b71e2d7fb26_max_476x317.jpeg",
+      "url": "property-photo/251c68f78/90829953/251c68f787c5223ad1fa8b71e2d7fb26.jpeg",
+      "caption": "LOUNGE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a914d4626/90829953/a914d46265e9b1d8bb474fc9d975ddb8_max_476x317.jpeg",
+      "url": "property-photo/a914d4626/90829953/a914d46265e9b1d8bb474fc9d975ddb8.jpeg",
+      "caption": "LOUNGE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/650d85391/90829953/650d8539129ae5d85f22e3fda7e9ce81_max_476x317.jpeg",
+      "url": "property-photo/650d85391/90829953/650d8539129ae5d85f22e3fda7e9ce81.jpeg",
+      "caption": "BEDROOM ONE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7acebe669/90829953/7acebe6694a12f0d3268992aced66391_max_476x317.jpeg",
+      "url": "property-photo/7acebe669/90829953/7acebe6694a12f0d3268992aced66391.jpeg",
+      "caption": "BEDROOM TWO"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3688a8ad2/90829953/3688a8ad2fbdbc335d7cd00bab32f008_max_476x317.jpeg",
+      "url": "property-photo/3688a8ad2/90829953/3688a8ad2fbdbc335d7cd00bab32f008.jpeg",
+      "caption": "KITCHEN"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f22dbc364/90829953/f22dbc364553e10c1fe67ca5a5e44450_max_476x317.jpeg",
+      "url": "property-photo/f22dbc364/90829953/f22dbc364553e10c1fe67ca5a5e44450.jpeg",
+      "caption": "BATHROOM"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c47db2f9/90829953/6c47db2f9704eeffcb6a7f38978c38e9_max_476x317.jpeg",
+      "url": "property-photo/6c47db2f9/90829953/6c47db2f9704eeffcb6a7f38978c38e9.jpeg",
+      "caption": "Balcony"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-13T17:38:24Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 34379,
+    "brandPlusLogoURI": "/partner-logo/9662-LOGO-1765972453.png",
+    "contactTelephone": "020 3879 5320",
+    "branchDisplayName": "Matthew James & Company, Kentish Town",
+    "branchName": "Kentish Town",
+    "brandTradingName": "Matthew James & Company",
+    "branchLandingPageUrl": "/estate-agents/agent/Matthew-James-and-Company/Kentish-Town-34379.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:34:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9662-LOGO-1765972453.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90829953#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90829953",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-13T17:32:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-13T17:38:24Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "First Floor Purpose Built Flat",
+      "htmlDescription": "First Floor Purpose Built Flat"
+    },
+    {
+      "order": 2,
+      "description": "2 Double Bedrooms",
+      "htmlDescription": "2 Double Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Bright Lounge with Balcony",
+      "htmlDescription": "Bright Lounge with Balcony"
+    },
+    {
+      "order": 4,
+      "description": "Modern Kitchen",
+      "htmlDescription": "Modern Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Bathroom",
+      "htmlDescription": "Bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Double Glazed",
+      "htmlDescription": "Double Glazed"
+    },
+    {
+      "order": 7,
+      "description": "Lift Access",
+      "htmlDescription": "Lift Access"
+    },
+    {
+      "order": 8,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 9,
+      "description": "Available From 31st August",
+      "htmlDescription": "Available From 31st August"
+    },
+    {
+      "order": 10,
+      "description": "No HMO Licence",
+      "htmlDescription": "No HMO Licence"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd_max_476x317.jpeg",
+        "url": "property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/251c68f78/90829953/251c68f787c5223ad1fa8b71e2d7fb26_max_476x317.jpeg",
+        "url": "property-photo/251c68f78/90829953/251c68f787c5223ad1fa8b71e2d7fb26.jpeg",
+        "caption": "LOUNGE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a914d4626/90829953/a914d46265e9b1d8bb474fc9d975ddb8_max_476x317.jpeg",
+        "url": "property-photo/a914d4626/90829953/a914d46265e9b1d8bb474fc9d975ddb8.jpeg",
+        "caption": "LOUNGE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/650d85391/90829953/650d8539129ae5d85f22e3fda7e9ce81_max_476x317.jpeg",
+        "url": "property-photo/650d85391/90829953/650d8539129ae5d85f22e3fda7e9ce81.jpeg",
+        "caption": "BEDROOM ONE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7acebe669/90829953/7acebe6694a12f0d3268992aced66391_max_476x317.jpeg",
+        "url": "property-photo/7acebe669/90829953/7acebe6694a12f0d3268992aced66391.jpeg",
+        "caption": "BEDROOM TWO"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3688a8ad2/90829953/3688a8ad2fbdbc335d7cd00bab32f008_max_476x317.jpeg",
+        "url": "property-photo/3688a8ad2/90829953/3688a8ad2fbdbc335d7cd00bab32f008.jpeg",
+        "caption": "KITCHEN"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f22dbc364/90829953/f22dbc364553e10c1fe67ca5a5e44450_max_476x317.jpeg",
+        "url": "property-photo/f22dbc364/90829953/f22dbc364553e10c1fe67ca5a5e44450.jpeg",
+        "caption": "BATHROOM"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c47db2f9/90829953/6c47db2f9704eeffcb6a7f38978c38e9_max_476x317.jpeg",
+        "url": "property-photo/6c47db2f9/90829953/6c47db2f9704eeffcb6a7f38978c38e9.jpeg",
+        "caption": "Balcony"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99335f3f3/90829953/99335f3f3a1e4302bfb7c44bdf5d3ecd_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Matthew James & Company, Kentish Town",
+  "addedOrReduced": "Added on 13/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
