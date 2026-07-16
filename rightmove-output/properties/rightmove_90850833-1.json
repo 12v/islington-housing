@@ -1,0 +1,242 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-16T00:41:37.280559+00:00",
+  "postcode": "N5 1SG",
+  "id": 90850833,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A nice two bedroom house wth priavte garden.",
+  "displayAddress": "Jack Walker Court, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.554929,
+    "longitude": -0.100531
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f_max_476x317.jpeg",
+      "url": "property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4fd918a4/90850833/c4fd918a43c561b86c6684854d098a8d_max_476x317.jpeg",
+      "url": "property-photo/c4fd918a4/90850833/c4fd918a43c561b86c6684854d098a8d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c0d9ff88/90850833/7c0d9ff882eea0d843efb072614e9abb_max_476x317.jpeg",
+      "url": "property-photo/7c0d9ff88/90850833/7c0d9ff882eea0d843efb072614e9abb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcd824b67/90850833/dcd824b678f42763d9b20ea13b792af0_max_476x317.jpeg",
+      "url": "property-photo/dcd824b67/90850833/dcd824b678f42763d9b20ea13b792af0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d00c8715/90850833/1d00c8715e249885771e2793bbf08698_max_476x317.jpeg",
+      "url": "property-photo/1d00c8715/90850833/1d00c8715e249885771e2793bbf08698.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5cb3515a8/90850833/5cb3515a8d02fb3717a4625b52c8a269_max_476x317.jpeg",
+      "url": "property-photo/5cb3515a8/90850833/5cb3515a8d02fb3717a4625b52c8a269.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f54078c4/90850833/9f54078c4e2f9536401d3015cc42a24f_max_476x317.jpeg",
+      "url": "property-photo/9f54078c4/90850833/9f54078c4e2f9536401d3015cc42a24f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aae387e9e/90850833/aae387e9e433c461c60980a9fadd2d90_max_476x317.jpeg",
+      "url": "property-photo/aae387e9e/90850833/aae387e9e433c461c60980a9fadd2d90.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f3f87b04/90850833/2f3f87b042be2404f50be9f69b1f87cb_max_476x317.jpeg",
+      "url": "property-photo/2f3f87b04/90850833/2f3f87b042be2404f50be9f69b1f87cb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69e253125/90850833/69e253125b39a6afb4f202d1be125823_max_476x317.jpeg",
+      "url": "property-photo/69e253125/90850833/69e253125b39a6afb4f202d1be125823.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/500fb861e/90850833/500fb861e4c13023a82809a6be977c6f_max_476x317.jpeg",
+      "url": "property-photo/500fb861e/90850833/500fb861e4c13023a82809a6be977c6f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aff9e5e1/90850833/8aff9e5e1127438843030c27e7b7a503_max_476x317.jpeg",
+      "url": "property-photo/8aff9e5e1/90850833/8aff9e5e1127438843030c27e7b7a503.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "End of Terrace",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-14T11:14:06Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 293189,
+    "brandPlusLogoURI": "/partner-logo/40154615-PRODUCTS_LOGO-1766059631.png",
+    "contactTelephone": "020 4572 6595",
+    "branchDisplayName": "Robert Alan Homes Limited, Barnet",
+    "branchName": "Barnet",
+    "brandTradingName": "Robert Alan Homes Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Robert-Alan-Homes-Limited/Barnet-293189.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-27T17:04:03Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/40154615-PRODUCTS_LOGO-1766059631.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "812 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90850833#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90850833",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-14T11:08:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-14T12:04:20Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f_max_476x317.jpeg",
+        "url": "property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4fd918a4/90850833/c4fd918a43c561b86c6684854d098a8d_max_476x317.jpeg",
+        "url": "property-photo/c4fd918a4/90850833/c4fd918a43c561b86c6684854d098a8d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c0d9ff88/90850833/7c0d9ff882eea0d843efb072614e9abb_max_476x317.jpeg",
+        "url": "property-photo/7c0d9ff88/90850833/7c0d9ff882eea0d843efb072614e9abb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcd824b67/90850833/dcd824b678f42763d9b20ea13b792af0_max_476x317.jpeg",
+        "url": "property-photo/dcd824b67/90850833/dcd824b678f42763d9b20ea13b792af0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d00c8715/90850833/1d00c8715e249885771e2793bbf08698_max_476x317.jpeg",
+        "url": "property-photo/1d00c8715/90850833/1d00c8715e249885771e2793bbf08698.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5cb3515a8/90850833/5cb3515a8d02fb3717a4625b52c8a269_max_476x317.jpeg",
+        "url": "property-photo/5cb3515a8/90850833/5cb3515a8d02fb3717a4625b52c8a269.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f54078c4/90850833/9f54078c4e2f9536401d3015cc42a24f_max_476x317.jpeg",
+        "url": "property-photo/9f54078c4/90850833/9f54078c4e2f9536401d3015cc42a24f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aae387e9e/90850833/aae387e9e433c461c60980a9fadd2d90_max_476x317.jpeg",
+        "url": "property-photo/aae387e9e/90850833/aae387e9e433c461c60980a9fadd2d90.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f3f87b04/90850833/2f3f87b042be2404f50be9f69b1f87cb_max_476x317.jpeg",
+        "url": "property-photo/2f3f87b04/90850833/2f3f87b042be2404f50be9f69b1f87cb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69e253125/90850833/69e253125b39a6afb4f202d1be125823_max_476x317.jpeg",
+        "url": "property-photo/69e253125/90850833/69e253125b39a6afb4f202d1be125823.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/500fb861e/90850833/500fb861e4c13023a82809a6be977c6f_max_476x317.jpeg",
+        "url": "property-photo/500fb861e/90850833/500fb861e4c13023a82809a6be977c6f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aff9e5e1/90850833/8aff9e5e1127438843030c27e7b7a503_max_476x317.jpeg",
+        "url": "property-photo/8aff9e5e1/90850833/8aff9e5e1127438843030c27e7b7a503.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea57a8eee/90850833/ea57a8eee867cfda1a657008119ba28f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Robert Alan Homes Limited, Barnet",
+  "addedOrReduced": "Added on 14/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom end of terrace house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
