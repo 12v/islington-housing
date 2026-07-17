@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-17T00:34:06.448290+00:00",
+  "postcode": "N5 1ND",
+  "id": 90969846,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Hamptons are delighted to present a one bedroom period conversion located in Drayton Park, and close to the green space of Highbury Fields.",
+  "displayAddress": "Drayton Park London N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55397,
+    "longitude": -0.10495
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967_max_476x317.jpeg",
+      "url": "property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a48fe685/90969846/8a48fe685a37fec35ebe8a122f4e907b_max_476x317.jpeg",
+      "url": "property-photo/8a48fe685/90969846/8a48fe685a37fec35ebe8a122f4e907b.jpeg",
+      "caption": "Dining/Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2bc912f2e/90969846/2bc912f2e8de83f9890d7e122f1c9e2b_max_476x317.jpeg",
+      "url": "property-photo/2bc912f2e/90969846/2bc912f2e8de83f9890d7e122f1c9e2b.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6af08a69/90969846/a6af08a69247808250e2cf23d7705f82_max_476x317.jpeg",
+      "url": "property-photo/a6af08a69/90969846/a6af08a69247808250e2cf23d7705f82.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de38b3224/90969846/de38b32240b38b642d37a6a3e870de79_max_476x317.jpeg",
+      "url": "property-photo/de38b3224/90969846/de38b32240b38b642d37a6a3e870de79.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69ab2aacd/90969846/69ab2aacd0f6dc3f8f39d33e1e346659_max_476x317.jpeg",
+      "url": "property-photo/69ab2aacd/90969846/69ab2aacd0f6dc3f8f39d33e1e346659.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-16T14:20:30Z"
+  },
+  "price": {
+    "amount": 465,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,015 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3465 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T20:01:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy information\n\nHamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED PERIODIC TENANCIES:\nHolding Deposit - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place:\nThe annual rent exceeds \u00a3100,000.\nThe property is occupied by an entity (Company let) rather that an individual.\nThe property is not used as a main or primary home.\nThere is a Resident Landlord.\nTenancy Setup Fee - \u00a3360 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee   Per Person \u00a360 inc VAT. Per Company \u00a3120 inc VAT\nTenancy Continuation - \u00a3300 inc VAT.\nChange of (Tenant) Householder - \u00a3300 inc VAT.\nEarly Termination Administration - \u00a3300 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per person, \u00a3120 inc vat per company.\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash.\nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90969846#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90969846",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-16T14:14:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-16T14:20:30Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Double Bedroom",
+      "htmlDescription": "Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom "
+    },
+    {
+      "order": 3,
+      "description": "Open Plan Reception",
+      "htmlDescription": "Open Plan Reception"
+    },
+    {
+      "order": 4,
+      "description": "Period Property",
+      "htmlDescription": "Period Property"
+    },
+    {
+      "order": 5,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 6,
+      "description": "Naturally Light",
+      "htmlDescription": "Naturally Light"
+    },
+    {
+      "order": 7,
+      "description": "Close To Amenities",
+      "htmlDescription": "Close To Amenities"
+    },
+    {
+      "order": 8,
+      "description": "Modern Fittings",
+      "htmlDescription": "Modern Fittings"
+    },
+    {
+      "order": 9,
+      "description": "Council Tax - Band D",
+      "htmlDescription": "Council Tax - Band D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967_max_476x317.jpeg",
+        "url": "property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a48fe685/90969846/8a48fe685a37fec35ebe8a122f4e907b_max_476x317.jpeg",
+        "url": "property-photo/8a48fe685/90969846/8a48fe685a37fec35ebe8a122f4e907b.jpeg",
+        "caption": "Dining/Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2bc912f2e/90969846/2bc912f2e8de83f9890d7e122f1c9e2b_max_476x317.jpeg",
+        "url": "property-photo/2bc912f2e/90969846/2bc912f2e8de83f9890d7e122f1c9e2b.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6af08a69/90969846/a6af08a69247808250e2cf23d7705f82_max_476x317.jpeg",
+        "url": "property-photo/a6af08a69/90969846/a6af08a69247808250e2cf23d7705f82.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de38b3224/90969846/de38b32240b38b642d37a6a3e870de79_max_476x317.jpeg",
+        "url": "property-photo/de38b3224/90969846/de38b32240b38b642d37a6a3e870de79.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69ab2aacd/90969846/69ab2aacd0f6dc3f8f39d33e1e346659_max_476x317.jpeg",
+        "url": "property-photo/69ab2aacd/90969846/69ab2aacd0f6dc3f8f39d33e1e346659.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/475389ef8/90969846/475389ef8c5d42b184d4769dd5897967_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
