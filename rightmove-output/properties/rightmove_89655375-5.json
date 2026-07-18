@@ -1,0 +1,258 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-17T22:51:28.997832+00:00",
+  "postcode": "N1 4NH",
+  "id": 89655375,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Tony Alan Estates presents this spacious four double bedroom maisonette, ideally situated on the sought-after King Henry's Walk, N1. Offered fully furnished, the property features a bright open-plan kitchen and living area, two bathrooms, and laminate flooring throughout, making it an ideal home ...",
+  "displayAddress": "King Henry Walk, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54915,
+    "longitude": -0.07934
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52_max_476x317.jpeg",
+      "url": "property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52.jpeg",
+      "caption": "building"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6f892881/89655375/a6f892881a49f70631b5fc2608bd2852_max_476x317.jpeg",
+      "url": "property-photo/a6f892881/89655375/a6f892881a49f70631b5fc2608bd2852.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20f08271a/89655375/20f08271a9f3d10fd725645d862c2429_max_476x317.jpeg",
+      "url": "property-photo/20f08271a/89655375/20f08271a9f3d10fd725645d862c2429.jpeg",
+      "caption": "HHJ"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8f420a79/89655375/a8f420a797511709210f87d29538658b_max_476x317.jpeg",
+      "url": "property-photo/a8f420a79/89655375/a8f420a797511709210f87d29538658b.jpeg",
+      "caption": "IMG_5743_12_origi..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/146c5f766/89655375/146c5f766c89e4887e89189c26172fea_max_476x317.jpeg",
+      "url": "property-photo/146c5f766/89655375/146c5f766c89e4887e89189c26172fea.jpeg",
+      "caption": "KB"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f428e965/89655375/9f428e965e4c38690b80bad4c3b078e0_max_476x317.jpeg",
+      "url": "property-photo/9f428e965/89655375/9f428e965e4c38690b80bad4c3b078e0.jpeg",
+      "caption": "DTY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b7eb5bab/89655375/7b7eb5bab9a4b1c31320713e1051025c_max_476x317.jpeg",
+      "url": "property-photo/7b7eb5bab/89655375/7b7eb5bab9a4b1c31320713e1051025c.jpeg",
+      "caption": "DEH"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d4921f0b/89655375/2d4921f0b311b2329470e0915a4899e6_max_476x317.jpeg",
+      "url": "property-photo/2d4921f0b/89655375/2d4921f0b311b2329470e0915a4899e6.jpeg",
+      "caption": "dhd"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/691f67b99/89655375/691f67b995a09f6634179a0ab21bf908_max_476x317.jpeg",
+      "url": "property-photo/691f67b99/89655375/691f67b995a09f6634179a0ab21bf908.jpeg",
+      "caption": "fjf"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fc0d4ba1/89655375/4fc0d4ba14a355b0d006ea5f3a8ef04a_max_476x317.jpeg",
+      "url": "property-photo/4fc0d4ba1/89655375/4fc0d4ba14a355b0d006ea5f3a8ef04a.jpeg",
+      "caption": "GUHY"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/984f8ce57/89655375/984f8ce57ed6268ec90609cba1ed41c2_max_476x317.jpeg",
+      "url": "property-photo/984f8ce57/89655375/984f8ce57ed6268ec90609cba1ed41c2.jpeg",
+      "caption": "BATH"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-12T11:50:04Z"
+  },
+  "price": {
+    "amount": 4495,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,495 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,037 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 250175,
+    "brandPlusLogoURI": "/partner-logo/28658759-PRODUCTS_LOGO-1766063193.jpeg",
+    "contactTelephone": "020 3834 8169",
+    "branchDisplayName": "Tony Alan Estates, London",
+    "branchName": "London",
+    "brandTradingName": "Tony Alan Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Tony-Alan-Estates/London-250175.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:25Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/28658759-PRODUCTS_LOGO-1766063193.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy Fees\n\n\nHolding Deposit: 1-week rent\n\nPayment of the holding deposit ensures that the above accommodation will not be offered to any other applicant by this company unless the tenancy fails to start at the planned commencement date (if applicable). However, payment of holding deposit does not guarantee tenancy agreement as this is at the discretion of the Landlord. This deposit can be partly/fully retained in the event that you withdraw or otherwise fail to take up the tenancy by or on the date previously agreed, or if you fail to provide required references within 7 working days / provide fraudulent documentation. If the landlord declines your offer or changes his mind on your tenancy and your referencing was acceptable, you will receive your full deposit back.\nThe holding deposit money goes towards your total cost of moving into the property and is not an addition fee to your rent and deposit required.\n\n\nTenancy Deposit: 5 Weeks\n\nWe take 5 weeks deposit and protect it with My Deposit. If a landlord is protecting your deposit, they would use either Deposit Protection Service or My Deposits, but this information will be provided in your contract and deposit certificate given at the start of your tenancy.\n\n\nFirst Month's Rent: 1 Month Advance (depending on start start)\n\nWe set rents to be received on the 1st of the Month, but if you move into a property between 1st-14th you would be charged rent from the day you move into the end of the month. If you move in between the 15th-31st you would need the pay for the remaining days of the month plus the full coming month so your next rent payment would fall on the 1st of the month.\n\n\nDefault Fees\n\nLate Rent Fee: 3% interest above the Bank of England rate\n\nThe late fee is applied to your account if the rent is received 14 days late. \n\nFor this example, we are assuming that the Bank of England's (BoE) base rate is 3%. As any interest charged must not exceed the BoE's base rate +3%, the total interest that could be charged would be: (BoE base rate at 3%) +3% = 6%. If a tenant owed the landlord or agent \u00a3500: \n1. the annual interest would be \u00a380 (500 x 0.06 = 30) 2. you'd divide \u00a330 by 365 to get the daily interest: about 8p a day (30 / 365 = 0.08) 3. after 30 days this would be \u00a32.40 (30 x 0.08 = 2.4).\n\n\n\nCall out charge for being locked out or loss of keys: \u00a315 per hour + charge of key or security device\n\nIf a tenant has locked themselves out from the property and require us to provide access outside of normal working hours (9am-6.30pm), this fee will apply. If it is during working hours there would be no charge. If a locksmith is required, then any works will be charged to the tenant upon receipt of invoice.\n\n\nBorrow Management Keys: \u00a330 Fixed (Refundable Deposit)\n\nIf a tenant has locked themselves out of the property and need access during working hours, they can borrow the management keys from the office but must leave and deposit. The keys are required to be returned the same day, at which point the deposit will be returned to the tenant.\n\nChange in Contract/Change in Tenant: \u00a350 Fixed\n\nIf there is a change in the tenancy other, then what has been agreed and signed to at the start of the tenancy you will be liable for the fee incurred. This includes adding and removing tenants from the contract.\n \n\nEnding/Abandoning Tenancy Early:\n\nThere is no set fee for this as the tenants who vacate the property earlier then their contractual end date without the landlord's permission, will be liable for the remaining rent of their tenancy until the landlord or agent are able to find replacement tenants.\n\n\nTony Alan Investments Ltd t/a Tony Alan Estates are registered with Client Money Protect (CMP) and we follow their guidelines set.\nTony Alan Investments Ltd t/a Tony Alan Estates are registered with The Property Ombudsman and we follow their guidelines set.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89655375#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89655375",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-12T16:54:57Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-17T16:59:35Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Stylish 3 bedroom flat",
+      "htmlDescription": "Stylish 3  bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Newly refurbished",
+      "htmlDescription": "Newly refurbished"
+    },
+    {
+      "order": 3,
+      "description": "Modern Interior",
+      "htmlDescription": "Modern Interior"
+    },
+    {
+      "order": 4,
+      "description": "Gas central heating",
+      "htmlDescription": "Gas central heating"
+    },
+    {
+      "order": 5,
+      "description": "Close transport links",
+      "htmlDescription": "Close transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52_max_476x317.jpeg",
+        "url": "property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52.jpeg",
+        "caption": "building"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6f892881/89655375/a6f892881a49f70631b5fc2608bd2852_max_476x317.jpeg",
+        "url": "property-photo/a6f892881/89655375/a6f892881a49f70631b5fc2608bd2852.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20f08271a/89655375/20f08271a9f3d10fd725645d862c2429_max_476x317.jpeg",
+        "url": "property-photo/20f08271a/89655375/20f08271a9f3d10fd725645d862c2429.jpeg",
+        "caption": "HHJ"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8f420a79/89655375/a8f420a797511709210f87d29538658b_max_476x317.jpeg",
+        "url": "property-photo/a8f420a79/89655375/a8f420a797511709210f87d29538658b.jpeg",
+        "caption": "IMG_5743_12_origi..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/146c5f766/89655375/146c5f766c89e4887e89189c26172fea_max_476x317.jpeg",
+        "url": "property-photo/146c5f766/89655375/146c5f766c89e4887e89189c26172fea.jpeg",
+        "caption": "KB"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9f428e965/89655375/9f428e965e4c38690b80bad4c3b078e0_max_476x317.jpeg",
+        "url": "property-photo/9f428e965/89655375/9f428e965e4c38690b80bad4c3b078e0.jpeg",
+        "caption": "DTY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7b7eb5bab/89655375/7b7eb5bab9a4b1c31320713e1051025c_max_476x317.jpeg",
+        "url": "property-photo/7b7eb5bab/89655375/7b7eb5bab9a4b1c31320713e1051025c.jpeg",
+        "caption": "DEH"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d4921f0b/89655375/2d4921f0b311b2329470e0915a4899e6_max_476x317.jpeg",
+        "url": "property-photo/2d4921f0b/89655375/2d4921f0b311b2329470e0915a4899e6.jpeg",
+        "caption": "dhd"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/691f67b99/89655375/691f67b995a09f6634179a0ab21bf908_max_476x317.jpeg",
+        "url": "property-photo/691f67b99/89655375/691f67b995a09f6634179a0ab21bf908.jpeg",
+        "caption": "fjf"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fc0d4ba1/89655375/4fc0d4ba14a355b0d006ea5f3a8ef04a_max_476x317.jpeg",
+        "url": "property-photo/4fc0d4ba1/89655375/4fc0d4ba14a355b0d006ea5f3a8ef04a.jpeg",
+        "caption": "GUHY"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/984f8ce57/89655375/984f8ce57ed6268ec90609cba1ed41c2_max_476x317.jpeg",
+        "url": "property-photo/984f8ce57/89655375/984f8ce57ed6268ec90609cba1ed41c2.jpeg",
+        "caption": "BATH"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53dd7cdc8/89655375/53dd7cdc8f5d6a58950dfa90ad6dad52_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Tony Alan Estates, London",
+  "addedOrReduced": "Added on 12/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

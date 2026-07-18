@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-17T23:30:12.511472+00:00",
+  "postcode": "N19 4NR",
+  "id": 60746567,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-proportioned one double bedroom apartment in Archway, the property is situated on the raised ground floor and benefits from a spacious separate lounge, a fully fitted kitchen, and fully-fitted bathroom. Available Now",
+  "displayAddress": "Marlborough Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56666,
+    "longitude": -0.12246
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099_max_476x317.jpeg",
+      "url": "property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a42ee42e2/60746567/a42ee42e27e9d837db668b8d757cb145_max_476x317.jpeg",
+      "url": "property-photo/a42ee42e2/60746567/a42ee42e27e9d837db668b8d757cb145.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a109e5640/60746567/a109e5640ff9a5c93b45ff05c66d488a_max_476x317.jpeg",
+      "url": "property-photo/a109e5640/60746567/a109e5640ff9a5c93b45ff05c66d488a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e69a1c5b/60746567/3e69a1c5b223ac60e364018a2a91dc0a_max_476x317.jpeg",
+      "url": "property-photo/3e69a1c5b/60746567/3e69a1c5b223ac60e364018a2a91dc0a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cf70eedd/60746567/2cf70eeddc3dcb67aa574f0a5c30be73_max_476x317.jpeg",
+      "url": "property-photo/2cf70eedd/60746567/2cf70eeddc3dcb67aa574f0a5c30be73.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/296ef422f/60746567/296ef422fe3b2a00f6349f53b9dc58ee_max_476x317.jpeg",
+      "url": "property-photo/296ef422f/60746567/296ef422fe3b2a00f6349f53b9dc58ee.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10761ddb6/60746567/10761ddb69c7c520ce1a852d50d3ce1c_max_476x317.jpeg",
+      "url": "property-photo/10761ddb6/60746567/10761ddb69c7c520ce1a852d50d3ce1c.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-16T17:29:10Z"
+  },
+  "price": {
+    "amount": 1800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3415 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78719,
+    "brandPlusLogoURI": "/partner-logo/8577896-PRODUCTS_LOGO-1766065768.png",
+    "contactTelephone": "020 7263 3367",
+    "branchDisplayName": "CP Papas Property Centre, London",
+    "branchName": "London",
+    "brandTradingName": "CP Papas Property Centre",
+    "branchLandingPageUrl": "/estate-agents/agent/CP-Papas-Property-Centre/London-78719.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-13T13:14:02Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8577896-PRODUCTS_LOGO-1766065768.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/60746567#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=60746567",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2016-07-20T14:51:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-17T14:54:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 2,
+      "description": "Double Glazed",
+      "htmlDescription": "Double Glazed"
+    },
+    {
+      "order": 3,
+      "description": "Fully-Fitted Kitchen and bathoom",
+      "htmlDescription": "Fully-Fitted Kitchen and bathoom "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099_max_476x317.jpeg",
+        "url": "property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a42ee42e2/60746567/a42ee42e27e9d837db668b8d757cb145_max_476x317.jpeg",
+        "url": "property-photo/a42ee42e2/60746567/a42ee42e27e9d837db668b8d757cb145.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a109e5640/60746567/a109e5640ff9a5c93b45ff05c66d488a_max_476x317.jpeg",
+        "url": "property-photo/a109e5640/60746567/a109e5640ff9a5c93b45ff05c66d488a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e69a1c5b/60746567/3e69a1c5b223ac60e364018a2a91dc0a_max_476x317.jpeg",
+        "url": "property-photo/3e69a1c5b/60746567/3e69a1c5b223ac60e364018a2a91dc0a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cf70eedd/60746567/2cf70eeddc3dcb67aa574f0a5c30be73_max_476x317.jpeg",
+        "url": "property-photo/2cf70eedd/60746567/2cf70eeddc3dcb67aa574f0a5c30be73.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/296ef422f/60746567/296ef422fe3b2a00f6349f53b9dc58ee_max_476x317.jpeg",
+        "url": "property-photo/296ef422f/60746567/296ef422fe3b2a00f6349f53b9dc58ee.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10761ddb6/60746567/10761ddb69c7c520ce1a852d50d3ce1c_max_476x317.jpeg",
+        "url": "property-photo/10761ddb6/60746567/10761ddb69c7c520ce1a852d50d3ce1c.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1257d30e7/60746567/1257d30e75ebcaa71d663af65ec23099_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CP Papas Property Centre, London",
+  "addedOrReduced": "Added on 16/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
