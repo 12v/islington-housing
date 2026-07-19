@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-18T21:40:10.607579+00:00",
+  "postcode": "EC1V 7JP",
+  "id": 90970401,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "SHORT LET. A lovely 1 bedroom flat situated on the first floor boasting bright and modern accommodation throughout and an excellent Angel location.",
+  "displayAddress": "Goswell Road, Angel, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53159,
+    "longitude": -0.10574
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a_max_476x317.jpeg",
+      "url": "property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f73b252c7/90970401/f73b252c7bc2153b7c144172301cdc76_max_476x317.jpeg",
+      "url": "property-photo/f73b252c7/90970401/f73b252c7bc2153b7c144172301cdc76.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/500372bab/90970401/500372bab8938805763732639e6f1b00_max_476x317.jpeg",
+      "url": "property-photo/500372bab/90970401/500372bab8938805763732639e6f1b00.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9dfe77d19/90970401/9dfe77d1926a94ad83dd56f0a3998774_max_476x317.jpeg",
+      "url": "property-photo/9dfe77d19/90970401/9dfe77d1926a94ad83dd56f0a3998774.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e6675123/90970401/5e66751236adf8151dac2da4ffaa1ac1_max_476x317.jpeg",
+      "url": "property-photo/5e6675123/90970401/5e66751236adf8151dac2da4ffaa1ac1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f3de10bc/90970401/4f3de10bc2205f451bad6789731024a4_max_476x317.jpeg",
+      "url": "property-photo/4f3de10bc/90970401/4f3de10bc2205f451bad6789731024a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dbebeb75/90970401/3dbebeb7510e0e1fd1bb23795d158beb_max_476x317.jpeg",
+      "url": "property-photo/3dbebeb75/90970401/3dbebeb7510e0e1fd1bb23795d158beb.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-16T14:26:37Z"
+  },
+  "price": {
+    "amount": 2800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3646 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 73120,
+    "brandPlusLogoURI": "/partner-logo/9988264-PRODUCTS_LOGO-1766060914.jpeg",
+    "contactTelephone": "020 3909 6448",
+    "branchDisplayName": "Foxtons, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Clerkenwell-73120.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-19T12:30:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9988264-PRODUCTS_LOGO-1766060914.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a3700</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250.00 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy, including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rent checks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250.00 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy where there are more than four individuals taking occupation of the property. The charge will not exceed this sum unless you request or cause one of the specific additional services or fees set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "485 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90970401#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90970401",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-16T14:21:01Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-16T16:32:00Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious reception room",
+      "htmlDescription": "Spacious reception room"
+    },
+    {
+      "order": 2,
+      "description": "Modern open-plan kitchen",
+      "htmlDescription": "Modern open-plan kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Generous bedroom",
+      "htmlDescription": "Generous bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Stylish bathroom",
+      "htmlDescription": "Stylish bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Secure building",
+      "htmlDescription": "Secure building"
+    },
+    {
+      "order": 6,
+      "description": "Moments from amenities",
+      "htmlDescription": "Moments from amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a_max_476x317.jpeg",
+        "url": "property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f73b252c7/90970401/f73b252c7bc2153b7c144172301cdc76_max_476x317.jpeg",
+        "url": "property-photo/f73b252c7/90970401/f73b252c7bc2153b7c144172301cdc76.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/500372bab/90970401/500372bab8938805763732639e6f1b00_max_476x317.jpeg",
+        "url": "property-photo/500372bab/90970401/500372bab8938805763732639e6f1b00.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9dfe77d19/90970401/9dfe77d1926a94ad83dd56f0a3998774_max_476x317.jpeg",
+        "url": "property-photo/9dfe77d19/90970401/9dfe77d1926a94ad83dd56f0a3998774.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5e6675123/90970401/5e66751236adf8151dac2da4ffaa1ac1_max_476x317.jpeg",
+        "url": "property-photo/5e6675123/90970401/5e66751236adf8151dac2da4ffaa1ac1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f3de10bc/90970401/4f3de10bc2205f451bad6789731024a4_max_476x317.jpeg",
+        "url": "property-photo/4f3de10bc/90970401/4f3de10bc2205f451bad6789731024a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3dbebeb75/90970401/3dbebeb7510e0e1fd1bb23795d158beb_max_476x317.jpeg",
+        "url": "property-photo/3dbebeb75/90970401/3dbebeb7510e0e1fd1bb23795d158beb.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/babf0b433/90970401/babf0b433f1c36293e29c3fd02eaaa7a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Clerkenwell",
+  "addedOrReduced": "Added on 16/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

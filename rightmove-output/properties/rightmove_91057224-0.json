@@ -1,0 +1,213 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-18T21:39:40.761414+00:00",
+  "postcode": "EC1V 7HJ",
+  "id": 91057224,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Well-presented furnished basement studio apartment on Goswell Road with a modern fitted kitchen, integrated fridge and washing machine. Excellent Central London location. Available now",
+  "displayAddress": "Goswell Road, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.527641,
+    "longitude": -0.100774
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4_max_476x317.jpeg",
+      "url": "property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54e49874e/91057224/54e49874eead1aeb6a6bcfe621d4f390_max_476x317.jpeg",
+      "url": "property-photo/54e49874e/91057224/54e49874eead1aeb6a6bcfe621d4f390.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/93b774e9c/91057224/93b774e9c4d446e84d8e8d80b09202a5_max_476x317.jpeg",
+      "url": "property-photo/93b774e9c/91057224/93b774e9c4d446e84d8e8d80b09202a5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e272d156/91057224/6e272d15666db86280a6daf6599bd344_max_476x317.jpeg",
+      "url": "property-photo/6e272d156/91057224/6e272d15666db86280a6daf6599bd344.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-18T10:10:05Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 6311,
+    "brandPlusLogoURI": "/partner-logo/5010-PRODUCTS_LOGO-1766055375.jpeg",
+    "contactTelephone": "01268 439952",
+    "branchDisplayName": "Anthony Quirk & Co, Canvey Island",
+    "branchName": "Canvey Island",
+    "brandTradingName": "Anthony Quirk & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Anthony-Quirk-and-Co/Canvey-Island-6311.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-11T11:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/5010-PRODUCTS_LOGO-1766055375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91057224#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91057224",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-18T10:04:28Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-18T10:10:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Basement studio apartment",
+      "htmlDescription": "Basement studio apartment"
+    },
+    {
+      "order": 2,
+      "description": "Fully furnished",
+      "htmlDescription": "Fully furnished"
+    },
+    {
+      "order": 3,
+      "description": "Open-plan living space",
+      "htmlDescription": "Open-plan living space"
+    },
+    {
+      "order": 4,
+      "description": "Modern fitted kitchen",
+      "htmlDescription": "Modern fitted kitchen"
+    },
+    {
+      "order": 5,
+      "description": "White goods included",
+      "htmlDescription": "White goods included"
+    },
+    {
+      "order": 6,
+      "description": "Ideal starter home",
+      "htmlDescription": "Ideal starter home"
+    },
+    {
+      "order": 7,
+      "description": "Excellent Central London location",
+      "htmlDescription": "Excellent Central London location"
+    },
+    {
+      "order": 8,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    },
+    {
+      "order": 9,
+      "description": "Close to University",
+      "htmlDescription": "Close to University"
+    },
+    {
+      "order": 10,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4_max_476x317.jpeg",
+        "url": "property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54e49874e/91057224/54e49874eead1aeb6a6bcfe621d4f390_max_476x317.jpeg",
+        "url": "property-photo/54e49874e/91057224/54e49874eead1aeb6a6bcfe621d4f390.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/93b774e9c/91057224/93b774e9c4d446e84d8e8d80b09202a5_max_476x317.jpeg",
+        "url": "property-photo/93b774e9c/91057224/93b774e9c4d446e84d8e8d80b09202a5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e272d156/91057224/6e272d15666db86280a6daf6599bd344_max_476x317.jpeg",
+        "url": "property-photo/6e272d156/91057224/6e272d15666db86280a6daf6599bd344.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ebcde59b/91057224/9ebcde59b40dc98b2ec8dad50ec089c4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Anthony Quirk & Co, Canvey Island",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
