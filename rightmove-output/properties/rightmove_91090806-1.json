@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-21T23:33:11.998265+00:00",
+  "postcode": "N19 3JQ",
+  "id": 91090806,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "LONG LET. An ideal contemporary 1 bedroom flat located within a recently developed building, boasting bright and spacious interiors, wood floors and an open-plan reception kitchen. Enviably located on Holloway Road.",
+  "displayAddress": "Holloway Road, Holloway, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56475,
+    "longitude": -0.13206
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be_max_476x317.jpeg",
+      "url": "property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/578e652ba/91090806/578e652ba34c31578122213e957dfd27_max_476x317.jpeg",
+      "url": "property-photo/578e652ba/91090806/578e652ba34c31578122213e957dfd27.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fbb2252c/91090806/2fbb2252ccc00ebfb74d65ed42de6fa2_max_476x317.jpeg",
+      "url": "property-photo/2fbb2252c/91090806/2fbb2252ccc00ebfb74d65ed42de6fa2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca2779506/91090806/ca27795060bef0ce9bb1365d5e19c06c_max_476x317.jpeg",
+      "url": "property-photo/ca2779506/91090806/ca27795060bef0ce9bb1365d5e19c06c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86ceacea4/91090806/86ceacea40bdeb6eb45c0a06cb59473c_max_476x317.jpeg",
+      "url": "property-photo/86ceacea4/91090806/86ceacea40bdeb6eb45c0a06cb59473c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13729c246/91090806/13729c246e980a6f0074772477ea393c_max_476x317.jpeg",
+      "url": "property-photo/13729c246/91090806/13729c246e980a6f0074772477ea393c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e686205c0/91090806/e686205c0781a89b48008bed276b3285_max_476x317.jpeg",
+      "url": "property-photo/e686205c0/91090806/e686205c0781a89b48008bed276b3285.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-20T12:59:10Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84073,
+    "brandPlusLogoURI": "/partner-logo/11433226-PRODUCTS_LOGO-1766060913.jpeg",
+    "contactTelephone": "020 3906 2945",
+    "branchDisplayName": "Foxtons, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Crouch-End-84073.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-19T12:38:10Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11433226-PRODUCTS_LOGO-1766060913.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a32,250</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250.00 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy, including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rent checks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250.00 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy where there are more than four individuals taking occupation of the property. The charge will not exceed this sum unless you request or cause one of the specific additional services or fees set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "488 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91090806#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91090806",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-20T12:53:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-20T14:33:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Perfect 1 bedroom apartment",
+      "htmlDescription": "Perfect 1 bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "On the second floor of a modern building",
+      "htmlDescription": "On the second floor of a modern building"
+    },
+    {
+      "order": 3,
+      "description": "Bright and well-insulated interiors",
+      "htmlDescription": "Bright and well-insulated interiors"
+    },
+    {
+      "order": 4,
+      "description": "Roomy reception room with open-plan kitchen",
+      "htmlDescription": "Roomy reception room with open-plan kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Spacious double bedroom with fitted wardrobes",
+      "htmlDescription": "Spacious double bedroom with fitted wardrobes"
+    },
+    {
+      "order": 6,
+      "description": "Stylish and modern bathroom",
+      "htmlDescription": "Stylish and modern bathroom"
+    },
+    {
+      "order": 7,
+      "description": "Entry-phone and elevator access",
+      "htmlDescription": "Entry-phone and elevator access"
+    },
+    {
+      "order": 8,
+      "description": "Great location on Holloway Road close to Archway",
+      "htmlDescription": "Great location on Holloway Road close to Archway"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be_max_476x317.jpeg",
+        "url": "property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/578e652ba/91090806/578e652ba34c31578122213e957dfd27_max_476x317.jpeg",
+        "url": "property-photo/578e652ba/91090806/578e652ba34c31578122213e957dfd27.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2fbb2252c/91090806/2fbb2252ccc00ebfb74d65ed42de6fa2_max_476x317.jpeg",
+        "url": "property-photo/2fbb2252c/91090806/2fbb2252ccc00ebfb74d65ed42de6fa2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ca2779506/91090806/ca27795060bef0ce9bb1365d5e19c06c_max_476x317.jpeg",
+        "url": "property-photo/ca2779506/91090806/ca27795060bef0ce9bb1365d5e19c06c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/86ceacea4/91090806/86ceacea40bdeb6eb45c0a06cb59473c_max_476x317.jpeg",
+        "url": "property-photo/86ceacea4/91090806/86ceacea40bdeb6eb45c0a06cb59473c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/13729c246/91090806/13729c246e980a6f0074772477ea393c_max_476x317.jpeg",
+        "url": "property-photo/13729c246/91090806/13729c246e980a6f0074772477ea393c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e686205c0/91090806/e686205c0781a89b48008bed276b3285_max_476x317.jpeg",
+        "url": "property-photo/e686205c0/91090806/e686205c0781a89b48008bed276b3285.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c3c5c484c/91090806/c3c5c484c97acf3b23b9d706081533be_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Crouch End",
+  "addedOrReduced": "Added on 20/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
