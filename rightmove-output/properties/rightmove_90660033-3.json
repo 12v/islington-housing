@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-22T22:46:07.365733+00:00",
+  "postcode": "N1 2BZ",
+  "id": 90660033,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "NEWLY REFURBISHED THROUGHOUT - One bedroom apartment in a highly sought after location - First Floor - New Kitchen - New Flooring - Newly Painted - Unfurnished - Available Now - Council Tax Band C - EPC Band C",
+  "displayAddress": "Pleasant Place, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539897,
+    "longitude": -0.098518
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd_max_476x317.png",
+      "url": "property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd.png",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a8ba78aa/90660033/9a8ba78aa93d25d69c902097f60d8f02_max_476x317.png",
+      "url": "property-photo/9a8ba78aa/90660033/9a8ba78aa93d25d69c902097f60d8f02.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7b692dec/90660033/a7b692decde4a1d64fad5c13bfc0ab49_max_476x317.png",
+      "url": "property-photo/a7b692dec/90660033/a7b692decde4a1d64fad5c13bfc0ab49.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/266926d95/90660033/266926d95e0a6074a74b8fe33bf91648_max_476x317.png",
+      "url": "property-photo/266926d95/90660033/266926d95e0a6074a74b8fe33bf91648.png",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a692c3a4/90660033/6a692c3a40c83cd0a181067f8e07fa6b_max_476x317.png",
+      "url": "property-photo/6a692c3a4/90660033/6a692c3a40c83cd0a181067f8e07fa6b.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47b60882a/90660033/47b60882abef2289be99abbfbe1d7584_max_476x317.png",
+      "url": "property-photo/47b60882a/90660033/47b60882abef2289be99abbfbe1d7584.png",
+      "caption": "Front (Exterior)"
+    }
+  ],
+  "propertySubType": "House",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-07-20T13:47:58Z"
+  },
+  "price": {
+    "amount": 2295,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,295 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3530 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 283439,
+    "brandPlusLogoURI": "/partner-logo/35296232-PRODUCTS_LOGO-1766064324.jpeg",
+    "contactTelephone": "020 4572 2952",
+    "branchDisplayName": "Armford Estates, W2",
+    "branchName": "W2",
+    "brandTradingName": "Armford Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Armford-Estates/W2-283439.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/35296232-PRODUCTS_LOGO-1766064324.jpeg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "390 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90660033#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90660033",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-08T22:39:04Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-20T13:48:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd_max_476x317.png",
+        "url": "property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd.png",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a8ba78aa/90660033/9a8ba78aa93d25d69c902097f60d8f02_max_476x317.png",
+        "url": "property-photo/9a8ba78aa/90660033/9a8ba78aa93d25d69c902097f60d8f02.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7b692dec/90660033/a7b692decde4a1d64fad5c13bfc0ab49_max_476x317.png",
+        "url": "property-photo/a7b692dec/90660033/a7b692decde4a1d64fad5c13bfc0ab49.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/266926d95/90660033/266926d95e0a6074a74b8fe33bf91648_max_476x317.png",
+        "url": "property-photo/266926d95/90660033/266926d95e0a6074a74b8fe33bf91648.png",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a692c3a4/90660033/6a692c3a40c83cd0a181067f8e07fa6b_max_476x317.png",
+        "url": "property-photo/6a692c3a4/90660033/6a692c3a40c83cd0a181067f8e07fa6b.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47b60882a/90660033/47b60882abef2289be99abbfbe1d7584_max_476x317.png",
+        "url": "property-photo/47b60882a/90660033/47b60882abef2289be99abbfbe1d7584.png",
+        "caption": "Front (Exterior)"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4196c8da/90660033/b4196c8dac9485269c871fa1ed74f0bd_max_296x197.png"
+  },
+  "formattedBranchName": " by Armford Estates, W2",
+  "addedOrReduced": "Reduced on 20/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-22T23:05:43.521717+00:00",
+  "postcode": "N1 4PY",
+  "id": 89610114,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "ZERO DEPOSIT AVAILABLE. LONG LET. This beautiful 1 bedroom flat is in excellent condition and features a spacious reception room with connected kitchen, well sized bedroom with lots of storage.",
+  "displayAddress": "Mildmay Road, Stoke Newington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54914,
+    "longitude": -0.07847
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32_max_476x317.jpeg",
+      "url": "property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78505d40c/89610114/78505d40c1da5332eeb55dd277cbe184_max_476x317.jpeg",
+      "url": "property-photo/78505d40c/89610114/78505d40c1da5332eeb55dd277cbe184.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6f346da9/89610114/e6f346da9914c0cc47224a0005be9229_max_476x317.jpeg",
+      "url": "property-photo/e6f346da9/89610114/e6f346da9914c0cc47224a0005be9229.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3d212958/89610114/f3d212958941d47b22cf846493179f00_max_476x317.jpeg",
+      "url": "property-photo/f3d212958/89610114/f3d212958941d47b22cf846493179f00.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/457eed9f1/89610114/457eed9f173109c141ef46503dfd32b1_max_476x317.jpeg",
+      "url": "property-photo/457eed9f1/89610114/457eed9f173109c141ef46503dfd32b1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24df8baba/89610114/24df8babaf464a13bf214eae7bcc075c_max_476x317.jpeg",
+      "url": "property-photo/24df8baba/89610114/24df8babaf464a13bf214eae7bcc075c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d91311702/89610114/d913117026c7855c6b915eebdd80c913_max_476x317.jpeg",
+      "url": "property-photo/d91311702/89610114/d913117026c7855c6b915eebdd80c913.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9096187c/89610114/c9096187c2cc6088ff67a8d642d6701c_max_476x317.jpeg",
+      "url": "property-photo/c9096187c/89610114/c9096187c2cc6088ff67a8d642d6701c.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-06-11T18:39:03Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 108938,
+    "brandPlusLogoURI": "/partner-logo/84246-PRODUCTS_LOGO-1766067941.jpeg",
+    "contactTelephone": "020 3910 6403",
+    "branchDisplayName": "Foxtons, Stoke Newington",
+    "branchName": "Stoke Newington",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Stoke-Newington-108938.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-19T13:45:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/84246-PRODUCTS_LOGO-1766067941.jpeg",
+    "primaryBrandColour": "#017163"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a32,597</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250.00 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy, including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rent checks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250.00 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy where there are more than four individuals taking occupation of the property. The charge will not exceed this sum unless you request or cause one of the specific additional services or fees set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "413 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/89610114#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=89610114",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-06-11T18:33:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-22T12:33:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "A spacious 1 bedroom flat",
+      "htmlDescription": "A spacious 1 bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Located on a pretty tree-lined street",
+      "htmlDescription": "Located on a pretty tree-lined street"
+    },
+    {
+      "order": 3,
+      "description": "South-facing bedroom",
+      "htmlDescription": "South-facing bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Smart kitchen with fitted appliances",
+      "htmlDescription": "Smart kitchen with fitted appliances"
+    },
+    {
+      "order": 5,
+      "description": "Beautifully bright reception room",
+      "htmlDescription": "Beautifully bright reception room"
+    },
+    {
+      "order": 6,
+      "description": "Presented in excellent condition throughout",
+      "htmlDescription": "Presented in excellent condition throughout"
+    },
+    {
+      "order": 7,
+      "description": "Close to amenities and transport links",
+      "htmlDescription": "Close to amenities and transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32_max_476x317.jpeg",
+        "url": "property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78505d40c/89610114/78505d40c1da5332eeb55dd277cbe184_max_476x317.jpeg",
+        "url": "property-photo/78505d40c/89610114/78505d40c1da5332eeb55dd277cbe184.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6f346da9/89610114/e6f346da9914c0cc47224a0005be9229_max_476x317.jpeg",
+        "url": "property-photo/e6f346da9/89610114/e6f346da9914c0cc47224a0005be9229.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3d212958/89610114/f3d212958941d47b22cf846493179f00_max_476x317.jpeg",
+        "url": "property-photo/f3d212958/89610114/f3d212958941d47b22cf846493179f00.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/457eed9f1/89610114/457eed9f173109c141ef46503dfd32b1_max_476x317.jpeg",
+        "url": "property-photo/457eed9f1/89610114/457eed9f173109c141ef46503dfd32b1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24df8baba/89610114/24df8babaf464a13bf214eae7bcc075c_max_476x317.jpeg",
+        "url": "property-photo/24df8baba/89610114/24df8babaf464a13bf214eae7bcc075c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d91311702/89610114/d913117026c7855c6b915eebdd80c913_max_476x317.jpeg",
+        "url": "property-photo/d91311702/89610114/d913117026c7855c6b915eebdd80c913.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c9096187c/89610114/c9096187c2cc6088ff67a8d642d6701c_max_476x317.jpeg",
+        "url": "property-photo/c9096187c/89610114/c9096187c2cc6088ff67a8d642d6701c.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb3447681/89610114/bb344768149d381d7f1c84f873365a32_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Stoke Newington",
+  "addedOrReduced": "Added on 11/06/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-22T22:45:59.905274+00:00",
+  "postcode": "N1 2BW",
+  "id": 91115877,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright and well-proportioned one-bedroom property to rent within a purpose-built Islington development, featuring a separate reception room, fitted kitchen and excellent access to Upper Street, Essex Road and Highbury & Islington. Ideal for a professional or couple.",
+  "displayAddress": "Halton Road, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53889,
+    "longitude": -0.09922
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c_max_476x317.jpeg",
+      "url": "property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f4ca63f8/91115877/7f4ca63f816b4c748791693490a257f4_max_476x317.jpeg",
+      "url": "property-photo/7f4ca63f8/91115877/7f4ca63f816b4c748791693490a257f4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ab3592ec/91115877/4ab3592ecba617b6985f5ced23655de1_max_476x317.jpeg",
+      "url": "property-photo/4ab3592ec/91115877/4ab3592ecba617b6985f5ced23655de1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a160a4f0d/91115877/a160a4f0d6ca8ed38eb724f6f02a7f00_max_476x317.jpeg",
+      "url": "property-photo/a160a4f0d/91115877/a160a4f0d6ca8ed38eb724f6f02a7f00.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b3d6630d/91115877/2b3d6630dac2c55ac3b33262e12e91e0_max_476x317.jpeg",
+      "url": "property-photo/2b3d6630d/91115877/2b3d6630dac2c55ac3b33262e12e91e0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b555ba38/91115877/9b555ba38987a386f6246acfc9a271cc_max_476x317.jpeg",
+      "url": "property-photo/9b555ba38/91115877/9b555ba38987a386f6246acfc9a271cc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5eeb39cb4/91115877/5eeb39cb479a249f506ad52af1a3ba48_max_476x317.jpeg",
+      "url": "property-photo/5eeb39cb4/91115877/5eeb39cb479a249f506ad52af1a3ba48.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79c2cc93a/91115877/79c2cc93af429e878b043e94e54765a8_max_476x317.jpeg",
+      "url": "property-photo/79c2cc93a/91115877/79c2cc93af429e878b043e94e54765a8.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-20T17:44:06Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 247697,
+    "brandPlusLogoURI": "/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "contactTelephone": "020 3870 5045",
+    "branchDisplayName": "David Astburys, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "David Astburys",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys/Islington-247697.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:15:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Company Information\n\nCrouch End Office \nDavid Astburys Ltd\nCompany Registration Number: 10474483\nRegistered Office: 27 Mortimer Street, London, W1T 3BL\n\n\nIslington Office\nDavid Astbuys N1 Ltd\nCompany Registration Number: 13761424\nRegistered Office: 27 Mortimer Street, London, W1T 3BL\n\nHampstead Office\nHexlink Limited\nCompany Registration Number: 04684693 \nRegistered Office: 27 Mortimer Street, London, W1T 3BL \n\nTenant Fees / Permitted Payments\n-\tHolding Deposit: One week's rent\n-\tSecurity Deposit: Five weeks' rent (under \u00a350,000 per annum) or six weeks' rent (over \u00a350,000 per annum)\n\nPermitted payments during the tenancy include:\n-\t\u00a350 (inc. VAT) for variation of contract\n-\t\u00a350 (inc. VAT) for change of sharer\n-\tInterest on unpaid rent at 3% (3.6% inc VAT) above the Bank of England Base Rate (applicable after 14 days)\n-\tReasonable costs for lost keys or security devices\n-\tReasonable costs associated with early termination of the tenancy\n\nClient Money Protection\n\n\n\nDavid Astburys is a member of the Propertymark Client Money Protection Scheme. \n\nOur membership is available on our website .davidastburys.com\n\nRedress Scheme\n\nDavid Astburys is a member of The Property Ombudsman Scheme (Membership No. T08450).   \n\nOur membership certificate is available on our website .davidastburys.com\n\nIf you have any further questions about our fees, please contact a member of staff \n",
+  "displaySize": "397 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91115877#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91115877",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-20T17:38:49Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-20T17:44:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Double Bedroom",
+      "htmlDescription": "One Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Separate Reception Room",
+      "htmlDescription": "Separate Reception Room"
+    },
+    {
+      "order": 3,
+      "description": "Separate Fitted Kitchen",
+      "htmlDescription": "Separate Fitted Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Second Floor Position",
+      "htmlDescription": "Second Floor Position"
+    },
+    {
+      "order": 5,
+      "description": "Moments From Upper Street",
+      "htmlDescription": "Moments From Upper Street"
+    },
+    {
+      "order": 6,
+      "description": "Approx 397 Sqft",
+      "htmlDescription": "Approx 397 Sqft"
+    },
+    {
+      "order": 7,
+      "description": "Near Essex Road",
+      "htmlDescription": "Near Essex Road"
+    },
+    {
+      "order": 8,
+      "description": "Excellent Transport Links",
+      "htmlDescription": "Excellent Transport Links"
+    },
+    {
+      "order": 9,
+      "description": "Purpose Built Development",
+      "htmlDescription": "Purpose Built Development"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c_max_476x317.jpeg",
+        "url": "property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f4ca63f8/91115877/7f4ca63f816b4c748791693490a257f4_max_476x317.jpeg",
+        "url": "property-photo/7f4ca63f8/91115877/7f4ca63f816b4c748791693490a257f4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ab3592ec/91115877/4ab3592ecba617b6985f5ced23655de1_max_476x317.jpeg",
+        "url": "property-photo/4ab3592ec/91115877/4ab3592ecba617b6985f5ced23655de1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a160a4f0d/91115877/a160a4f0d6ca8ed38eb724f6f02a7f00_max_476x317.jpeg",
+        "url": "property-photo/a160a4f0d/91115877/a160a4f0d6ca8ed38eb724f6f02a7f00.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b3d6630d/91115877/2b3d6630dac2c55ac3b33262e12e91e0_max_476x317.jpeg",
+        "url": "property-photo/2b3d6630d/91115877/2b3d6630dac2c55ac3b33262e12e91e0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b555ba38/91115877/9b555ba38987a386f6246acfc9a271cc_max_476x317.jpeg",
+        "url": "property-photo/9b555ba38/91115877/9b555ba38987a386f6246acfc9a271cc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5eeb39cb4/91115877/5eeb39cb479a249f506ad52af1a3ba48_max_476x317.jpeg",
+        "url": "property-photo/5eeb39cb4/91115877/5eeb39cb479a249f506ad52af1a3ba48.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79c2cc93a/91115877/79c2cc93af429e878b043e94e54765a8_max_476x317.jpeg",
+        "url": "property-photo/79c2cc93a/91115877/79c2cc93af429e878b043e94e54765a8.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18a30e893/91115877/18a30e893ca0021e6df8b4d8a5c8807c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys, Islington",
+  "addedOrReduced": "Added on 20/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

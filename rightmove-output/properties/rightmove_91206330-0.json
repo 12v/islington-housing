@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-23T00:25:57.343425+00:00",
+  "postcode": "N4 3BB",
+  "id": 91206330,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Presenting a light and spacious one-bedroom apartment with a private garden, ideally located in the highly sought-after area of Finsbury Park.",
+  "displayAddress": "Evershot Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.568081,
+    "longitude": -0.114182
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c_max_476x317.jpeg",
+      "url": "property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f79b1d29e/91206330/f79b1d29e10eaf1d1c44cc15c70a71d5_max_476x317.jpeg",
+      "url": "property-photo/f79b1d29e/91206330/f79b1d29e10eaf1d1c44cc15c70a71d5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3c325c8a/91206330/a3c325c8a3c727ed4960d96b8fb6bc52_max_476x317.jpeg",
+      "url": "property-photo/a3c325c8a/91206330/a3c325c8a3c727ed4960d96b8fb6bc52.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80adfef65/91206330/80adfef6574614fbb280f5866a4fd8ae_max_476x317.jpeg",
+      "url": "property-photo/80adfef65/91206330/80adfef6574614fbb280f5866a4fd8ae.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2743a325d/91206330/2743a325d04468b5fcc683927647d557_max_476x317.jpeg",
+      "url": "property-photo/2743a325d/91206330/2743a325d04468b5fcc683927647d557.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd7d73ba8/91206330/dd7d73ba8395b956e027d745b90560c6_max_476x317.jpeg",
+      "url": "property-photo/dd7d73ba8/91206330/dd7d73ba8395b956e027d745b90560c6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03272c08f/91206330/03272c08fbe0045b05cc5a58cd8b728d_max_476x317.jpeg",
+      "url": "property-photo/03272c08f/91206330/03272c08fbe0045b05cc5a58cd8b728d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ebb3770a/91206330/4ebb3770a57075fc009997af43228c25_max_476x317.jpeg",
+      "url": "property-photo/4ebb3770a/91206330/4ebb3770a57075fc009997af43228c25.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-22T15:23:27Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 93623,
+    "brandPlusLogoURI": "/partner-logo/10725737-PRODUCTS_LOGO-1766063259.png",
+    "contactTelephone": "020 3889 9127",
+    "branchDisplayName": "David Andrew, Finsbury Park",
+    "branchName": "Finsbury Park",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Finsbury-Park-93623.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10725737-PRODUCTS_LOGO-1766063259.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "463 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91206330#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91206330",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-22T15:18:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-22T15:23:27Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Apartment",
+      "htmlDescription": "One Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 3,
+      "description": "Comprising 484 sqft / 45 sqm",
+      "htmlDescription": "Comprising 484 sqft / 45 sqm"
+    },
+    {
+      "order": 4,
+      "description": "Separate Living Room / Kitchen",
+      "htmlDescription": "Separate Living Room / Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Fully Fitted Kitchen",
+      "htmlDescription": "Fully Fitted Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    },
+    {
+      "order": 7,
+      "description": "Due to Be Refurbished Prior to Tenancy",
+      "htmlDescription": "Due to Be Refurbished Prior to Tenancy"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Crouch Hill and Finsbury Park Stations",
+      "htmlDescription": "Walking Distance to Crouch Hill and Finsbury Park Stations"
+    },
+    {
+      "order": 9,
+      "description": "Available 17th of August",
+      "htmlDescription": "Available 17th of August"
+    },
+    {
+      "order": 10,
+      "description": "Offered Part - Furnished",
+      "htmlDescription": "Offered Part - Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c_max_476x317.jpeg",
+        "url": "property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f79b1d29e/91206330/f79b1d29e10eaf1d1c44cc15c70a71d5_max_476x317.jpeg",
+        "url": "property-photo/f79b1d29e/91206330/f79b1d29e10eaf1d1c44cc15c70a71d5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a3c325c8a/91206330/a3c325c8a3c727ed4960d96b8fb6bc52_max_476x317.jpeg",
+        "url": "property-photo/a3c325c8a/91206330/a3c325c8a3c727ed4960d96b8fb6bc52.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80adfef65/91206330/80adfef6574614fbb280f5866a4fd8ae_max_476x317.jpeg",
+        "url": "property-photo/80adfef65/91206330/80adfef6574614fbb280f5866a4fd8ae.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2743a325d/91206330/2743a325d04468b5fcc683927647d557_max_476x317.jpeg",
+        "url": "property-photo/2743a325d/91206330/2743a325d04468b5fcc683927647d557.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd7d73ba8/91206330/dd7d73ba8395b956e027d745b90560c6_max_476x317.jpeg",
+        "url": "property-photo/dd7d73ba8/91206330/dd7d73ba8395b956e027d745b90560c6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03272c08f/91206330/03272c08fbe0045b05cc5a58cd8b728d_max_476x317.jpeg",
+        "url": "property-photo/03272c08f/91206330/03272c08fbe0045b05cc5a58cd8b728d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ebb3770a/91206330/4ebb3770a57075fc009997af43228c25_max_476x317.jpeg",
+        "url": "property-photo/4ebb3770a/91206330/4ebb3770a57075fc009997af43228c25.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b40467698/91206330/b40467698ccca334d1aafaf33fc2e58c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Finsbury Park",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

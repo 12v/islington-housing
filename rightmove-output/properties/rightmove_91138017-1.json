@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-22T23:41:29.151311+00:00",
+  "postcode": "N19 4EL",
+  "id": 91138017,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "The Property Company are delighted to present this spacious three-bedroom duplex apartment, set within a charming period conversion in a sought-after residential location. Arranged over the first and second floors, the property offers bright and well-proportioned accommodation througho...",
+  "displayAddress": "Sparsholt Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.570582,
+    "longitude": -0.117727
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3_max_476x317.jpeg",
+      "url": "property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce47491cd/91138017/ce47491cd02814166bb7e26bca903a5d_max_476x317.jpeg",
+      "url": "property-photo/ce47491cd/91138017/ce47491cd02814166bb7e26bca903a5d.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00eed0db4/91138017/00eed0db429d289bd34f85c805e8e7d9_max_476x317.jpeg",
+      "url": "property-photo/00eed0db4/91138017/00eed0db429d289bd34f85c805e8e7d9.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/019cb7210/91138017/019cb7210c3d22f0269078dd3b32e40b_max_476x317.jpeg",
+      "url": "property-photo/019cb7210/91138017/019cb7210c3d22f0269078dd3b32e40b.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba438db17/91138017/ba438db174edf1dad2daee4302bacd58_max_476x317.jpeg",
+      "url": "property-photo/ba438db17/91138017/ba438db174edf1dad2daee4302bacd58.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/157685dd9/91138017/157685dd961351e935155891a16c6048_max_476x317.jpeg",
+      "url": "property-photo/157685dd9/91138017/157685dd961351e935155891a16c6048.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/109a6be00/91138017/109a6be008790de85b6930f3dceafdd2_max_476x317.jpeg",
+      "url": "property-photo/109a6be00/91138017/109a6be008790de85b6930f3dceafdd2.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c67a9341/91138017/0c67a9341503e3cddb389762f19746b3_max_476x317.jpeg",
+      "url": "property-photo/0c67a9341/91138017/0c67a9341503e3cddb389762f19746b3.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60887605a/91138017/60887605a2c4b88d66f085baaae38a33_max_476x317.jpeg",
+      "url": "property-photo/60887605a/91138017/60887605a2c4b88d66f085baaae38a33.jpeg",
+      "caption": "Picture No. 20"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-21T12:54:36Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 76256,
+    "brandPlusLogoURI": "/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "contactTelephone": "020 3870 6387",
+    "branchDisplayName": "The Property Company, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "The Property Company",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Property-Company/Crouch-End-76256.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-02-03T16:34:07Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91138017#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91138017",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-21T10:39:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-21T12:54:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three spacious double bedrooms",
+      "htmlDescription": "Three spacious double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Three en-suite bathrooms plus guest WC",
+      "htmlDescription": "Three en-suite bathrooms plus guest WC"
+    },
+    {
+      "order": 3,
+      "description": "Suitable for up to three professional sharers",
+      "htmlDescription": "Suitable for up to three professional sharers"
+    },
+    {
+      "order": 4,
+      "description": "Spacious duplex apartment over the first and second floors",
+      "htmlDescription": "Spacious duplex apartment over the first and second floors"
+    },
+    {
+      "order": 5,
+      "description": "Bright reception room and separate fully fitted kitchen",
+      "htmlDescription": "Bright reception room and separate fully fitted kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Moments from Finsbury Park Station and Crouch Hill Overground",
+      "htmlDescription": "Moments from Finsbury Park Station and Crouch Hill Overground"
+    },
+    {
+      "order": 7,
+      "description": "Close to Stroud Green, Crouch End, caf\u00e9s, shops and restaurants",
+      "htmlDescription": "Close to Stroud Green, Crouch End, caf\u00e9s, shops and restaurants"
+    },
+    {
+      "order": 8,
+      "description": "Set within a charming period conversion",
+      "htmlDescription": "Set within a charming period conversion"
+    },
+    {
+      "order": 9,
+      "description": "Council Tax Band: D",
+      "htmlDescription": "Council Tax Band: D"
+    },
+    {
+      "order": 10,
+      "description": "EPC: D",
+      "htmlDescription": "EPC: D"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3_max_476x317.jpeg",
+        "url": "property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce47491cd/91138017/ce47491cd02814166bb7e26bca903a5d_max_476x317.jpeg",
+        "url": "property-photo/ce47491cd/91138017/ce47491cd02814166bb7e26bca903a5d.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00eed0db4/91138017/00eed0db429d289bd34f85c805e8e7d9_max_476x317.jpeg",
+        "url": "property-photo/00eed0db4/91138017/00eed0db429d289bd34f85c805e8e7d9.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/019cb7210/91138017/019cb7210c3d22f0269078dd3b32e40b_max_476x317.jpeg",
+        "url": "property-photo/019cb7210/91138017/019cb7210c3d22f0269078dd3b32e40b.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba438db17/91138017/ba438db174edf1dad2daee4302bacd58_max_476x317.jpeg",
+        "url": "property-photo/ba438db17/91138017/ba438db174edf1dad2daee4302bacd58.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/157685dd9/91138017/157685dd961351e935155891a16c6048_max_476x317.jpeg",
+        "url": "property-photo/157685dd9/91138017/157685dd961351e935155891a16c6048.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/109a6be00/91138017/109a6be008790de85b6930f3dceafdd2_max_476x317.jpeg",
+        "url": "property-photo/109a6be00/91138017/109a6be008790de85b6930f3dceafdd2.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c67a9341/91138017/0c67a9341503e3cddb389762f19746b3_max_476x317.jpeg",
+        "url": "property-photo/0c67a9341/91138017/0c67a9341503e3cddb389762f19746b3.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60887605a/91138017/60887605a2c4b88d66f085baaae38a33_max_476x317.jpeg",
+        "url": "property-photo/60887605a/91138017/60887605a2c4b88d66f085baaae38a33.jpeg",
+        "caption": "Picture No. 20"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441d9d628/91138017/441d9d628da831a72944f1fee94f24b3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Property Company, Crouch End",
+  "addedOrReduced": "Added on 21/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

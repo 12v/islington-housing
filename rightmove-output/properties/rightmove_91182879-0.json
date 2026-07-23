@@ -1,0 +1,172 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-22T21:39:33.576396+00:00",
+  "postcode": "EC1R 3DB",
+  "id": 91182879,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 5,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Apartment with lift access boasting 1 bedroom and furnished interiors. Enjoy convenient living with proximity to public transport and reputable schools. Ideal for professionals or couples seeking a well-connected home in a sought-after location.",
+  "displayAddress": "Baker's Row, London, EC1R",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.523986,
+    "longitude": -0.109839
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1_max_476x317.jpeg",
+      "url": "property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7a395e2d/91182879/d7a395e2d1851323dba5c5b89d51b643_max_476x317.jpeg",
+      "url": "property-photo/d7a395e2d/91182879/d7a395e2d1851323dba5c5b89d51b643.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ccdf7e678/91182879/ccdf7e678de15d5ddb1050d79561570d_max_476x317.jpeg",
+      "url": "property-photo/ccdf7e678/91182879/ccdf7e678de15d5ddb1050d79561570d.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07538c3d0/91182879/07538c3d063ccfefe3e9d9b931b80dfb_max_476x317.jpeg",
+      "url": "property-photo/07538c3d0/91182879/07538c3d063ccfefe3e9d9b931b80dfb.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f40c9b47a/91182879/f40c9b47a02ccfc8815a71c7c6491f78_max_476x317.jpeg",
+      "url": "property-photo/f40c9b47a/91182879/f40c9b47a02ccfc8815a71c7c6491f78.jpeg",
+      "caption": "Picture No. 05"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-21T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-22T01:16:04Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260405,
+    "brandPlusLogoURI": "/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "contactTelephone": "020 4548 1336",
+    "branchDisplayName": "Benham & Reeves - City, City",
+    "branchName": "City",
+    "brandTradingName": "Benham & Reeves - City",
+    "branchLandingPageUrl": "/estate-agents/agent/Benham-and-Reeves---City/City-260405.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-08T15:48:18Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91182879#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91182879",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-22T01:10:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-22T01:16:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1_max_476x317.jpeg",
+        "url": "property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7a395e2d/91182879/d7a395e2d1851323dba5c5b89d51b643_max_476x317.jpeg",
+        "url": "property-photo/d7a395e2d/91182879/d7a395e2d1851323dba5c5b89d51b643.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ccdf7e678/91182879/ccdf7e678de15d5ddb1050d79561570d_max_476x317.jpeg",
+        "url": "property-photo/ccdf7e678/91182879/ccdf7e678de15d5ddb1050d79561570d.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07538c3d0/91182879/07538c3d063ccfefe3e9d9b931b80dfb_max_476x317.jpeg",
+        "url": "property-photo/07538c3d0/91182879/07538c3d063ccfefe3e9d9b931b80dfb.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f40c9b47a/91182879/f40c9b47a02ccfc8815a71c7c6491f78_max_476x317.jpeg",
+        "url": "property-photo/f40c9b47a/91182879/f40c9b47a02ccfc8815a71c7c6491f78.jpeg",
+        "caption": "Picture No. 05"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1a0fd5a5/91182879/a1a0fd5a5ace71fb007dbc8fef37dcc1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Benham & Reeves - City, City",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
