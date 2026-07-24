@@ -1,0 +1,268 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-24T01:09:14.256927+00:00",
+  "postcode": "N7 6FL",
+  "id": 91149474,
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Set within a private development, this spacious four double bedroom house is arranged over three floors and offers generous living accommodation throughout. The property benefits from a fully fitted eat-in kitchen, a bright and well-proportioned reception room, a private rear garden, four generou...",
+  "displayAddress": "Tollington Way, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56187,
+    "longitude": -0.121624
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62_max_476x317.jpeg",
+      "url": "property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c1802104/91149474/6c1802104abc442b514e52242958bd08_max_476x317.jpeg",
+      "url": "property-photo/6c1802104/91149474/6c1802104abc442b514e52242958bd08.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90e604d9f/91149474/90e604d9f97c3c990a0f9cfe4693d0de_max_476x317.jpeg",
+      "url": "property-photo/90e604d9f/91149474/90e604d9f97c3c990a0f9cfe4693d0de.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9402f1726/91149474/9402f17266c473151919ad89efb79651_max_476x317.jpeg",
+      "url": "property-photo/9402f1726/91149474/9402f17266c473151919ad89efb79651.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34be15ea2/91149474/34be15ea266978dd33e968ce24869497_max_476x317.jpeg",
+      "url": "property-photo/34be15ea2/91149474/34be15ea266978dd33e968ce24869497.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eeb23e186/91149474/eeb23e18601a741f8beb4437338d194c_max_476x317.jpeg",
+      "url": "property-photo/eeb23e186/91149474/eeb23e18601a741f8beb4437338d194c.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b57a50c3b/91149474/b57a50c3b039058ca6fc03a46aba3b3d_max_476x317.jpeg",
+      "url": "property-photo/b57a50c3b/91149474/b57a50c3b039058ca6fc03a46aba3b3d.jpeg",
+      "caption": "Photo 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64d637981/91149474/64d6379810eaa5375b4e36232288ee9e_max_476x317.jpeg",
+      "url": "property-photo/64d637981/91149474/64d6379810eaa5375b4e36232288ee9e.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2868d18ba/91149474/2868d18ba9bb5a300a06fdb95f1dce06_max_476x317.jpeg",
+      "url": "property-photo/2868d18ba/91149474/2868d18ba9bb5a300a06fdb95f1dce06.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/105d30b61/91149474/105d30b6196ea9203c5614d6caa2f1c4_max_476x317.jpeg",
+      "url": "property-photo/105d30b61/91149474/105d30b6196ea9203c5614d6caa2f1c4.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41c995a87/91149474/41c995a875baee3b16eee34e9a95b72d_max_476x317.jpeg",
+      "url": "property-photo/41c995a87/91149474/41c995a875baee3b16eee34e9a95b72d.jpeg",
+      "caption": "Photo 6"
+    }
+  ],
+  "propertySubType": "Terraced",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-21T13:04:17Z"
+  },
+  "price": {
+    "amount": 4500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,038 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91149474#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91149474",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-21T12:11:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-23T06:30:54Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available September",
+      "htmlDescription": "Available September"
+    },
+    {
+      "order": 2,
+      "description": "Four double bedrooms",
+      "htmlDescription": "Four double bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "Two bathrooms (one en-suite)",
+      "htmlDescription": "Two bathrooms (one en-suite)"
+    },
+    {
+      "order": 4,
+      "description": "Large fully fitted eat-in kitchen",
+      "htmlDescription": "Large fully fitted eat-in kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Private modern townhouse",
+      "htmlDescription": "Private modern townhouse"
+    },
+    {
+      "order": 6,
+      "description": "Private rear garden",
+      "htmlDescription": "Private rear garden"
+    },
+    {
+      "order": 7,
+      "description": "Ideal for students",
+      "htmlDescription": "Ideal for students"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62_max_476x317.jpeg",
+        "url": "property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6c1802104/91149474/6c1802104abc442b514e52242958bd08_max_476x317.jpeg",
+        "url": "property-photo/6c1802104/91149474/6c1802104abc442b514e52242958bd08.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90e604d9f/91149474/90e604d9f97c3c990a0f9cfe4693d0de_max_476x317.jpeg",
+        "url": "property-photo/90e604d9f/91149474/90e604d9f97c3c990a0f9cfe4693d0de.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9402f1726/91149474/9402f17266c473151919ad89efb79651_max_476x317.jpeg",
+        "url": "property-photo/9402f1726/91149474/9402f17266c473151919ad89efb79651.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34be15ea2/91149474/34be15ea266978dd33e968ce24869497_max_476x317.jpeg",
+        "url": "property-photo/34be15ea2/91149474/34be15ea266978dd33e968ce24869497.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eeb23e186/91149474/eeb23e18601a741f8beb4437338d194c_max_476x317.jpeg",
+        "url": "property-photo/eeb23e186/91149474/eeb23e18601a741f8beb4437338d194c.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b57a50c3b/91149474/b57a50c3b039058ca6fc03a46aba3b3d_max_476x317.jpeg",
+        "url": "property-photo/b57a50c3b/91149474/b57a50c3b039058ca6fc03a46aba3b3d.jpeg",
+        "caption": "Photo 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64d637981/91149474/64d6379810eaa5375b4e36232288ee9e_max_476x317.jpeg",
+        "url": "property-photo/64d637981/91149474/64d6379810eaa5375b4e36232288ee9e.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2868d18ba/91149474/2868d18ba9bb5a300a06fdb95f1dce06_max_476x317.jpeg",
+        "url": "property-photo/2868d18ba/91149474/2868d18ba9bb5a300a06fdb95f1dce06.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/105d30b61/91149474/105d30b6196ea9203c5614d6caa2f1c4_max_476x317.jpeg",
+        "url": "property-photo/105d30b61/91149474/105d30b6196ea9203c5614d6caa2f1c4.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41c995a87/91149474/41c995a875baee3b16eee34e9a95b72d_max_476x317.jpeg",
+        "url": "property-photo/41c995a87/91149474/41c995a875baee3b16eee34e9a95b72d.jpeg",
+        "caption": "Photo 6"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b62df098d/91149474/b62df098d5f86c2b9bc3365f23bfba62_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added on 21/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom terraced house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

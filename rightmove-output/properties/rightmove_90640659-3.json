@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-23T22:32:40.501505+00:00",
+  "postcode": "N1 1DN",
+  "id": 90640659,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Beautifully presented Two bedroom apartment with stunning features and a private terrace available for rent and it comes furnished. Situated on Caledonian Road, you have Caledonian Road & Barnsbury Overground, Caledonian Road Underground (Picaddilly Line Zone 2), & Kings Cross ...",
+  "displayAddress": "Caledonian Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541843,
+    "longitude": -0.115365
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db_max_476x317.jpeg",
+      "url": "property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d561b213/90640659/1d561b2136481d8bbcc67aff90381002_max_476x317.jpeg",
+      "url": "property-photo/1d561b213/90640659/1d561b2136481d8bbcc67aff90381002.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fcecdd85/90640659/1fcecdd85dbb4a5dba06083d07a0bc92_max_476x317.jpeg",
+      "url": "property-photo/1fcecdd85/90640659/1fcecdd85dbb4a5dba06083d07a0bc92.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c571e28c7/90640659/c571e28c7373ace53c1ec460afae5d14_max_476x317.jpeg",
+      "url": "property-photo/c571e28c7/90640659/c571e28c7373ace53c1ec460afae5d14.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2dc00c23/90640659/e2dc00c235c7452ef20d599bc423faed_max_476x317.jpeg",
+      "url": "property-photo/e2dc00c23/90640659/e2dc00c235c7452ef20d599bc423faed.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1690f38d3/90640659/1690f38d37271588368d350e104a854d_max_476x317.jpeg",
+      "url": "property-photo/1690f38d3/90640659/1690f38d37271588368d350e104a854d.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4db8314a3/90640659/4db8314a3c81c43912925665d011e540_max_476x317.jpeg",
+      "url": "property-photo/4db8314a3/90640659/4db8314a3c81c43912925665d011e540.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-07-23T16:15:08Z"
+  },
+  "price": {
+    "amount": 2850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3658 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:43:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/90640659#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=90640659",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-08T14:36:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-23T16:16:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Apartment",
+      "htmlDescription": "Two Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Gorgeous Kitchen",
+      "htmlDescription": "Gorgeous Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Seperate Reception",
+      "htmlDescription": "Seperate Reception"
+    },
+    {
+      "order": 4,
+      "description": "Private Terrace",
+      "htmlDescription": "Private Terrace"
+    },
+    {
+      "order": 5,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Available 31st August 2026",
+      "htmlDescription": "Available 31st August 2026"
+    },
+    {
+      "order": 7,
+      "description": "EPC Rating C",
+      "htmlDescription": "EPC Rating C"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://property-teaser-video.s3.eu-west-1.amazonaws.com/0b0bd32e-1876-4b86-b959-3e3fc2250b89.mp4",
+      "provider": "OTHER"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db_max_476x317.jpeg",
+        "url": "property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d561b213/90640659/1d561b2136481d8bbcc67aff90381002_max_476x317.jpeg",
+        "url": "property-photo/1d561b213/90640659/1d561b2136481d8bbcc67aff90381002.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fcecdd85/90640659/1fcecdd85dbb4a5dba06083d07a0bc92_max_476x317.jpeg",
+        "url": "property-photo/1fcecdd85/90640659/1fcecdd85dbb4a5dba06083d07a0bc92.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c571e28c7/90640659/c571e28c7373ace53c1ec460afae5d14_max_476x317.jpeg",
+        "url": "property-photo/c571e28c7/90640659/c571e28c7373ace53c1ec460afae5d14.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2dc00c23/90640659/e2dc00c235c7452ef20d599bc423faed_max_476x317.jpeg",
+        "url": "property-photo/e2dc00c23/90640659/e2dc00c235c7452ef20d599bc423faed.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1690f38d3/90640659/1690f38d37271588368d350e104a854d_max_476x317.jpeg",
+        "url": "property-photo/1690f38d3/90640659/1690f38d37271588368d350e104a854d.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4db8314a3/90640659/4db8314a3c81c43912925665d011e540_max_476x317.jpeg",
+        "url": "property-photo/4db8314a3/90640659/4db8314a3c81c43912925665d011e540.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afe3a411f/90640659/afe3a411fe18c0df985c008f9520f5db_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
