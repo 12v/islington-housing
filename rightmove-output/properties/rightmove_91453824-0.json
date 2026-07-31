@@ -1,0 +1,248 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-30T22:45:55.421197+00:00",
+  "postcode": "N1 1XH",
+  "id": 91453824,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Stylish 2-bed, 2-bath apartment in Chiltern Heights, Islington N1 | 840 sq ft | Nr Caledonian Road & Barnsbury station",
+  "displayAddress": "Caledonian Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54189,
+    "longitude": -0.11944
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217_max_476x317.jpeg",
+      "url": "property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/606196984/91453824/606196984fa03bce813ac85629e43bff_max_476x317.jpeg",
+      "url": "property-photo/606196984/91453824/606196984fa03bce813ac85629e43bff.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6f4caf93/91453824/d6f4caf93f9155e6b70f8d78847ef553_max_476x317.jpeg",
+      "url": "property-photo/d6f4caf93/91453824/d6f4caf93f9155e6b70f8d78847ef553.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2f3eef3b/91453824/d2f3eef3bfe4a564fdaefee071d127e0_max_476x317.jpeg",
+      "url": "property-photo/d2f3eef3b/91453824/d2f3eef3bfe4a564fdaefee071d127e0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bfa2f7c0/91453824/4bfa2f7c0090bae38965bb4d2a84701a_max_476x317.jpeg",
+      "url": "property-photo/4bfa2f7c0/91453824/4bfa2f7c0090bae38965bb4d2a84701a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3132fbe16/91453824/3132fbe16b87e57b1804e6cec3b96337_max_476x317.jpeg",
+      "url": "property-photo/3132fbe16/91453824/3132fbe16b87e57b1804e6cec3b96337.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8eb4db528/91453824/8eb4db528d4c52cb6cd7723fccea34f3_max_476x317.jpeg",
+      "url": "property-photo/8eb4db528/91453824/8eb4db528d4c52cb6cd7723fccea34f3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01dcc3b7b/91453824/01dcc3b7bfa7347ce74c81619bb3811d_max_476x317.jpeg",
+      "url": "property-photo/01dcc3b7b/91453824/01dcc3b7bfa7347ce74c81619bb3811d.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-30T15:05:09Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 238769,
+    "brandPlusLogoURI": "/partner-logo/26466395-LOGO-1765972988.png",
+    "contactTelephone": "020 3909 0322",
+    "branchDisplayName": "Right Now Residential, London",
+    "branchName": "London",
+    "brandTradingName": "Right Now Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/Right-Now-Residential/London-238769.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-27T12:41:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/26466395-LOGO-1765972988.png",
+    "primaryBrandColour": "#405a41"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91453824#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91453824",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-30T15:00:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-30T17:03:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two-bedroom, two-bathroom apartment - 840 sq ft",
+      "htmlDescription": "Two-bedroom, two-bathroom apartment - 840 sq ft"
+    },
+    {
+      "order": 2,
+      "description": "Bright, open-plan living, kitchen and dining area",
+      "htmlDescription": "Bright, open-plan living, kitchen and dining area"
+    },
+    {
+      "order": 3,
+      "description": "Contemporary gloss kitchen with integrated appliances",
+      "htmlDescription": "Contemporary gloss kitchen with integrated appliances"
+    },
+    {
+      "order": 4,
+      "description": "Master bedroom with en-suite bathroom",
+      "htmlDescription": "Master bedroom with en-suite bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Well-proportioned second bedroom",
+      "htmlDescription": "Well-proportioned second bedroom"
+    },
+    {
+      "order": 6,
+      "description": "Modern family bathroom with contemporary fittings",
+      "htmlDescription": "Modern family bathroom with contemporary fittings"
+    },
+    {
+      "order": 7,
+      "description": "Set within a well-established modern development on Caledonian Road",
+      "htmlDescription": "Set within a well-established modern development on Caledonian Road"
+    },
+    {
+      "order": 8,
+      "description": "Under 5 minutes' walk to Caledonian Road & Barnsbury Overground station",
+      "htmlDescription": "Under 5 minutes' walk to Caledonian Road & Barnsbury Overground station"
+    },
+    {
+      "order": 9,
+      "description": "Piccadilly line service also accessible, with King's Cross St Pancras in easy reach",
+      "htmlDescription": "Piccadilly line service also accessible, with King's Cross St Pancras in easy reach"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217_max_476x317.jpeg",
+        "url": "property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/606196984/91453824/606196984fa03bce813ac85629e43bff_max_476x317.jpeg",
+        "url": "property-photo/606196984/91453824/606196984fa03bce813ac85629e43bff.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6f4caf93/91453824/d6f4caf93f9155e6b70f8d78847ef553_max_476x317.jpeg",
+        "url": "property-photo/d6f4caf93/91453824/d6f4caf93f9155e6b70f8d78847ef553.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d2f3eef3b/91453824/d2f3eef3bfe4a564fdaefee071d127e0_max_476x317.jpeg",
+        "url": "property-photo/d2f3eef3b/91453824/d2f3eef3bfe4a564fdaefee071d127e0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bfa2f7c0/91453824/4bfa2f7c0090bae38965bb4d2a84701a_max_476x317.jpeg",
+        "url": "property-photo/4bfa2f7c0/91453824/4bfa2f7c0090bae38965bb4d2a84701a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3132fbe16/91453824/3132fbe16b87e57b1804e6cec3b96337_max_476x317.jpeg",
+        "url": "property-photo/3132fbe16/91453824/3132fbe16b87e57b1804e6cec3b96337.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8eb4db528/91453824/8eb4db528d4c52cb6cd7723fccea34f3_max_476x317.jpeg",
+        "url": "property-photo/8eb4db528/91453824/8eb4db528d4c52cb6cd7723fccea34f3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01dcc3b7b/91453824/01dcc3b7bfa7347ce74c81619bb3811d_max_476x317.jpeg",
+        "url": "property-photo/01dcc3b7b/91453824/01dcc3b7bfa7347ce74c81619bb3811d.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f4b57c3e/91453824/2f4b57c3ec33c015c9d9debb8624d217_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Right Now Residential, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
