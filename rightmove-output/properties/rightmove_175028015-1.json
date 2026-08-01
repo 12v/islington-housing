@@ -1,0 +1,284 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-07-31T21:42:37.493892+00:00",
+  "postcode": "EC1V 2AG",
+  "id": 175028015,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "This exceptional two bedroom, two bathroom apartment in 250 City Road, EC1V is positioned on the 39th floor, offering expansive floor to ceiling windows with striking views across the London skyline.",
+  "displayAddress": "Carrara Tower, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529257,
+    "longitude": -0.096727
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8_max_476x317.jpeg",
+      "url": "property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db4da23fa/175028015/db4da23faf3c0066b2dbf0829ffd736a_max_476x317.jpeg",
+      "url": "property-photo/db4da23fa/175028015/db4da23faf3c0066b2dbf0829ffd736a.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a517463e/175028015/0a517463ecfcb1b66ba493f058fbebd1_max_476x317.jpeg",
+      "url": "property-photo/0a517463e/175028015/0a517463ecfcb1b66ba493f058fbebd1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/723f551fc/175028015/723f551fca1a74d9defb707b4b48e05a_max_476x317.jpeg",
+      "url": "property-photo/723f551fc/175028015/723f551fca1a74d9defb707b4b48e05a.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4ed37586/175028015/f4ed375867b2a4ed0b1a8b4ebd7e6948_max_476x317.jpeg",
+      "url": "property-photo/f4ed37586/175028015/f4ed375867b2a4ed0b1a8b4ebd7e6948.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a3fd6d23/175028015/1a3fd6d23d4994be2483e31b15fdeaa8_max_476x317.jpeg",
+      "url": "property-photo/1a3fd6d23/175028015/1a3fd6d23d4994be2483e31b15fdeaa8.jpeg",
+      "caption": "En-suite"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/757b4c0f2/175028015/757b4c0f29d5caad6bf1043e52c18df3_max_476x317.jpeg",
+      "url": "property-photo/757b4c0f2/175028015/757b4c0f29d5caad6bf1043e52c18df3.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ccbdada1/175028015/5ccbdada19ff6cc3f1628a38ff35b0d6_max_476x317.jpeg",
+      "url": "property-photo/5ccbdada1/175028015/5ccbdada19ff6cc3f1628a38ff35b0d6.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2dfb12c1/175028015/b2dfb12c150c7e80290a015b3f842b87_max_476x317.jpeg",
+      "url": "property-photo/b2dfb12c1/175028015/b2dfb12c150c7e80290a015b3f842b87.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eda93cccb/175028015/eda93cccb81f5dd4c1343549a4f9012c_max_476x317.jpeg",
+      "url": "property-photo/eda93cccb/175028015/eda93cccb81f5dd4c1343549a4f9012c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb0e28fd8/175028015/eb0e28fd8ba236f949f03a49ed40af39_max_476x317.jpeg",
+      "url": "property-photo/eb0e28fd8/175028015/eb0e28fd8ba236f949f03a49ed40af39.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47d080330/175028015/47d080330c24ab6e01427ff6fd553212_max_476x317.jpeg",
+      "url": "property-photo/47d080330/175028015/47d080330c24ab6e01427ff6fd553212.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-29T13:18:06Z"
+  },
+  "price": {
+    "amount": 5750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a35,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,327 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 105559,
+    "brandPlusLogoURI": "/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "contactTelephone": "020 3834 8041",
+    "branchDisplayName": "Austin Homes London, London",
+    "branchName": "London",
+    "brandTradingName": "Austin Homes London",
+    "branchLandingPageUrl": "/estate-agents/agent/Austin-Homes-London/London-105559.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "1,103 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/175028015#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=175028015",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-29T13:12:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-29T13:18:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Gym",
+      "htmlDescription": "Gym"
+    },
+    {
+      "order": 2,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 3,
+      "description": "Shops and amenities nearby",
+      "htmlDescription": "Shops and amenities nearby"
+    },
+    {
+      "order": 4,
+      "description": "Swimming Pool",
+      "htmlDescription": "Swimming Pool"
+    },
+    {
+      "order": 5,
+      "description": "Video Entry",
+      "htmlDescription": "Video Entry"
+    },
+    {
+      "order": 6,
+      "description": "En-suite",
+      "htmlDescription": "En-suite"
+    },
+    {
+      "order": 7,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://youtu.be/m6o80Rgaayk",
+      "provider": "YOUTUBE"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8_max_476x317.jpeg",
+        "url": "property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/db4da23fa/175028015/db4da23faf3c0066b2dbf0829ffd736a_max_476x317.jpeg",
+        "url": "property-photo/db4da23fa/175028015/db4da23faf3c0066b2dbf0829ffd736a.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a517463e/175028015/0a517463ecfcb1b66ba493f058fbebd1_max_476x317.jpeg",
+        "url": "property-photo/0a517463e/175028015/0a517463ecfcb1b66ba493f058fbebd1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/723f551fc/175028015/723f551fca1a74d9defb707b4b48e05a_max_476x317.jpeg",
+        "url": "property-photo/723f551fc/175028015/723f551fca1a74d9defb707b4b48e05a.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4ed37586/175028015/f4ed375867b2a4ed0b1a8b4ebd7e6948_max_476x317.jpeg",
+        "url": "property-photo/f4ed37586/175028015/f4ed375867b2a4ed0b1a8b4ebd7e6948.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a3fd6d23/175028015/1a3fd6d23d4994be2483e31b15fdeaa8_max_476x317.jpeg",
+        "url": "property-photo/1a3fd6d23/175028015/1a3fd6d23d4994be2483e31b15fdeaa8.jpeg",
+        "caption": "En-suite"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/757b4c0f2/175028015/757b4c0f29d5caad6bf1043e52c18df3_max_476x317.jpeg",
+        "url": "property-photo/757b4c0f2/175028015/757b4c0f29d5caad6bf1043e52c18df3.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ccbdada1/175028015/5ccbdada19ff6cc3f1628a38ff35b0d6_max_476x317.jpeg",
+        "url": "property-photo/5ccbdada1/175028015/5ccbdada19ff6cc3f1628a38ff35b0d6.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2dfb12c1/175028015/b2dfb12c150c7e80290a015b3f842b87_max_476x317.jpeg",
+        "url": "property-photo/b2dfb12c1/175028015/b2dfb12c150c7e80290a015b3f842b87.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eda93cccb/175028015/eda93cccb81f5dd4c1343549a4f9012c_max_476x317.jpeg",
+        "url": "property-photo/eda93cccb/175028015/eda93cccb81f5dd4c1343549a4f9012c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb0e28fd8/175028015/eb0e28fd8ba236f949f03a49ed40af39_max_476x317.jpeg",
+        "url": "property-photo/eb0e28fd8/175028015/eb0e28fd8ba236f949f03a49ed40af39.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47d080330/175028015/47d080330c24ab6e01427ff6fd553212_max_476x317.jpeg",
+        "url": "property-photo/47d080330/175028015/47d080330c24ab6e01427ff6fd553212.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cdcf5b31/175028015/3cdcf5b31d8b7f001ede456ccb4f19b8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Austin Homes London, London",
+  "addedOrReduced": "Added on 29/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
