@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-01T21:06:11.123690+00:00",
+  "postcode": "EC1M 6EU",
+  "id": 91533948,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "An ideally located studio apartment situated in this iconic art deco building located in the heart of the city. The apartment benefits from having use of a communal roof garden as well as leisure facilities and swimming pool.",
+  "displayAddress": "Florin Court, \n6-9 Charterhouse Square, EC1M",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.520976,
+    "longitude": -0.098514
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de_max_476x317.jpeg",
+      "url": "property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c4f9abfe/91533948/8c4f9abfecef3713c6f3166b11458454_max_476x317.jpeg",
+      "url": "property-photo/8c4f9abfe/91533948/8c4f9abfecef3713c6f3166b11458454.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a73e144f/91533948/9a73e144f7e8aad3fcfd99c3fec1aafa_max_476x317.jpeg",
+      "url": "property-photo/9a73e144f/91533948/9a73e144f7e8aad3fcfd99c3fec1aafa.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/806c8103b/91533948/806c8103b7924dc312ac131491b4b34d_max_476x317.jpeg",
+      "url": "property-photo/806c8103b/91533948/806c8103b7924dc312ac131491b4b34d.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/062770ae5/91533948/062770ae5ed4bfff549afc4268373413_max_476x317.jpeg",
+      "url": "property-photo/062770ae5/91533948/062770ae5ed4bfff549afc4268373413.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd3a26edf/91533948/cd3a26edf16850eaa91fc7da4c1b5fdd_max_476x317.jpeg",
+      "url": "property-photo/cd3a26edf/91533948/cd3a26edf16850eaa91fc7da4c1b5fdd.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48ee14219/91533948/48ee14219a2c1989fa80ff10cc9628a0_max_476x317.jpeg",
+      "url": "property-photo/48ee14219/91533948/48ee14219a2c1989fa80ff10cc9628a0.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/910a252cf/91533948/910a252cf2a5275c291856167e1f2b74_max_476x317.jpeg",
+      "url": "property-photo/910a252cf/91533948/910a252cf2a5275c291856167e1f2b74.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57fa86226/91533948/57fa862260ae2c642677bc7ab732fff4_max_476x317.jpeg",
+      "url": "property-photo/57fa86226/91533948/57fa862260ae2c642677bc7ab732fff4.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb0cd9bc6/91533948/eb0cd9bc6838c7577a81d8d25738abb8_max_476x317.jpeg",
+      "url": "property-photo/eb0cd9bc6/91533948/eb0cd9bc6838c7577a81d8d25738abb8.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2cfffe93/91533948/b2cfffe93b944841162b277f0045ee93_max_476x317.jpeg",
+      "url": "property-photo/b2cfffe93/91533948/b2cfffe93b944841162b277f0045ee93.jpeg",
+      "caption": "Picture No. 22"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-01T14:36:06Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 26207,
+    "brandPlusLogoURI": "/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "contactTelephone": "020 3872 5359",
+    "branchDisplayName": "Chestertons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Chestertons",
+    "branchLandingPageUrl": "/estate-agents/agent/Chestertons/Islington-26207.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T13:28:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "primaryBrandColour": "#671e75"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nTENANCY INFORMATION<br />\n<br />\nClient money protection (CMP) provided by PropertyMark. <br />\nOmbudsman services provided by the Property Redress Scheme <br />\n<br />\nRules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br />\n<br />\nHOUSING ACT TENANCIES<br />\n<br />\nHolding deposit Equivalent of one weeks rent.<br />\n<br />\nChanging tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350. This will include but is not limited to where you request to vary the terms of the tenancy agreement, request consent for a pet, or where one or more tenant wishes to be released from their contract by finding a replacement tenant, an additional tenant added or a tenant removed.<br />\n<br />\nDeposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000<br />\n<br />\nLate, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nLost keys Any cost for the replacement of keys, fobs, security devices or associated items<br />\n<br />\nNON-HOUSING ACT TENANCIES (NHA)<br />\n<br />\nTenancy Agreement Fee: \u00a3360<br />\n<br />\nReference checks: \u00a360 per reference<br />\n<br />\nDeposit Usually equivalent to six weeks rent.<br />\n<br />\nRight to Rent: \u00a330 per person per check (as required)<br />\n<br />\nCheck-in and/or out from \u00a3120 to \u00a3500 approx. depending on the size of the property. Check your tenancy agreement to confirm who is responsible for paying this charge<br />\n<br />\nLate/unpaid/returned rent payments: \u00a330 per week late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nTenant Swap: \u00a3420 administration fee + references<br />\n<br />\nRenewal: \u00a3210 for each renewal.<br />\n<br />\nChanging tenancy documents once signed: \u00a3150 <br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax payable on tenancies where the rent exceeds \u00a3125,000\n",
+  "displaySize": "217 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91533948#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91533948",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-01T14:30:45Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-01T16:15:49Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Studio Flat",
+      "htmlDescription": "Studio Flat "
+    },
+    {
+      "order": 2,
+      "description": "Access to Pool, Gym and Sauna,",
+      "htmlDescription": "Access to Pool, Gym and Sauna, "
+    },
+    {
+      "order": 3,
+      "description": "Communal Roof Terrace",
+      "htmlDescription": "Communal Roof Terrace "
+    },
+    {
+      "order": 4,
+      "description": "Close to Farringdon and Barbican Stations",
+      "htmlDescription": "Close to Farringdon and Barbican Stations "
+    },
+    {
+      "order": 5,
+      "description": "Hard-wood Floors",
+      "htmlDescription": "Hard-wood Floors "
+    },
+    {
+      "order": 6,
+      "description": "Sought-after Development",
+      "htmlDescription": "Sought-after Development"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de_max_476x317.jpeg",
+        "url": "property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c4f9abfe/91533948/8c4f9abfecef3713c6f3166b11458454_max_476x317.jpeg",
+        "url": "property-photo/8c4f9abfe/91533948/8c4f9abfecef3713c6f3166b11458454.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a73e144f/91533948/9a73e144f7e8aad3fcfd99c3fec1aafa_max_476x317.jpeg",
+        "url": "property-photo/9a73e144f/91533948/9a73e144f7e8aad3fcfd99c3fec1aafa.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/806c8103b/91533948/806c8103b7924dc312ac131491b4b34d_max_476x317.jpeg",
+        "url": "property-photo/806c8103b/91533948/806c8103b7924dc312ac131491b4b34d.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/062770ae5/91533948/062770ae5ed4bfff549afc4268373413_max_476x317.jpeg",
+        "url": "property-photo/062770ae5/91533948/062770ae5ed4bfff549afc4268373413.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd3a26edf/91533948/cd3a26edf16850eaa91fc7da4c1b5fdd_max_476x317.jpeg",
+        "url": "property-photo/cd3a26edf/91533948/cd3a26edf16850eaa91fc7da4c1b5fdd.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48ee14219/91533948/48ee14219a2c1989fa80ff10cc9628a0_max_476x317.jpeg",
+        "url": "property-photo/48ee14219/91533948/48ee14219a2c1989fa80ff10cc9628a0.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/910a252cf/91533948/910a252cf2a5275c291856167e1f2b74_max_476x317.jpeg",
+        "url": "property-photo/910a252cf/91533948/910a252cf2a5275c291856167e1f2b74.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57fa86226/91533948/57fa862260ae2c642677bc7ab732fff4_max_476x317.jpeg",
+        "url": "property-photo/57fa86226/91533948/57fa862260ae2c642677bc7ab732fff4.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb0cd9bc6/91533948/eb0cd9bc6838c7577a81d8d25738abb8_max_476x317.jpeg",
+        "url": "property-photo/eb0cd9bc6/91533948/eb0cd9bc6838c7577a81d8d25738abb8.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2cfffe93/91533948/b2cfffe93b944841162b277f0045ee93_max_476x317.jpeg",
+        "url": "property-photo/b2cfffe93/91533948/b2cfffe93b944841162b277f0045ee93.jpeg",
+        "caption": "Picture No. 22"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0ce0ca0d/91533948/d0ce0ca0dd21040263948fc1801825de_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chestertons, Islington",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
