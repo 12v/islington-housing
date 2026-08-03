@@ -1,0 +1,182 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-02T22:45:56.091034+00:00",
+  "postcode": "N1 3NW",
+  "id": 91518483,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautiful 1 double bedroom garden flat situated within a Victorian Conversion. ",
+  "displayAddress": "Ockendon Road, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.544076,
+    "longitude": -0.086777
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2_max_476x317.jpeg",
+      "url": "property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a87fc8d45/91518483/a87fc8d453e01e9b75e80fa8030f33c5_max_476x317.jpeg",
+      "url": "property-photo/a87fc8d45/91518483/a87fc8d453e01e9b75e80fa8030f33c5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52b22382c/91518483/52b22382c1080a224a34a126b38eb62d_max_476x317.jpeg",
+      "url": "property-photo/52b22382c/91518483/52b22382c1080a224a34a126b38eb62d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2010dafea/91518483/2010dafead5ccc77ee3beabc041650e8_max_476x317.jpeg",
+      "url": "property-photo/2010dafea/91518483/2010dafead5ccc77ee3beabc041650e8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32d837c87/91518483/32d837c8710ff8a80344901eb56d7772_max_476x317.jpeg",
+      "url": "property-photo/32d837c87/91518483/32d837c8710ff8a80344901eb56d7772.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b4eaf0fe/91518483/8b4eaf0fe5afec8ad1b877efc369a015_max_476x317.jpeg",
+      "url": "property-photo/8b4eaf0fe/91518483/8b4eaf0fe5afec8ad1b877efc369a015.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-31T18:41:03Z"
+  },
+  "price": {
+    "amount": 2200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3508 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:24Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91518483#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91518483",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-31T18:35:34Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-31T18:41:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2_max_476x317.jpeg",
+        "url": "property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a87fc8d45/91518483/a87fc8d453e01e9b75e80fa8030f33c5_max_476x317.jpeg",
+        "url": "property-photo/a87fc8d45/91518483/a87fc8d453e01e9b75e80fa8030f33c5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52b22382c/91518483/52b22382c1080a224a34a126b38eb62d_max_476x317.jpeg",
+        "url": "property-photo/52b22382c/91518483/52b22382c1080a224a34a126b38eb62d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2010dafea/91518483/2010dafead5ccc77ee3beabc041650e8_max_476x317.jpeg",
+        "url": "property-photo/2010dafea/91518483/2010dafead5ccc77ee3beabc041650e8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32d837c87/91518483/32d837c8710ff8a80344901eb56d7772_max_476x317.jpeg",
+        "url": "property-photo/32d837c87/91518483/32d837c8710ff8a80344901eb56d7772.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b4eaf0fe/91518483/8b4eaf0fe5afec8ad1b877efc369a015_max_476x317.jpeg",
+        "url": "property-photo/8b4eaf0fe/91518483/8b4eaf0fe5afec8ad1b877efc369a015.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bdb95f99/91518483/0bdb95f994c7ae90e04a4bc11d6f9ae2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added on 31/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
