@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-04T23:32:29.189726+00:00",
+  "postcode": "N1 9TZ",
+  "id": 91364007,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well presented one bedroom apartment in the heart of Kings Cross. occupying the first floor of a purpose built block.",
+  "displayAddress": "Wynford Road, \nPentonville, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53434,
+    "longitude": -0.113573
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1_max_476x317.jpeg",
+      "url": "property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8434482df/91364007/8434482df24df0817f03fce705ed331b_max_476x317.jpeg",
+      "url": "property-photo/8434482df/91364007/8434482df24df0817f03fce705ed331b.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f16cb63eb/91364007/f16cb63ebb4f9bc89e116acae4bae799_max_476x317.jpeg",
+      "url": "property-photo/f16cb63eb/91364007/f16cb63ebb4f9bc89e116acae4bae799.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf631b580/91364007/cf631b58095af7b15613a9b966ab4bd2_max_476x317.jpeg",
+      "url": "property-photo/cf631b580/91364007/cf631b58095af7b15613a9b966ab4bd2.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0042646a/91364007/e0042646a17b98bd85391cb05fcd245e_max_476x317.jpeg",
+      "url": "property-photo/e0042646a/91364007/e0042646a17b98bd85391cb05fcd245e.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95daa49cd/91364007/95daa49cdef73d3dea01d38d64fb535c_max_476x317.jpeg",
+      "url": "property-photo/95daa49cd/91364007/95daa49cdef73d3dea01d38d64fb535c.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99c0224a6/91364007/99c0224a65c3701d234ba3ab126a8936_max_476x317.jpeg",
+      "url": "property-photo/99c0224a6/91364007/99c0224a65c3701d234ba3ab126a8936.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2981c9d66/91364007/2981c9d66ac52e29c5efa05bac8d660c_max_476x317.jpeg",
+      "url": "property-photo/2981c9d66/91364007/2981c9d66ac52e29c5efa05bac8d660c.jpeg",
+      "caption": "Picture No. 14"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-11T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-27T16:22:09Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 26207,
+    "brandPlusLogoURI": "/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "contactTelephone": "020 3872 5359",
+    "branchDisplayName": "Chestertons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Chestertons",
+    "branchLandingPageUrl": "/estate-agents/agent/Chestertons/Islington-26207.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-17T13:28:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "primaryBrandColour": "#671e75"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nTENANCY INFORMATION<br />\n<br />\nClient money protection (CMP) provided by PropertyMark. <br />\nOmbudsman services provided by the Property Redress Scheme <br />\n<br />\nRules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br />\n<br />\nHOUSING ACT TENANCIES<br />\n<br />\nHolding deposit Equivalent of one weeks rent.<br />\n<br />\nChanging tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350. This will include but is not limited to where you request to vary the terms of the tenancy agreement, request consent for a pet, or where one or more tenant wishes to be released from their contract by finding a replacement tenant, an additional tenant added or a tenant removed.<br />\n<br />\nDeposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000<br />\n<br />\nLate, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nLost keys Any cost for the replacement of keys, fobs, security devices or associated items<br />\n<br />\nNON-HOUSING ACT TENANCIES (NHA)<br />\n<br />\nTenancy Agreement Fee: \u00a3360<br />\n<br />\nReference checks: \u00a360 per reference<br />\n<br />\nDeposit Usually equivalent to six weeks rent.<br />\n<br />\nRight to Rent: \u00a330 per person per check (as required)<br />\n<br />\nCheck-in and/or out from \u00a3120 to \u00a3500 approx. depending on the size of the property. Check your tenancy agreement to confirm who is responsible for paying this charge<br />\n<br />\nLate/unpaid/returned rent payments: \u00a330 per week late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nTenant Swap: \u00a3420 administration fee + references<br />\n<br />\nRenewal: \u00a3210 for each renewal.<br />\n<br />\nChanging tenancy documents once signed: \u00a3150 <br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax payable on tenancies where the rent exceeds \u00a3125,000\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91364007#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91364007",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-27T16:16:33Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-04T15:47:23Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Short Let - Bills Included",
+      "htmlDescription": "Short Let - Bills Included"
+    },
+    {
+      "order": 2,
+      "description": "Over 570 Sqft",
+      "htmlDescription": "Over 570 Sqft"
+    },
+    {
+      "order": 3,
+      "description": "Close Proximity To Kings Cross",
+      "htmlDescription": "Close Proximity To Kings Cross"
+    },
+    {
+      "order": 4,
+      "description": "East Access To Regents Canal",
+      "htmlDescription": "East Access To Regents Canal "
+    },
+    {
+      "order": 5,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 6,
+      "description": "First Floor",
+      "htmlDescription": "First Floor"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1_max_476x317.jpeg",
+        "url": "property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8434482df/91364007/8434482df24df0817f03fce705ed331b_max_476x317.jpeg",
+        "url": "property-photo/8434482df/91364007/8434482df24df0817f03fce705ed331b.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f16cb63eb/91364007/f16cb63ebb4f9bc89e116acae4bae799_max_476x317.jpeg",
+        "url": "property-photo/f16cb63eb/91364007/f16cb63ebb4f9bc89e116acae4bae799.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf631b580/91364007/cf631b58095af7b15613a9b966ab4bd2_max_476x317.jpeg",
+        "url": "property-photo/cf631b580/91364007/cf631b58095af7b15613a9b966ab4bd2.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0042646a/91364007/e0042646a17b98bd85391cb05fcd245e_max_476x317.jpeg",
+        "url": "property-photo/e0042646a/91364007/e0042646a17b98bd85391cb05fcd245e.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95daa49cd/91364007/95daa49cdef73d3dea01d38d64fb535c_max_476x317.jpeg",
+        "url": "property-photo/95daa49cd/91364007/95daa49cdef73d3dea01d38d64fb535c.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/99c0224a6/91364007/99c0224a65c3701d234ba3ab126a8936_max_476x317.jpeg",
+        "url": "property-photo/99c0224a6/91364007/99c0224a65c3701d234ba3ab126a8936.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2981c9d66/91364007/2981c9d66ac52e29c5efa05bac8d660c_max_476x317.jpeg",
+        "url": "property-photo/2981c9d66/91364007/2981c9d66ac52e29c5efa05bac8d660c.jpeg",
+        "caption": "Picture No. 14"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54bd9b7b4/91364007/54bd9b7b4e6306efaf26e06bd09dd1c1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chestertons, Islington",
+  "addedOrReduced": "Added on 27/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
