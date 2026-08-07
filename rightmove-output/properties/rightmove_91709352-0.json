@@ -1,0 +1,264 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-07T02:03:23.447778+00:00",
+  "postcode": "N1 0DD",
+  "id": 91709352,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright and Modern Islington Apartment - Perfect for Professionals",
+  "displayAddress": "Gifford Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.540158,
+    "longitude": -0.121562
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de_max_476x317.jpeg",
+      "url": "property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/183829e7b/91709352/183829e7b44a3a75f2b8e527a690d3f3_max_476x317.jpeg",
+      "url": "property-photo/183829e7b/91709352/183829e7b44a3a75f2b8e527a690d3f3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9cbf0f88e/91709352/9cbf0f88ef81cae2abe154a0f17396e1_max_476x317.jpeg",
+      "url": "property-photo/9cbf0f88e/91709352/9cbf0f88ef81cae2abe154a0f17396e1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79c5d5e95/91709352/79c5d5e95ce65991e244fd7e79b7c995_max_476x317.jpeg",
+      "url": "property-photo/79c5d5e95/91709352/79c5d5e95ce65991e244fd7e79b7c995.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ebec84c2/91709352/4ebec84c2b05de5037407527fac6bf50_max_476x317.jpeg",
+      "url": "property-photo/4ebec84c2/91709352/4ebec84c2b05de5037407527fac6bf50.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4684a913d/91709352/4684a913d762b6201cc2560beec5ecf4_max_476x317.jpeg",
+      "url": "property-photo/4684a913d/91709352/4684a913d762b6201cc2560beec5ecf4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb62953f7/91709352/eb62953f79aec2a22f15a450e8b375df_max_476x317.jpeg",
+      "url": "property-photo/eb62953f7/91709352/eb62953f79aec2a22f15a450e8b375df.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee11fbbb1/91709352/ee11fbbb1ffb8b9200bc2308bb5f2fdc_max_476x317.jpeg",
+      "url": "property-photo/ee11fbbb1/91709352/ee11fbbb1ffb8b9200bc2308bb5f2fdc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d541cba7/91709352/8d541cba7279dac049acb4bf8b25b9c7_max_476x317.jpeg",
+      "url": "property-photo/8d541cba7/91709352/8d541cba7279dac049acb4bf8b25b9c7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/714cdae8d/91709352/714cdae8de3669f419b699fc21b96997_max_476x317.jpeg",
+      "url": "property-photo/714cdae8d/91709352/714cdae8de3669f419b699fc21b96997.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34255a1ae/91709352/34255a1ae54ddaccdb4429446caf8c8d_max_476x317.jpeg",
+      "url": "property-photo/34255a1ae/91709352/34255a1ae54ddaccdb4429446caf8c8d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66d615e35/91709352/66d615e3582d8d658d452a76b5e6be9b_max_476x317.jpeg",
+      "url": "property-photo/66d615e35/91709352/66d615e3582d8d658d452a76b5e6be9b.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-06T13:29:05Z"
+  },
+  "price": {
+    "amount": 2800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3646 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79624,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3834 8477",
+    "branchDisplayName": "Felicity J Lord, Islington Lettings",
+    "branchName": "Islington Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Islington-Lettings-79624.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91709352#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91709352",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-06T13:23:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-06T13:34:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2 Double Beds",
+      "htmlDescription": "2 Double Beds"
+    },
+    {
+      "order": 2,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    },
+    {
+      "order": 3,
+      "description": "Kings Cross",
+      "htmlDescription": "Kings Cross"
+    },
+    {
+      "order": 4,
+      "description": "Natural Light",
+      "htmlDescription": "Natural Light"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de_max_476x317.jpeg",
+        "url": "property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/183829e7b/91709352/183829e7b44a3a75f2b8e527a690d3f3_max_476x317.jpeg",
+        "url": "property-photo/183829e7b/91709352/183829e7b44a3a75f2b8e527a690d3f3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9cbf0f88e/91709352/9cbf0f88ef81cae2abe154a0f17396e1_max_476x317.jpeg",
+        "url": "property-photo/9cbf0f88e/91709352/9cbf0f88ef81cae2abe154a0f17396e1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79c5d5e95/91709352/79c5d5e95ce65991e244fd7e79b7c995_max_476x317.jpeg",
+        "url": "property-photo/79c5d5e95/91709352/79c5d5e95ce65991e244fd7e79b7c995.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ebec84c2/91709352/4ebec84c2b05de5037407527fac6bf50_max_476x317.jpeg",
+        "url": "property-photo/4ebec84c2/91709352/4ebec84c2b05de5037407527fac6bf50.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4684a913d/91709352/4684a913d762b6201cc2560beec5ecf4_max_476x317.jpeg",
+        "url": "property-photo/4684a913d/91709352/4684a913d762b6201cc2560beec5ecf4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb62953f7/91709352/eb62953f79aec2a22f15a450e8b375df_max_476x317.jpeg",
+        "url": "property-photo/eb62953f7/91709352/eb62953f79aec2a22f15a450e8b375df.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ee11fbbb1/91709352/ee11fbbb1ffb8b9200bc2308bb5f2fdc_max_476x317.jpeg",
+        "url": "property-photo/ee11fbbb1/91709352/ee11fbbb1ffb8b9200bc2308bb5f2fdc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d541cba7/91709352/8d541cba7279dac049acb4bf8b25b9c7_max_476x317.jpeg",
+        "url": "property-photo/8d541cba7/91709352/8d541cba7279dac049acb4bf8b25b9c7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/714cdae8d/91709352/714cdae8de3669f419b699fc21b96997_max_476x317.jpeg",
+        "url": "property-photo/714cdae8d/91709352/714cdae8de3669f419b699fc21b96997.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34255a1ae/91709352/34255a1ae54ddaccdb4429446caf8c8d_max_476x317.jpeg",
+        "url": "property-photo/34255a1ae/91709352/34255a1ae54ddaccdb4429446caf8c8d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66d615e35/91709352/66d615e3582d8d658d452a76b5e6be9b_max_476x317.jpeg",
+        "url": "property-photo/66d615e35/91709352/66d615e3582d8d658d452a76b5e6be9b.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb35c271/91709352/4eb35c2716d7500b027627a2931046de_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Islington Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

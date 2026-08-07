@@ -1,0 +1,183 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-07T04:03:10.441766+00:00",
+  "postcode": "N4 2DW",
+  "id": 91276449,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Positioned along the vibrant Blackstock Road in the heart of London N4, this one-bedroom flat offers a superb opportunity for those seeking contemporary urban living in an enviable location. ",
+  "displayAddress": "Blackstock Road, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.563205,
+    "longitude": -0.10349
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824_max_476x317.jpeg",
+      "url": "property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c396ec54/91276449/7c396ec545926b550469b7285f420fbe_max_476x317.jpeg",
+      "url": "property-photo/7c396ec54/91276449/7c396ec545926b550469b7285f420fbe.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eadee3bf5/91276449/eadee3bf5e6c1653d74ef95f38584ecb_max_476x317.jpeg",
+      "url": "property-photo/eadee3bf5/91276449/eadee3bf5e6c1653d74ef95f38584ecb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ac883626/91276449/9ac883626da85ea469a200c23ae3114d_max_476x317.jpeg",
+      "url": "property-photo/9ac883626/91276449/9ac883626da85ea469a200c23ae3114d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ca2d9245/91276449/5ca2d924514a37f43b2d4a1eda197d8a_max_476x317.jpeg",
+      "url": "property-photo/5ca2d9245/91276449/5ca2d924514a37f43b2d4a1eda197d8a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/590a7d906/91276449/590a7d906690f3cc7680a2382ca3a97c_max_476x317.jpeg",
+      "url": "property-photo/590a7d906/91276449/590a7d906690f3cc7680a2382ca3a97c.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-07-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-07-24T10:29:05Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 289103,
+    "brandPlusLogoURI": "/partner-logo/37857227-PRODUCTS_LOGO-1766067612.png",
+    "contactTelephone": "020 3540 7230",
+    "branchDisplayName": "KEY HAVEN ESTATES LTD, London",
+    "branchName": "London",
+    "brandTradingName": "KEY HAVEN ESTATES LTD",
+    "branchLandingPageUrl": "/estate-agents/agent/KEY-HAVEN-ESTATES-LTD/London-289103.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:02:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/37857227-PRODUCTS_LOGO-1766067612.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91276449#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91276449",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-07-24T10:23:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-07-24T10:29:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824_max_476x317.jpeg",
+        "url": "property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c396ec54/91276449/7c396ec545926b550469b7285f420fbe_max_476x317.jpeg",
+        "url": "property-photo/7c396ec54/91276449/7c396ec545926b550469b7285f420fbe.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eadee3bf5/91276449/eadee3bf5e6c1653d74ef95f38584ecb_max_476x317.jpeg",
+        "url": "property-photo/eadee3bf5/91276449/eadee3bf5e6c1653d74ef95f38584ecb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ac883626/91276449/9ac883626da85ea469a200c23ae3114d_max_476x317.jpeg",
+        "url": "property-photo/9ac883626/91276449/9ac883626da85ea469a200c23ae3114d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ca2d9245/91276449/5ca2d924514a37f43b2d4a1eda197d8a_max_476x317.jpeg",
+        "url": "property-photo/5ca2d9245/91276449/5ca2d924514a37f43b2d4a1eda197d8a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/590a7d906/91276449/590a7d906690f3cc7680a2382ca3a97c_max_476x317.jpeg",
+        "url": "property-photo/590a7d906/91276449/590a7d906690f3cc7680a2382ca3a97c.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a131a3366/91276449/a131a3366f8282752ecdf39d8af22824_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by KEY HAVEN ESTATES LTD, London",
+  "addedOrReduced": "Added on 24/07/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

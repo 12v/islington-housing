@@ -1,0 +1,224 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-07T04:03:07.730437+00:00",
+  "postcode": "N4 2DR",
+  "id": 91657878,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "David Andrew is now offering this beautifully refurbished studio apartment, ideally situated on the vibrant Blackstock Road.Set within an attractive period conversion, the property is flooded with natural light and features a modern fitted kitchen, a contemporary bathroom, and a bright, well-prop...",
+  "displayAddress": "Blackstock Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.562126,
+    "longitude": -0.100694
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1_max_476x317.jpeg",
+      "url": "property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed6f1bbf7/91657878/ed6f1bbf7324c68693cbcce6cf5d814a_max_476x317.jpeg",
+      "url": "property-photo/ed6f1bbf7/91657878/ed6f1bbf7324c68693cbcce6cf5d814a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23c11bd8c/91657878/23c11bd8cc717170616cbdfb813e2a17_max_476x317.jpeg",
+      "url": "property-photo/23c11bd8c/91657878/23c11bd8cc717170616cbdfb813e2a17.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e62aa4cc2/91657878/e62aa4cc2a4568202abdc01f3cee5ed0_max_476x317.jpeg",
+      "url": "property-photo/e62aa4cc2/91657878/e62aa4cc2a4568202abdc01f3cee5ed0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a747ddacb/91657878/a747ddacb0ee58cd2e95fc42f541645c_max_476x317.jpeg",
+      "url": "property-photo/a747ddacb/91657878/a747ddacb0ee58cd2e95fc42f541645c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5961415b8/91657878/5961415b83184989a973487916dd8966_max_476x317.jpeg",
+      "url": "property-photo/5961415b8/91657878/5961415b83184989a973487916dd8966.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-05T11:37:10Z"
+  },
+  "price": {
+    "amount": 1400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3323 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80996,
+    "brandPlusLogoURI": "/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "contactTelephone": "020 3889 9038",
+    "branchDisplayName": "David Andrew, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Highbury-80996.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-05T10:12:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91657878#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91657878",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-05T11:31:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-07T04:44:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Period Conversion",
+      "htmlDescription": "Period Conversion"
+    },
+    {
+      "order": 2,
+      "description": "Close To Transport",
+      "htmlDescription": "Close To Transport"
+    },
+    {
+      "order": 3,
+      "description": "Brand New Refurbishment",
+      "htmlDescription": "Brand New Refurbishment"
+    },
+    {
+      "order": 4,
+      "description": "Spacious Studio Flat",
+      "htmlDescription": "Spacious Studio Flat"
+    },
+    {
+      "order": 5,
+      "description": "Large Washroom",
+      "htmlDescription": "Large Washroom"
+    },
+    {
+      "order": 6,
+      "description": "Air-con",
+      "htmlDescription": "Air-con"
+    },
+    {
+      "order": 7,
+      "description": "Property Offered Unfurnished",
+      "htmlDescription": "Property Offered Unfurnished"
+    },
+    {
+      "order": 8,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1_max_476x317.jpeg",
+        "url": "property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed6f1bbf7/91657878/ed6f1bbf7324c68693cbcce6cf5d814a_max_476x317.jpeg",
+        "url": "property-photo/ed6f1bbf7/91657878/ed6f1bbf7324c68693cbcce6cf5d814a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23c11bd8c/91657878/23c11bd8cc717170616cbdfb813e2a17_max_476x317.jpeg",
+        "url": "property-photo/23c11bd8c/91657878/23c11bd8cc717170616cbdfb813e2a17.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e62aa4cc2/91657878/e62aa4cc2a4568202abdc01f3cee5ed0_max_476x317.jpeg",
+        "url": "property-photo/e62aa4cc2/91657878/e62aa4cc2a4568202abdc01f3cee5ed0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a747ddacb/91657878/a747ddacb0ee58cd2e95fc42f541645c_max_476x317.jpeg",
+        "url": "property-photo/a747ddacb/91657878/a747ddacb0ee58cd2e95fc42f541645c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5961415b8/91657878/5961415b83184989a973487916dd8966_max_476x317.jpeg",
+        "url": "property-photo/5961415b8/91657878/5961415b83184989a973487916dd8966.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3668254ab/91657878/3668254abbc6220f735678e4c56027b1_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Highbury",
+  "addedOrReduced": "Added on 05/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
