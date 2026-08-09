@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-08T23:45:50.108030+00:00",
+  "postcode": "N4 2DN",
+  "id": 91792530,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "One-bedroom ground-floor garden flat located moments from Finsbury Park tube station (N4).\u00a0Offering 421 Sq.",
+  "displayAddress": "Rock Street, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.563919,
+    "longitude": -0.104197
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813_max_476x317.jpeg",
+      "url": "property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b238ab3e8/91792530/b238ab3e89cfb43eb609b890be588055_max_476x317.jpeg",
+      "url": "property-photo/b238ab3e8/91792530/b238ab3e89cfb43eb609b890be588055.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfe937158/91792530/cfe937158be2446496bcd692159665ed_max_476x317.jpeg",
+      "url": "property-photo/cfe937158/91792530/cfe937158be2446496bcd692159665ed.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d4fc45f9/91792530/3d4fc45f969c177b56f9e5d46bae6f78_max_476x317.jpeg",
+      "url": "property-photo/3d4fc45f9/91792530/3d4fc45f969c177b56f9e5d46bae6f78.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7564e4441/91792530/7564e444136b8478f0f8dab7265973ad_max_476x317.jpeg",
+      "url": "property-photo/7564e4441/91792530/7564e444136b8478f0f8dab7265973ad.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/832c794fe/91792530/832c794fe24f5f685b9bf5fd0e0b07b2_max_476x317.jpeg",
+      "url": "property-photo/832c794fe/91792530/832c794fe24f5f685b9bf5fd0e0b07b2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d970403ad/91792530/d970403ad842aba571048d2132778136_max_476x317.jpeg",
+      "url": "property-photo/d970403ad/91792530/d970403ad842aba571048d2132778136.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-08T10:57:07Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 80996,
+    "brandPlusLogoURI": "/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "contactTelephone": "020 3889 9038",
+    "branchDisplayName": "David Andrew, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Highbury-80996.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-05T10:12:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8769536-PRODUCTS_LOGO-1766063490.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91792530#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91792530",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-08T10:52:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-08T10:57:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three Piece Bathroom",
+      "htmlDescription": "Three Piece Bathroom"
+    },
+    {
+      "order": 2,
+      "description": "Separate Kitchen",
+      "htmlDescription": "Separate Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "One Double Bedroom",
+      "htmlDescription": "One Double Bedroom"
+    },
+    {
+      "order": 4,
+      "description": "Flexible Furnishings",
+      "htmlDescription": "Flexible Furnishings"
+    },
+    {
+      "order": 5,
+      "description": "Available 28th September 2026",
+      "htmlDescription": "Available 28th September 2026"
+    },
+    {
+      "order": 6,
+      "description": "2 Minute Walk To Finsbury Park Station",
+      "htmlDescription": "2 Minute Walk To Finsbury Park Station"
+    },
+    {
+      "order": 7,
+      "description": "Direct Access - Communal Garden",
+      "htmlDescription": "Direct Access - Communal Garden"
+    },
+    {
+      "order": 8,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813_max_476x317.jpeg",
+        "url": "property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b238ab3e8/91792530/b238ab3e89cfb43eb609b890be588055_max_476x317.jpeg",
+        "url": "property-photo/b238ab3e8/91792530/b238ab3e89cfb43eb609b890be588055.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cfe937158/91792530/cfe937158be2446496bcd692159665ed_max_476x317.jpeg",
+        "url": "property-photo/cfe937158/91792530/cfe937158be2446496bcd692159665ed.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d4fc45f9/91792530/3d4fc45f969c177b56f9e5d46bae6f78_max_476x317.jpeg",
+        "url": "property-photo/3d4fc45f9/91792530/3d4fc45f969c177b56f9e5d46bae6f78.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7564e4441/91792530/7564e444136b8478f0f8dab7265973ad_max_476x317.jpeg",
+        "url": "property-photo/7564e4441/91792530/7564e444136b8478f0f8dab7265973ad.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/832c794fe/91792530/832c794fe24f5f685b9bf5fd0e0b07b2_max_476x317.jpeg",
+        "url": "property-photo/832c794fe/91792530/832c794fe24f5f685b9bf5fd0e0b07b2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d970403ad/91792530/d970403ad842aba571048d2132778136_max_476x317.jpeg",
+        "url": "property-photo/d970403ad/91792530/d970403ad842aba571048d2132778136.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b18027261/91792530/b1802726145ec3b92a1ddfa7d123d813_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Highbury",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-09T00:46:10.373058+00:00",
+  "postcode": "N7 9GT",
+  "id": 91769280,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A stylish corporate apartment offering excellent access to Central London, with contemporary fixtures and fittings throughout. Benefiting from a private balcony and concierge service, this property is ideal for professionals seeking modern city living.",
+  "displayAddress": "Market Road London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54693,
+    "longitude": -0.1201
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e_max_476x317.jpeg",
+      "url": "property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/82f961384/91769280/82f961384bd1d06cd6184217751faea7_max_476x317.jpeg",
+      "url": "property-photo/82f961384/91769280/82f961384bd1d06cd6184217751faea7.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b64500f4b/91769280/b64500f4bbfe087bbdeae9dd5c3c31e7_max_476x317.jpeg",
+      "url": "property-photo/b64500f4b/91769280/b64500f4bbfe087bbdeae9dd5c3c31e7.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28e585234/91769280/28e5852342d6609ae8fa28cada443c5d_max_476x317.jpeg",
+      "url": "property-photo/28e585234/91769280/28e5852342d6609ae8fa28cada443c5d.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/064fbb2b2/91769280/064fbb2b2842a199a577516db36b75d3_max_476x317.jpeg",
+      "url": "property-photo/064fbb2b2/91769280/064fbb2b2842a199a577516db36b75d3.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a479b7c1d/91769280/a479b7c1d2b04ccccc337789467d1426_max_476x317.jpeg",
+      "url": "property-photo/a479b7c1d/91769280/a479b7c1d2b04ccccc337789467d1426.jpeg",
+      "caption": "Balcony"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-25T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-07T16:51:07Z"
+  },
+  "price": {
+    "amount": 525,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,275 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3525 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-03T08:03:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy information\n\nHamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED PERIODIC TENANCIES:\nHolding Deposit - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place:\nThe annual rent exceeds \u00a3100,000.\nThe property is occupied by an entity (Company let) rather that an individual.\nThe property is not used as a main or primary home.\nThere is a Resident Landlord.\nTenancy Setup Fee - \u00a3360 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee   Per Person \u00a360 inc VAT. Per Company \u00a3120 inc VAT\nTenancy Continuation - \u00a3300 inc VAT.\nChange of (Tenant) Householder - \u00a3300 inc VAT.\nEarly Termination Administration - \u00a3300 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per person, \u00a3120 inc vat per company.\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash.\nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91769280#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91769280",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-07T16:45:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-07T16:51:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Double Bedroom",
+      "htmlDescription": "One Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Fitted Storage",
+      "htmlDescription": "Fitted Storage"
+    },
+    {
+      "order": 4,
+      "description": "Open Plan Reception",
+      "htmlDescription": "Open Plan Reception "
+    },
+    {
+      "order": 5,
+      "description": "Modern Kitchen",
+      "htmlDescription": "Modern Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Integrated Appliances",
+      "htmlDescription": "Integrated Appliances"
+    },
+    {
+      "order": 7,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 8,
+      "description": "Concierge Facility",
+      "htmlDescription": "Concierge Facility"
+    },
+    {
+      "order": 9,
+      "description": "Close To Amenities",
+      "htmlDescription": "Close To Amenities"
+    },
+    {
+      "order": 10,
+      "description": "Council Tax - Band D",
+      "htmlDescription": "Council Tax - Band D "
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e_max_476x317.jpeg",
+        "url": "property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/82f961384/91769280/82f961384bd1d06cd6184217751faea7_max_476x317.jpeg",
+        "url": "property-photo/82f961384/91769280/82f961384bd1d06cd6184217751faea7.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b64500f4b/91769280/b64500f4bbfe087bbdeae9dd5c3c31e7_max_476x317.jpeg",
+        "url": "property-photo/b64500f4b/91769280/b64500f4bbfe087bbdeae9dd5c3c31e7.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28e585234/91769280/28e5852342d6609ae8fa28cada443c5d_max_476x317.jpeg",
+        "url": "property-photo/28e585234/91769280/28e5852342d6609ae8fa28cada443c5d.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/064fbb2b2/91769280/064fbb2b2842a199a577516db36b75d3_max_476x317.jpeg",
+        "url": "property-photo/064fbb2b2/91769280/064fbb2b2842a199a577516db36b75d3.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a479b7c1d/91769280/a479b7c1d2b04ccccc337789467d1426_max_476x317.jpeg",
+        "url": "property-photo/a479b7c1d/91769280/a479b7c1d2b04ccccc337789467d1426.jpeg",
+        "caption": "Balcony"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/941166f10/91769280/941166f10f107fbc5a7bfe68acbe790e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added on 07/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}
