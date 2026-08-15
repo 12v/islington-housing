@@ -1,0 +1,224 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-14T22:49:07.805902+00:00",
+  "postcode": "N19 3QN",
+  "id": 92036619,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 5,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Suberb spacious 1-bedroom flat with seperate living room, situated on the first floor of a converted period building on Hornsey Road within easy reach of Archway and Finsbury Park stations.",
+  "displayAddress": "Hornsey Road, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.5695,
+    "longitude": -0.12369
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997_max_476x317.jpeg",
+      "url": "property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61779d8e8/92036619/61779d8e8d478bd52e4755a5bb53a662_max_476x317.png",
+      "url": "property-photo/61779d8e8/92036619/61779d8e8d478bd52e4755a5bb53a662.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe60d2228/92036619/fe60d222818be590d58d4981a0ff1673_max_476x317.jpeg",
+      "url": "property-photo/fe60d2228/92036619/fe60d222818be590d58d4981a0ff1673.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6282e1583/92036619/6282e158313dde52ce4e36066501b184_max_476x317.jpeg",
+      "url": "property-photo/6282e1583/92036619/6282e158313dde52ce4e36066501b184.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b195c6f1c/92036619/b195c6f1c6d7908fae8a62cbdaca13fd_max_476x317.png",
+      "url": "property-photo/b195c6f1c/92036619/b195c6f1c6d7908fae8a62cbdaca13fd.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-14T18:10:06Z"
+  },
+  "price": {
+    "amount": 1500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3346 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3346.15) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a31730.77) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "496 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92036619#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92036619",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-14T18:04:24Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-14T18:10:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Well presented one-bedroom flat",
+      "htmlDescription": "Well presented one-bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Separate and bright reception room",
+      "htmlDescription": "Separate and bright reception room"
+    },
+    {
+      "order": 3,
+      "description": "Fitted kitchen with gas hob",
+      "htmlDescription": "Fitted kitchen with gas hob"
+    },
+    {
+      "order": 4,
+      "description": "Eat-In Kitchen",
+      "htmlDescription": "Eat-In Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 6,
+      "description": "Energy Rating : D",
+      "htmlDescription": "Energy Rating : D"
+    },
+    {
+      "order": 7,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 8,
+      "description": "Freestanding fridge freezer",
+      "htmlDescription": "Freestanding fridge freezer"
+    },
+    {
+      "order": 9,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 10,
+      "description": "Excellent access to Archway and Finsbury Park",
+      "htmlDescription": "Excellent access to Archway and Finsbury Park"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997_max_476x317.jpeg",
+        "url": "property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61779d8e8/92036619/61779d8e8d478bd52e4755a5bb53a662_max_476x317.png",
+        "url": "property-photo/61779d8e8/92036619/61779d8e8d478bd52e4755a5bb53a662.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe60d2228/92036619/fe60d222818be590d58d4981a0ff1673_max_476x317.jpeg",
+        "url": "property-photo/fe60d2228/92036619/fe60d222818be590d58d4981a0ff1673.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6282e1583/92036619/6282e158313dde52ce4e36066501b184_max_476x317.jpeg",
+        "url": "property-photo/6282e1583/92036619/6282e158313dde52ce4e36066501b184.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b195c6f1c/92036619/b195c6f1c6d7908fae8a62cbdaca13fd_max_476x317.png",
+        "url": "property-photo/b195c6f1c/92036619/b195c6f1c6d7908fae8a62cbdaca13fd.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224afa3ba/92036619/224afa3ba2bae54becf683a59578a997_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

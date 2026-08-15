@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-14T22:28:17.646572+00:00",
+  "postcode": "N1 8HQ",
+  "id": 91823886,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Excellent studio flat in the heart of Angel. A highly sought after studio located close on Noel Road. Accommodation comprises large and spacious lounge/bedroom area with a fitted separate kitchen and separate bathroom Additional features are high ceilings, wood floorin...",
+  "displayAddress": "Noel Road, Angel, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533492,
+    "longitude": -0.101306
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f_max_476x317.jpeg",
+      "url": "property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cc152b49/91823886/3cc152b49df3e2e0254f834e1a609830_max_476x317.jpeg",
+      "url": "property-photo/3cc152b49/91823886/3cc152b49df3e2e0254f834e1a609830.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a2697b9d/91823886/6a2697b9d21d463d7bb64bc82dcb2304_max_476x317.jpeg",
+      "url": "property-photo/6a2697b9d/91823886/6a2697b9d21d463d7bb64bc82dcb2304.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40f1755ea/91823886/40f1755eac9ff2a01a18e31b3f029714_max_476x317.jpeg",
+      "url": "property-photo/40f1755ea/91823886/40f1755eac9ff2a01a18e31b3f029714.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bfffd621/91823886/4bfffd62137e8c3c121d409ff58debd0_max_476x317.jpeg",
+      "url": "property-photo/4bfffd621/91823886/4bfffd62137e8c3c121d409ff58debd0.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d899f9fd/91823886/7d899f9fd0bb65732610cb1bf5b9568c_max_476x317.jpeg",
+      "url": "property-photo/7d899f9fd/91823886/7d899f9fd0bb65732610cb1bf5b9568c.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42cdccce4/91823886/42cdccce4e34e372d2e69fcbbfd32906_max_476x317.jpeg",
+      "url": "property-photo/42cdccce4/91823886/42cdccce4e34e372d2e69fcbbfd32906.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb48e05a/91823886/4eb48e05a05d415bdefa1cc67a85dcbe_max_476x317.jpeg",
+      "url": "property-photo/4eb48e05a/91823886/4eb48e05a05d415bdefa1cc67a85dcbe.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf64f1046/91823886/bf64f10466dbad188ca8209131dce4c4_max_476x317.jpeg",
+      "url": "property-photo/bf64f1046/91823886/bf64f10466dbad188ca8209131dce4c4.jpeg",
+      "caption": "Picture No. 14"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-08-14T11:38:27Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 55326,
+    "brandPlusLogoURI": "/partner-logo/27687716-PRODUCTS_LOGO-1766060823.jpeg",
+    "contactTelephone": "020 3909 9616",
+    "branchDisplayName": "Ellis & Co, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Ellis & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Ellis-and-Co/Islington-55326.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:45Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27687716-PRODUCTS_LOGO-1766060823.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Fees apply\n<br /><br />\nIf your tenancy is due to start before 1st June 2019 different fees apply. Please contact your local office.\n<br /><br />\nNew assured shorthold tenancies (ASTs) tenant fees\n<br /><br />\nHolding Deposit: One week's rent. (This is to reserve a property. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and/or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).\n<br /><br />\nSecurity Deposit (per tenancy. Rent under \u00a350,000 per year): Five weeks' rent. (This covers damages or defaults on the part of the tenant during the tenancy)\n<br /><br />\nSecurity Deposit (per tenancy. Rent of \u00a350,000 or over per year): Six weeks' rent. (This covers damages or defaults on the part of the tenant during the tenancy)\n<br /><br />\nUnpaid Rent: Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears.\n<br /><br />\nLost Key(s) or other Security Device(s): Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant. If extra costs are incurred there will be a charge of \u00a315 per hour (inc. VAT) for the time taken replacing lost key(s) or other security device(s).\n<br /><br />\nVariation of Contract \u00a350 (inc. VAT) per agreed variation. (To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents)\n<br /><br />\nChange of Sharer \u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. (To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents.\n<br /><br />\nEarly Termination: Should the tenant wish to leave their contract early, they shall be liable to the landlord's costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy.\n<br /><br />\nClient Money Protection (CMP): UKALA<br /><br />\nRedress scheme: The Property Ombudsman<br /><br />",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91823886#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91823886",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-10T10:33:10Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-14T11:38:27Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Wooden Floors",
+      "htmlDescription": "Wooden Floors"
+    },
+    {
+      "order": 2,
+      "description": "Separate Kitchen",
+      "htmlDescription": "Separate Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Communal Garden with designate storage unit",
+      "htmlDescription": "Communal Garden with designate storage unit"
+    },
+    {
+      "order": 4,
+      "description": "Walking Distance to Angel Tube Station",
+      "htmlDescription": "Walking Distance to Angel Tube Station"
+    },
+    {
+      "order": 5,
+      "description": "Stone\u2019s throw from the Canal",
+      "htmlDescription": "Stone\u2019s throw from the Canal"
+    },
+    {
+      "order": 6,
+      "description": "Next to Camden Passage",
+      "htmlDescription": "Next to Camden Passage"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://youtube.com/shorts/7Oww3K3lgcY?feature=share",
+      "provider": "YOUTUBE"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f_max_476x317.jpeg",
+        "url": "property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3cc152b49/91823886/3cc152b49df3e2e0254f834e1a609830_max_476x317.jpeg",
+        "url": "property-photo/3cc152b49/91823886/3cc152b49df3e2e0254f834e1a609830.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a2697b9d/91823886/6a2697b9d21d463d7bb64bc82dcb2304_max_476x317.jpeg",
+        "url": "property-photo/6a2697b9d/91823886/6a2697b9d21d463d7bb64bc82dcb2304.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40f1755ea/91823886/40f1755eac9ff2a01a18e31b3f029714_max_476x317.jpeg",
+        "url": "property-photo/40f1755ea/91823886/40f1755eac9ff2a01a18e31b3f029714.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bfffd621/91823886/4bfffd62137e8c3c121d409ff58debd0_max_476x317.jpeg",
+        "url": "property-photo/4bfffd621/91823886/4bfffd62137e8c3c121d409ff58debd0.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d899f9fd/91823886/7d899f9fd0bb65732610cb1bf5b9568c_max_476x317.jpeg",
+        "url": "property-photo/7d899f9fd/91823886/7d899f9fd0bb65732610cb1bf5b9568c.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/42cdccce4/91823886/42cdccce4e34e372d2e69fcbbfd32906_max_476x317.jpeg",
+        "url": "property-photo/42cdccce4/91823886/42cdccce4e34e372d2e69fcbbfd32906.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4eb48e05a/91823886/4eb48e05a05d415bdefa1cc67a85dcbe_max_476x317.jpeg",
+        "url": "property-photo/4eb48e05a/91823886/4eb48e05a05d415bdefa1cc67a85dcbe.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf64f1046/91823886/bf64f10466dbad188ca8209131dce4c4_max_476x317.jpeg",
+        "url": "property-photo/bf64f1046/91823886/bf64f10466dbad188ca8209131dce4c4.jpeg",
+        "caption": "Picture No. 14"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c0f8866b/91823886/0c0f8866b191e05f675bb7ce76cf9a9f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ellis & Co, Islington",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
