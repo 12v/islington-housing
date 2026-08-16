@@ -1,0 +1,133 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-15T22:52:57.487627+00:00",
+  "postcode": "N19 4JN",
+  "id": 91985619,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Frestons are delighted to privately market this single room to rent in Archway, N19 (photos available).",
+  "displayAddress": "Archway, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.563048,
+    "longitude": -0.121113
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2_max_476x317.jpeg",
+      "url": "property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-13T16:34:08Z"
+  },
+  "price": {
+    "amount": 875,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a3875 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3202 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 259079,
+    "brandPlusLogoURI": "/partner-logo/29977691-PRODUCTS_LOGO-1766062208.png",
+    "contactTelephone": "020 4538 6103",
+    "branchDisplayName": "Frestons, Covering London and the Home Counties",
+    "branchName": "Covering London and the Home Counties",
+    "brandTradingName": "Frestons",
+    "branchLandingPageUrl": "/estate-agents/agent/Frestons/Covering-London-and-the-Home-Counties-259079.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/29977691-PRODUCTS_LOGO-1766062208.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes). For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees. It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91985619#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91985619",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-13T16:28:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-15T00:16:43Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2_max_476x317.jpeg",
+        "url": "property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/023454ab4/91985619/023454ab4c8c930a10ecaf971a9f23f2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Frestons, Covering London and the Home Counties",
+  "addedOrReduced": "Added on 13/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house share",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
