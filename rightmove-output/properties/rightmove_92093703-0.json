@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-18T00:05:34.983620+00:00",
+  "postcode": "N7 0EF",
+  "id": 92093703,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented studio flat situated within a desirable private gated development, conveniently located just a short walk from Holloway Road Station and a wide range of local amenities. The property offers a bright and spacious living and sleeping area, a well-equipped fitted kitchen,...",
+  "displayAddress": "Moriatry Close, Parkhurst Road, Islington, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556431,
+    "longitude": -0.122261
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d_max_476x317.jpeg",
+      "url": "property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abcefe696/92093703/abcefe6964829a2589939bec1cc5f8fb_max_476x317.jpeg",
+      "url": "property-photo/abcefe696/92093703/abcefe6964829a2589939bec1cc5f8fb.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b5e2bf5e/92093703/9b5e2bf5eea4af1f706979d804ccbbff_max_476x317.jpeg",
+      "url": "property-photo/9b5e2bf5e/92093703/9b5e2bf5eea4af1f706979d804ccbbff.jpeg",
+      "caption": "Picture No. 24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7e83a9e9/92093703/e7e83a9e97a22aa5708abcf78b725f6d_max_476x317.jpeg",
+      "url": "property-photo/e7e83a9e9/92093703/e7e83a9e97a22aa5708abcf78b725f6d.jpeg",
+      "caption": "Picture No. 26"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4555af51a/92093703/4555af51a1c0e03cf905e9986ce404ee_max_476x317.jpeg",
+      "url": "property-photo/4555af51a/92093703/4555af51a1c0e03cf905e9986ce404ee.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3816a7026/92093703/3816a7026e0ce197623da0b260445003_max_476x317.jpeg",
+      "url": "property-photo/3816a7026/92093703/3816a7026e0ce197623da0b260445003.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd99fb7ea/92093703/dd99fb7ea144e866903f96fe9c860f04_max_476x317.jpeg",
+      "url": "property-photo/dd99fb7ea/92093703/dd99fb7ea144e866903f96fe9c860f04.jpeg",
+      "caption": "Picture No. 25"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-17T16:41:12Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-18T12:33:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92093703#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92093703",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-17T16:35:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-17T16:41:12Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious studio living/sleeping area",
+      "htmlDescription": "Spacious studio living/sleeping area"
+    },
+    {
+      "order": 2,
+      "description": "Fitted kitchen",
+      "htmlDescription": "Fitted kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Private bathroom",
+      "htmlDescription": "Private bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Private gated development",
+      "htmlDescription": "Private gated development"
+    },
+    {
+      "order": 5,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Short walk to Holloway Road Station",
+      "htmlDescription": "Short walk to Holloway Road Station"
+    },
+    {
+      "order": 7,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 8,
+      "description": "Close to shops, caf\u00e9s, restaurants and local amenities",
+      "htmlDescription": "Close to shops, caf\u00e9s, restaurants and local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d_max_476x317.jpeg",
+        "url": "property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/abcefe696/92093703/abcefe6964829a2589939bec1cc5f8fb_max_476x317.jpeg",
+        "url": "property-photo/abcefe696/92093703/abcefe6964829a2589939bec1cc5f8fb.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9b5e2bf5e/92093703/9b5e2bf5eea4af1f706979d804ccbbff_max_476x317.jpeg",
+        "url": "property-photo/9b5e2bf5e/92093703/9b5e2bf5eea4af1f706979d804ccbbff.jpeg",
+        "caption": "Picture No. 24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7e83a9e9/92093703/e7e83a9e97a22aa5708abcf78b725f6d_max_476x317.jpeg",
+        "url": "property-photo/e7e83a9e9/92093703/e7e83a9e97a22aa5708abcf78b725f6d.jpeg",
+        "caption": "Picture No. 26"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4555af51a/92093703/4555af51a1c0e03cf905e9986ce404ee_max_476x317.jpeg",
+        "url": "property-photo/4555af51a/92093703/4555af51a1c0e03cf905e9986ce404ee.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3816a7026/92093703/3816a7026e0ce197623da0b260445003_max_476x317.jpeg",
+        "url": "property-photo/3816a7026/92093703/3816a7026e0ce197623da0b260445003.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd99fb7ea/92093703/dd99fb7ea144e866903f96fe9c860f04_max_476x317.jpeg",
+        "url": "property-photo/dd99fb7ea/92093703/dd99fb7ea144e866903f96fe9c860f04.jpeg",
+        "caption": "Picture No. 25"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef1b52238/92093703/ef1b52238d5eea608e9dc8f2adc7164d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
