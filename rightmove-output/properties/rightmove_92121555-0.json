@@ -1,0 +1,244 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-19T00:30:40.484601+00:00",
+  "postcode": "N7 9DB",
+  "id": 92121555,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious three-bedroom split-level apartment, ideally located just moments from Caledonian Road Underground Station. The property offers well-proportioned accommodation with modern open-plan living and the added benefit of a private garden. The apartment comprises a bright and welcom...",
+  "displayAddress": "Kelby House, Sutterton Street, Islington, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.544362,
+    "longitude": -0.118278
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e_max_476x317.jpeg",
+      "url": "property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b8173808/92121555/6b817380807ad0db28b17c0fecfc5c07_max_476x317.jpeg",
+      "url": "property-photo/6b8173808/92121555/6b817380807ad0db28b17c0fecfc5c07.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f93efe3e/92121555/3f93efe3e3fd5347e7bf615a5fd686de_max_476x317.jpeg",
+      "url": "property-photo/3f93efe3e/92121555/3f93efe3e3fd5347e7bf615a5fd686de.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37cf41032/92121555/37cf41032e5e2879d844c7d59d6505e0_max_476x317.jpeg",
+      "url": "property-photo/37cf41032/92121555/37cf41032e5e2879d844c7d59d6505e0.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd6c78f95/92121555/cd6c78f952ab1a795e19e3676c3c84ac_max_476x317.jpeg",
+      "url": "property-photo/cd6c78f95/92121555/cd6c78f952ab1a795e19e3676c3c84ac.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edc5ad8de/92121555/edc5ad8decaddbc2e0487a958a4a23f4_max_476x317.jpeg",
+      "url": "property-photo/edc5ad8de/92121555/edc5ad8decaddbc2e0487a958a4a23f4.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3630e05c3/92121555/3630e05c36d1155f749599e3d671ed59_max_476x317.jpeg",
+      "url": "property-photo/3630e05c3/92121555/3630e05c36d1155f749599e3d671ed59.jpeg",
+      "caption": "Picture No. 01"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-08-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-18T12:31:05Z"
+  },
+  "price": {
+    "amount": 3950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3912 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-18T12:33:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92121555#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92121555",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-18T12:25:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-18T20:40:19Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Three-bedroom split-level apartment",
+      "htmlDescription": "Three-bedroom split-level apartment"
+    },
+    {
+      "order": 2,
+      "description": "Private garden",
+      "htmlDescription": "Private garden"
+    },
+    {
+      "order": 3,
+      "description": "Moments from Caledonian Road Underground Station",
+      "htmlDescription": "Moments from Caledonian Road Underground Station"
+    },
+    {
+      "order": 4,
+      "description": "Spacious open-plan living area",
+      "htmlDescription": "Spacious open-plan living area"
+    },
+    {
+      "order": 5,
+      "description": "Fitted kitchen",
+      "htmlDescription": "Fitted kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 7,
+      "description": "En-suite to master bedroom",
+      "htmlDescription": "En-suite to master bedroom"
+    },
+    {
+      "order": 8,
+      "description": "Family bathroom",
+      "htmlDescription": "Family bathroom"
+    },
+    {
+      "order": 9,
+      "description": "Excellent storage throughout",
+      "htmlDescription": "Excellent storage throughout"
+    },
+    {
+      "order": 10,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e_max_476x317.jpeg",
+        "url": "property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b8173808/92121555/6b817380807ad0db28b17c0fecfc5c07_max_476x317.jpeg",
+        "url": "property-photo/6b8173808/92121555/6b817380807ad0db28b17c0fecfc5c07.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f93efe3e/92121555/3f93efe3e3fd5347e7bf615a5fd686de_max_476x317.jpeg",
+        "url": "property-photo/3f93efe3e/92121555/3f93efe3e3fd5347e7bf615a5fd686de.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37cf41032/92121555/37cf41032e5e2879d844c7d59d6505e0_max_476x317.jpeg",
+        "url": "property-photo/37cf41032/92121555/37cf41032e5e2879d844c7d59d6505e0.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cd6c78f95/92121555/cd6c78f952ab1a795e19e3676c3c84ac_max_476x317.jpeg",
+        "url": "property-photo/cd6c78f95/92121555/cd6c78f952ab1a795e19e3676c3c84ac.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/edc5ad8de/92121555/edc5ad8decaddbc2e0487a958a4a23f4_max_476x317.jpeg",
+        "url": "property-photo/edc5ad8de/92121555/edc5ad8decaddbc2e0487a958a4a23f4.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3630e05c3/92121555/3630e05c36d1155f749599e3d671ed59_max_476x317.jpeg",
+        "url": "property-photo/3630e05c3/92121555/3630e05c36d1155f749599e3d671ed59.jpeg",
+        "caption": "Picture No. 01"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc20e3b7c/92121555/bc20e3b7ca13010e4be65249ca9a987e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
