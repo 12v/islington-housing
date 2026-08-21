@@ -1,0 +1,224 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-20T22:58:58.414328+00:00",
+  "postcode": "N19 4EF",
+  "id": 92209488,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Stunning brand newly refurbished studio apartment to rent in Finsbury Park, located on Hornsey Road, N19. This selection of 9 new apartments are available now, refurbished to a high specification throughout each apartment has its own luxury en-suite bathroom and luxury modern kitchen in the studi...",
+  "displayAddress": "Hornsey Road, Finsbury Park, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56765,
+    "longitude": -0.12242
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2_max_476x317.jpeg",
+      "url": "property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2.jpeg",
+      "caption": "NDB08943_Enfused"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba4ebdd2a/92209488/ba4ebdd2acfc424dbb66dbd76c49fdda_max_476x317.jpeg",
+      "url": "property-photo/ba4ebdd2a/92209488/ba4ebdd2acfc424dbb66dbd76c49fdda.jpeg",
+      "caption": "NDB08948_Enfused"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/658f6224a/92209488/658f6224ac15814508bfa9fbfd80e072_max_476x317.jpeg",
+      "url": "property-photo/658f6224a/92209488/658f6224ac15814508bfa9fbfd80e072.jpeg",
+      "caption": "NDB08953_Enfused-..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/068857b95/92209488/068857b95a90a899cf35836cb586040c_max_476x317.jpeg",
+      "url": "property-photo/068857b95/92209488/068857b95a90a899cf35836cb586040c.jpeg",
+      "caption": "NDB08958_Enfused"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2d65c711/92209488/e2d65c7119070a09eb08c0b99787576c_max_476x317.jpeg",
+      "url": "property-photo/e2d65c711/92209488/e2d65c7119070a09eb08c0b99787576c.jpeg",
+      "caption": "NDB08963_Enfused"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b8baff2b/92209488/1b8baff2b0a27be08f97b7c3a9bb06e9_max_476x317.jpeg",
+      "url": "property-photo/1b8baff2b/92209488/1b8baff2b0a27be08f97b7c3a9bb06e9.jpeg",
+      "caption": "NDB08938_Enfused"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94e9d05d8/92209488/94e9d05d8bd683ccab8de0eb1d5aab22_max_476x317.jpeg",
+      "url": "property-photo/94e9d05d8/92209488/94e9d05d8bd683ccab8de0eb1d5aab22.jpeg",
+      "caption": "NDB08968-Edit"
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-20T11:45:08Z"
+  },
+  "price": {
+    "amount": 1500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3346 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 176261,
+    "brandPlusLogoURI": "/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "contactTelephone": "020 3889 9033",
+    "branchDisplayName": "David Astburys Ltd, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "David Astburys Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys-Ltd/Crouch-End-176261.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:05:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/18668327-PRODUCTS_LOGO-1766066201.jpeg",
+    "primaryBrandColour": "#9b2743"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Company Information \n\n David Astburys Ltd \n Company Registration Number: 10474483 \n Registered Office: 27 Mortimer Street, London, W1T 3BL \n\n Tenant Fees / Permitted Payments \n- Holding Deposit: One week's rent \n- Security Deposit: Five weeks' rent (under \u00a350,000 per annum) or six weeks' rent (over \u00a350,000 per annum) \n\n Permitted payments during the tenancy include: \n- \u00a350 (inc. VAT) for variation of contract \n- \u00a350 (inc. VAT) for change of sharer \n- Interest on unpaid rent at 3% (3.6% inc VAT) above the Bank of England Base Rate (applicable after 14 days) \n- Reasonable costs for lost keys or security devices \n- Reasonable costs associated with early termination of the tenancy \n\n Client Money Protection \n\n David Astburys is a member of the Propertymark Client Money Protection Scheme. \n\n Our membership is available on our website .davidastburys.com \n\n Redress Scheme \n\n David Astburys is a member of The Property Ombudsman Scheme (Membership No. T08450). \n\n Our membership certificate is available on our website .davidastburys.com \n\n If you have any further questions about our fees, please contact a member of staff  ",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92209488#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92209488",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-20T11:39:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-20T11:45:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Brand New Apartment",
+      "htmlDescription": "Brand New Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Modern High Spec Kitchen",
+      "htmlDescription": "Modern High Spec Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Modern High Spec Bathroom",
+      "htmlDescription": "Modern High Spec Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Studio Apartment",
+      "htmlDescription": "Studio Apartment"
+    },
+    {
+      "order": 5,
+      "description": "Close to Archway Station",
+      "htmlDescription": "Close to Archway Station"
+    },
+    {
+      "order": 6,
+      "description": "Close to Crouch Hill Station",
+      "htmlDescription": "Close to Crouch Hill Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2_max_476x317.jpeg",
+        "url": "property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2.jpeg",
+        "caption": "NDB08943_Enfused"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba4ebdd2a/92209488/ba4ebdd2acfc424dbb66dbd76c49fdda_max_476x317.jpeg",
+        "url": "property-photo/ba4ebdd2a/92209488/ba4ebdd2acfc424dbb66dbd76c49fdda.jpeg",
+        "caption": "NDB08948_Enfused"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/658f6224a/92209488/658f6224ac15814508bfa9fbfd80e072_max_476x317.jpeg",
+        "url": "property-photo/658f6224a/92209488/658f6224ac15814508bfa9fbfd80e072.jpeg",
+        "caption": "NDB08953_Enfused-..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/068857b95/92209488/068857b95a90a899cf35836cb586040c_max_476x317.jpeg",
+        "url": "property-photo/068857b95/92209488/068857b95a90a899cf35836cb586040c.jpeg",
+        "caption": "NDB08958_Enfused"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2d65c711/92209488/e2d65c7119070a09eb08c0b99787576c_max_476x317.jpeg",
+        "url": "property-photo/e2d65c711/92209488/e2d65c7119070a09eb08c0b99787576c.jpeg",
+        "caption": "NDB08963_Enfused"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b8baff2b/92209488/1b8baff2b0a27be08f97b7c3a9bb06e9_max_476x317.jpeg",
+        "url": "property-photo/1b8baff2b/92209488/1b8baff2b0a27be08f97b7c3a9bb06e9.jpeg",
+        "caption": "NDB08938_Enfused"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94e9d05d8/92209488/94e9d05d8bd683ccab8de0eb1d5aab22_max_476x317.jpeg",
+        "url": "property-photo/94e9d05d8/92209488/94e9d05d8bd683ccab8de0eb1d5aab22.jpeg",
+        "caption": "NDB08968-Edit"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf245c9c/92209488/bbf245c9c5508e50a5c045c9373a1cf2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys Ltd, Crouch End",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

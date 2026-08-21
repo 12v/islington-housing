@@ -1,0 +1,204 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-20T21:11:28.796159+00:00",
+  "postcode": "EC1V 3RF",
+  "id": 92139654,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A superb two-bedroom, two-bathroom apartment, available early September",
+  "displayAddress": "Seward Street, LONDON",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.526306,
+    "longitude": -0.098234
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605_max_476x317.jpeg",
+      "url": "property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a37e17ce6/92139654/a37e17ce6aa2a98b1f7754e79518985f_max_476x317.jpeg",
+      "url": "property-photo/a37e17ce6/92139654/a37e17ce6aa2a98b1f7754e79518985f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcbc4b4b4/92139654/dcbc4b4b4b463c4d65c2a3d026efde54_max_476x317.jpeg",
+      "url": "property-photo/dcbc4b4b4/92139654/dcbc4b4b4b463c4d65c2a3d026efde54.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f507fd308/92139654/f507fd308d5b203bd6d5681d05f4a6c3_max_476x317.jpeg",
+      "url": "property-photo/f507fd308/92139654/f507fd308d5b203bd6d5681d05f4a6c3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/468ca6370/92139654/468ca63701b5b43b6be2354ee677db70_max_476x317.jpeg",
+      "url": "property-photo/468ca6370/92139654/468ca63701b5b43b6be2354ee677db70.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ad627fd2/92139654/9ad627fd2601cf4a82ff930c7fb62038_max_476x317.jpeg",
+      "url": "property-photo/9ad627fd2/92139654/9ad627fd2601cf4a82ff930c7fb62038.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-18T17:10:05Z"
+  },
+  "price": {
+    "amount": 2800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3646 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 11478,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3840 3862",
+    "branchDisplayName": "Felicity J Lord, Clerkenwell Lettings",
+    "branchName": "Clerkenwell Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Clerkenwell-Lettings-11478.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-15T15:32:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92139654#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92139654",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-18T17:04:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-19T10:25:01Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "Lift Access",
+      "htmlDescription": "Lift Access"
+    },
+    {
+      "order": 3,
+      "description": "Close proximity to Barbican & Farringdon Station",
+      "htmlDescription": "Close proximity to Barbican & Farringdon Station"
+    },
+    {
+      "order": 4,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605_max_476x317.jpeg",
+        "url": "property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a37e17ce6/92139654/a37e17ce6aa2a98b1f7754e79518985f_max_476x317.jpeg",
+        "url": "property-photo/a37e17ce6/92139654/a37e17ce6aa2a98b1f7754e79518985f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dcbc4b4b4/92139654/dcbc4b4b4b463c4d65c2a3d026efde54_max_476x317.jpeg",
+        "url": "property-photo/dcbc4b4b4/92139654/dcbc4b4b4b463c4d65c2a3d026efde54.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f507fd308/92139654/f507fd308d5b203bd6d5681d05f4a6c3_max_476x317.jpeg",
+        "url": "property-photo/f507fd308/92139654/f507fd308d5b203bd6d5681d05f4a6c3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/468ca6370/92139654/468ca63701b5b43b6be2354ee677db70_max_476x317.jpeg",
+        "url": "property-photo/468ca6370/92139654/468ca63701b5b43b6be2354ee677db70.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ad627fd2/92139654/9ad627fd2601cf4a82ff930c7fb62038_max_476x317.jpeg",
+        "url": "property-photo/9ad627fd2/92139654/9ad627fd2601cf4a82ff930c7fb62038.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ad39f2b0/92139654/2ad39f2b0f54b74831d89cfa13a62605_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Clerkenwell Lettings",
+  "addedOrReduced": "Added on 18/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,254 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-20T22:53:31.698367+00:00",
+  "postcode": "N19 3RJ",
+  "id": 92223117,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Ariston Property is delighted to present this exceptional 3 bedroom purpose built flat, within easy reach of Archway station, Whittington hospital and an array of local amenities.",
+  "displayAddress": "St Johns Way, Archway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56999,
+    "longitude": -0.1281
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac_max_476x317.jpeg",
+      "url": "property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51e0a809c/92223117/51e0a809cf9acf26b0368f30e3dbb136_max_476x317.jpeg",
+      "url": "property-photo/51e0a809c/92223117/51e0a809cf9acf26b0368f30e3dbb136.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78cbc1fef/92223117/78cbc1fef5d659940363e55d6eec814d_max_476x317.jpeg",
+      "url": "property-photo/78cbc1fef/92223117/78cbc1fef5d659940363e55d6eec814d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8521bdb7/92223117/f8521bdb7ab34b006f45df79f8a4fb1f_max_476x317.jpeg",
+      "url": "property-photo/f8521bdb7/92223117/f8521bdb7ab34b006f45df79f8a4fb1f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b93869dcc/92223117/b93869dcc931f246da52c2656c15c638_max_476x317.jpeg",
+      "url": "property-photo/b93869dcc/92223117/b93869dcc931f246da52c2656c15c638.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0cd0aff03/92223117/0cd0aff03013e177889e1b2311b4742a_max_476x317.jpeg",
+      "url": "property-photo/0cd0aff03/92223117/0cd0aff03013e177889e1b2311b4742a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4f74184a/92223117/b4f74184a6566319c33285764319362e_max_476x317.jpeg",
+      "url": "property-photo/b4f74184a/92223117/b4f74184a6566319c33285764319362e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e93eeda3/92223117/1e93eeda3712c873335326c98d62b7c3_max_476x317.jpeg",
+      "url": "property-photo/1e93eeda3/92223117/1e93eeda3712c873335326c98d62b7c3.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-20T15:26:07Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3565.38) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32826.92) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92223117#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92223117",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-20T15:20:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-20T15:26:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Flat",
+      "htmlDescription": "Flat"
+    },
+    {
+      "order": 2,
+      "description": "3 Beds",
+      "htmlDescription": "3 Beds"
+    },
+    {
+      "order": 3,
+      "description": "1 Reception",
+      "htmlDescription": "1 Reception"
+    },
+    {
+      "order": 4,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Garden",
+      "htmlDescription": "Garden"
+    },
+    {
+      "order": 6,
+      "description": "Energy Rating : C",
+      "htmlDescription": "Energy Rating : C"
+    },
+    {
+      "order": 7,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 8,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 9,
+      "description": "Shower",
+      "htmlDescription": "Shower"
+    },
+    {
+      "order": 10,
+      "description": "Separate WC",
+      "htmlDescription": "Separate WC"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac_max_476x317.jpeg",
+        "url": "property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51e0a809c/92223117/51e0a809cf9acf26b0368f30e3dbb136_max_476x317.jpeg",
+        "url": "property-photo/51e0a809c/92223117/51e0a809cf9acf26b0368f30e3dbb136.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78cbc1fef/92223117/78cbc1fef5d659940363e55d6eec814d_max_476x317.jpeg",
+        "url": "property-photo/78cbc1fef/92223117/78cbc1fef5d659940363e55d6eec814d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8521bdb7/92223117/f8521bdb7ab34b006f45df79f8a4fb1f_max_476x317.jpeg",
+        "url": "property-photo/f8521bdb7/92223117/f8521bdb7ab34b006f45df79f8a4fb1f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b93869dcc/92223117/b93869dcc931f246da52c2656c15c638_max_476x317.jpeg",
+        "url": "property-photo/b93869dcc/92223117/b93869dcc931f246da52c2656c15c638.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0cd0aff03/92223117/0cd0aff03013e177889e1b2311b4742a_max_476x317.jpeg",
+        "url": "property-photo/0cd0aff03/92223117/0cd0aff03013e177889e1b2311b4742a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4f74184a/92223117/b4f74184a6566319c33285764319362e_max_476x317.jpeg",
+        "url": "property-photo/b4f74184a/92223117/b4f74184a6566319c33285764319362e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e93eeda3/92223117/1e93eeda3712c873335326c98d62b7c3_max_476x317.jpeg",
+        "url": "property-photo/1e93eeda3/92223117/1e93eeda3712c873335326c98d62b7c3.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ab415f96/92223117/1ab415f961b5df47906bffa9d398b0ac_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

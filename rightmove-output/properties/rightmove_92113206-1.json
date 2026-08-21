@@ -1,0 +1,149 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-20T21:44:30.847248+00:00",
+  "postcode": "N1 0HX",
+  "id": 92113206,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Nestled in the charming area of Barnsbury, Cloudesley Street presents a delightful opportunity to acquire a beautiful split-level one-bedroom apartment. This property is perfect for those seeking a blend of modern living and classic character in the heart of Islington. Upon entering, you...",
+  "displayAddress": "Cloudesley Street, Islington, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.535804,
+    "longitude": -0.108343
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343_max_476x317.jpeg",
+      "url": "property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-18T10:30:13Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 201083,
+    "brandPlusLogoURI": "/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "contactTelephone": "020 3840 3380",
+    "branchDisplayName": "Hemmingfords, London",
+    "branchName": "London",
+    "brandTradingName": "Hemmingfords",
+    "branchLandingPageUrl": "/estate-agents/agent/Hemmingfords/London-201083.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-03T14:37:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92113206#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92113206",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-18T10:24:45Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-18T10:46:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Excellent location",
+      "htmlDescription": "Excellent location"
+    },
+    {
+      "order": 2,
+      "description": "Arranged over two floors",
+      "htmlDescription": "Arranged over two floors"
+    },
+    {
+      "order": 3,
+      "description": "Period conversion",
+      "htmlDescription": "Period conversion"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343_max_476x317.jpeg",
+        "url": "property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4a2fbd75/92113206/f4a2fbd75accd55838ad601aa8144343_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hemmingfords, London",
+  "addedOrReduced": "Added on 18/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
