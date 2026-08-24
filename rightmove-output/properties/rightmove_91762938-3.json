@@ -1,0 +1,244 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-23T22:28:08.297835+00:00",
+  "postcode": "N1 9JA",
+  "id": 91762938,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Two bed apartment, Cumming Street N1 | 71 sqm | Available 5 September | Private balcony | Residents parking, Zone B | Marble-tiled bathroom | Under 10 min walk to King's Cross",
+  "displayAddress": "Cumming Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53203,
+    "longitude": -0.11596
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e_max_476x317.jpeg",
+      "url": "property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fbaf27221/91762938/fbaf27221e51341b79eb37444723b1d9_max_476x317.jpeg",
+      "url": "property-photo/fbaf27221/91762938/fbaf27221e51341b79eb37444723b1d9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac270a552/91762938/ac270a552ee1678f244d013b3a4f954c_max_476x317.jpeg",
+      "url": "property-photo/ac270a552/91762938/ac270a552ee1678f244d013b3a4f954c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c11b8bca/91762938/5c11b8bca18821cca4b189f9026c4c59_max_476x317.jpeg",
+      "url": "property-photo/5c11b8bca/91762938/5c11b8bca18821cca4b189f9026c4c59.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ca992543/91762938/3ca99254397de6c120dfbe45266985ce_max_476x317.jpeg",
+      "url": "property-photo/3ca992543/91762938/3ca99254397de6c120dfbe45266985ce.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0fd9e225f/91762938/0fd9e225fd56697172d52b5340c8f166_max_476x317.jpeg",
+      "url": "property-photo/0fd9e225f/91762938/0fd9e225fd56697172d52b5340c8f166.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5943c310a/91762938/5943c310a8d30d5aed9df9fa649df38f_max_476x317.jpeg",
+      "url": "property-photo/5943c310a/91762938/5943c310a8d30d5aed9df9fa649df38f.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-08-21T13:54:23Z"
+  },
+  "price": {
+    "amount": 3750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3865 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 238769,
+    "brandPlusLogoURI": "/partner-logo/26466395-LOGO-1765972988.png",
+    "contactTelephone": "020 3909 0322",
+    "branchDisplayName": "Right Now Residential, London",
+    "branchName": "London",
+    "brandTradingName": "Right Now Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/Right-Now-Residential/London-238769.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-21T17:22:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/26466395-LOGO-1765972988.png",
+    "primaryBrandColour": "#405a41"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "764 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91762938#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91762938",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-07T15:31:13Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-22T04:53:30Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two-bedroom, one-bathroom apartment, first floor (no lift)",
+      "htmlDescription": "Two-bedroom, one-bathroom apartment, first floor (no lift)"
+    },
+    {
+      "order": 2,
+      "description": "71 sqm / 764 sq ft",
+      "htmlDescription": "71 sqm / 764 sq ft"
+    },
+    {
+      "order": 3,
+      "description": "Available from 5 September 2026",
+      "htmlDescription": "Available from 5 September 2026"
+    },
+    {
+      "order": 4,
+      "description": "Private balcony",
+      "htmlDescription": "Private balcony"
+    },
+    {
+      "order": 5,
+      "description": "Bright open-plan reception and dining area with contemporary finishes",
+      "htmlDescription": "Bright open-plan reception and dining area with contemporary finishes"
+    },
+    {
+      "order": 6,
+      "description": "Two generously sized double bedrooms",
+      "htmlDescription": "Two generously sized double bedrooms"
+    },
+    {
+      "order": 7,
+      "description": "Marble-tiled bathroom with walk-in rainfall shower",
+      "htmlDescription": "Marble-tiled bathroom with walk-in rainfall shower"
+    },
+    {
+      "order": 8,
+      "description": "Fitted kitchen with breakfast bar",
+      "htmlDescription": "Fitted kitchen with breakfast bar"
+    },
+    {
+      "order": 9,
+      "description": "Residents parking (Islington Zone B permit)",
+      "htmlDescription": "Residents parking (Islington Zone B permit)"
+    },
+    {
+      "order": 10,
+      "description": "Under 10 minutes' walk to King's Cross, St Pancras International and Angel",
+      "htmlDescription": "Under 10 minutes' walk to King's Cross, St Pancras International and Angel"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e_max_476x317.jpeg",
+        "url": "property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fbaf27221/91762938/fbaf27221e51341b79eb37444723b1d9_max_476x317.jpeg",
+        "url": "property-photo/fbaf27221/91762938/fbaf27221e51341b79eb37444723b1d9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac270a552/91762938/ac270a552ee1678f244d013b3a4f954c_max_476x317.jpeg",
+        "url": "property-photo/ac270a552/91762938/ac270a552ee1678f244d013b3a4f954c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c11b8bca/91762938/5c11b8bca18821cca4b189f9026c4c59_max_476x317.jpeg",
+        "url": "property-photo/5c11b8bca/91762938/5c11b8bca18821cca4b189f9026c4c59.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ca992543/91762938/3ca99254397de6c120dfbe45266985ce_max_476x317.jpeg",
+        "url": "property-photo/3ca992543/91762938/3ca99254397de6c120dfbe45266985ce.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0fd9e225f/91762938/0fd9e225fd56697172d52b5340c8f166_max_476x317.jpeg",
+        "url": "property-photo/0fd9e225f/91762938/0fd9e225fd56697172d52b5340c8f166.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5943c310a/91762938/5943c310a8d30d5aed9df9fa649df38f_max_476x317.jpeg",
+        "url": "property-photo/5943c310a/91762938/5943c310a8d30d5aed9df9fa649df38f.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b13616d3/91762938/2b13616d3a759ad31b84397afffd0f8e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Right Now Residential, London",
+  "addedOrReduced": "Reduced on 21/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

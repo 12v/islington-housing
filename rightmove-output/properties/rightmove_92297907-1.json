@@ -1,0 +1,300 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-23T23:27:23.178099+00:00",
+  "postcode": "N4 3DU",
+  "id": 92297907,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Presenting a one bedroom apartment with access to a communal garden across 42.2 square metres (455 square feet) of thoughtfully designed living space in a prime North London location.",
+  "displayAddress": "Hanley Road, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.567951,
+    "longitude": -0.120837
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df_max_476x317.jpeg",
+      "url": "property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c2a1a08b/92297907/5c2a1a08bd879150969586b885c6400a_max_476x317.jpeg",
+      "url": "property-photo/5c2a1a08b/92297907/5c2a1a08bd879150969586b885c6400a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f25a48554/92297907/f25a48554bd3bf1bee14412062ba90d7_max_476x317.jpeg",
+      "url": "property-photo/f25a48554/92297907/f25a48554bd3bf1bee14412062ba90d7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/024095264/92297907/0240952647e9dd6e6a18deaf60343027_max_476x317.jpeg",
+      "url": "property-photo/024095264/92297907/0240952647e9dd6e6a18deaf60343027.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61dfc72c6/92297907/61dfc72c61804be33177cc0e1a227a44_max_476x317.jpeg",
+      "url": "property-photo/61dfc72c6/92297907/61dfc72c61804be33177cc0e1a227a44.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15294488e/92297907/15294488e434f9863f398ccb60f9c233_max_476x317.jpeg",
+      "url": "property-photo/15294488e/92297907/15294488e434f9863f398ccb60f9c233.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c214d173/92297907/7c214d173dd134f1dfaf3b1495e1b1d2_max_476x317.jpeg",
+      "url": "property-photo/7c214d173/92297907/7c214d173dd134f1dfaf3b1495e1b1d2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e990d556c/92297907/e990d556c915ca1148322f56a1d96a50_max_476x317.jpeg",
+      "url": "property-photo/e990d556c/92297907/e990d556c915ca1148322f56a1d96a50.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d4d914fb/92297907/7d4d914fbedbcaa93974912a03eac7b4_max_476x317.jpeg",
+      "url": "property-photo/7d4d914fb/92297907/7d4d914fbedbcaa93974912a03eac7b4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/401358965/92297907/401358965848678248c19f6e1e50ef51_max_476x317.jpeg",
+      "url": "property-photo/401358965/92297907/401358965848678248c19f6e1e50ef51.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b922a6d3/92297907/6b922a6d345efa847f8563057966af80_max_476x317.jpeg",
+      "url": "property-photo/6b922a6d3/92297907/6b922a6d345efa847f8563057966af80.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b145396f/92297907/0b145396f1fb4137e29145032f9f712a_max_476x317.jpeg",
+      "url": "property-photo/0b145396f/92297907/0b145396f1fb4137e29145032f9f712a.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-22T15:25:07Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84953,
+    "brandPlusLogoURI": "/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "contactTelephone": "020 3840 3854",
+    "branchDisplayName": "David Andrew, Archway",
+    "branchName": "Archway",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Archway-84953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-05T10:14:50Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "454 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92297907#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92297907",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-22T15:19:45Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-23T06:31:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Apartment",
+      "htmlDescription": "One Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Communal Garden",
+      "htmlDescription": "Communal Garden"
+    },
+    {
+      "order": 3,
+      "description": "Comprising 42.2 sqmt/ 455 sqft",
+      "htmlDescription": "Comprising 42.2 sqmt/ 455 sqft"
+    },
+    {
+      "order": 4,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    },
+    {
+      "order": 5,
+      "description": "Open Plan Kitchen/ Living Space",
+      "htmlDescription": "Open Plan Kitchen/ Living Space"
+    },
+    {
+      "order": 6,
+      "description": "Double Glazed Windows",
+      "htmlDescription": "Double Glazed Windows"
+    },
+    {
+      "order": 7,
+      "description": "Ample Storage",
+      "htmlDescription": "Ample Storage"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Crouch Hill and Finsbury Park Stations",
+      "htmlDescription": "Walking Distance to Crouch Hill and Finsbury Park Stations"
+    },
+    {
+      "order": 9,
+      "description": "Offered Furnished",
+      "htmlDescription": "Offered Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Available 10th of October",
+      "htmlDescription": "Available 10th of October"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://www.dropbox.com/scl/fo/1nxysnyqfau29b01gims9/AMZjk4IcjRxiNDI3ZWtyf9U/Hanley%20Road%20N4-Video%20Tour.mp4?rlkey=5bz56e8l0vn6qi3owsqp79e4d&st=zsr10tfc&dl=0",
+      "provider": "OTHER"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df_max_476x317.jpeg",
+        "url": "property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c2a1a08b/92297907/5c2a1a08bd879150969586b885c6400a_max_476x317.jpeg",
+        "url": "property-photo/5c2a1a08b/92297907/5c2a1a08bd879150969586b885c6400a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f25a48554/92297907/f25a48554bd3bf1bee14412062ba90d7_max_476x317.jpeg",
+        "url": "property-photo/f25a48554/92297907/f25a48554bd3bf1bee14412062ba90d7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/024095264/92297907/0240952647e9dd6e6a18deaf60343027_max_476x317.jpeg",
+        "url": "property-photo/024095264/92297907/0240952647e9dd6e6a18deaf60343027.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61dfc72c6/92297907/61dfc72c61804be33177cc0e1a227a44_max_476x317.jpeg",
+        "url": "property-photo/61dfc72c6/92297907/61dfc72c61804be33177cc0e1a227a44.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15294488e/92297907/15294488e434f9863f398ccb60f9c233_max_476x317.jpeg",
+        "url": "property-photo/15294488e/92297907/15294488e434f9863f398ccb60f9c233.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c214d173/92297907/7c214d173dd134f1dfaf3b1495e1b1d2_max_476x317.jpeg",
+        "url": "property-photo/7c214d173/92297907/7c214d173dd134f1dfaf3b1495e1b1d2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e990d556c/92297907/e990d556c915ca1148322f56a1d96a50_max_476x317.jpeg",
+        "url": "property-photo/e990d556c/92297907/e990d556c915ca1148322f56a1d96a50.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d4d914fb/92297907/7d4d914fbedbcaa93974912a03eac7b4_max_476x317.jpeg",
+        "url": "property-photo/7d4d914fb/92297907/7d4d914fbedbcaa93974912a03eac7b4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/401358965/92297907/401358965848678248c19f6e1e50ef51_max_476x317.jpeg",
+        "url": "property-photo/401358965/92297907/401358965848678248c19f6e1e50ef51.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b922a6d3/92297907/6b922a6d345efa847f8563057966af80_max_476x317.jpeg",
+        "url": "property-photo/6b922a6d3/92297907/6b922a6d345efa847f8563057966af80.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b145396f/92297907/0b145396f1fb4137e29145032f9f712a_max_476x317.jpeg",
+        "url": "property-photo/0b145396f/92297907/0b145396f1fb4137e29145032f9f712a.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e6beee2/92297907/52e6beee28ede939089f8d0fcaaa34df_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Andrew, Archway",
+  "addedOrReduced": "Added on 22/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
