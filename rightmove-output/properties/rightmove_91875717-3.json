@@ -1,0 +1,229 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-25T21:07:52.641315+00:00",
+  "postcode": "EC1V 2PU",
+  "id": 91875717,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Regent are proud to present this stunning one-bedroom apartment in the heart of Carrara Tower, part of the famous 250 City Road development, EC1V. Would you prefer to communicate on WeChat? Add us at RegentLettings. This well-proportioned apartment co...",
+  "displayAddress": "Carrara Tower, Bollinder Pl, 250 City Rd, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529015,
+    "longitude": -0.096309
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6_max_476x317.jpeg",
+      "url": "property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6.jpeg",
+      "caption": "Carrara Tower"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb900773d/91875717/fb900773d391969f6d309ac35905f7bb_max_476x317.jpeg",
+      "url": "property-photo/fb900773d/91875717/fb900773d391969f6d309ac35905f7bb.jpeg",
+      "caption": "Reception "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad4dd5cf7/91875717/ad4dd5cf7af0964490f4379bb8a0dcf1_max_476x317.jpeg",
+      "url": "property-photo/ad4dd5cf7/91875717/ad4dd5cf7af0964490f4379bb8a0dcf1.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f400480f/91875717/3f400480fadd84090a061778d7b70a16_max_476x317.jpeg",
+      "url": "property-photo/3f400480f/91875717/3f400480fadd84090a061778d7b70a16.jpeg",
+      "caption": "Bedroom "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1592867d1/91875717/1592867d1871a510802c62cf1a497cfd_max_476x317.jpeg",
+      "url": "property-photo/1592867d1/91875717/1592867d1871a510802c62cf1a497cfd.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0fe2e9f6/91875717/b0fe2e9f6b891e487d8ce88a98eaa106_max_476x317.jpeg",
+      "url": "property-photo/b0fe2e9f6/91875717/b0fe2e9f6b891e487d8ce88a98eaa106.jpeg",
+      "caption": "02-AUG-24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b67dd920c/91875717/b67dd920c2a683fe9a9f644d91ca3ad3_max_476x317.jpeg",
+      "url": "property-photo/b67dd920c/91875717/b67dd920c2a683fe9a9f644d91ca3ad3.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-08-25T18:08:14Z"
+  },
+  "price": {
+    "amount": 3700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3854 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84960,
+    "brandPlusLogoURI": "/partner-logo/33880410-PRODUCTS_LOGO-1785319386474.jpeg",
+    "contactTelephone": "020 4652 6695",
+    "branchDisplayName": "Regent Letting and Property Management, East London and Home Counties",
+    "branchName": "East London and Home Counties",
+    "brandTradingName": "Regent Letting and Property Management",
+    "branchLandingPageUrl": "/estate-agents/agent/Regent-Letting-and-Property-Management/East-London-and-Home-Counties-84960.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-18T09:47:23Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/33880410-PRODUCTS_LOGO-1785319386474.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "For ASTs and Licenses starting before 1st June 2019, and all other tenancies: \nTenancy Set-up (per tenancy): \u00a3480.00 \nGuarantor reference fee: \u00a331.20 where supporting a failed reference after initial application\nCompany reference fee: \u00a330.00 \nCheck out fees: Studio \u00a390 to 4 Bed \u00a3120 \nRenewal fee: \u00a3120.00 per person reduced to \u00a390.00 if paid within 2 weeks of invoice being sent.\nChange of Sharer: \u00a3480.00 \nRent Arrears Chaser: \u00a330.00 per letter/email sent to chase overdue rent.\n\nFor ASTs and Licenses starting on or after 1st June 2019:\nHolding deposit (per tenancy): one weeks' rent\nSecurity deposit (per tenancy): 5 weeks' rent (where the annual rent is below \u00a350,000) or 6 weeks' rent (where the annual rent is \u00a350,000 or above)\nUnpaid rent: 3% above the Bank of England base rate from date due until date paid\nLost keys/security devices: Tenants are liable for paying the full cost incurred for replacement keys/security devices or locks. If extra costs are incurred there will be a charge of \u00a315 per hour for the time taken in replacing keys/locks/other security devices. \nVariation of Contract: \u00a350\nChange of Sharer: \u00a350 per replacement Tenant subject to Landlord's approval.\nEarly termination: all costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy.\n\nRegent Letting and Property Management Limited are members of the UKALA Total Loss Client Money Protection Scheme, and are also members of The Property Ombudsman redress scheme. You can find out more details on our website   or by contacting us directly. ",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91875717#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91875717",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-11T11:12:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-25T18:08:14Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Juliet Balcony",
+      "htmlDescription": "Juliet Balcony"
+    },
+    {
+      "order": 2,
+      "description": "24/7 Concierge",
+      "htmlDescription": "24/7 Concierge"
+    },
+    {
+      "order": 3,
+      "description": "Gym & Yoga Studio",
+      "htmlDescription": "Gym & Yoga Studio"
+    },
+    {
+      "order": 4,
+      "description": "Swimming Pool & Spa",
+      "htmlDescription": "Swimming Pool & Spa"
+    },
+    {
+      "order": 5,
+      "description": "Screening Room",
+      "htmlDescription": "Screening Room"
+    },
+    {
+      "order": 6,
+      "description": "Residents' Lounge",
+      "htmlDescription": "Residents' Lounge"
+    },
+    {
+      "order": 7,
+      "description": "Communal Garden",
+      "htmlDescription": "Communal Garden "
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6_max_476x317.jpeg",
+        "url": "property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6.jpeg",
+        "caption": "Carrara Tower"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb900773d/91875717/fb900773d391969f6d309ac35905f7bb_max_476x317.jpeg",
+        "url": "property-photo/fb900773d/91875717/fb900773d391969f6d309ac35905f7bb.jpeg",
+        "caption": "Reception "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad4dd5cf7/91875717/ad4dd5cf7af0964490f4379bb8a0dcf1_max_476x317.jpeg",
+        "url": "property-photo/ad4dd5cf7/91875717/ad4dd5cf7af0964490f4379bb8a0dcf1.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f400480f/91875717/3f400480fadd84090a061778d7b70a16_max_476x317.jpeg",
+        "url": "property-photo/3f400480f/91875717/3f400480fadd84090a061778d7b70a16.jpeg",
+        "caption": "Bedroom "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1592867d1/91875717/1592867d1871a510802c62cf1a497cfd_max_476x317.jpeg",
+        "url": "property-photo/1592867d1/91875717/1592867d1871a510802c62cf1a497cfd.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0fe2e9f6/91875717/b0fe2e9f6b891e487d8ce88a98eaa106_max_476x317.jpeg",
+        "url": "property-photo/b0fe2e9f6/91875717/b0fe2e9f6b891e487d8ce88a98eaa106.jpeg",
+        "caption": "02-AUG-24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b67dd920c/91875717/b67dd920c2a683fe9a9f644d91ca3ad3_max_476x317.jpeg",
+        "url": "property-photo/b67dd920c/91875717/b67dd920c2a683fe9a9f644d91ca3ad3.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77f28f06c/91875717/77f28f06c8d502ec611d6f96c2e9a7c6_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Regent Letting and Property Management, East London and Home Counties",
+  "addedOrReduced": "Reduced today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

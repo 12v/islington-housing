@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-26T00:03:40.172461+00:00",
+  "postcode": "N5 2QF",
+  "id": 91975227,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Beautiful one bedroom apartment situated walking distance from Highbury/Islington and Canonbury station",
+  "displayAddress": "Highbury Grange, LONDON",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555107,
+    "longitude": -0.096305
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7_max_476x317.jpeg",
+      "url": "property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/117e74e89/91975227/117e74e895ab63a9feed20832b2dc03d_max_476x317.jpeg",
+      "url": "property-photo/117e74e89/91975227/117e74e895ab63a9feed20832b2dc03d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2faf29d1/91975227/e2faf29d1b54689ff795c94570f19f10_max_476x317.jpeg",
+      "url": "property-photo/e2faf29d1/91975227/e2faf29d1b54689ff795c94570f19f10.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/340e88d3a/91975227/340e88d3a5131b681d1a10acb6f27709_max_476x317.jpeg",
+      "url": "property-photo/340e88d3a/91975227/340e88d3a5131b681d1a10acb6f27709.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7abb2d36/91975227/d7abb2d36fb8daa0a961980fd82b6bde_max_476x317.jpeg",
+      "url": "property-photo/d7abb2d36/91975227/d7abb2d36fb8daa0a961980fd82b6bde.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f1b1c7f/91975227/89f1b1c7f5617ab3794b56c8ca387800_max_476x317.jpeg",
+      "url": "property-photo/89f1b1c7f/91975227/89f1b1c7f5617ab3794b56c8ca387800.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b6db940a/91975227/5b6db940ad8b4242c105a64980ec63b0_max_476x317.jpeg",
+      "url": "property-photo/5b6db940a/91975227/5b6db940ad8b4242c105a64980ec63b0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e78c76881/91975227/e78c768819e71305cc04d958055af5aa_max_476x317.jpeg",
+      "url": "property-photo/e78c76881/91975227/e78c768819e71305cc04d958055af5aa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7dda6494/91975227/f7dda6494abaf852fa84bbb0ba246ff1_max_476x317.jpeg",
+      "url": "property-photo/f7dda6494/91975227/f7dda6494abaf852fa84bbb0ba246ff1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-13T14:00:14Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 79624,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3834 8477",
+    "branchDisplayName": "Felicity J Lord, Islington Lettings",
+    "branchName": "Islington Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Islington-Lettings-79624.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T21:01:29Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/91975227#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=91975227",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-13T13:54:45Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-25T14:15:54Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "1 Double Bedroom",
+      "htmlDescription": "1 Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Highbury",
+      "htmlDescription": "Highbury"
+    },
+    {
+      "order": 3,
+      "description": "Natural Light",
+      "htmlDescription": "Natural Light"
+    },
+    {
+      "order": 4,
+      "description": "Transport Links",
+      "htmlDescription": "Transport Links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7_max_476x317.jpeg",
+        "url": "property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/117e74e89/91975227/117e74e895ab63a9feed20832b2dc03d_max_476x317.jpeg",
+        "url": "property-photo/117e74e89/91975227/117e74e895ab63a9feed20832b2dc03d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2faf29d1/91975227/e2faf29d1b54689ff795c94570f19f10_max_476x317.jpeg",
+        "url": "property-photo/e2faf29d1/91975227/e2faf29d1b54689ff795c94570f19f10.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/340e88d3a/91975227/340e88d3a5131b681d1a10acb6f27709_max_476x317.jpeg",
+        "url": "property-photo/340e88d3a/91975227/340e88d3a5131b681d1a10acb6f27709.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7abb2d36/91975227/d7abb2d36fb8daa0a961980fd82b6bde_max_476x317.jpeg",
+        "url": "property-photo/d7abb2d36/91975227/d7abb2d36fb8daa0a961980fd82b6bde.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/89f1b1c7f/91975227/89f1b1c7f5617ab3794b56c8ca387800_max_476x317.jpeg",
+        "url": "property-photo/89f1b1c7f/91975227/89f1b1c7f5617ab3794b56c8ca387800.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b6db940a/91975227/5b6db940ad8b4242c105a64980ec63b0_max_476x317.jpeg",
+        "url": "property-photo/5b6db940a/91975227/5b6db940ad8b4242c105a64980ec63b0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e78c76881/91975227/e78c768819e71305cc04d958055af5aa_max_476x317.jpeg",
+        "url": "property-photo/e78c76881/91975227/e78c768819e71305cc04d958055af5aa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7dda6494/91975227/f7dda6494abaf852fa84bbb0ba246ff1_max_476x317.jpeg",
+        "url": "property-photo/f7dda6494/91975227/f7dda6494abaf852fa84bbb0ba246ff1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4bb50b8c8/91975227/4bb50b8c87792f263e8ebbad9cf5eee7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Islington Lettings",
+  "addedOrReduced": "Added on 13/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
