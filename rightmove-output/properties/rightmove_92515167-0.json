@@ -1,0 +1,255 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-29T06:00:16.976076+00:00",
+  "postcode": "N4 3FQ",
+  "id": 92515167,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "A stylish furnished apartment within a modern development, offering contemporary living with round-the-clock concierge. Bright interiors feature sleek finishes throughout, while the elevated position ensures sweeping views across north London.",
+  "displayAddress": "City North Place Finsbury Park N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56508,
+    "longitude": -0.10767
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2_max_476x317.jpeg",
+      "url": "property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2.jpeg",
+      "caption": "DSC_1484_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb42bda68/92515167/fb42bda683835573c15d3c2847fcbea8_max_476x317.jpeg",
+      "url": "property-photo/fb42bda68/92515167/fb42bda683835573c15d3c2847fcbea8.jpeg",
+      "caption": "DSC_1488_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/97282a595/92515167/97282a595180e0ba578baf2d3332d244_max_476x317.jpeg",
+      "url": "property-photo/97282a595/92515167/97282a595180e0ba578baf2d3332d244.jpeg",
+      "caption": "DSC_1497_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c80702c/92515167/d7c80702c9334ccc91f50b1373b28d86_max_476x317.jpeg",
+      "url": "property-photo/d7c80702c/92515167/d7c80702c9334ccc91f50b1373b28d86.jpeg",
+      "caption": "DSC_1471_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80ef63e6c/92515167/80ef63e6cb0fc9ae9a111e17f2cd06e9_max_476x317.jpeg",
+      "url": "property-photo/80ef63e6c/92515167/80ef63e6cb0fc9ae9a111e17f2cd06e9.jpeg",
+      "caption": "DSC_1478_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a40f454e4/92515167/a40f454e44ff48a1a40c6b6f8f17e308_max_476x317.jpeg",
+      "url": "property-photo/a40f454e4/92515167/a40f454e44ff48a1a40c6b6f8f17e308.jpeg",
+      "caption": "DSC_1481_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f66aed9c/92515167/3f66aed9c396ff8c1baeb872923573a6_max_476x317.jpeg",
+      "url": "property-photo/3f66aed9c/92515167/3f66aed9c396ff8c1baeb872923573a6.jpeg",
+      "caption": "DSC_1465_web"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4910f9072/92515167/4910f9072104e0aecb4261c5283ea753_max_476x317.jpeg",
+      "url": "property-photo/4910f9072/92515167/4910f9072104e0aecb4261c5283ea753.jpeg",
+      "caption": "DSC_1468_web"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-28T15:17:09Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 212396,
+    "brandPlusLogoURI": "/partner-logo/22922927-PRODUCTS_LOGO-1766060904.png",
+    "contactTelephone": "020 3905 5311",
+    "branchDisplayName": "JLL, Finsbury Park",
+    "branchName": "Finsbury Park",
+    "brandTradingName": "JLL",
+    "branchLandingPageUrl": "/estate-agents/agent/JLL/Finsbury-Park-212396.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22922927-PRODUCTS_LOGO-1766060904.png",
+    "primaryBrandColour": "#e0c6ad"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "JLL Tenant Fee Charges in England\n \nCharges for an Assured Shorthold Tenancy (AST):\n \tHolding deposit: One weeks  rent per tenancy\n \tSecurity Deposit: 5 weeks  rent for tenancies up to \u00a350,000 per year. 6 weeks  rent for tenancies over \u00a350,000 per year\n \tUnpaid rent: Interest at 3% above the bank of England base rate where rent is more than 14 days in arrears\n \tLost keys or security devices   Actual cost of replacement\n \tVariation of Contract (Tenant Request): \u00a350 per agreed variation\n \tChange of Sharer (Tenant Request): \u00a350 per replacement tenant or any reasonable costs incurred if higher\n \tEarly Termination (Tenant Request): Tenants will be liable for the Landlord s costs in re-letting the property, as well as rent due under the tenancy until the start date of the replacement tenancy. The costs will be no more than the maximum amount of rent outstanding on the tenancy\n \tStamp Duty: Only applicable to tenancies over \u00a3125,000\n \nCharges for a Non-Housing Act Tenancy\n \tHolding deposit: One weeks  rent per tenancy\n \tSecurity Deposit: 6 weeks  rent per tenancy\n \tTenant and Guarantor Referencing Fee: \u00a360 per tenant / guarantor\n \tTenancy and Paperwork Preparation Fee: \u00a3480 per tenancy\n \tInventory Check-In Fee: A maximum of \u00a3208.80, determined by the size of the property\n \tAmendment Fee: \u00a3480 per amendment (if applicable)\n \tLate Payments and Standing Orders: \u00a360 per late payment\n \tUnpaid Rent: Interest at 3% above the base rate of the Bank of England from due date\n \tRenewal Fee: \u00a3250 per renewal\n \tEarly Termination (Tenant Request): \u00a3480 per tenancy. Tenants will also be liable for the Landlord s costs in re-letting the property, as well as rent due under the tenancy until the start date of the replacement tenancy\n \tEnd of Tenancy Clean: A maximum of \u00a3720, determined by the size and condition of the property\n \tStamp Duty: Only applicable to tenancies over \u00a3125,000\n \n(all prices shown above include VAT)\n \nDuring the tenancy you will also be responsible for paying charges for:\n \tCouncil Tax\n \tUtilities (gas, electric, water)\n \tContents insurance\n \tBroadband\n \tTelevision licence\n \tCable/satellite providers\n \tParking permits\n \nClient money protection scheme:  JLL is regulated by RICS and a member of the RICS Client Money Protection Scheme.\nRedress scheme:  JLL s redress scheme is operated by The Property Ombudsman Limited   further details are available on The Property Ombudsman website.\n",
+  "displaySize": "745 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92515167#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92515167",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-28T15:11:57Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-28T15:17:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "24-hour concierge service",
+      "htmlDescription": "24-hour concierge service "
+    },
+    {
+      "order": 2,
+      "description": "Contemporary furnished interiors",
+      "htmlDescription": "Contemporary furnished interiors "
+    },
+    {
+      "order": 3,
+      "description": "Modern integrated kitchen",
+      "htmlDescription": "Modern integrated kitchen "
+    },
+    {
+      "order": 4,
+      "description": "Ensuite to primary bedroom",
+      "htmlDescription": "Ensuite to primary bedroom "
+    },
+    {
+      "order": 5,
+      "description": "Finsbury Park location",
+      "htmlDescription": "Finsbury Park location "
+    },
+    {
+      "order": 6,
+      "description": "Excellent transport connections",
+      "htmlDescription": "Excellent transport connections "
+    },
+    {
+      "order": 7,
+      "description": "Available late September 2026",
+      "htmlDescription": "Available late September 2026 "
+    },
+    {
+      "order": 8,
+      "description": "EPC rating B",
+      "htmlDescription": "EPC rating B "
+    },
+    {
+      "order": 9,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://hdvirtualart.com/tours/jll/951/",
+      "provider": "OTHER"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2_max_476x317.jpeg",
+        "url": "property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2.jpeg",
+        "caption": "DSC_1484_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb42bda68/92515167/fb42bda683835573c15d3c2847fcbea8_max_476x317.jpeg",
+        "url": "property-photo/fb42bda68/92515167/fb42bda683835573c15d3c2847fcbea8.jpeg",
+        "caption": "DSC_1488_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/97282a595/92515167/97282a595180e0ba578baf2d3332d244_max_476x317.jpeg",
+        "url": "property-photo/97282a595/92515167/97282a595180e0ba578baf2d3332d244.jpeg",
+        "caption": "DSC_1497_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7c80702c/92515167/d7c80702c9334ccc91f50b1373b28d86_max_476x317.jpeg",
+        "url": "property-photo/d7c80702c/92515167/d7c80702c9334ccc91f50b1373b28d86.jpeg",
+        "caption": "DSC_1471_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80ef63e6c/92515167/80ef63e6cb0fc9ae9a111e17f2cd06e9_max_476x317.jpeg",
+        "url": "property-photo/80ef63e6c/92515167/80ef63e6cb0fc9ae9a111e17f2cd06e9.jpeg",
+        "caption": "DSC_1478_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a40f454e4/92515167/a40f454e44ff48a1a40c6b6f8f17e308_max_476x317.jpeg",
+        "url": "property-photo/a40f454e4/92515167/a40f454e44ff48a1a40c6b6f8f17e308.jpeg",
+        "caption": "DSC_1481_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f66aed9c/92515167/3f66aed9c396ff8c1baeb872923573a6_max_476x317.jpeg",
+        "url": "property-photo/3f66aed9c/92515167/3f66aed9c396ff8c1baeb872923573a6.jpeg",
+        "caption": "DSC_1465_web"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4910f9072/92515167/4910f9072104e0aecb4261c5283ea753_max_476x317.jpeg",
+        "url": "property-photo/4910f9072/92515167/4910f9072104e0aecb4261c5283ea753.jpeg",
+        "caption": "DSC_1468_web"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/968827231/92515167/9688272316de67df1ac016448cc514f2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by JLL, Finsbury Park",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

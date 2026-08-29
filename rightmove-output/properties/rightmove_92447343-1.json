@@ -1,0 +1,194 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-29T04:47:02.319927+00:00",
+  "postcode": "N1 8JD",
+  "id": 92447343,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 3,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Hauzoo are delighted to market this delightful studio apartment in Islington, N1.",
+  "displayAddress": "St. Peter's Street, London, N1 8JD",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.535667,
+    "longitude": -0.100264
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583_max_476x317.jpeg",
+      "url": "property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef7b1a4ea/92447343/ef7b1a4ea49955e0247c1978de9ef9bb_max_476x317.jpeg",
+      "url": "property-photo/ef7b1a4ea/92447343/ef7b1a4ea49955e0247c1978de9ef9bb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac741330/92447343/fac7413305a66c3b2c1c80794cc966d2_max_476x317.jpeg",
+      "url": "property-photo/fac741330/92447343/fac7413305a66c3b2c1c80794cc966d2.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-27T10:41:22Z"
+  },
+  "price": {
+    "amount": 1900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,900 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3438 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 243260,
+    "brandPlusLogoURI": "/partner-logo/27185186-PRODUCTS_LOGO-1766066273.jpeg",
+    "contactTelephone": "020 3834 7981",
+    "branchDisplayName": "HAUZOO, London",
+    "branchName": "London",
+    "brandTradingName": "HAUZOO",
+    "branchLandingPageUrl": "/estate-agents/agent/HAUZOO/London-243260.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-12T16:31:08Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27185186-PRODUCTS_LOGO-1766066273.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92447343#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92447343",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-27T10:35:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-28T11:09:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "First floor studio flat",
+      "htmlDescription": "First floor studio flat"
+    },
+    {
+      "order": 2,
+      "description": "Separate bathroom",
+      "htmlDescription": "Separate bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Adjoining kitchen",
+      "htmlDescription": "Adjoining kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Gas central heating",
+      "htmlDescription": "Gas central heating"
+    },
+    {
+      "order": 5,
+      "description": "Located in central Islington",
+      "htmlDescription": "Located in central Islington"
+    },
+    {
+      "order": 6,
+      "description": "Angel station 5 minutes away",
+      "htmlDescription": "Angel station 5 minutes away"
+    },
+    {
+      "order": 7,
+      "description": "Available on a part furnished basis",
+      "htmlDescription": "Available on a part furnished basis"
+    },
+    {
+      "order": 8,
+      "description": "Available 12th September",
+      "htmlDescription": "Available 12th September"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583_max_476x317.jpeg",
+        "url": "property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef7b1a4ea/92447343/ef7b1a4ea49955e0247c1978de9ef9bb_max_476x317.jpeg",
+        "url": "property-photo/ef7b1a4ea/92447343/ef7b1a4ea49955e0247c1978de9ef9bb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fac741330/92447343/fac7413305a66c3b2c1c80794cc966d2_max_476x317.jpeg",
+        "url": "property-photo/fac741330/92447343/fac7413305a66c3b2c1c80794cc966d2.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/71a1200e1/92447343/71a1200e16f93f649cb5d76ec5f5a583_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by HAUZOO, London",
+  "addedOrReduced": "Added on 27/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
