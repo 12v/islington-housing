@@ -1,0 +1,260 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-08-30T01:06:28.483875+00:00",
+  "postcode": "N19 5NP",
+  "id": 92541000,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "One of the last homes on a small cul-de-sac, this truly unique period building is set-back from the road behind a small courtyard and kept private by a new wall and security gate. Just a mere 400 metres from Archway tube including Hampstead Heath and Highgate Village on your doorstep This former...",
+  "displayAddress": "Despard Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56829,
+    "longitude": -0.137187
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74_max_476x317.jpeg",
+      "url": "property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74.jpeg",
+      "caption": "Photo 8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9d363b72/92541000/f9d363b723b35ee2bdcfa90e97170458_max_476x317.jpeg",
+      "url": "property-photo/f9d363b72/92541000/f9d363b723b35ee2bdcfa90e97170458.jpeg",
+      "caption": "Photo 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/363dbbfc9/92541000/363dbbfc9454cc653ccd16c99a13c57b_max_476x317.jpeg",
+      "url": "property-photo/363dbbfc9/92541000/363dbbfc9454cc653ccd16c99a13c57b.jpeg",
+      "caption": "Photo 9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f7a2e4b4/92541000/5f7a2e4b4c9dad3a87684f4665cbaa48_max_476x317.jpeg",
+      "url": "property-photo/5f7a2e4b4/92541000/5f7a2e4b4c9dad3a87684f4665cbaa48.jpeg",
+      "caption": "Photo 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95def214c/92541000/95def214c812d4db0b3a8f12eee71f62_max_476x317.jpeg",
+      "url": "property-photo/95def214c/92541000/95def214c812d4db0b3a8f12eee71f62.jpeg",
+      "caption": "Photo 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fab3eaf20/92541000/fab3eaf20ddd82344c1e9e187a044a24_max_476x317.jpeg",
+      "url": "property-photo/fab3eaf20/92541000/fab3eaf20ddd82344c1e9e187a044a24.jpeg",
+      "caption": "Photo 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f01626410/92541000/f01626410396b93dc21848a66026b075_max_476x317.jpeg",
+      "url": "property-photo/f01626410/92541000/f01626410396b93dc21848a66026b075.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62ee3132f/92541000/62ee3132f9340743ccb35b5b0e45fd24_max_476x317.jpeg",
+      "url": "property-photo/62ee3132f/92541000/62ee3132f9340743ccb35b5b0e45fd24.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce11825c5/92541000/ce11825c56693612358aa0510b5fff89_max_476x317.jpeg",
+      "url": "property-photo/ce11825c5/92541000/ce11825c56693612358aa0510b5fff89.jpeg",
+      "caption": "Photo 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b478aa42/92541000/2b478aa424648ac951cf4dbead8b5855_max_476x317.jpeg",
+      "url": "property-photo/2b478aa42/92541000/2b478aa424648ac951cf4dbead8b5855.jpeg",
+      "caption": "Photo 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5c8c4410/92541000/f5c8c441034aa77b5d868ccd36a55007_max_476x317.jpeg",
+      "url": "property-photo/f5c8c4410/92541000/f5c8c441034aa77b5d868ccd36a55007.jpeg",
+      "caption": "Photo 14"
+    }
+  ],
+  "propertySubType": "Detached",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-29T12:57:11Z"
+  },
+  "price": {
+    "amount": 2700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3623 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 8286,
+    "brandPlusLogoURI": "/partner-logo/21381-PRODUCTS_LOGO-1766059236.png",
+    "contactTelephone": "020 3873 8384",
+    "branchDisplayName": "Look Property Services Ltd, Bow",
+    "branchName": "Bow",
+    "brandTradingName": "Look Property Services Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Look-Property-Services-Ltd/Bow-8286.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:42Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21381-PRODUCTS_LOGO-1766059236.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92541000#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92541000",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-29T12:51:50Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-29T12:57:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Detached House",
+      "htmlDescription": "Detached House"
+    },
+    {
+      "order": 2,
+      "description": "Vaulted Beamed Ceiling",
+      "htmlDescription": "Vaulted Beamed Ceiling"
+    },
+    {
+      "order": 3,
+      "description": "Private Roof Terrace",
+      "htmlDescription": "Private Roof Terrace"
+    },
+    {
+      "order": 4,
+      "description": "400m from Archway Tube",
+      "htmlDescription": "400m from Archway Tube"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://spec.co/s/dssb",
+      "provider": "OTHER"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74_max_476x317.jpeg",
+        "url": "property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74.jpeg",
+        "caption": "Photo 8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9d363b72/92541000/f9d363b723b35ee2bdcfa90e97170458_max_476x317.jpeg",
+        "url": "property-photo/f9d363b72/92541000/f9d363b723b35ee2bdcfa90e97170458.jpeg",
+        "caption": "Photo 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/363dbbfc9/92541000/363dbbfc9454cc653ccd16c99a13c57b_max_476x317.jpeg",
+        "url": "property-photo/363dbbfc9/92541000/363dbbfc9454cc653ccd16c99a13c57b.jpeg",
+        "caption": "Photo 9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f7a2e4b4/92541000/5f7a2e4b4c9dad3a87684f4665cbaa48_max_476x317.jpeg",
+        "url": "property-photo/5f7a2e4b4/92541000/5f7a2e4b4c9dad3a87684f4665cbaa48.jpeg",
+        "caption": "Photo 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95def214c/92541000/95def214c812d4db0b3a8f12eee71f62_max_476x317.jpeg",
+        "url": "property-photo/95def214c/92541000/95def214c812d4db0b3a8f12eee71f62.jpeg",
+        "caption": "Photo 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fab3eaf20/92541000/fab3eaf20ddd82344c1e9e187a044a24_max_476x317.jpeg",
+        "url": "property-photo/fab3eaf20/92541000/fab3eaf20ddd82344c1e9e187a044a24.jpeg",
+        "caption": "Photo 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f01626410/92541000/f01626410396b93dc21848a66026b075_max_476x317.jpeg",
+        "url": "property-photo/f01626410/92541000/f01626410396b93dc21848a66026b075.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62ee3132f/92541000/62ee3132f9340743ccb35b5b0e45fd24_max_476x317.jpeg",
+        "url": "property-photo/62ee3132f/92541000/62ee3132f9340743ccb35b5b0e45fd24.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ce11825c5/92541000/ce11825c56693612358aa0510b5fff89_max_476x317.jpeg",
+        "url": "property-photo/ce11825c5/92541000/ce11825c56693612358aa0510b5fff89.jpeg",
+        "caption": "Photo 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b478aa42/92541000/2b478aa424648ac951cf4dbead8b5855_max_476x317.jpeg",
+        "url": "property-photo/2b478aa42/92541000/2b478aa424648ac951cf4dbead8b5855.jpeg",
+        "caption": "Photo 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5c8c4410/92541000/f5c8c441034aa77b5d868ccd36a55007_max_476x317.jpeg",
+        "url": "property-photo/f5c8c4410/92541000/f5c8c441034aa77b5d868ccd36a55007.jpeg",
+        "caption": "Photo 14"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7b63715a/92541000/b7b63715ab7309db5c3a698a76ac1a74_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Look Property Services Ltd, Bow",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom detached house",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
