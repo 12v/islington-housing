@@ -1,0 +1,209 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-02T00:30:34.737480+00:00",
+  "postcode": "N1 9BP",
+  "id": 31938958,
+  "bedrooms": 1,
+  "bathrooms": 0,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautiful newly refurbished 1 bed apartment situated within a Victorian Conversion building which is very bright and airy. This flat provides exceptionally well presented interiors with stylish decor.",
+  "displayAddress": "Northdown Street,London,N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.532447,
+    "longitude": -0.119433
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141_max_476x317.jpeg",
+      "url": "property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81c6d7809/31938958/81c6d780928cd9a17d734093f276d30d_max_476x317.jpeg",
+      "url": "property-photo/81c6d7809/31938958/81c6d780928cd9a17d734093f276d30d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/258aa84c5/31938958/258aa84c5261593b3ee2ced91d944ed1_max_476x317.jpeg",
+      "url": "property-photo/258aa84c5/31938958/258aa84c5261593b3ee2ced91d944ed1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3b36eca0/31938958/d3b36eca0f3e23c397e0d8c7f24a83f8_max_476x317.jpeg",
+      "url": "property-photo/d3b36eca0/31938958/d3b36eca0f3e23c397e0d8c7f24a83f8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c8da07bc/31938958/1c8da07bc7b0d87ac31355133e4766ec_max_476x317.jpeg",
+      "url": "property-photo/1c8da07bc/31938958/1c8da07bc7b0d87ac31355133e4766ec.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/605edaa6a/31938958/605edaa6a08f598697c57c611f27d392_max_476x317.jpeg",
+      "url": "property-photo/605edaa6a/31938958/605edaa6a08f598697c57c611f27d392.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-09-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-31T13:06:58Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:24Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/31938958#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=31938958",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2011-10-31T10:44:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-08-31T13:06:59Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Central Heating",
+      "htmlDescription": "Central Heating"
+    },
+    {
+      "order": 2,
+      "description": "Laminate Flooring",
+      "htmlDescription": "Laminate Flooring"
+    },
+    {
+      "order": 3,
+      "description": "Lounge",
+      "htmlDescription": "Lounge"
+    },
+    {
+      "order": 4,
+      "description": "Washing Machine",
+      "htmlDescription": "Washing Machine"
+    },
+    {
+      "order": 5,
+      "description": "White Goods",
+      "htmlDescription": "White Goods"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141_max_476x317.jpeg",
+        "url": "property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81c6d7809/31938958/81c6d780928cd9a17d734093f276d30d_max_476x317.jpeg",
+        "url": "property-photo/81c6d7809/31938958/81c6d780928cd9a17d734093f276d30d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/258aa84c5/31938958/258aa84c5261593b3ee2ced91d944ed1_max_476x317.jpeg",
+        "url": "property-photo/258aa84c5/31938958/258aa84c5261593b3ee2ced91d944ed1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3b36eca0/31938958/d3b36eca0f3e23c397e0d8c7f24a83f8_max_476x317.jpeg",
+        "url": "property-photo/d3b36eca0/31938958/d3b36eca0f3e23c397e0d8c7f24a83f8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c8da07bc/31938958/1c8da07bc7b0d87ac31355133e4766ec_max_476x317.jpeg",
+        "url": "property-photo/1c8da07bc/31938958/1c8da07bc7b0d87ac31355133e4766ec.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/605edaa6a/31938958/605edaa6a08f598697c57c611f27d392_max_476x317.jpeg",
+        "url": "property-photo/605edaa6a/31938958/605edaa6a08f598697c57c611f27d392.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c77962dd/31938958/0c77962ddcbef4ffb8fb582ef0e91141_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added on 31/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
