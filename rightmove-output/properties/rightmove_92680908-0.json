@@ -1,0 +1,164 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-03T23:50:11.552146+00:00",
+  "postcode": "N1 1TB",
+  "id": 92680908,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 1,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A first floor one bedroom apartment with high ceilings and tonnes of natural light located on a quiet street in the heart of Angel, Islington. *Images coming soon*",
+  "displayAddress": "Almeida Street, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539644,
+    "longitude": -0.104585
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7_max_476x317.jpeg",
+      "url": "property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-03T09:41:07Z"
+  },
+  "price": {
+    "amount": 2700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3623 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 279479,
+    "brandPlusLogoURI": "/partner-logo/33923495-PRODUCTS_LOGO-1787664543443.png",
+    "contactTelephone": "020 3947 8256",
+    "branchDisplayName": "Rapport, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "Rapport",
+    "branchLandingPageUrl": "/estate-agents/agent/Rapport/Covering-London-279479.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-25T14:29:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/33923495-PRODUCTS_LOGO-1787664543443.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "390 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92680908#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92680908",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-03T09:35:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T09:41:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom apartment",
+      "htmlDescription": "One bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "First floor",
+      "htmlDescription": "First floor"
+    },
+    {
+      "order": 3,
+      "description": "Excellent location",
+      "htmlDescription": "Excellent location"
+    },
+    {
+      "order": 4,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished "
+    },
+    {
+      "order": 5,
+      "description": "Recently renovated",
+      "htmlDescription": "Recently renovated "
+    },
+    {
+      "order": 6,
+      "description": "High ceilings",
+      "htmlDescription": "High ceilings"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7_max_476x317.jpeg",
+        "url": "property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/222a1f99e/92680908/222a1f99e6facf14559e365a5c6308e7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Rapport, Covering London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

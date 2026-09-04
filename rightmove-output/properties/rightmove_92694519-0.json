@@ -1,0 +1,203 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-04T00:53:58.921306+00:00",
+  "postcode": "N19 5BJ",
+  "id": 92694519,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented, three bedroom garden maisonette in Tufnell Park.",
+  "displayAddress": "Southcote Road, Tufnell Park N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556468,
+    "longitude": -0.137037
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35_max_476x317.jpeg",
+      "url": "property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d46165905/92694519/d461659055e3dbbef11fafbbcf91575a_max_476x317.jpeg",
+      "url": "property-photo/d46165905/92694519/d461659055e3dbbef11fafbbcf91575a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf23e49f/92694519/bbf23e49f85822b682abd39c4dcfcd02_max_476x317.jpeg",
+      "url": "property-photo/bbf23e49f/92694519/bbf23e49f85822b682abd39c4dcfcd02.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47a008081/92694519/47a008081d0994fb296ddd9f29d3d4d5_max_476x317.jpeg",
+      "url": "property-photo/47a008081/92694519/47a008081d0994fb296ddd9f29d3d4d5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d546a7b9/92694519/4d546a7b9f49735b61c49499eaeb6906_max_476x317.jpeg",
+      "url": "property-photo/4d546a7b9/92694519/4d546a7b9f49735b61c49499eaeb6906.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1148df3bf/92694519/1148df3bfbf7c597ce937a0eb47b52d7_max_476x317.jpeg",
+      "url": "property-photo/1148df3bf/92694519/1148df3bfbf7c597ce937a0eb47b52d7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/312d9e4cb/92694519/312d9e4cbf281e26121f7290542ba6f5_max_476x317.jpeg",
+      "url": "property-photo/312d9e4cb/92694519/312d9e4cbf281e26121f7290542ba6f5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90a5bf1af/92694519/90a5bf1af7a8b9db85f7face0855e2eb_max_476x317.jpeg",
+      "url": "property-photo/90a5bf1af/92694519/90a5bf1af7a8b9db85f7face0855e2eb.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-03T12:53:11Z"
+  },
+  "price": {
+    "amount": 1000,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,333 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,000 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 90643,
+    "brandPlusLogoURI": "/partner-logo/12346975-LOGO-1765961662.jpeg",
+    "contactTelephone": "020 3909 6653",
+    "branchDisplayName": "Amberden Estates, Hampstead",
+    "branchName": "Hampstead",
+    "brandTradingName": "Amberden Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Amberden-Estates/Hampstead-90643.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/12346975-LOGO-1765961662.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92694519#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92694519",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-03T12:47:44Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T12:53:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35_max_476x317.jpeg",
+        "url": "property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d46165905/92694519/d461659055e3dbbef11fafbbcf91575a_max_476x317.jpeg",
+        "url": "property-photo/d46165905/92694519/d461659055e3dbbef11fafbbcf91575a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbf23e49f/92694519/bbf23e49f85822b682abd39c4dcfcd02_max_476x317.jpeg",
+        "url": "property-photo/bbf23e49f/92694519/bbf23e49f85822b682abd39c4dcfcd02.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47a008081/92694519/47a008081d0994fb296ddd9f29d3d4d5_max_476x317.jpeg",
+        "url": "property-photo/47a008081/92694519/47a008081d0994fb296ddd9f29d3d4d5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d546a7b9/92694519/4d546a7b9f49735b61c49499eaeb6906_max_476x317.jpeg",
+        "url": "property-photo/4d546a7b9/92694519/4d546a7b9f49735b61c49499eaeb6906.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1148df3bf/92694519/1148df3bfbf7c597ce937a0eb47b52d7_max_476x317.jpeg",
+        "url": "property-photo/1148df3bf/92694519/1148df3bfbf7c597ce937a0eb47b52d7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/312d9e4cb/92694519/312d9e4cbf281e26121f7290542ba6f5_max_476x317.jpeg",
+        "url": "property-photo/312d9e4cb/92694519/312d9e4cbf281e26121f7290542ba6f5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/90a5bf1af/92694519/90a5bf1af7a8b9db85f7face0855e2eb_max_476x317.jpeg",
+        "url": "property-photo/90a5bf1af/92694519/90a5bf1af7a8b9db85f7face0855e2eb.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/947858fc6/92694519/947858fc66a9ee1838523ffb5ff7cf35_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Amberden Estates, Hampstead",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

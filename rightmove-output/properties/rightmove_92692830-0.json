@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-04T02:00:19.970983+00:00",
+  "postcode": "N7 0SD",
+  "id": 92692830,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented two/three-bedroom top-floor flat, which has been completely renovated throughout and is ideally situated just a short walk from Holloway Station. The property offers bright and spacious accommodation, comprising two generous double bedrooms, a spacious lounge wh...",
+  "displayAddress": "Parkhurst Court, Warlters Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556758,
+    "longitude": -0.120277
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644_max_476x317.jpeg",
+      "url": "property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f75674c6e/92692830/f75674c6ef133e908b68a8e357fe1559_max_476x317.jpeg",
+      "url": "property-photo/f75674c6e/92692830/f75674c6ef133e908b68a8e357fe1559.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc2a9a227/92692830/dc2a9a227fc60d534c4049aedd1300c3_max_476x317.jpeg",
+      "url": "property-photo/dc2a9a227/92692830/dc2a9a227fc60d534c4049aedd1300c3.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b1cc8a3c/92692830/5b1cc8a3c392b47f465728ff343c728e_max_476x317.jpeg",
+      "url": "property-photo/5b1cc8a3c/92692830/5b1cc8a3c392b47f465728ff343c728e.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eae88a09b/92692830/eae88a09bdc31abb82a96b336f527838_max_476x317.jpeg",
+      "url": "property-photo/eae88a09b/92692830/eae88a09bdc31abb82a96b336f527838.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7982ab17/92692830/f7982ab17f00ebe0c696afd498d69a36_max_476x317.jpeg",
+      "url": "property-photo/f7982ab17/92692830/f7982ab17f00ebe0c696afd498d69a36.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-03T12:19:10Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-18T12:33:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92692830#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92692830",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-03T12:13:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T20:40:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two/Three-bedroom top-floor flat",
+      "htmlDescription": "Two/Three-bedroom top-floor flat"
+    },
+    {
+      "order": 2,
+      "description": "Completely renovated throughout",
+      "htmlDescription": "Completely renovated throughout"
+    },
+    {
+      "order": 3,
+      "description": "Two spacious double bedrooms",
+      "htmlDescription": "Two spacious double bedrooms"
+    },
+    {
+      "order": 4,
+      "description": "Large lounge / optional third bedroom",
+      "htmlDescription": "Large lounge / optional third bedroom"
+    },
+    {
+      "order": 5,
+      "description": "Modern fitted kitchen",
+      "htmlDescription": "Modern fitted kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Family bathroom",
+      "htmlDescription": "Family bathroom"
+    },
+    {
+      "order": 7,
+      "description": "Wood flooring throughout",
+      "htmlDescription": "Wood flooring throughout"
+    },
+    {
+      "order": 8,
+      "description": "Bright and spacious accommodation",
+      "htmlDescription": "Bright and spacious accommodation"
+    },
+    {
+      "order": 9,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Short walk to Holloway Station",
+      "htmlDescription": "Short walk to Holloway Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644_max_476x317.jpeg",
+        "url": "property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f75674c6e/92692830/f75674c6ef133e908b68a8e357fe1559_max_476x317.jpeg",
+        "url": "property-photo/f75674c6e/92692830/f75674c6ef133e908b68a8e357fe1559.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc2a9a227/92692830/dc2a9a227fc60d534c4049aedd1300c3_max_476x317.jpeg",
+        "url": "property-photo/dc2a9a227/92692830/dc2a9a227fc60d534c4049aedd1300c3.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b1cc8a3c/92692830/5b1cc8a3c392b47f465728ff343c728e_max_476x317.jpeg",
+        "url": "property-photo/5b1cc8a3c/92692830/5b1cc8a3c392b47f465728ff343c728e.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eae88a09b/92692830/eae88a09bdc31abb82a96b336f527838_max_476x317.jpeg",
+        "url": "property-photo/eae88a09b/92692830/eae88a09bdc31abb82a96b336f527838.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f7982ab17/92692830/f7982ab17f00ebe0c696afd498d69a36_max_476x317.jpeg",
+        "url": "property-photo/f7982ab17/92692830/f7982ab17f00ebe0c696afd498d69a36.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/065f52b1f/92692830/065f52b1f5a8b1edca54a9dee46e3644_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
