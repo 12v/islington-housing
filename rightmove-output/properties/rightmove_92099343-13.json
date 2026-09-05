@@ -1,0 +1,193 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-04T23:22:41.417950+00:00",
+  "postcode": "N1 0BZ",
+  "id": 92099343,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Lovely four bedroom home, in the vibrant King's Cross neighborhood, this exceptionally large four-bedroom home offers the perfect blend of luxury, space, and convenience. Spread across multiple floors, modern finishes, and plenty of natural light. This is a rare opportunity to sec...",
+  "displayAddress": "Twyford Road, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.537847,
+    "longitude": -0.118227
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0_max_476x317.jpeg",
+      "url": "property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b0a3030c/92099343/8b0a3030c58976c56918f24c3254b084_max_476x317.jpeg",
+      "url": "property-photo/8b0a3030c/92099343/8b0a3030c58976c56918f24c3254b084.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/375b9ed70/92099343/375b9ed70311750c763100430df286b5_max_476x317.jpeg",
+      "url": "property-photo/375b9ed70/92099343/375b9ed70311750c763100430df286b5.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab8d674cc/92099343/ab8d674cc17712c5fbdd68240b52fcc8_max_476x317.jpeg",
+      "url": "property-photo/ab8d674cc/92099343/ab8d674cc17712c5fbdd68240b52fcc8.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6bb38a69/92099343/e6bb38a6947805baf721314b1ac35bfb_max_476x317.jpeg",
+      "url": "property-photo/e6bb38a69/92099343/e6bb38a6947805baf721314b1ac35bfb.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2319345b/92099343/c2319345b2871228ff2f35035110d9f4_max_476x317.jpeg",
+      "url": "property-photo/c2319345b/92099343/c2319345b2871228ff2f35035110d9f4.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff764471a/92099343/ff764471abea1a47c8e075f5c7a69859_max_476x317.jpeg",
+      "url": "property-photo/ff764471a/92099343/ff764471abea1a47c8e075f5c7a69859.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2024-09-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-08-17T18:31:05Z"
+  },
+  "price": {
+    "amount": 4000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3923 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92099343#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92099343",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-17T18:25:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T06:30:41Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0_max_476x317.jpeg",
+        "url": "property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b0a3030c/92099343/8b0a3030c58976c56918f24c3254b084_max_476x317.jpeg",
+        "url": "property-photo/8b0a3030c/92099343/8b0a3030c58976c56918f24c3254b084.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/375b9ed70/92099343/375b9ed70311750c763100430df286b5_max_476x317.jpeg",
+        "url": "property-photo/375b9ed70/92099343/375b9ed70311750c763100430df286b5.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab8d674cc/92099343/ab8d674cc17712c5fbdd68240b52fcc8_max_476x317.jpeg",
+        "url": "property-photo/ab8d674cc/92099343/ab8d674cc17712c5fbdd68240b52fcc8.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e6bb38a69/92099343/e6bb38a6947805baf721314b1ac35bfb_max_476x317.jpeg",
+        "url": "property-photo/e6bb38a69/92099343/e6bb38a6947805baf721314b1ac35bfb.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c2319345b/92099343/c2319345b2871228ff2f35035110d9f4_max_476x317.jpeg",
+        "url": "property-photo/c2319345b/92099343/c2319345b2871228ff2f35035110d9f4.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff764471a/92099343/ff764471abea1a47c8e075f5c7a69859_max_476x317.jpeg",
+        "url": "property-photo/ff764471a/92099343/ff764471abea1a47c8e075f5c7a69859.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4a8f7f9b/92099343/d4a8f7f9b57ec73526181367be92d4b0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added on 17/08/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

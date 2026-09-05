@@ -1,0 +1,224 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-05T01:43:22.831973+00:00",
+  "postcode": "N5 2ES",
+  "id": 92311692,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious one bedroom apartment situated on the second floor, of a well maintained purpose built block. Highbury New Park offers an excellent location with Canonbury Station and Clissold Park on your doorstep.",
+  "displayAddress": "Frensham Court, N5 2ES",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.550182,
+    "longitude": -0.094513
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c_max_476x317.jpeg",
+      "url": "property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b87479dd/92311692/0b87479ddcc5c32d02f5580c73b9b136_max_476x317.jpeg",
+      "url": "property-photo/0b87479dd/92311692/0b87479ddcc5c32d02f5580c73b9b136.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24381bf47/92311692/24381bf47d97e419853a2b918ae7604f_max_476x317.jpeg",
+      "url": "property-photo/24381bf47/92311692/24381bf47d97e419853a2b918ae7604f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d0e0ed07/92311692/2d0e0ed07a5dc2615191b41a07d99443_max_476x317.jpeg",
+      "url": "property-photo/2d0e0ed07/92311692/2d0e0ed07a5dc2615191b41a07d99443.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d0aa6181/92311692/0d0aa6181a92f861d26c06c7983386f0_max_476x317.jpeg",
+      "url": "property-photo/0d0aa6181/92311692/0d0aa6181a92f861d26c06c7983386f0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98deb8d38/92311692/98deb8d381a8e86ccdd51a9183f82249_max_476x317.jpeg",
+      "url": "property-photo/98deb8d38/92311692/98deb8d381a8e86ccdd51a9183f82249.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/025690ab3/92311692/025690ab36d1e9d11f3a729d28644563_max_476x317.jpeg",
+      "url": "property-photo/025690ab3/92311692/025690ab36d1e9d11f3a729d28644563.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-09-03T13:26:50Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 164045,
+    "brandPlusLogoURI": "/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "contactTelephone": "020 3906 1017",
+    "branchDisplayName": "James Edward, Highbury",
+    "branchName": "Highbury",
+    "brandTradingName": "James Edward",
+    "branchLandingPageUrl": "/estate-agents/agent/James-Edward/Highbury-164045.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T10:23:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/17678201-PRODUCTS_LOGO-1766067665.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92311692#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92311692",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-24T09:32:14Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T13:26:51Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Close to Canonbury Station",
+      "htmlDescription": "Close to Canonbury Station"
+    },
+    {
+      "order": 2,
+      "description": "Close to Clissold Park",
+      "htmlDescription": "Close to Clissold Park"
+    },
+    {
+      "order": 3,
+      "description": "Second Floor",
+      "htmlDescription": "Second Floor"
+    },
+    {
+      "order": 4,
+      "description": "Spacious throughout",
+      "htmlDescription": "Spacious throughout"
+    },
+    {
+      "order": 5,
+      "description": "Tastefully Furnished",
+      "htmlDescription": "Tastefully Furnished"
+    },
+    {
+      "order": 6,
+      "description": "Available mid September",
+      "htmlDescription": "Available mid September"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c_max_476x317.jpeg",
+        "url": "property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b87479dd/92311692/0b87479ddcc5c32d02f5580c73b9b136_max_476x317.jpeg",
+        "url": "property-photo/0b87479dd/92311692/0b87479ddcc5c32d02f5580c73b9b136.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24381bf47/92311692/24381bf47d97e419853a2b918ae7604f_max_476x317.jpeg",
+        "url": "property-photo/24381bf47/92311692/24381bf47d97e419853a2b918ae7604f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2d0e0ed07/92311692/2d0e0ed07a5dc2615191b41a07d99443_max_476x317.jpeg",
+        "url": "property-photo/2d0e0ed07/92311692/2d0e0ed07a5dc2615191b41a07d99443.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d0aa6181/92311692/0d0aa6181a92f861d26c06c7983386f0_max_476x317.jpeg",
+        "url": "property-photo/0d0aa6181/92311692/0d0aa6181a92f861d26c06c7983386f0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98deb8d38/92311692/98deb8d381a8e86ccdd51a9183f82249_max_476x317.jpeg",
+        "url": "property-photo/98deb8d38/92311692/98deb8d381a8e86ccdd51a9183f82249.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/025690ab3/92311692/025690ab36d1e9d11f3a729d28644563_max_476x317.jpeg",
+        "url": "property-photo/025690ab3/92311692/025690ab36d1e9d11f3a729d28644563.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63a89abd4/92311692/63a89abd414f7ae0fb9adba4736d418c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by James Edward, Highbury",
+  "addedOrReduced": "Reduced on 03/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

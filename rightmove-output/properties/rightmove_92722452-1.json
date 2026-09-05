@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-05T02:09:59.057452+00:00",
+  "postcode": "N7 7RR",
+  "id": 92722452,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "A spacious split level three-bedroom first floor maisonette located in Islington Holloway N7. The property has been newly renovated, boasting a spacious reception with balcony views, a separate modern kitchen, tiled bathroom with shower over bath and separate WC.",
+  "displayAddress": "Lazar Walk, Holloway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56421,
+    "longitude": -0.11521
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01_max_476x317.jpeg",
+      "url": "property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e1d8ea6e/92722452/9e1d8ea6e211dc3a35da0f2427d4a635_max_476x317.jpeg",
+      "url": "property-photo/9e1d8ea6e/92722452/9e1d8ea6e211dc3a35da0f2427d4a635.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/139ce388e/92722452/139ce388ea6c2d76b3015221cb2e137f_max_476x317.jpeg",
+      "url": "property-photo/139ce388e/92722452/139ce388ea6c2d76b3015221cb2e137f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/447542270/92722452/447542270b5be12da6956ed1a633dce6_max_476x317.jpeg",
+      "url": "property-photo/447542270/92722452/447542270b5be12da6956ed1a633dce6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f1b49af1/92722452/7f1b49af16e92f3f330f2af60841ff46_max_476x317.jpeg",
+      "url": "property-photo/7f1b49af1/92722452/7f1b49af16e92f3f330f2af60841ff46.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eab98aaa/92722452/9eab98aaa359cd170f856226954743d2_max_476x317.jpeg",
+      "url": "property-photo/9eab98aaa/92722452/9eab98aaa359cd170f856226954743d2.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-03T18:10:04Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 261842,
+    "brandPlusLogoURI": "/partner-logo/30135617-PRODUCTS_LOGO-1766059089.jpeg",
+    "contactTelephone": "020 3667 9798",
+    "branchDisplayName": "London Move, London",
+    "branchName": "London",
+    "brandTradingName": "London Move",
+    "branchLandingPageUrl": "/estate-agents/agent/London-Move/London-261842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30135617-PRODUCTS_LOGO-1766059089.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "London Move are registered members of the Property Redress Scheme an independent organisation dedicated to resolving disputes between consumers and property agents in the UK. \n\nLondon Move are registered members of SafeAgent (CMP). \n\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3600.00) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a33000.00) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "786 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92722452#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92722452",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-03T18:04:18Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-03T18:10:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "P.Built - Part Furnished",
+      "htmlDescription": "P.Built - Part Furnished"
+    },
+    {
+      "order": 2,
+      "description": "3 Beds + 1 Reception",
+      "htmlDescription": "3 Beds + 1 Reception"
+    },
+    {
+      "order": 3,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Shower",
+      "htmlDescription": "Shower"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : C",
+      "htmlDescription": "Energy Rating : C"
+    },
+    {
+      "order": 6,
+      "description": "Council Tax Band C",
+      "htmlDescription": "Council Tax Band C"
+    },
+    {
+      "order": 7,
+      "description": "No special accessibility",
+      "htmlDescription": "No special accessibility"
+    },
+    {
+      "order": 8,
+      "description": "No Parking",
+      "htmlDescription": "No Parking"
+    },
+    {
+      "order": 9,
+      "description": "Entryphone System",
+      "htmlDescription": "Entryphone System"
+    },
+    {
+      "order": 10,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://www.youtube.com/watch?v=US_hJimK_tQ",
+      "provider": "YOUTUBE"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01_max_476x317.jpeg",
+        "url": "property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9e1d8ea6e/92722452/9e1d8ea6e211dc3a35da0f2427d4a635_max_476x317.jpeg",
+        "url": "property-photo/9e1d8ea6e/92722452/9e1d8ea6e211dc3a35da0f2427d4a635.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/139ce388e/92722452/139ce388ea6c2d76b3015221cb2e137f_max_476x317.jpeg",
+        "url": "property-photo/139ce388e/92722452/139ce388ea6c2d76b3015221cb2e137f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/447542270/92722452/447542270b5be12da6956ed1a633dce6_max_476x317.jpeg",
+        "url": "property-photo/447542270/92722452/447542270b5be12da6956ed1a633dce6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f1b49af1/92722452/7f1b49af16e92f3f330f2af60841ff46_max_476x317.jpeg",
+        "url": "property-photo/7f1b49af1/92722452/7f1b49af16e92f3f330f2af60841ff46.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9eab98aaa/92722452/9eab98aaa359cd170f856226954743d2_max_476x317.jpeg",
+        "url": "property-photo/9eab98aaa/92722452/9eab98aaa359cd170f856226954743d2.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21c3133c4/92722452/21c3133c46201d53df9b48a6e3713f01_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by London Move, London",
+  "addedOrReduced": "Added on 03/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

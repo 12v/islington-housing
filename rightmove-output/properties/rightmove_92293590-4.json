@@ -1,0 +1,279 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-05T00:11:41.616675+00:00",
+  "postcode": "N1 8DL",
+  "id": 92293590,
+  "bedrooms": 5,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Living Space are pleased to offer for rent this very spacious 5 double bedrooms 2 bathroom house situated in a fantastic location in Islington and within minutes from Angel tube and Upper Street. The property is offered furnished, neutrally decorated throughout, wood floors, quality fitted kitche...",
+  "displayAddress": "Haverstock Street, Islington",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.530725,
+    "longitude": -0.098861
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236_max_476x317.png",
+      "url": "property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236.png",
+      "caption": "Dining Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fcc274f3e/92293590/fcc274f3e4bf8730b54f9e93662a4b33_max_476x317.png",
+      "url": "property-photo/fcc274f3e/92293590/fcc274f3e4bf8730b54f9e93662a4b33.png",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/247c97081/92293590/247c970819caf18f0cdfa86888b7467e_max_476x317.png",
+      "url": "property-photo/247c97081/92293590/247c970819caf18f0cdfa86888b7467e.png",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ef117b0e/92293590/4ef117b0e660da115c73e491b8509fd8_max_476x317.png",
+      "url": "property-photo/4ef117b0e/92293590/4ef117b0e660da115c73e491b8509fd8.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9fdfae02/92293590/f9fdfae02fd3ed4c2b1c5fb57d91ca5c_max_476x317.png",
+      "url": "property-photo/f9fdfae02/92293590/f9fdfae02fd3ed4c2b1c5fb57d91ca5c.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29c356c70/92293590/29c356c7045779a2c07d548241040841_max_476x317.png",
+      "url": "property-photo/29c356c70/92293590/29c356c7045779a2c07d548241040841.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/952411690/92293590/9524116905bcb4e35627223a1c177a6d_max_476x317.jpeg",
+      "url": "property-photo/952411690/92293590/9524116905bcb4e35627223a1c177a6d.jpeg",
+      "caption": "Front (Exterior)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06cb6ff19/92293590/06cb6ff19688de037fe94382e2ec40da_max_476x317.jpeg",
+      "url": "property-photo/06cb6ff19/92293590/06cb6ff19688de037fe94382e2ec40da.jpeg",
+      "caption": "Rear Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe592b3d/92293590/bbe592b3d1ce40dc981e00fd72630448_max_476x317.png",
+      "url": "property-photo/bbe592b3d/92293590/bbe592b3d1ce40dc981e00fd72630448.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e9a814b2/92293590/2e9a814b26d04ad47e0d6fbd0f663bfd_max_476x317.png",
+      "url": "property-photo/2e9a814b2/92293590/2e9a814b26d04ad47e0d6fbd0f663bfd.png",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ced0cbb1/92293590/0ced0cbb1defd316d62d4b3c5cb1b403_max_476x317.png",
+      "url": "property-photo/0ced0cbb1/92293590/0ced0cbb1defd316d62d4b3c5cb1b403.png",
+      "caption": "Bedroom"
+    }
+  ],
+  "propertySubType": "Detached",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-09-02T16:11:43Z"
+  },
+  "price": {
+    "amount": 6000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a36,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,385 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 237116,
+    "brandPlusLogoURI": "/partner-logo/26177996-PRODUCTS_LOGO-1766068012.jpeg",
+    "contactTelephone": "020 7354 0505",
+    "branchDisplayName": "Living Space Estate Agents, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Living Space Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Living-Space-Estate-Agents/Islington-237116.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-22T15:36:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/26177996-PRODUCTS_LOGO-1766068012.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92293590#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92293590",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-08-22T11:13:50Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-04T12:18:13Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Detached - Furnished",
+      "htmlDescription": "Detached - Furnished"
+    },
+    {
+      "order": 2,
+      "description": "5 Beds + 1 Reception",
+      "htmlDescription": "5 Beds + 1 Reception"
+    },
+    {
+      "order": 3,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Shower",
+      "htmlDescription": "Shower"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : D",
+      "htmlDescription": "Energy Rating : D"
+    },
+    {
+      "order": 6,
+      "description": "No special accessibility",
+      "htmlDescription": "No special accessibility"
+    },
+    {
+      "order": 7,
+      "description": "No Parking",
+      "htmlDescription": "No Parking"
+    },
+    {
+      "order": 8,
+      "description": "Washing Machine",
+      "htmlDescription": "Washing Machine"
+    },
+    {
+      "order": 9,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236_max_476x317.png",
+        "url": "property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236.png",
+        "caption": "Dining Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fcc274f3e/92293590/fcc274f3e4bf8730b54f9e93662a4b33_max_476x317.png",
+        "url": "property-photo/fcc274f3e/92293590/fcc274f3e4bf8730b54f9e93662a4b33.png",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/247c97081/92293590/247c970819caf18f0cdfa86888b7467e_max_476x317.png",
+        "url": "property-photo/247c97081/92293590/247c970819caf18f0cdfa86888b7467e.png",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4ef117b0e/92293590/4ef117b0e660da115c73e491b8509fd8_max_476x317.png",
+        "url": "property-photo/4ef117b0e/92293590/4ef117b0e660da115c73e491b8509fd8.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9fdfae02/92293590/f9fdfae02fd3ed4c2b1c5fb57d91ca5c_max_476x317.png",
+        "url": "property-photo/f9fdfae02/92293590/f9fdfae02fd3ed4c2b1c5fb57d91ca5c.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29c356c70/92293590/29c356c7045779a2c07d548241040841_max_476x317.png",
+        "url": "property-photo/29c356c70/92293590/29c356c7045779a2c07d548241040841.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/952411690/92293590/9524116905bcb4e35627223a1c177a6d_max_476x317.jpeg",
+        "url": "property-photo/952411690/92293590/9524116905bcb4e35627223a1c177a6d.jpeg",
+        "caption": "Front (Exterior)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06cb6ff19/92293590/06cb6ff19688de037fe94382e2ec40da_max_476x317.jpeg",
+        "url": "property-photo/06cb6ff19/92293590/06cb6ff19688de037fe94382e2ec40da.jpeg",
+        "caption": "Rear Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe592b3d/92293590/bbe592b3d1ce40dc981e00fd72630448_max_476x317.png",
+        "url": "property-photo/bbe592b3d/92293590/bbe592b3d1ce40dc981e00fd72630448.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e9a814b2/92293590/2e9a814b26d04ad47e0d6fbd0f663bfd_max_476x317.png",
+        "url": "property-photo/2e9a814b2/92293590/2e9a814b26d04ad47e0d6fbd0f663bfd.png",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ced0cbb1/92293590/0ced0cbb1defd316d62d4b3c5cb1b403_max_476x317.png",
+        "url": "property-photo/0ced0cbb1/92293590/0ced0cbb1defd316d62d4b3c5cb1b403.png",
+        "caption": "Bedroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9efd9739/92293590/b9efd9739591cf4b4ea2e19109e8b236_max_296x197.png"
+  },
+  "formattedBranchName": " by Living Space Estate Agents, Islington",
+  "addedOrReduced": "Reduced on 02/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "5 bedroom detached house",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
