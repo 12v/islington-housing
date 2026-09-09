@@ -1,0 +1,183 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-09T01:39:31.234701+00:00",
+  "postcode": "N4 3BF",
+  "id": 92899572,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "No summary available.",
+  "displayAddress": "Evershot Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56945,
+    "longitude": -0.116319
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c_max_476x317.jpeg",
+      "url": "property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a214c707b/92899572/a214c707b9a746f0e218b631762f9feb_max_476x317.jpeg",
+      "url": "property-photo/a214c707b/92899572/a214c707b9a746f0e218b631762f9feb.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/617580f5d/92899572/617580f5d3dda51b5a5f65db56ccb4a0_max_476x317.jpeg",
+      "url": "property-photo/617580f5d/92899572/617580f5d3dda51b5a5f65db56ccb4a0.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55827be0d/92899572/55827be0d0bb9f96c6f70a1c999f4ade_max_476x317.jpeg",
+      "url": "property-photo/55827be0d/92899572/55827be0d0bb9f96c6f70a1c999f4ade.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3af54501c/92899572/3af54501c67e950d7cf55d4340173836_max_476x317.jpeg",
+      "url": "property-photo/3af54501c/92899572/3af54501c67e950d7cf55d4340173836.jpeg",
+      "caption": "Outside"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7e11d98e/92899572/c7e11d98e9ae94487051eaa38b735651_max_476x317.jpeg",
+      "url": "property-photo/c7e11d98e/92899572/c7e11d98e9ae94487051eaa38b735651.jpeg",
+      "caption": "Bathroom"
+    }
+  ],
+  "propertySubType": "Detached",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-08T15:21:26Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 90731,
+    "brandPlusLogoURI": "/partner-logo/10033556-LOGO-1765963282.png",
+    "contactTelephone": "020 3872 5262",
+    "branchDisplayName": "Alex Marks, London",
+    "branchName": "London",
+    "brandTradingName": "Alex Marks",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Marks/London-90731.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:25Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10033556-LOGO-1765963282.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92899572#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92899572",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-08T15:15:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-08T15:21:26Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c_max_476x317.jpeg",
+        "url": "property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a214c707b/92899572/a214c707b9a746f0e218b631762f9feb_max_476x317.jpeg",
+        "url": "property-photo/a214c707b/92899572/a214c707b9a746f0e218b631762f9feb.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/617580f5d/92899572/617580f5d3dda51b5a5f65db56ccb4a0_max_476x317.jpeg",
+        "url": "property-photo/617580f5d/92899572/617580f5d3dda51b5a5f65db56ccb4a0.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55827be0d/92899572/55827be0d0bb9f96c6f70a1c999f4ade_max_476x317.jpeg",
+        "url": "property-photo/55827be0d/92899572/55827be0d0bb9f96c6f70a1c999f4ade.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3af54501c/92899572/3af54501c67e950d7cf55d4340173836_max_476x317.jpeg",
+        "url": "property-photo/3af54501c/92899572/3af54501c67e950d7cf55d4340173836.jpeg",
+        "caption": "Outside"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7e11d98e/92899572/c7e11d98e9ae94487051eaa38b735651_max_476x317.jpeg",
+        "url": "property-photo/c7e11d98e/92899572/c7e11d98e9ae94487051eaa38b735651.jpeg",
+        "caption": "Bathroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f3069fbe/92899572/5f3069fbe4456e2881140509c4b83d2c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Marks, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom detached house",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
