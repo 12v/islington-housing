@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-10T02:01:25.442396+00:00",
+  "postcode": "N7 0JF",
+  "id": 92951289,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A generously sized one-bedroom, second-floor apartment set within a well-maintained purpose-built block. The property offers a bright and spacious separate kitchen with ample room for dining, a welcoming reception room, well-proportioned master bedroom and a modern three-piece bathroom suite. ",
+  "displayAddress": "Hilldrop Crescent, Tufnell Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551491,
+    "longitude": -0.127768
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e_max_476x317.jpeg",
+      "url": "property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8419d097/92951289/d8419d0975d093bcad722d0684078f6a_max_476x317.jpeg",
+      "url": "property-photo/d8419d097/92951289/d8419d0975d093bcad722d0684078f6a.jpeg",
+      "caption": "Photo 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ad25bd61/92951289/1ad25bd616994b0a542b74789c20cd8f_max_476x317.jpeg",
+      "url": "property-photo/1ad25bd61/92951289/1ad25bd616994b0a542b74789c20cd8f.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/902ec9fde/92951289/902ec9fde8be15d9f9e997f83a975815_max_476x317.jpeg",
+      "url": "property-photo/902ec9fde/92951289/902ec9fde8be15d9f9e997f83a975815.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b07896f07/92951289/b07896f073709dfb50fc9169f203761e_max_476x317.jpeg",
+      "url": "property-photo/b07896f07/92951289/b07896f073709dfb50fc9169f203761e.jpeg",
+      "caption": "Photo 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d298264ab/92951289/d298264ab0ed5043faf4434498688400_max_476x317.jpeg",
+      "url": "property-photo/d298264ab/92951289/d298264ab0ed5043faf4434498688400.jpeg",
+      "caption": "Photo 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1182d1900/92951289/1182d1900f6820eedf841f5e33ab2d75_max_476x317.jpeg",
+      "url": "property-photo/1182d1900/92951289/1182d1900f6820eedf841f5e33ab2d75.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81b239108/92951289/81b2391081a877478af2395d7799ebb8_max_476x317.jpeg",
+      "url": "property-photo/81b239108/92951289/81b2391081a877478af2395d7799ebb8.jpeg",
+      "caption": "Picture No. 33"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47ea413bd/92951289/47ea413bde405695744b3475538db8f6_max_476x317.jpeg",
+      "url": "property-photo/47ea413bd/92951289/47ea413bde405695744b3475538db8f6.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3977a337f/92951289/3977a337f4d694d28ccc8ef0fbfe9ee4_max_476x317.jpeg",
+      "url": "property-photo/3977a337f/92951289/3977a337f4d694d28ccc8ef0fbfe9ee4.jpeg",
+      "caption": "Picture No. 29"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba2575e96/92951289/ba2575e9609d50e909573d046d5ed7f6_max_476x317.jpeg",
+      "url": "property-photo/ba2575e96/92951289/ba2575e9609d50e909573d046d5ed7f6.jpeg",
+      "caption": "Picture No. 31"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-02T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-09T15:32:05Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 130528,
+    "brandPlusLogoURI": "/partner-logo/19325845-PRODUCTS_LOGO-1766060410.jpeg",
+    "contactTelephone": "020 8154 5216",
+    "branchDisplayName": "Anthony Pepe Estate Agents, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "Anthony Pepe Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Anthony-Pepe-Estate-Agents/Crouch-End-130528.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-14T14:27:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/19325845-PRODUCTS_LOGO-1766060410.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<b>Relevant letting fees and tenant protection information</b><br /><br />As well as paying the rent, you may also be required to make the following permitted payments.<br /><br /><b>Permitted payments</b><br /><br /><u>Before the tenancy starts (payable to Anthony Pepe  the Agent )</u><br />Holding Deposit: 1 week's rent<br />Deposit: 5 weeks' rent<br /><br /><u>During the tenancy (payable to the Agent)</u><br />Payment of \u00a350 per agreed variation if you want to change the tenancy agreement<br />Payment of interest for the late payment of rent at a rate of 3% above the Bank of England Base Rate<br />Payment of \u00a315 per hour for the reasonably incurred costs for the loss of keys/security devices as well as the actual cost of replacing and lost keys/security devices.<br />Payment of any unpaid rent or other reasonable costs associated with your early termination of the tenancy<br /><br /><u>During the tenancy (payable to the provider) if permitted and applicable</u><br />Utilities i.e. gas, electricity, water<br />Communications - telephone and broadband<br />Installation of cable/satellite<br />Subscription to cable/satellite supplier<br />Television licence<br />Council Tax<br /><br /><u>Other permitted payments</u><br /><br />Any other permitted payments, not included above, under the relevant legislation including contractual damages.<br /><br /><b>Tenant protection</b><br /><br />Anthony Pepe is a member of Propertymark Client Money Protection Scheme, which is a client money protection scheme, and also a member of The Property Redress Scheme, which is a redress scheme. You can find out more details on the agent's website or by contacting the agent directly.",
+  "displaySize": "517 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92951289#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92951289",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-09T15:26:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-09T15:33:44Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e_max_476x317.jpeg",
+        "url": "property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d8419d097/92951289/d8419d0975d093bcad722d0684078f6a_max_476x317.jpeg",
+        "url": "property-photo/d8419d097/92951289/d8419d0975d093bcad722d0684078f6a.jpeg",
+        "caption": "Photo 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ad25bd61/92951289/1ad25bd616994b0a542b74789c20cd8f_max_476x317.jpeg",
+        "url": "property-photo/1ad25bd61/92951289/1ad25bd616994b0a542b74789c20cd8f.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/902ec9fde/92951289/902ec9fde8be15d9f9e997f83a975815_max_476x317.jpeg",
+        "url": "property-photo/902ec9fde/92951289/902ec9fde8be15d9f9e997f83a975815.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b07896f07/92951289/b07896f073709dfb50fc9169f203761e_max_476x317.jpeg",
+        "url": "property-photo/b07896f07/92951289/b07896f073709dfb50fc9169f203761e.jpeg",
+        "caption": "Photo 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d298264ab/92951289/d298264ab0ed5043faf4434498688400_max_476x317.jpeg",
+        "url": "property-photo/d298264ab/92951289/d298264ab0ed5043faf4434498688400.jpeg",
+        "caption": "Photo 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1182d1900/92951289/1182d1900f6820eedf841f5e33ab2d75_max_476x317.jpeg",
+        "url": "property-photo/1182d1900/92951289/1182d1900f6820eedf841f5e33ab2d75.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81b239108/92951289/81b2391081a877478af2395d7799ebb8_max_476x317.jpeg",
+        "url": "property-photo/81b239108/92951289/81b2391081a877478af2395d7799ebb8.jpeg",
+        "caption": "Picture No. 33"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/47ea413bd/92951289/47ea413bde405695744b3475538db8f6_max_476x317.jpeg",
+        "url": "property-photo/47ea413bd/92951289/47ea413bde405695744b3475538db8f6.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3977a337f/92951289/3977a337f4d694d28ccc8ef0fbfe9ee4_max_476x317.jpeg",
+        "url": "property-photo/3977a337f/92951289/3977a337f4d694d28ccc8ef0fbfe9ee4.jpeg",
+        "caption": "Picture No. 29"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba2575e96/92951289/ba2575e9609d50e909573d046d5ed7f6_max_476x317.jpeg",
+        "url": "property-photo/ba2575e96/92951289/ba2575e9609d50e909573d046d5ed7f6.jpeg",
+        "caption": "Picture No. 31"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94faf5ef0/92951289/94faf5ef03b0a1943c686167bf24958e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Anthony Pepe Estate Agents, Crouch End",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

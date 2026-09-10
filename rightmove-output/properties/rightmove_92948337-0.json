@@ -1,0 +1,294 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-10T01:48:53.942822+00:00",
+  "postcode": "N5 2AP",
+  "id": 92948337,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Alex Crown is excited to offer this charming one-bedroom flat situated in the heart of Highbury, N5.",
+  "displayAddress": "Escuan Lodge, Aberdeen Park, Highbury",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55167,
+    "longitude": -0.09611
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232_max_476x317.jpeg",
+      "url": "property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbb606911/92948337/bbb606911496ec32fb1ae64c11fd299f_max_476x317.jpeg",
+      "url": "property-photo/bbb606911/92948337/bbb606911496ec32fb1ae64c11fd299f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c26d1af8/92948337/3c26d1af82ec783d1eed821e7aad93ac_max_476x317.jpeg",
+      "url": "property-photo/3c26d1af8/92948337/3c26d1af82ec783d1eed821e7aad93ac.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/588cbe8c0/92948337/588cbe8c07e3aeb49a49410dd65a2965_max_476x317.jpeg",
+      "url": "property-photo/588cbe8c0/92948337/588cbe8c07e3aeb49a49410dd65a2965.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1827c16e6/92948337/1827c16e698b34f2775ea18b555a80fa_max_476x317.jpeg",
+      "url": "property-photo/1827c16e6/92948337/1827c16e698b34f2775ea18b555a80fa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7eec45c50/92948337/7eec45c50e88d946e9f330ee84b9d936_max_476x317.jpeg",
+      "url": "property-photo/7eec45c50/92948337/7eec45c50e88d946e9f330ee84b9d936.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa36f661f/92948337/aa36f661ffa542f420d70fc2e5d79737_max_476x317.jpeg",
+      "url": "property-photo/aa36f661f/92948337/aa36f661ffa542f420d70fc2e5d79737.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31d8c4eb2/92948337/31d8c4eb2f91f5a3a86d933405a2df8c_max_476x317.jpeg",
+      "url": "property-photo/31d8c4eb2/92948337/31d8c4eb2f91f5a3a86d933405a2df8c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af9a3daa3/92948337/af9a3daa363fcd2665170a749789c814_max_476x317.jpeg",
+      "url": "property-photo/af9a3daa3/92948337/af9a3daa363fcd2665170a749789c814.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a4d725f5/92948337/0a4d725f559430ae5b1344742bea012b_max_476x317.jpeg",
+      "url": "property-photo/0a4d725f5/92948337/0a4d725f559430ae5b1344742bea012b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a453ff8/92948337/d3a453ff8e342d1a9d20327e20f5c9f3_max_476x317.jpeg",
+      "url": "property-photo/d3a453ff8/92948337/d3a453ff8e342d1a9d20327e20f5c9f3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/35529240a/92948337/35529240ae83018211e9c557bda88804_max_476x317.jpeg",
+      "url": "property-photo/35529240a/92948337/35529240ae83018211e9c557bda88804.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-09T14:56:28Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 102122,
+    "brandPlusLogoURI": "/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "contactTelephone": "020 3834 8137",
+    "branchDisplayName": "Alex Crown Lettings & Estate Agents, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Alex Crown Lettings & Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Crown-Lettings-and-Estate-Agents/Islington-102122.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-16T17:11:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3450.00) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32250.00) \n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n\nAlex Crown Lettings & Estate Agents is a member of PI+CMP which is a client money protection scheme, and also a member of The Property Ombudsman which is a redress scheme.\n",
+  "displaySize": "388 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92948337#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92948337",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-09T14:50:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-09T15:09:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Charming one-bedroom flat in Highbury, N5",
+      "htmlDescription": "Charming one-bedroom flat in Highbury, N5"
+    },
+    {
+      "order": 2,
+      "description": "Cozy double bedroom with built-in wardrobes",
+      "htmlDescription": "Cozy double bedroom with built-in wardrobes"
+    },
+    {
+      "order": 3,
+      "description": "Open-plan living area with fully equipped kitchen",
+      "htmlDescription": "Open-plan living area with fully equipped kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Fully tiled bathroom with shower and toilet",
+      "htmlDescription": "Fully tiled bathroom with shower and toilet"
+    },
+    {
+      "order": 5,
+      "description": "Outdoor storage",
+      "htmlDescription": "Outdoor storage"
+    },
+    {
+      "order": 6,
+      "description": "Laminate wood flooring and neutral decor throughout",
+      "htmlDescription": "Laminate wood flooring and neutral decor throughout"
+    },
+    {
+      "order": 7,
+      "description": "7-minute walk to Canonbury Overground station",
+      "htmlDescription": "7-minute walk to Canonbury Overground station"
+    },
+    {
+      "order": 8,
+      "description": "Access to serene communal gardens",
+      "htmlDescription": "Access to serene communal gardens"
+    },
+    {
+      "order": 9,
+      "description": "Close to Arsenal Tube and Highbury & Islington Tube stations",
+      "htmlDescription": "Close to Arsenal Tube and Highbury & Islington Tube stations"
+    },
+    {
+      "order": 10,
+      "description": "Near a variety of shops, bars, restaurants, and local conveniences",
+      "htmlDescription": "Near a variety of shops, bars, restaurants, and local conveniences"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232_max_476x317.jpeg",
+        "url": "property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbb606911/92948337/bbb606911496ec32fb1ae64c11fd299f_max_476x317.jpeg",
+        "url": "property-photo/bbb606911/92948337/bbb606911496ec32fb1ae64c11fd299f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c26d1af8/92948337/3c26d1af82ec783d1eed821e7aad93ac_max_476x317.jpeg",
+        "url": "property-photo/3c26d1af8/92948337/3c26d1af82ec783d1eed821e7aad93ac.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/588cbe8c0/92948337/588cbe8c07e3aeb49a49410dd65a2965_max_476x317.jpeg",
+        "url": "property-photo/588cbe8c0/92948337/588cbe8c07e3aeb49a49410dd65a2965.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1827c16e6/92948337/1827c16e698b34f2775ea18b555a80fa_max_476x317.jpeg",
+        "url": "property-photo/1827c16e6/92948337/1827c16e698b34f2775ea18b555a80fa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7eec45c50/92948337/7eec45c50e88d946e9f330ee84b9d936_max_476x317.jpeg",
+        "url": "property-photo/7eec45c50/92948337/7eec45c50e88d946e9f330ee84b9d936.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa36f661f/92948337/aa36f661ffa542f420d70fc2e5d79737_max_476x317.jpeg",
+        "url": "property-photo/aa36f661f/92948337/aa36f661ffa542f420d70fc2e5d79737.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31d8c4eb2/92948337/31d8c4eb2f91f5a3a86d933405a2df8c_max_476x317.jpeg",
+        "url": "property-photo/31d8c4eb2/92948337/31d8c4eb2f91f5a3a86d933405a2df8c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af9a3daa3/92948337/af9a3daa363fcd2665170a749789c814_max_476x317.jpeg",
+        "url": "property-photo/af9a3daa3/92948337/af9a3daa363fcd2665170a749789c814.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0a4d725f5/92948337/0a4d725f559430ae5b1344742bea012b_max_476x317.jpeg",
+        "url": "property-photo/0a4d725f5/92948337/0a4d725f559430ae5b1344742bea012b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d3a453ff8/92948337/d3a453ff8e342d1a9d20327e20f5c9f3_max_476x317.jpeg",
+        "url": "property-photo/d3a453ff8/92948337/d3a453ff8e342d1a9d20327e20f5c9f3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/35529240a/92948337/35529240ae83018211e9c557bda88804_max_476x317.jpeg",
+        "url": "property-photo/35529240a/92948337/35529240ae83018211e9c557bda88804.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e906aea74/92948337/e906aea74534a2c093987d58e9651232_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Crown Lettings & Estate Agents, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
