@@ -1,0 +1,254 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-11T01:46:50.657126+00:00",
+  "postcode": "N5 2SU",
+  "id": 92997573,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "The Property Company is pleased to offer this well-presented one-bedroom flat situated in the popular Highbury area, N5. The property comprises a good-sized open-plan living room and kitchen, providing a bright and practical living space, a well-proportioned double bedroom, and a moder...",
+  "displayAddress": "Riversdale Road, Highbury, Islington, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56016,
+    "longitude": -0.094367
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8_max_476x317.jpeg",
+      "url": "property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80c27f260/92997573/80c27f2606376eb7b48dd754e3d45db2_max_476x317.jpeg",
+      "url": "property-photo/80c27f260/92997573/80c27f2606376eb7b48dd754e3d45db2.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d54416993/92997573/d544169933001f536b4d78d08431deb9_max_476x317.jpeg",
+      "url": "property-photo/d54416993/92997573/d544169933001f536b4d78d08431deb9.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77c3d9e01/92997573/77c3d9e014aa8617110cfed81bc120f2_max_476x317.jpeg",
+      "url": "property-photo/77c3d9e01/92997573/77c3d9e014aa8617110cfed81bc120f2.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d50d9aba0/92997573/d50d9aba0aeb0966947b8a31ad8d0675_max_476x317.jpeg",
+      "url": "property-photo/d50d9aba0/92997573/d50d9aba0aeb0966947b8a31ad8d0675.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85f0f2531/92997573/85f0f25316d7acf10673abb75d705bae_max_476x317.jpeg",
+      "url": "property-photo/85f0f2531/92997573/85f0f25316d7acf10673abb75d705bae.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/351d333fc/92997573/351d333fc290fc4f98eaa25a1ca66436_max_476x317.jpeg",
+      "url": "property-photo/351d333fc/92997573/351d333fc290fc4f98eaa25a1ca66436.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d361c3abd/92997573/d361c3abd087b804a52db156adc48d63_max_476x317.jpeg",
+      "url": "property-photo/d361c3abd/92997573/d361c3abd087b804a52db156adc48d63.jpeg",
+      "caption": "Picture No. 16"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-10T15:32:20Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 76256,
+    "brandPlusLogoURI": "/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "contactTelephone": "020 3870 6387",
+    "branchDisplayName": "The Property Company, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "The Property Company",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Property-Company/Crouch-End-76256.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-14T12:18:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92997573#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92997573",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-10T15:26:40Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-10T20:48:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One-bedroom flat",
+      "htmlDescription": "One-bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Good-sized double bedroom",
+      "htmlDescription": "Good-sized double bedroom"
+    },
+    {
+      "order": 3,
+      "description": "Spacious open-plan living room and kitchen",
+      "htmlDescription": "Spacious open-plan living room and kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Modern fitted kitchen",
+      "htmlDescription": "Modern fitted kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Modern bathroom with bathtub",
+      "htmlDescription": "Modern bathroom with bathtub"
+    },
+    {
+      "order": 6,
+      "description": "Popular Highbury location",
+      "htmlDescription": "Popular Highbury location"
+    },
+    {
+      "order": 7,
+      "description": "Excellent local shops, caf\u00e9s and amenities",
+      "htmlDescription": "Excellent local shops, caf\u00e9s and amenities"
+    },
+    {
+      "order": 8,
+      "description": "Good transport links to Central London",
+      "htmlDescription": "Good transport links to Central London"
+    },
+    {
+      "order": 9,
+      "description": "EPC: C",
+      "htmlDescription": "EPC: C"
+    },
+    {
+      "order": 10,
+      "description": "Council Tax Band: D",
+      "htmlDescription": "Council Tax Band: D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8_max_476x317.jpeg",
+        "url": "property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/80c27f260/92997573/80c27f2606376eb7b48dd754e3d45db2_max_476x317.jpeg",
+        "url": "property-photo/80c27f260/92997573/80c27f2606376eb7b48dd754e3d45db2.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d54416993/92997573/d544169933001f536b4d78d08431deb9_max_476x317.jpeg",
+        "url": "property-photo/d54416993/92997573/d544169933001f536b4d78d08431deb9.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77c3d9e01/92997573/77c3d9e014aa8617110cfed81bc120f2_max_476x317.jpeg",
+        "url": "property-photo/77c3d9e01/92997573/77c3d9e014aa8617110cfed81bc120f2.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d50d9aba0/92997573/d50d9aba0aeb0966947b8a31ad8d0675_max_476x317.jpeg",
+        "url": "property-photo/d50d9aba0/92997573/d50d9aba0aeb0966947b8a31ad8d0675.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85f0f2531/92997573/85f0f25316d7acf10673abb75d705bae_max_476x317.jpeg",
+        "url": "property-photo/85f0f2531/92997573/85f0f25316d7acf10673abb75d705bae.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/351d333fc/92997573/351d333fc290fc4f98eaa25a1ca66436_max_476x317.jpeg",
+        "url": "property-photo/351d333fc/92997573/351d333fc290fc4f98eaa25a1ca66436.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d361c3abd/92997573/d361c3abd087b804a52db156adc48d63_max_476x317.jpeg",
+        "url": "property-photo/d361c3abd/92997573/d361c3abd087b804a52db156adc48d63.jpeg",
+        "caption": "Picture No. 16"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0521c3806/92997573/0521c3806362d6f62eb55bcd3c6af8f8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Property Company, Crouch End",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

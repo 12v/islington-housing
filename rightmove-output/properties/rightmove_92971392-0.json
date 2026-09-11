@@ -1,0 +1,203 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-11T00:12:49.466730+00:00",
+  "postcode": "N1 8AL",
+  "id": 92971392,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright, beautifully refurbished one-bedroom flat in an eighteenth century property on one of Islington's most attractive Garden Terraces, offering approximately 388 sq ft of well-designed accommodation. ",
+  "displayAddress": "Colebrooke Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533653,
+    "longitude": -0.10332
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c_max_476x317.jpeg",
+      "url": "property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/683bcb604/92971392/683bcb6041e8ac1cec32fb46e131f3c6_max_476x317.jpeg",
+      "url": "property-photo/683bcb604/92971392/683bcb6041e8ac1cec32fb46e131f3c6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c119f1575/92971392/c119f1575542a83c5ba8e697dd518fd7_max_476x317.jpeg",
+      "url": "property-photo/c119f1575/92971392/c119f1575542a83c5ba8e697dd518fd7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b255875aa/92971392/b255875aa3c318003f0296ccdd051076_max_476x317.jpeg",
+      "url": "property-photo/b255875aa/92971392/b255875aa3c318003f0296ccdd051076.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d42352de5/92971392/d42352de5fa95b0118de9dc3bc139208_max_476x317.jpeg",
+      "url": "property-photo/d42352de5/92971392/d42352de5fa95b0118de9dc3bc139208.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/060c180ce/92971392/060c180ce422909225f08a7ab573fc53_max_476x317.jpeg",
+      "url": "property-photo/060c180ce/92971392/060c180ce422909225f08a7ab573fc53.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00471ad47/92971392/00471ad47a49c5e147db1cfaedfc885e_max_476x317.jpeg",
+      "url": "property-photo/00471ad47/92971392/00471ad47a49c5e147db1cfaedfc885e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ebbffc6e/92971392/1ebbffc6e49e60ddac1d690fa352b51f_max_476x317.jpeg",
+      "url": "property-photo/1ebbffc6e/92971392/1ebbffc6e49e60ddac1d690fa352b51f.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-07T13:30:07Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 223136,
+    "brandPlusLogoURI": "/partner-logo/24148196-PRODUCTS_LOGO-1783605424802.png",
+    "contactTelephone": "020 4652 9603",
+    "branchDisplayName": "Bowleys Oversight, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "Bowleys Oversight",
+    "branchLandingPageUrl": "/estate-agents/agent/Bowleys-Oversight/Covering-London-223136.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-14T08:59:22Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24148196-PRODUCTS_LOGO-1783605424802.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Please note that lettings agents are required by law to publish on their websites information for potential tenants about relevant fees, redress schemes and client money protection schemes (including the names of those schemes). For properties to rent in England, details of the agent's membership of any redress scheme and client money protection scheme must also be published with their fees. It is the agent's responsibility to ensure that all relevant information is provided and is up to date and accurate. If the relevant information does not appear here, the agent may have included it within the property description.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/92971392#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=92971392",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-10T09:16:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-11T00:32:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c_max_476x317.jpeg",
+        "url": "property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/683bcb604/92971392/683bcb6041e8ac1cec32fb46e131f3c6_max_476x317.jpeg",
+        "url": "property-photo/683bcb604/92971392/683bcb6041e8ac1cec32fb46e131f3c6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c119f1575/92971392/c119f1575542a83c5ba8e697dd518fd7_max_476x317.jpeg",
+        "url": "property-photo/c119f1575/92971392/c119f1575542a83c5ba8e697dd518fd7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b255875aa/92971392/b255875aa3c318003f0296ccdd051076_max_476x317.jpeg",
+        "url": "property-photo/b255875aa/92971392/b255875aa3c318003f0296ccdd051076.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d42352de5/92971392/d42352de5fa95b0118de9dc3bc139208_max_476x317.jpeg",
+        "url": "property-photo/d42352de5/92971392/d42352de5fa95b0118de9dc3bc139208.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/060c180ce/92971392/060c180ce422909225f08a7ab573fc53_max_476x317.jpeg",
+        "url": "property-photo/060c180ce/92971392/060c180ce422909225f08a7ab573fc53.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00471ad47/92971392/00471ad47a49c5e147db1cfaedfc885e_max_476x317.jpeg",
+        "url": "property-photo/00471ad47/92971392/00471ad47a49c5e147db1cfaedfc885e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1ebbffc6e/92971392/1ebbffc6e49e60ddac1d690fa352b51f_max_476x317.jpeg",
+        "url": "property-photo/1ebbffc6e/92971392/1ebbffc6e49e60ddac1d690fa352b51f.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc8411c82/92971392/fc8411c8276c9d901158430faf1cb60c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Bowleys Oversight, Covering London",
+  "addedOrReduced": "Added on 07/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
