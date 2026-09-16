@@ -1,0 +1,189 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-16T02:45:07.400764+00:00",
+  "postcode": "N7 9GT",
+  "id": 93118386,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright and spacious, newly decorated one bedroom artment located in the heart of Islington.",
+  "displayAddress": "Market Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.546184,
+    "longitude": -0.122386
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738_max_476x317.jpeg",
+      "url": "property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738.jpeg",
+      "caption": "921268 (1).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5be06950/93118386/b5be069502d82d279ea83baa2e8e6bd7_max_476x317.jpeg",
+      "url": "property-photo/b5be06950/93118386/b5be069502d82d279ea83baa2e8e6bd7.jpeg",
+      "caption": "921268 (2).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09309b6f/93118386/f09309b6faa6e4d49caefbfd619e6923_max_476x317.jpeg",
+      "url": "property-photo/f09309b6f/93118386/f09309b6faa6e4d49caefbfd619e6923.jpeg",
+      "caption": "921268 (3).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cab6d7086/93118386/cab6d70866474c75953a10bf79bf26c4_max_476x317.jpeg",
+      "url": "property-photo/cab6d7086/93118386/cab6d70866474c75953a10bf79bf26c4.jpeg",
+      "caption": "921268 (4).jpg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2025-07-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-14T14:37:14Z"
+  },
+  "price": {
+    "amount": 2050,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,050 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3473 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 197495,
+    "brandPlusLogoURI": "/partner-logo/21443336-PRODUCTS_LOGO-1766065896.png",
+    "contactTelephone": "020 3872 4807",
+    "branchDisplayName": "Prospect London, London",
+    "branchName": "London",
+    "brandTradingName": "Prospect London",
+    "branchLandingPageUrl": "/estate-agents/agent/Prospect-London/London-197495.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21443336-PRODUCTS_LOGO-1766065896.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93118386#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93118386",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-14T14:31:30Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-14T14:59:51Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "GATED DEVELOPMENT",
+      "htmlDescription": "GATED DEVELOPMENT"
+    },
+    {
+      "order": 2,
+      "description": "CONCIERGE",
+      "htmlDescription": "CONCIERGE"
+    },
+    {
+      "order": 3,
+      "description": "BIKE STORAGE",
+      "htmlDescription": "BIKE STORAGE"
+    },
+    {
+      "order": 4,
+      "description": "GREAT LOCATION",
+      "htmlDescription": "GREAT LOCATION"
+    },
+    {
+      "order": 5,
+      "description": "NEWLY DECORATES",
+      "htmlDescription": "NEWLY DECORATES"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738_max_476x317.jpeg",
+        "url": "property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738.jpeg",
+        "caption": "921268 (1).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b5be06950/93118386/b5be069502d82d279ea83baa2e8e6bd7_max_476x317.jpeg",
+        "url": "property-photo/b5be06950/93118386/b5be069502d82d279ea83baa2e8e6bd7.jpeg",
+        "caption": "921268 (2).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09309b6f/93118386/f09309b6faa6e4d49caefbfd619e6923_max_476x317.jpeg",
+        "url": "property-photo/f09309b6f/93118386/f09309b6faa6e4d49caefbfd619e6923.jpeg",
+        "caption": "921268 (3).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cab6d7086/93118386/cab6d70866474c75953a10bf79bf26c4_max_476x317.jpeg",
+        "url": "property-photo/cab6d7086/93118386/cab6d70866474c75953a10bf79bf26c4.jpeg",
+        "caption": "921268 (4).jpg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7146ed249/93118386/7146ed2492380af2f6faaf15acdb2738_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Prospect London, London",
+  "addedOrReduced": "Added on 14/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

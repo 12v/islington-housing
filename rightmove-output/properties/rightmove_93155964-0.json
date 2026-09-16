@@ -1,0 +1,229 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-15T22:53:59.407059+00:00",
+  "postcode": "EC1M 5PS",
+  "id": 93155964,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Stunning 2 bed in historical building in the heart of Farringdon",
+  "displayAddress": "Clerkenwell Road, LONDON",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.522969,
+    "longitude": -0.100663
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7_max_476x317.jpeg",
+      "url": "property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3912cc365/93155964/3912cc365bdc29a04f99f79b9af2e546_max_476x317.jpeg",
+      "url": "property-photo/3912cc365/93155964/3912cc365bdc29a04f99f79b9af2e546.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6dec9edb/93155964/d6dec9edb7b21dad6d4d1c47613822dc_max_476x317.jpeg",
+      "url": "property-photo/d6dec9edb/93155964/d6dec9edb7b21dad6d4d1c47613822dc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/125bd6d29/93155964/125bd6d29ed646a88965b728ab4b551b_max_476x317.jpeg",
+      "url": "property-photo/125bd6d29/93155964/125bd6d29ed646a88965b728ab4b551b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa8812801/93155964/fa8812801495c86e5bdb15c2eeffbefd_max_476x317.jpeg",
+      "url": "property-photo/fa8812801/93155964/fa8812801495c86e5bdb15c2eeffbefd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a243301b1/93155964/a243301b1e7695229c96867b8f9137fa_max_476x317.jpeg",
+      "url": "property-photo/a243301b1/93155964/a243301b1e7695229c96867b8f9137fa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e2f27ca7/93155964/1e2f27ca79caaa38d98f1b317277ea53_max_476x317.jpeg",
+      "url": "property-photo/1e2f27ca7/93155964/1e2f27ca79caaa38d98f1b317277ea53.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06a06c4a9/93155964/06a06c4a91d3a27d367f5e60bb87a4c6_max_476x317.jpeg",
+      "url": "property-photo/06a06c4a9/93155964/06a06c4a91d3a27d367f5e60bb87a4c6.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-15T12:02:42Z"
+  },
+  "price": {
+    "amount": 3600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3831 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 11478,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3840 3862",
+    "branchDisplayName": "Felicity J Lord, Clerkenwell Lettings",
+    "branchName": "Clerkenwell Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Clerkenwell-Lettings-11478.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-15T15:32:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93155964#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93155964",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-15T11:57:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-15T15:15:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 2,
+      "description": "Natural Light",
+      "htmlDescription": "Natural Light"
+    },
+    {
+      "order": 3,
+      "description": "Spacious",
+      "htmlDescription": "Spacious"
+    },
+    {
+      "order": 4,
+      "description": "Open plan kitchen & reception",
+      "htmlDescription": "Open plan kitchen & reception"
+    },
+    {
+      "order": 5,
+      "description": "Excellent Transport Links",
+      "htmlDescription": "Excellent Transport Links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7_max_476x317.jpeg",
+        "url": "property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3912cc365/93155964/3912cc365bdc29a04f99f79b9af2e546_max_476x317.jpeg",
+        "url": "property-photo/3912cc365/93155964/3912cc365bdc29a04f99f79b9af2e546.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6dec9edb/93155964/d6dec9edb7b21dad6d4d1c47613822dc_max_476x317.jpeg",
+        "url": "property-photo/d6dec9edb/93155964/d6dec9edb7b21dad6d4d1c47613822dc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/125bd6d29/93155964/125bd6d29ed646a88965b728ab4b551b_max_476x317.jpeg",
+        "url": "property-photo/125bd6d29/93155964/125bd6d29ed646a88965b728ab4b551b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa8812801/93155964/fa8812801495c86e5bdb15c2eeffbefd_max_476x317.jpeg",
+        "url": "property-photo/fa8812801/93155964/fa8812801495c86e5bdb15c2eeffbefd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a243301b1/93155964/a243301b1e7695229c96867b8f9137fa_max_476x317.jpeg",
+        "url": "property-photo/a243301b1/93155964/a243301b1e7695229c96867b8f9137fa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e2f27ca7/93155964/1e2f27ca79caaa38d98f1b317277ea53_max_476x317.jpeg",
+        "url": "property-photo/1e2f27ca7/93155964/1e2f27ca79caaa38d98f1b317277ea53.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06a06c4a9/93155964/06a06c4a91d3a27d367f5e60bb87a4c6_max_476x317.jpeg",
+        "url": "property-photo/06a06c4a9/93155964/06a06c4a91d3a27d367f5e60bb87a4c6.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/793fd2aae/93155964/793fd2aae3ef014d01ef7c36d5d21bd7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Clerkenwell Lettings",
+  "addedOrReduced": "Added today",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
