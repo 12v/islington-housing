@@ -1,0 +1,284 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-17T02:07:22.654529+00:00",
+  "postcode": "N5 1HZ",
+  "id": 93178443,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Set on the ground floor of this handsome period style property we offer this one bedroom garden flat on a quiet residential street just moments from Highbury Fields. The property comprises a large living room with shutters on the bay window and that overlook Calabria Road, a good size...",
+  "displayAddress": "Calabria Road, Highbury, London, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.547562,
+    "longitude": -0.100391
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb_max_476x317.jpeg",
+      "url": "property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09d86a447/93178443/09d86a447ef60b173a202ae7a688dafc_max_476x317.jpeg",
+      "url": "property-photo/09d86a447/93178443/09d86a447ef60b173a202ae7a688dafc.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f132902f/93178443/5f132902f88f66a893f220453a0ec8ec_max_476x317.jpeg",
+      "url": "property-photo/5f132902f/93178443/5f132902f88f66a893f220453a0ec8ec.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac02bf265/93178443/ac02bf2653e3ba69bcbf9fc6538bfc57_max_476x317.jpeg",
+      "url": "property-photo/ac02bf265/93178443/ac02bf2653e3ba69bcbf9fc6538bfc57.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bd61f518/93178443/7bd61f5187557262b7da226e7bcc385d_max_476x317.jpeg",
+      "url": "property-photo/7bd61f518/93178443/7bd61f5187557262b7da226e7bcc385d.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c564d725d/93178443/c564d725d0240b7737dd22843594ec12_max_476x317.jpeg",
+      "url": "property-photo/c564d725d/93178443/c564d725d0240b7737dd22843594ec12.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ad76ace5/93178443/9ad76ace550fe0bf31a1c0eb99ff1507_max_476x317.jpeg",
+      "url": "property-photo/9ad76ace5/93178443/9ad76ace550fe0bf31a1c0eb99ff1507.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/335adbdab/93178443/335adbdab7c772ed4320d23463239350_max_476x317.jpeg",
+      "url": "property-photo/335adbdab/93178443/335adbdab7c772ed4320d23463239350.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a75f54d39/93178443/a75f54d39b6f3e2bf74882ba3d518449_max_476x317.jpeg",
+      "url": "property-photo/a75f54d39/93178443/a75f54d39b6f3e2bf74882ba3d518449.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38dac46ac/93178443/38dac46ac1f0a94b464296d1931c19a3_max_476x317.jpeg",
+      "url": "property-photo/38dac46ac/93178443/38dac46ac1f0a94b464296d1931c19a3.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a0124017/93178443/8a0124017b575362483f07e47b8671e1_max_476x317.jpeg",
+      "url": "property-photo/8a0124017/93178443/8a0124017b575362483f07e47b8671e1.jpeg",
+      "caption": "Picture No. 17"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-15T16:32:18Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 226418,
+    "brandPlusLogoURI": "/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "contactTelephone": "020 3866 4652",
+    "branchDisplayName": "NEILSON & BAUER LTD, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "NEILSON & BAUER LTD",
+    "branchLandingPageUrl": "/estate-agents/agent/NEILSON-and-BAUER-LTD/Islington-226418.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-23T13:54:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24786080-PRODUCTS_LOGO-1766066165.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "635 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93178443#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93178443",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-15T16:26:22Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-15T16:32:18Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Garden",
+      "htmlDescription": "Garden"
+    },
+    {
+      "order": 2,
+      "description": "Unfurnished/Part furnished",
+      "htmlDescription": "Unfurnished/Part furnished"
+    },
+    {
+      "order": 3,
+      "description": "Available 6th October 2026.",
+      "htmlDescription": "Available 6th October 2026."
+    },
+    {
+      "order": 4,
+      "description": "Quiet residential street",
+      "htmlDescription": "Quiet residential street"
+    },
+    {
+      "order": 5,
+      "description": "One bedroom",
+      "htmlDescription": "One bedroom"
+    },
+    {
+      "order": 6,
+      "description": "Moments from Highbury and Islington",
+      "htmlDescription": "Moments from Highbury and Islington"
+    },
+    {
+      "order": 7,
+      "description": "EPC Rating - D",
+      "htmlDescription": "EPC Rating - D"
+    },
+    {
+      "order": 8,
+      "description": "Council Tax Band - D",
+      "htmlDescription": "Council Tax Band - D"
+    },
+    {
+      "order": 9,
+      "description": "\u00a3600 holding depoist required",
+      "htmlDescription": "\u00a3600 holding depoist required"
+    },
+    {
+      "order": 10,
+      "description": "\u00a33000 Security deposit required",
+      "htmlDescription": "\u00a33000 Security deposit required"
+    }
+  ],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb_max_476x317.jpeg",
+        "url": "property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09d86a447/93178443/09d86a447ef60b173a202ae7a688dafc_max_476x317.jpeg",
+        "url": "property-photo/09d86a447/93178443/09d86a447ef60b173a202ae7a688dafc.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f132902f/93178443/5f132902f88f66a893f220453a0ec8ec_max_476x317.jpeg",
+        "url": "property-photo/5f132902f/93178443/5f132902f88f66a893f220453a0ec8ec.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac02bf265/93178443/ac02bf2653e3ba69bcbf9fc6538bfc57_max_476x317.jpeg",
+        "url": "property-photo/ac02bf265/93178443/ac02bf2653e3ba69bcbf9fc6538bfc57.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bd61f518/93178443/7bd61f5187557262b7da226e7bcc385d_max_476x317.jpeg",
+        "url": "property-photo/7bd61f518/93178443/7bd61f5187557262b7da226e7bcc385d.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c564d725d/93178443/c564d725d0240b7737dd22843594ec12_max_476x317.jpeg",
+        "url": "property-photo/c564d725d/93178443/c564d725d0240b7737dd22843594ec12.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ad76ace5/93178443/9ad76ace550fe0bf31a1c0eb99ff1507_max_476x317.jpeg",
+        "url": "property-photo/9ad76ace5/93178443/9ad76ace550fe0bf31a1c0eb99ff1507.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/335adbdab/93178443/335adbdab7c772ed4320d23463239350_max_476x317.jpeg",
+        "url": "property-photo/335adbdab/93178443/335adbdab7c772ed4320d23463239350.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a75f54d39/93178443/a75f54d39b6f3e2bf74882ba3d518449_max_476x317.jpeg",
+        "url": "property-photo/a75f54d39/93178443/a75f54d39b6f3e2bf74882ba3d518449.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38dac46ac/93178443/38dac46ac1f0a94b464296d1931c19a3_max_476x317.jpeg",
+        "url": "property-photo/38dac46ac/93178443/38dac46ac1f0a94b464296d1931c19a3.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a0124017/93178443/8a0124017b575362483f07e47b8671e1_max_476x317.jpeg",
+        "url": "property-photo/8a0124017/93178443/8a0124017b575362483f07e47b8671e1.jpeg",
+        "caption": "Picture No. 17"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c65241d4e/93178443/c65241d4ece597b9e601a1f0c03492bb_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NEILSON & BAUER LTD, Islington",
+  "addedOrReduced": "Added on 15/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

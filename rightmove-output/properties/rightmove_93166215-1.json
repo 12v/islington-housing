@@ -1,0 +1,279 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-17T02:34:53.937504+00:00",
+  "postcode": "N7 6RP",
+  "id": 93166215,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Fantastic newly decorated first floor property to rent comprising of two double bedrooms, fully tiled bathroom, large reception and fitted kitchen. The property offers a neutral decor throughout, wood flooring and excellent natural light throughout.",
+  "displayAddress": "Tollington Way, Holloway",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.56267,
+    "longitude": -0.11958
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96_max_476x317.jpeg",
+      "url": "property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96.jpeg",
+      "caption": "NDB00603"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0af51e30b/93166215/0af51e30babd1ade9621202ced004e5b_max_476x317.jpeg",
+      "url": "property-photo/0af51e30b/93166215/0af51e30babd1ade9621202ced004e5b.jpeg",
+      "caption": "NDB00601"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba37552fe/93166215/ba37552fe4b3cc65f3dff8da1dbceb4b_max_476x317.jpeg",
+      "url": "property-photo/ba37552fe/93166215/ba37552fe4b3cc65f3dff8da1dbceb4b.jpeg",
+      "caption": "NDB00602"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd14c2920/93166215/dd14c2920947046b3b97efd15deac0d5_max_476x317.jpeg",
+      "url": "property-photo/dd14c2920/93166215/dd14c2920947046b3b97efd15deac0d5.jpeg",
+      "caption": "NDB00594"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31f6f0ecb/93166215/31f6f0ecb75815fdaa712db815b1a608_max_476x317.jpeg",
+      "url": "property-photo/31f6f0ecb/93166215/31f6f0ecb75815fdaa712db815b1a608.jpeg",
+      "caption": "NDB00595"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/233b2980d/93166215/233b2980d5f185fbe7693e4f2cd75331_max_476x317.jpeg",
+      "url": "property-photo/233b2980d/93166215/233b2980d5f185fbe7693e4f2cd75331.jpeg",
+      "caption": "NDB00596"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3301df625/93166215/3301df62546e84aa14588e0a747bcd48_max_476x317.jpeg",
+      "url": "property-photo/3301df625/93166215/3301df62546e84aa14588e0a747bcd48.jpeg",
+      "caption": "NDB00597"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae8bfcc5d/93166215/ae8bfcc5db3dd588d909e9eae92fae5a_max_476x317.jpeg",
+      "url": "property-photo/ae8bfcc5d/93166215/ae8bfcc5db3dd588d909e9eae92fae5a.jpeg",
+      "caption": "NDB00598"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cd2d9d03/93166215/1cd2d9d033f0eb41a5ff9279d0c5bd6d_max_476x317.jpeg",
+      "url": "property-photo/1cd2d9d03/93166215/1cd2d9d033f0eb41a5ff9279d0c5bd6d.jpeg",
+      "caption": "NDB00599"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63c1f4513/93166215/63c1f4513afd1e38fae6c0cfd7c588b3_max_476x317.jpeg",
+      "url": "property-photo/63c1f4513/93166215/63c1f4513afd1e38fae6c0cfd7c588b3.jpeg",
+      "caption": "NDB00600"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/805bcc435/93166215/805bcc435395debc54b5c0844ba6d3bf_max_476x317.jpeg",
+      "url": "property-photo/805bcc435/93166215/805bcc435395debc54b5c0844ba6d3bf.jpeg",
+      "caption": "NDB00604-Edit"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-15T13:53:32Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 247697,
+    "brandPlusLogoURI": "/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "contactTelephone": "020 3870 5045",
+    "branchDisplayName": "David Astburys, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "David Astburys",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys/Islington-247697.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:15:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Company Information\n\nCrouch End Office \nDavid Astburys Ltd\nCompany Registration Number: 10474483\nRegistered Office: 27 Mortimer Street, London, W1T 3BL\n\n\nIslington Office\nDavid Astbuys N1 Ltd\nCompany Registration Number: 13761424\nRegistered Office: 27 Mortimer Street, London, W1T 3BL\n\nHampstead Office\nHexlink Limited\nCompany Registration Number: 04684693 \nRegistered Office: 27 Mortimer Street, London, W1T 3BL \n\nTenant Fees / Permitted Payments\n-\tHolding Deposit: One week's rent\n-\tSecurity Deposit: Five weeks' rent (under \u00a350,000 per annum) or six weeks' rent (over \u00a350,000 per annum)\n\nPermitted payments during the tenancy include:\n-\t\u00a350 (inc. VAT) for variation of contract\n-\t\u00a350 (inc. VAT) for change of sharer\n-\tInterest on unpaid rent at 3% (3.6% inc VAT) above the Bank of England Base Rate (applicable after 14 days)\n-\tReasonable costs for lost keys or security devices\n-\tReasonable costs associated with early termination of the tenancy\n\nClient Money Protection\n\n\n\nDavid Astburys is a member of the Propertymark Client Money Protection Scheme. \n\nOur membership is available on our website .davidastburys.com\n\nRedress Scheme\n\nDavid Astburys is a member of The Property Ombudsman Scheme (Membership No. T08450).   \n\nOur membership certificate is available on our website .davidastburys.com\n\nIf you have any further questions about our fees, please contact a member of staff \n",
+  "displaySize": "552 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93166215#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93166215",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-15T13:47:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-15T13:55:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Newly Decorated",
+      "htmlDescription": "Newly Decorated"
+    },
+    {
+      "order": 4,
+      "description": "Excellent Condition",
+      "htmlDescription": "Excellent Condition"
+    },
+    {
+      "order": 5,
+      "description": "Great Central Location",
+      "htmlDescription": "Great Central Location"
+    },
+    {
+      "order": 6,
+      "description": "Large Reception",
+      "htmlDescription": "Large Reception"
+    },
+    {
+      "order": 7,
+      "description": "Quiet Location",
+      "htmlDescription": "Quiet Location"
+    },
+    {
+      "order": 8,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    },
+    {
+      "order": 9,
+      "description": "Close To Local Amenities",
+      "htmlDescription": "Close To Local Amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96_max_476x317.jpeg",
+        "url": "property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96.jpeg",
+        "caption": "NDB00603"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0af51e30b/93166215/0af51e30babd1ade9621202ced004e5b_max_476x317.jpeg",
+        "url": "property-photo/0af51e30b/93166215/0af51e30babd1ade9621202ced004e5b.jpeg",
+        "caption": "NDB00601"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba37552fe/93166215/ba37552fe4b3cc65f3dff8da1dbceb4b_max_476x317.jpeg",
+        "url": "property-photo/ba37552fe/93166215/ba37552fe4b3cc65f3dff8da1dbceb4b.jpeg",
+        "caption": "NDB00602"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dd14c2920/93166215/dd14c2920947046b3b97efd15deac0d5_max_476x317.jpeg",
+        "url": "property-photo/dd14c2920/93166215/dd14c2920947046b3b97efd15deac0d5.jpeg",
+        "caption": "NDB00594"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/31f6f0ecb/93166215/31f6f0ecb75815fdaa712db815b1a608_max_476x317.jpeg",
+        "url": "property-photo/31f6f0ecb/93166215/31f6f0ecb75815fdaa712db815b1a608.jpeg",
+        "caption": "NDB00595"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/233b2980d/93166215/233b2980d5f185fbe7693e4f2cd75331_max_476x317.jpeg",
+        "url": "property-photo/233b2980d/93166215/233b2980d5f185fbe7693e4f2cd75331.jpeg",
+        "caption": "NDB00596"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3301df625/93166215/3301df62546e84aa14588e0a747bcd48_max_476x317.jpeg",
+        "url": "property-photo/3301df625/93166215/3301df62546e84aa14588e0a747bcd48.jpeg",
+        "caption": "NDB00597"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae8bfcc5d/93166215/ae8bfcc5db3dd588d909e9eae92fae5a_max_476x317.jpeg",
+        "url": "property-photo/ae8bfcc5d/93166215/ae8bfcc5db3dd588d909e9eae92fae5a.jpeg",
+        "caption": "NDB00598"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1cd2d9d03/93166215/1cd2d9d033f0eb41a5ff9279d0c5bd6d_max_476x317.jpeg",
+        "url": "property-photo/1cd2d9d03/93166215/1cd2d9d033f0eb41a5ff9279d0c5bd6d.jpeg",
+        "caption": "NDB00599"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/63c1f4513/93166215/63c1f4513afd1e38fae6c0cfd7c588b3_max_476x317.jpeg",
+        "url": "property-photo/63c1f4513/93166215/63c1f4513afd1e38fae6c0cfd7c588b3.jpeg",
+        "caption": "NDB00600"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/805bcc435/93166215/805bcc435395debc54b5c0844ba6d3bf_max_476x317.jpeg",
+        "url": "property-photo/805bcc435/93166215/805bcc435395debc54b5c0844ba6d3bf.jpeg",
+        "caption": "NDB00604-Edit"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0e45e024/93166215/a0e45e024fafe57dafcd77e422254a96_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys, Islington",
+  "addedOrReduced": "Added on 15/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
