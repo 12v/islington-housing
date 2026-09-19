@@ -1,0 +1,214 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-18T23:54:27.661267+00:00",
+  "postcode": "N1 1TB",
+  "id": 93323178,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Recently renovated throughout is this raised ground floor one double bedroom period conversion with a private garden in the heart of Islington. Located just a 10 minute walk from Angel station.",
+  "displayAddress": "Almeida Street, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539678,
+    "longitude": -0.103838
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f_max_476x317.jpeg",
+      "url": "property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f.jpeg",
+      "caption": "43763_P279935_IMG_09_0000_max_656x437.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/423203bf7/93323178/423203bf7c04f3448e445011d15f861f_max_476x317.jpeg",
+      "url": "property-photo/423203bf7/93323178/423203bf7c04f3448e445011d15f861f.jpeg",
+      "caption": "Flat 2, 24 Almeida Street (1)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da502db33/93323178/da502db3366a33a43b7a89f6d68e50c9_max_476x317.jpeg",
+      "url": "property-photo/da502db33/93323178/da502db3366a33a43b7a89f6d68e50c9.jpeg",
+      "caption": "Flat 2, 24 Almeida Street (6)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffb4929dc/93323178/ffb4929dcded086829edf942cb17f9f7_max_476x317.jpeg",
+      "url": "property-photo/ffb4929dc/93323178/ffb4929dcded086829edf942cb17f9f7.jpeg",
+      "caption": "43763_P279935_IMG_05_0000_max_656x437.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9aa8e8a0b/93323178/9aa8e8a0b8f2dd6b6c1cf3ec4a59c92a_max_476x317.jpeg",
+      "url": "property-photo/9aa8e8a0b/93323178/9aa8e8a0b8f2dd6b6c1cf3ec4a59c92a.jpeg",
+      "caption": "43763_P279935_IMG_01_0000_max_656x437.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9513d76d/93323178/b9513d76dfd77e215de83400776891cf_max_476x317.jpeg",
+      "url": "property-photo/b9513d76d/93323178/b9513d76dfd77e215de83400776891cf.jpeg",
+      "caption": "Flat 2, 24 Almeida Street (4)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab0ffa856/93323178/ab0ffa856a606418f992414f8985d448_max_476x317.jpeg",
+      "url": "property-photo/ab0ffa856/93323178/ab0ffa856a606418f992414f8985d448.jpeg",
+      "caption": "Flat 2, 24 Almeida Street (3)"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-18T16:38:11Z"
+  },
+  "price": {
+    "amount": 3035,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,035 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3700 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 267176,
+    "brandPlusLogoURI": "/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "contactTelephone": "020 7870 1269",
+    "branchDisplayName": "Nova Realty, London",
+    "branchName": "London",
+    "brandTradingName": "Nova Realty",
+    "branchLandingPageUrl": "/estate-agents/agent/Nova-Realty/London-267176.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93323178#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93323178",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-18T16:33:01Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-18T16:38:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private garden",
+      "htmlDescription": "Private garden"
+    },
+    {
+      "order": 2,
+      "description": "Large double one bedroom flat",
+      "htmlDescription": "Large double one bedroom flat"
+    },
+    {
+      "order": 3,
+      "description": "Raised ground floor",
+      "htmlDescription": "Raised ground floor"
+    },
+    {
+      "order": 4,
+      "description": "Fantastic location",
+      "htmlDescription": "Fantastic location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f_max_476x317.jpeg",
+        "url": "property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f.jpeg",
+        "caption": "43763_P279935_IMG_09_0000_max_656x437.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/423203bf7/93323178/423203bf7c04f3448e445011d15f861f_max_476x317.jpeg",
+        "url": "property-photo/423203bf7/93323178/423203bf7c04f3448e445011d15f861f.jpeg",
+        "caption": "Flat 2, 24 Almeida Street (1)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da502db33/93323178/da502db3366a33a43b7a89f6d68e50c9_max_476x317.jpeg",
+        "url": "property-photo/da502db33/93323178/da502db3366a33a43b7a89f6d68e50c9.jpeg",
+        "caption": "Flat 2, 24 Almeida Street (6)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ffb4929dc/93323178/ffb4929dcded086829edf942cb17f9f7_max_476x317.jpeg",
+        "url": "property-photo/ffb4929dc/93323178/ffb4929dcded086829edf942cb17f9f7.jpeg",
+        "caption": "43763_P279935_IMG_05_0000_max_656x437.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9aa8e8a0b/93323178/9aa8e8a0b8f2dd6b6c1cf3ec4a59c92a_max_476x317.jpeg",
+        "url": "property-photo/9aa8e8a0b/93323178/9aa8e8a0b8f2dd6b6c1cf3ec4a59c92a.jpeg",
+        "caption": "43763_P279935_IMG_01_0000_max_656x437.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9513d76d/93323178/b9513d76dfd77e215de83400776891cf_max_476x317.jpeg",
+        "url": "property-photo/b9513d76d/93323178/b9513d76dfd77e215de83400776891cf.jpeg",
+        "caption": "Flat 2, 24 Almeida Street (4)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab0ffa856/93323178/ab0ffa856a606418f992414f8985d448_max_476x317.jpeg",
+        "url": "property-photo/ab0ffa856/93323178/ab0ffa856a606418f992414f8985d448.jpeg",
+        "caption": "Flat 2, 24 Almeida Street (3)"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1df9f922f/93323178/1df9f922fba2a87c92d9e7061290650f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Nova Realty, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
