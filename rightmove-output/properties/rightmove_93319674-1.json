@@ -1,0 +1,264 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-19T23:58:54.235226+00:00",
+  "postcode": "N1 4FE",
+  "id": 93319674,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Spacious and modern apartment overlooking a well maintained courtyard in a convenient N1 location.",
+  "displayAddress": "Mildmay Avenue, London N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54772,
+    "longitude": -0.08531
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c_max_476x317.jpeg",
+      "url": "property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88682d58e/93319674/88682d58ecdc4e2432775a457543662d_max_476x317.jpeg",
+      "url": "property-photo/88682d58e/93319674/88682d58ecdc4e2432775a457543662d.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/366df4a11/93319674/366df4a11816c9f3aa2c0f712de5a7fa_max_476x317.jpeg",
+      "url": "property-photo/366df4a11/93319674/366df4a11816c9f3aa2c0f712de5a7fa.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/837fcc058/93319674/837fcc058519138ecb2f3aed0c5498e9_max_476x317.jpeg",
+      "url": "property-photo/837fcc058/93319674/837fcc058519138ecb2f3aed0c5498e9.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85acbe277/93319674/85acbe2771762d0cc9064fe3d388a3f1_max_476x317.jpeg",
+      "url": "property-photo/85acbe277/93319674/85acbe2771762d0cc9064fe3d388a3f1.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03c5411e6/93319674/03c5411e64c1ea9e28a5bb99f12c12a2_max_476x317.jpeg",
+      "url": "property-photo/03c5411e6/93319674/03c5411e64c1ea9e28a5bb99f12c12a2.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f00663974/93319674/f00663974c55786f6d2993772f9b509e_max_476x317.jpeg",
+      "url": "property-photo/f00663974/93319674/f00663974c55786f6d2993772f9b509e.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07b834883/93319674/07b834883b96a420b05be99505cfabe5_max_476x317.jpeg",
+      "url": "property-photo/07b834883/93319674/07b834883b96a420b05be99505cfabe5.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6de765c4d/93319674/6de765c4d1a42f3c374292ddd5148042_max_476x317.jpeg",
+      "url": "property-photo/6de765c4d/93319674/6de765c4d1a42f3c374292ddd5148042.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d882e1aa4/93319674/d882e1aa47b86c7da5760797f2cdcf4d_max_476x317.jpeg",
+      "url": "property-photo/d882e1aa4/93319674/d882e1aa47b86c7da5760797f2cdcf4d.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40f89c29f/93319674/40f89c29f17114cac2e07af5f7dcc70a_max_476x317.jpeg",
+      "url": "property-photo/40f89c29f/93319674/40f89c29f17114cac2e07af5f7dcc70a.jpeg",
+      "caption": "Mildmay Avenue 10..."
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-18T16:02:37Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93319674#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93319674",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-18T15:55:47Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-19T06:32:53Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious modern flat",
+      "htmlDescription": "Spacious modern flat"
+    },
+    {
+      "order": 2,
+      "description": "Excellent specification",
+      "htmlDescription": "Excellent specification"
+    },
+    {
+      "order": 3,
+      "description": "First floor",
+      "htmlDescription": "First floor"
+    },
+    {
+      "order": 4,
+      "description": "Wood floors",
+      "htmlDescription": "Wood floors"
+    },
+    {
+      "order": 5,
+      "description": "Courtyard views",
+      "htmlDescription": "Courtyard views"
+    },
+    {
+      "order": 6,
+      "description": "Convenient location",
+      "htmlDescription": "Convenient location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c_max_476x317.jpeg",
+        "url": "property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/88682d58e/93319674/88682d58ecdc4e2432775a457543662d_max_476x317.jpeg",
+        "url": "property-photo/88682d58e/93319674/88682d58ecdc4e2432775a457543662d.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/366df4a11/93319674/366df4a11816c9f3aa2c0f712de5a7fa_max_476x317.jpeg",
+        "url": "property-photo/366df4a11/93319674/366df4a11816c9f3aa2c0f712de5a7fa.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/837fcc058/93319674/837fcc058519138ecb2f3aed0c5498e9_max_476x317.jpeg",
+        "url": "property-photo/837fcc058/93319674/837fcc058519138ecb2f3aed0c5498e9.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85acbe277/93319674/85acbe2771762d0cc9064fe3d388a3f1_max_476x317.jpeg",
+        "url": "property-photo/85acbe277/93319674/85acbe2771762d0cc9064fe3d388a3f1.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/03c5411e6/93319674/03c5411e64c1ea9e28a5bb99f12c12a2_max_476x317.jpeg",
+        "url": "property-photo/03c5411e6/93319674/03c5411e64c1ea9e28a5bb99f12c12a2.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f00663974/93319674/f00663974c55786f6d2993772f9b509e_max_476x317.jpeg",
+        "url": "property-photo/f00663974/93319674/f00663974c55786f6d2993772f9b509e.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07b834883/93319674/07b834883b96a420b05be99505cfabe5_max_476x317.jpeg",
+        "url": "property-photo/07b834883/93319674/07b834883b96a420b05be99505cfabe5.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6de765c4d/93319674/6de765c4d1a42f3c374292ddd5148042_max_476x317.jpeg",
+        "url": "property-photo/6de765c4d/93319674/6de765c4d1a42f3c374292ddd5148042.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d882e1aa4/93319674/d882e1aa47b86c7da5760797f2cdcf4d_max_476x317.jpeg",
+        "url": "property-photo/d882e1aa4/93319674/d882e1aa47b86c7da5760797f2cdcf4d.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40f89c29f/93319674/40f89c29f17114cac2e07af5f7dcc70a_max_476x317.jpeg",
+        "url": "property-photo/40f89c29f/93319674/40f89c29f17114cac2e07af5f7dcc70a.jpeg",
+        "caption": "Mildmay Avenue 10..."
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06125c5ba/93319674/06125c5ba514239daf059387a9070d1c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added on 18/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

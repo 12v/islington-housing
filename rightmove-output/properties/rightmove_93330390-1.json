@@ -1,0 +1,294 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-19T23:35:34.313089+00:00",
+  "postcode": "N1 1QB",
+  "id": 93330390,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Tucked away on a charming street in the heart of Islington, this stylish one-bedroom apartment offers bright, modern interiors and a fantastic sense of space.",
+  "displayAddress": "Islington Park Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.543236,
+    "longitude": -0.103686
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c_max_476x317.jpeg",
+      "url": "property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a834866b0/93330390/a834866b07241e671120b8f1325853b5_max_476x317.jpeg",
+      "url": "property-photo/a834866b0/93330390/a834866b07241e671120b8f1325853b5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d5e2172f/93330390/6d5e2172f54c6dcb706e886bed9328b0_max_476x317.jpeg",
+      "url": "property-photo/6d5e2172f/93330390/6d5e2172f54c6dcb706e886bed9328b0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d49e73235/93330390/d49e7323590bed6edb3fa6f647ed3486_max_476x317.jpeg",
+      "url": "property-photo/d49e73235/93330390/d49e7323590bed6edb3fa6f647ed3486.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1672c877f/93330390/1672c877fb66f9614f54bdadcf843dd7_max_476x317.jpeg",
+      "url": "property-photo/1672c877f/93330390/1672c877fb66f9614f54bdadcf843dd7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5df2c088/93330390/c5df2c08827f5ee499666b196f06ce17_max_476x317.jpeg",
+      "url": "property-photo/c5df2c088/93330390/c5df2c08827f5ee499666b196f06ce17.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b733d349e/93330390/b733d349e48bbae10992ad3e37e23711_max_476x317.jpeg",
+      "url": "property-photo/b733d349e/93330390/b733d349e48bbae10992ad3e37e23711.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81f0ff872/93330390/81f0ff8724e32516fc8087a27987e33d_max_476x317.jpeg",
+      "url": "property-photo/81f0ff872/93330390/81f0ff8724e32516fc8087a27987e33d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0fefb403b/93330390/0fefb403b577ca40530c26a5dca6ed0b_max_476x317.jpeg",
+      "url": "property-photo/0fefb403b/93330390/0fefb403b577ca40530c26a5dca6ed0b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d05fd9ba/93330390/9d05fd9ba7daefae3e7e2ed6999f31ea_max_476x317.jpeg",
+      "url": "property-photo/9d05fd9ba/93330390/9d05fd9ba7daefae3e7e2ed6999f31ea.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/563958899/93330390/563958899a4c017ae4b9f817c9de3833_max_476x317.jpeg",
+      "url": "property-photo/563958899/93330390/563958899a4c017ae4b9f817c9de3833.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/949e19163/93330390/949e191631dac2b3a780ce28d81ee6a1_max_476x317.jpeg",
+      "url": "property-photo/949e19163/93330390/949e191631dac2b3a780ce28d81ee6a1.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-18T18:08:07Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 246137,
+    "brandPlusLogoURI": "/partner-logo/27759086-PRODUCTS_LOGO-1766060934.png",
+    "contactTelephone": "020 3834 8272",
+    "branchDisplayName": "Assure Move Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Assure Move Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Assure-Move-Estate-Agents/London-246137.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:49Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27759086-PRODUCTS_LOGO-1766060934.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "580 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93330390#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93330390",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-18T18:02:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-18T18:08:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Bright and spacious one-bedroom apartment",
+      "htmlDescription": "Bright and spacious one-bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Impressive skylights",
+      "htmlDescription": "Impressive skylights"
+    },
+    {
+      "order": 3,
+      "description": "Contemporary kitchen",
+      "htmlDescription": "Contemporary kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Open-plan living and dining space",
+      "htmlDescription": "Open-plan living and dining space"
+    },
+    {
+      "order": 6,
+      "description": "Beautiful wood flooring",
+      "htmlDescription": "Beautiful wood flooring"
+    },
+    {
+      "order": 7,
+      "description": "Set within a period conversion",
+      "htmlDescription": "Set within a period conversion"
+    },
+    {
+      "order": 8,
+      "description": "Prime Islington location",
+      "htmlDescription": "Prime Islington location"
+    },
+    {
+      "order": 9,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 10,
+      "description": "Approx. 556 sq ft",
+      "htmlDescription": "Approx. 556 sq ft"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c_max_476x317.jpeg",
+        "url": "property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a834866b0/93330390/a834866b07241e671120b8f1325853b5_max_476x317.jpeg",
+        "url": "property-photo/a834866b0/93330390/a834866b07241e671120b8f1325853b5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d5e2172f/93330390/6d5e2172f54c6dcb706e886bed9328b0_max_476x317.jpeg",
+        "url": "property-photo/6d5e2172f/93330390/6d5e2172f54c6dcb706e886bed9328b0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d49e73235/93330390/d49e7323590bed6edb3fa6f647ed3486_max_476x317.jpeg",
+        "url": "property-photo/d49e73235/93330390/d49e7323590bed6edb3fa6f647ed3486.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1672c877f/93330390/1672c877fb66f9614f54bdadcf843dd7_max_476x317.jpeg",
+        "url": "property-photo/1672c877f/93330390/1672c877fb66f9614f54bdadcf843dd7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5df2c088/93330390/c5df2c08827f5ee499666b196f06ce17_max_476x317.jpeg",
+        "url": "property-photo/c5df2c088/93330390/c5df2c08827f5ee499666b196f06ce17.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b733d349e/93330390/b733d349e48bbae10992ad3e37e23711_max_476x317.jpeg",
+        "url": "property-photo/b733d349e/93330390/b733d349e48bbae10992ad3e37e23711.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81f0ff872/93330390/81f0ff8724e32516fc8087a27987e33d_max_476x317.jpeg",
+        "url": "property-photo/81f0ff872/93330390/81f0ff8724e32516fc8087a27987e33d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0fefb403b/93330390/0fefb403b577ca40530c26a5dca6ed0b_max_476x317.jpeg",
+        "url": "property-photo/0fefb403b/93330390/0fefb403b577ca40530c26a5dca6ed0b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9d05fd9ba/93330390/9d05fd9ba7daefae3e7e2ed6999f31ea_max_476x317.jpeg",
+        "url": "property-photo/9d05fd9ba/93330390/9d05fd9ba7daefae3e7e2ed6999f31ea.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/563958899/93330390/563958899a4c017ae4b9f817c9de3833_max_476x317.jpeg",
+        "url": "property-photo/563958899/93330390/563958899a4c017ae4b9f817c9de3833.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/949e19163/93330390/949e191631dac2b3a780ce28d81ee6a1_max_476x317.jpeg",
+        "url": "property-photo/949e19163/93330390/949e191631dac2b3a780ce28d81ee6a1.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e0c9ba291/93330390/e0c9ba291d7255093eac38b2ffd4e56c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Assure Move Estate Agents, London",
+  "addedOrReduced": "Added on 18/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
