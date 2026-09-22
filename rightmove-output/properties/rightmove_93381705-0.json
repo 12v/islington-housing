@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-22T02:48:28.776197+00:00",
+  "postcode": "N7 7AT",
+  "id": 93381705,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented one-bedroom ground floor apartment set within a contemporary gated development on Hornsey Road, Islington. The property offers a thoughtfully designed open-plan kitchen and rec...",
+  "displayAddress": "Hornsey Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553594,
+    "longitude": -0.110814
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286_max_476x317.jpeg",
+      "url": "property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e48ac1924/93381705/e48ac1924529a061056b068e9c8c0c9a_max_476x317.jpeg",
+      "url": "property-photo/e48ac1924/93381705/e48ac1924529a061056b068e9c8c0c9a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f759442a/93381705/6f759442a55129341d24f77280a9a2d6_max_476x317.jpeg",
+      "url": "property-photo/6f759442a/93381705/6f759442a55129341d24f77280a9a2d6.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43864390a/93381705/43864390a9b4b081009094bf32ccdc7c_max_476x317.jpeg",
+      "url": "property-photo/43864390a/93381705/43864390a9b4b081009094bf32ccdc7c.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1251120c4/93381705/1251120c45d267221bbd8ae9bd1f9aa9_max_476x317.jpeg",
+      "url": "property-photo/1251120c4/93381705/1251120c45d267221bbd8ae9bd1f9aa9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83850f942/93381705/83850f942b0e2660d4bc261d9356f761_max_476x317.jpeg",
+      "url": "property-photo/83850f942/93381705/83850f942b0e2660d4bc261d9356f761.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0507475b/93381705/c0507475b2643e1b9d36a67e5d4ec2c9_max_476x317.jpeg",
+      "url": "property-photo/c0507475b/93381705/c0507475b2643e1b9d36a67e5d4ec2c9.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-21T13:13:07Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 44894,
+    "brandPlusLogoURI": "/partner-logo/32651-LOGO-1786447846782.jpg",
+    "contactTelephone": "020 3873 1696",
+    "branchDisplayName": "Tuckerman Residential Limited, London",
+    "branchName": "London",
+    "brandTradingName": "Tuckerman Residential Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Tuckerman-Residential-Limited/London-44894.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-09-21T13:03:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/32651-LOGO-1786447846782.jpg",
+    "primaryBrandColour": "#ffffff"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "612 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93381705#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93381705",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-21T13:07:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-21T17:24:38Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "BUILDING WORKS UNDERWAY",
+      "htmlDescription": "BUILDING WORKS UNDERWAY"
+    },
+    {
+      "order": 2,
+      "description": "Modern bathroom suite",
+      "htmlDescription": "Modern bathroom suite"
+    },
+    {
+      "order": 3,
+      "description": "Built-in bedroom wardrobes",
+      "htmlDescription": "Built-in bedroom wardrobes"
+    },
+    {
+      "order": 4,
+      "description": "1-bed ground floor flat",
+      "htmlDescription": "1-bed ground floor flat"
+    },
+    {
+      "order": 5,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    },
+    {
+      "order": 6,
+      "description": "Near Holloway Road shops",
+      "htmlDescription": "Near Holloway Road shops"
+    },
+    {
+      "order": 7,
+      "description": "Open-plan kitchen area",
+      "htmlDescription": "Open-plan kitchen area"
+    },
+    {
+      "order": 8,
+      "description": "Gated development",
+      "htmlDescription": "Gated development"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286_max_476x317.jpeg",
+        "url": "property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e48ac1924/93381705/e48ac1924529a061056b068e9c8c0c9a_max_476x317.jpeg",
+        "url": "property-photo/e48ac1924/93381705/e48ac1924529a061056b068e9c8c0c9a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f759442a/93381705/6f759442a55129341d24f77280a9a2d6_max_476x317.jpeg",
+        "url": "property-photo/6f759442a/93381705/6f759442a55129341d24f77280a9a2d6.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43864390a/93381705/43864390a9b4b081009094bf32ccdc7c_max_476x317.jpeg",
+        "url": "property-photo/43864390a/93381705/43864390a9b4b081009094bf32ccdc7c.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1251120c4/93381705/1251120c45d267221bbd8ae9bd1f9aa9_max_476x317.jpeg",
+        "url": "property-photo/1251120c4/93381705/1251120c45d267221bbd8ae9bd1f9aa9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/83850f942/93381705/83850f942b0e2660d4bc261d9356f761_max_476x317.jpeg",
+        "url": "property-photo/83850f942/93381705/83850f942b0e2660d4bc261d9356f761.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0507475b/93381705/c0507475b2643e1b9d36a67e5d4ec2c9_max_476x317.jpeg",
+        "url": "property-photo/c0507475b/93381705/c0507475b2643e1b9d36a67e5d4ec2c9.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc26862c6/93381705/fc26862c6ceddc44f3c3f1b114124286_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Tuckerman Residential Limited, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
