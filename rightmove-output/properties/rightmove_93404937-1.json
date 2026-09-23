@@ -1,0 +1,193 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-23T00:00:13.582664+00:00",
+  "postcode": "N1 0GJ",
+  "id": 93404937,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A stylish and well-presented two-bedroom apartment available to rent in a sought-after N1 development. Offering contemporary living, excellent resident facilities and a convenient North London location, this property is ideal for professionals, couples or sharers. The apartment compris...",
+  "displayAddress": "St Williams Court, Gifford Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541213,
+    "longitude": -0.120651
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427_max_476x317.jpeg",
+      "url": "property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78393c9b8/93404937/78393c9b898b2dee89449d89c011a270_max_476x317.jpeg",
+      "url": "property-photo/78393c9b8/93404937/78393c9b898b2dee89449d89c011a270.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f97adbf4/93404937/0f97adbf45f8869c80308adcb56bbd7b_max_476x317.jpeg",
+      "url": "property-photo/0f97adbf4/93404937/0f97adbf45f8869c80308adcb56bbd7b.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b28519642/93404937/b2851964242e9f61816e0b6463d6d23f_max_476x317.jpeg",
+      "url": "property-photo/b28519642/93404937/b2851964242e9f61816e0b6463d6d23f.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/482dda71a/93404937/482dda71a7f1ad5862abe9b40cf1627c_max_476x317.jpeg",
+      "url": "property-photo/482dda71a/93404937/482dda71a7f1ad5862abe9b40cf1627c.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e45e59af/93404937/6e45e59af3f856c3c3f67e95dbb433d9_max_476x317.jpeg",
+      "url": "property-photo/6e45e59af/93404937/6e45e59af3f856c3c3f67e95dbb433d9.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2203cc6c/93404937/a2203cc6c899b10b2a2f24506eeb2a4b_max_476x317.jpeg",
+      "url": "property-photo/a2203cc6c/93404937/a2203cc6c899b10b2a2f24506eeb2a4b.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-21T18:06:07Z"
+  },
+  "price": {
+    "amount": 2950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3681 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93404937#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93404937",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-21T18:00:53Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-22T06:30:58Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427_max_476x317.jpeg",
+        "url": "property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78393c9b8/93404937/78393c9b898b2dee89449d89c011a270_max_476x317.jpeg",
+        "url": "property-photo/78393c9b8/93404937/78393c9b898b2dee89449d89c011a270.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f97adbf4/93404937/0f97adbf45f8869c80308adcb56bbd7b_max_476x317.jpeg",
+        "url": "property-photo/0f97adbf4/93404937/0f97adbf45f8869c80308adcb56bbd7b.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b28519642/93404937/b2851964242e9f61816e0b6463d6d23f_max_476x317.jpeg",
+        "url": "property-photo/b28519642/93404937/b2851964242e9f61816e0b6463d6d23f.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/482dda71a/93404937/482dda71a7f1ad5862abe9b40cf1627c_max_476x317.jpeg",
+        "url": "property-photo/482dda71a/93404937/482dda71a7f1ad5862abe9b40cf1627c.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e45e59af/93404937/6e45e59af3f856c3c3f67e95dbb433d9_max_476x317.jpeg",
+        "url": "property-photo/6e45e59af/93404937/6e45e59af3f856c3c3f67e95dbb433d9.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2203cc6c/93404937/a2203cc6c899b10b2a2f24506eeb2a4b_max_476x317.jpeg",
+        "url": "property-photo/a2203cc6c/93404937/a2203cc6c899b10b2a2f24506eeb2a4b.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/68cbad202/93404937/68cbad202e667c542f3fda13cc602427_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added on 21/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
