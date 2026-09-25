@@ -1,0 +1,279 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-24T23:52:06.271349+00:00",
+  "postcode": "EC1V 8BW",
+  "id": 93515526,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "One Bedroom Apartment | Upper Floor | Concierge | Residents' Gym | Clerkenwell Set within a secure and well-maintained development in the heart of Clerkenwell, this well-proportioned one-bedroom apartment offers comfortable contemporary living in one of Central London's most ...",
+  "displayAddress": "Dingley Road, Islington, London,, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.528082,
+    "longitude": -0.094376
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f_max_476x317.jpeg",
+      "url": "property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a85bccd2/93515526/3a85bccd261305b6d772da1b2f26c1d3_max_476x317.jpeg",
+      "url": "property-photo/3a85bccd2/93515526/3a85bccd261305b6d772da1b2f26c1d3.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/994862c56/93515526/994862c567fc1a26dc8c69edfc59c001_max_476x317.jpeg",
+      "url": "property-photo/994862c56/93515526/994862c567fc1a26dc8c69edfc59c001.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d032d615a/93515526/d032d615a13b2daf246de041a1f4725c_max_476x317.jpeg",
+      "url": "property-photo/d032d615a/93515526/d032d615a13b2daf246de041a1f4725c.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66a51f5aa/93515526/66a51f5aaaffab9afd3553118a953c18_max_476x317.jpeg",
+      "url": "property-photo/66a51f5aa/93515526/66a51f5aaaffab9afd3553118a953c18.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e71d0bc92/93515526/e71d0bc92f561514490fea25181caac8_max_476x317.jpeg",
+      "url": "property-photo/e71d0bc92/93515526/e71d0bc92f561514490fea25181caac8.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5b534788/93515526/d5b5347880eff64f16517250caca3b64_max_476x317.jpeg",
+      "url": "property-photo/d5b534788/93515526/d5b5347880eff64f16517250caca3b64.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b6c86ad4/93515526/4b6c86ad4bbf5faee580fd60a0a85dbb_max_476x317.jpeg",
+      "url": "property-photo/4b6c86ad4/93515526/4b6c86ad4bbf5faee580fd60a0a85dbb.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8fd5b9bd2/93515526/8fd5b9bd289b736555b70659e227f5b8_max_476x317.jpeg",
+      "url": "property-photo/8fd5b9bd2/93515526/8fd5b9bd289b736555b70659e227f5b8.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b6d34593/93515526/6b6d345931c9485fc614c744cf94ddf9_max_476x317.jpeg",
+      "url": "property-photo/6b6d34593/93515526/6b6d345931c9485fc614c744cf94ddf9.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/454a62610/93515526/454a62610be042fd14456663d89eb8a4_max_476x317.jpeg",
+      "url": "property-photo/454a62610/93515526/454a62610be042fd14456663d89eb8a4.jpeg",
+      "caption": "Picture No. 01"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-24T10:06:16Z"
+  },
+  "price": {
+    "amount": 2795,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,795 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3645 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2"
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93515526#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93515526",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-24T10:00:07Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-24T10:06:16Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One well-proportioned double bedroom",
+      "htmlDescription": "One well-proportioned double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Spacious reception room",
+      "htmlDescription": "Spacious reception room"
+    },
+    {
+      "order": 3,
+      "description": "Modern fitted kitchen with integrated appliances",
+      "htmlDescription": "Modern fitted kitchen with integrated appliances"
+    },
+    {
+      "order": 4,
+      "description": "Fully tiled bathroom with overhead shower",
+      "htmlDescription": "Fully tiled bathroom with overhead shower"
+    },
+    {
+      "order": 5,
+      "description": "Wood flooring throughout",
+      "htmlDescription": "Wood flooring throughout"
+    },
+    {
+      "order": 6,
+      "description": "Concierge service",
+      "htmlDescription": "Concierge service"
+    },
+    {
+      "order": 7,
+      "description": "Residents' gym",
+      "htmlDescription": "Residents' gym"
+    },
+    {
+      "order": 8,
+      "description": "Prime Clerkenwell location",
+      "htmlDescription": "Prime Clerkenwell location"
+    },
+    {
+      "order": 9,
+      "description": "Excellent access to Angel, Old Street and the City",
+      "htmlDescription": "Excellent access to Angel, Old Street and the City"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f_max_476x317.jpeg",
+        "url": "property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a85bccd2/93515526/3a85bccd261305b6d772da1b2f26c1d3_max_476x317.jpeg",
+        "url": "property-photo/3a85bccd2/93515526/3a85bccd261305b6d772da1b2f26c1d3.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/994862c56/93515526/994862c567fc1a26dc8c69edfc59c001_max_476x317.jpeg",
+        "url": "property-photo/994862c56/93515526/994862c567fc1a26dc8c69edfc59c001.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d032d615a/93515526/d032d615a13b2daf246de041a1f4725c_max_476x317.jpeg",
+        "url": "property-photo/d032d615a/93515526/d032d615a13b2daf246de041a1f4725c.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66a51f5aa/93515526/66a51f5aaaffab9afd3553118a953c18_max_476x317.jpeg",
+        "url": "property-photo/66a51f5aa/93515526/66a51f5aaaffab9afd3553118a953c18.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e71d0bc92/93515526/e71d0bc92f561514490fea25181caac8_max_476x317.jpeg",
+        "url": "property-photo/e71d0bc92/93515526/e71d0bc92f561514490fea25181caac8.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d5b534788/93515526/d5b5347880eff64f16517250caca3b64_max_476x317.jpeg",
+        "url": "property-photo/d5b534788/93515526/d5b5347880eff64f16517250caca3b64.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b6c86ad4/93515526/4b6c86ad4bbf5faee580fd60a0a85dbb_max_476x317.jpeg",
+        "url": "property-photo/4b6c86ad4/93515526/4b6c86ad4bbf5faee580fd60a0a85dbb.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8fd5b9bd2/93515526/8fd5b9bd289b736555b70659e227f5b8_max_476x317.jpeg",
+        "url": "property-photo/8fd5b9bd2/93515526/8fd5b9bd289b736555b70659e227f5b8.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b6d34593/93515526/6b6d345931c9485fc614c744cf94ddf9_max_476x317.jpeg",
+        "url": "property-photo/6b6d34593/93515526/6b6d345931c9485fc614c744cf94ddf9.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/454a62610/93515526/454a62610be042fd14456663d89eb8a4_max_476x317.jpeg",
+        "url": "property-photo/454a62610/93515526/454a62610be042fd14456663d89eb8a4.jpeg",
+        "caption": "Picture No. 01"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e24d86388/93515526/e24d863883774614095efdbb58af695f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

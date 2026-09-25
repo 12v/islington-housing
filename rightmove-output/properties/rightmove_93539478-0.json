@@ -1,0 +1,264 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-25T02:25:30.007385+00:00",
+  "postcode": "N5 1PW",
+  "id": 93539478,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright one-bedroom apartment with balcony, open-plan living, fitted kitchen, built-in storage, concierge, residents' gym, and excellent transport links near Highbury Fields and Upper Street.",
+  "displayAddress": "Drayton Park, Terrace Apartments, N5",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551586,
+    "longitude": -0.106758
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030_max_476x317.png",
+      "url": "property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030.png",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ac15094/93539478/09ac150943571af4e3dd65cf05a011d9_max_476x317.png",
+      "url": "property-photo/09ac15094/93539478/09ac150943571af4e3dd65cf05a011d9.png",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e0ace864/93539478/7e0ace864ea6ea0e0a213594308a8ecf_max_476x317.png",
+      "url": "property-photo/7e0ace864/93539478/7e0ace864ea6ea0e0a213594308a8ecf.png",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0e017e1f/93539478/f0e017e1fd6e61f73c9a386d55eba162_max_476x317.png",
+      "url": "property-photo/f0e017e1f/93539478/f0e017e1fd6e61f73c9a386d55eba162.png",
+      "caption": "Reception Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ed5b6dc5/93539478/2ed5b6dc50dfb875fc3e7a9e8e9fbbfc_max_476x317.png",
+      "url": "property-photo/2ed5b6dc5/93539478/2ed5b6dc50dfb875fc3e7a9e8e9fbbfc.png",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ade34c9a/93539478/8ade34c9a0ca815dea7256d9a5c8e875_max_476x317.png",
+      "url": "property-photo/8ade34c9a/93539478/8ade34c9a0ca815dea7256d9a5c8e875.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aea2728d4/93539478/aea2728d416337d9f57225b54f96e90e_max_476x317.png",
+      "url": "property-photo/aea2728d4/93539478/aea2728d416337d9f57225b54f96e90e.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9dcf6b4e/93539478/e9dcf6b4e90127b168630a7baa9157d9_max_476x317.png",
+      "url": "property-photo/e9dcf6b4e/93539478/e9dcf6b4e90127b168630a7baa9157d9.png",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92bc63321/93539478/92bc633218956e4863ce9a4b96b7ecf1_max_476x317.png",
+      "url": "property-photo/92bc63321/93539478/92bc633218956e4863ce9a4b96b7ecf1.png",
+      "caption": "Balcony"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ea4dd24f/93539478/0ea4dd24f8f3903e0754af4254b9f9c8_max_476x317.png",
+      "url": "property-photo/0ea4dd24f/93539478/0ea4dd24f8f3903e0754af4254b9f9c8.png",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c183972e/93539478/7c183972ef2efd6d8c20f2c8657d36a1_max_476x317.png",
+      "url": "property-photo/7c183972e/93539478/7c183972ef2efd6d8c20f2c8657d36a1.png",
+      "caption": "Communal gardens"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-24T15:30:28Z"
+  },
+  "price": {
+    "amount": 2200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3508 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 295751,
+    "brandPlusLogoURI": "/partner-logo/41213768-PRODUCTS_LOGO-1766060566.jpeg",
+    "contactTelephone": "020 7729 3344",
+    "branchDisplayName": "City & Urban, Shoreditch",
+    "branchName": "Shoreditch",
+    "brandTradingName": "City & Urban",
+    "branchLandingPageUrl": "/estate-agents/agent/City-and-Urban/Shoreditch-295751.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:50Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/41213768-PRODUCTS_LOGO-1766060566.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted Payments<br />\n<br />\nBefore the tenancy starts (payable to City & Urban Shoreditch  the Agent )<br />\n<br />\nHolding Deposit: 1 week s rent<br />\nDeposit: 5 weeks  rent<br />\n<br />\nDuring the tenancy (payable to the Agent)<br />\n<br />\nPayment of up to \u00a350.00 if you want to change the tenancy agreement.<br />\nPayment of interest for the late payment of rent at a rate of 3% above the Base Rate.<br />\nPayment of up to \u00a350.00 for the reasonably incurred costs for the loss of keys/security devices.<br />\nPayment of any unpaid rent or other reasonable costs associated with your early termination of the tenancy.<br />\n<br />\nTenant Protection<br />\nCity & Urban Shoreditch is a member of The Property Ombudsmen, which is a redress scheme.<br />\nMembership Number: D/2745/3.<br />\n<br />\nCity & Urban Shoreditch is a member of Propertymark Client Money Protection which is a client<br />\nmoney protection scheme.<br />\nMembership Number: C0134660",
+  "displaySize": "488 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93539478#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93539478",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-24T15:24:27Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-24T15:30:28Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 2,
+      "description": "Open plan reception and kitchen",
+      "htmlDescription": "Open plan reception and kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Onsite gym",
+      "htmlDescription": "Onsite gym"
+    },
+    {
+      "order": 4,
+      "description": "Communal garden",
+      "htmlDescription": "Communal garden"
+    },
+    {
+      "order": 5,
+      "description": "Lift access",
+      "htmlDescription": "Lift access"
+    },
+    {
+      "order": 6,
+      "description": "Private balcony",
+      "htmlDescription": "Private balcony"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030_max_476x317.png",
+        "url": "property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030.png",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09ac15094/93539478/09ac150943571af4e3dd65cf05a011d9_max_476x317.png",
+        "url": "property-photo/09ac15094/93539478/09ac150943571af4e3dd65cf05a011d9.png",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7e0ace864/93539478/7e0ace864ea6ea0e0a213594308a8ecf_max_476x317.png",
+        "url": "property-photo/7e0ace864/93539478/7e0ace864ea6ea0e0a213594308a8ecf.png",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f0e017e1f/93539478/f0e017e1fd6e61f73c9a386d55eba162_max_476x317.png",
+        "url": "property-photo/f0e017e1f/93539478/f0e017e1fd6e61f73c9a386d55eba162.png",
+        "caption": "Reception Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ed5b6dc5/93539478/2ed5b6dc50dfb875fc3e7a9e8e9fbbfc_max_476x317.png",
+        "url": "property-photo/2ed5b6dc5/93539478/2ed5b6dc50dfb875fc3e7a9e8e9fbbfc.png",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8ade34c9a/93539478/8ade34c9a0ca815dea7256d9a5c8e875_max_476x317.png",
+        "url": "property-photo/8ade34c9a/93539478/8ade34c9a0ca815dea7256d9a5c8e875.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aea2728d4/93539478/aea2728d416337d9f57225b54f96e90e_max_476x317.png",
+        "url": "property-photo/aea2728d4/93539478/aea2728d416337d9f57225b54f96e90e.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9dcf6b4e/93539478/e9dcf6b4e90127b168630a7baa9157d9_max_476x317.png",
+        "url": "property-photo/e9dcf6b4e/93539478/e9dcf6b4e90127b168630a7baa9157d9.png",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92bc63321/93539478/92bc633218956e4863ce9a4b96b7ecf1_max_476x317.png",
+        "url": "property-photo/92bc63321/93539478/92bc633218956e4863ce9a4b96b7ecf1.png",
+        "caption": "Balcony"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ea4dd24f/93539478/0ea4dd24f8f3903e0754af4254b9f9c8_max_476x317.png",
+        "url": "property-photo/0ea4dd24f/93539478/0ea4dd24f8f3903e0754af4254b9f9c8.png",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c183972e/93539478/7c183972ef2efd6d8c20f2c8657d36a1_max_476x317.png",
+        "url": "property-photo/7c183972e/93539478/7c183972ef2efd6d8c20f2c8657d36a1.png",
+        "caption": "Communal gardens"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/96a2b85db/93539478/96a2b85dbe18b820897d5e920ba90030_max_296x197.png"
+  },
+  "formattedBranchName": " by City & Urban, Shoreditch",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
