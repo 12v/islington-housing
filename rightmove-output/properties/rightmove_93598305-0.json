@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-25T23:49:17.700194+00:00",
+  "postcode": "EC1V 4LZ",
+  "id": 93598305,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented and recently updated apartment set within an impressive period development in the heart of Clerkenwell and the Culture Mile, EC1V. Offering a combination of character, modern interiors and excellent resident amenities, the property makes an appealing long-term home for profession...",
+  "displayAddress": "Stirling Court, 201 St John Street, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52473,
+    "longitude": -0.10401
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db_max_476x317.jpeg",
+      "url": "property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d687e34d/93598305/7d687e34d1243193adfda1529a2615c6_max_476x317.jpeg",
+      "url": "property-photo/7d687e34d/93598305/7d687e34d1243193adfda1529a2615c6.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/895c5802d/93598305/895c5802dba9c5fa545e45cdc5892bc9_max_476x317.jpeg",
+      "url": "property-photo/895c5802d/93598305/895c5802dba9c5fa545e45cdc5892bc9.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07284e64a/93598305/07284e64a92709c597432818b0821a27_max_476x317.jpeg",
+      "url": "property-photo/07284e64a/93598305/07284e64a92709c597432818b0821a27.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eaa0795ff/93598305/eaa0795ffb9647e36bf1391749ea8690_max_476x317.jpeg",
+      "url": "property-photo/eaa0795ff/93598305/eaa0795ffb9647e36bf1391749ea8690.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf1b555d9/93598305/bf1b555d9536427753c009f2daa70376_max_476x317.jpeg",
+      "url": "property-photo/bf1b555d9/93598305/bf1b555d9536427753c009f2daa70376.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c52b5127b/93598305/c52b5127bf977512dd698724a42cd6dc_max_476x317.jpeg",
+      "url": "property-photo/c52b5127b/93598305/c52b5127bf977512dd698724a42cd6dc.jpeg",
+      "caption": "DIST"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/951af75d3/93598305/951af75d3d51fa7de174ec52170c1a66_max_476x317.jpeg",
+      "url": "property-photo/951af75d3/93598305/951af75d3d51fa7de174ec52170c1a66.jpeg",
+      "caption": "DIST"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-09-25T18:39:06Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 209042,
+    "brandPlusLogoURI": "/partner-logo/22536368-PRODUCTS_LOGO-1766066948.png",
+    "contactTelephone": "020 3834 8305",
+    "branchDisplayName": "City Relay, London",
+    "branchName": "London",
+    "brandTradingName": "City Relay",
+    "branchLandingPageUrl": "/estate-agents/agent/City-Relay/London-209042.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-04T14:42:01Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22536368-PRODUCTS_LOGO-1766066948.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "528 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93598305#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93598305",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-25T18:33:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-25T18:39:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Impressive period development",
+      "htmlDescription": "Impressive period development"
+    },
+    {
+      "order": 2,
+      "description": "Bright open-plan reception and dining space",
+      "htmlDescription": "Bright open-plan reception and dining space"
+    },
+    {
+      "order": 3,
+      "description": "Concierge service",
+      "htmlDescription": "Concierge service"
+    },
+    {
+      "order": 4,
+      "description": "Additional basement storage",
+      "htmlDescription": "Additional basement storage"
+    },
+    {
+      "order": 5,
+      "description": "Modern shower room with walk-in shower",
+      "htmlDescription": "Modern shower room with walk-in shower"
+    },
+    {
+      "order": 6,
+      "description": "Located within the Culture Mile",
+      "htmlDescription": "Located within the Culture Mile"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db_max_476x317.jpeg",
+        "url": "property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d687e34d/93598305/7d687e34d1243193adfda1529a2615c6_max_476x317.jpeg",
+        "url": "property-photo/7d687e34d/93598305/7d687e34d1243193adfda1529a2615c6.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/895c5802d/93598305/895c5802dba9c5fa545e45cdc5892bc9_max_476x317.jpeg",
+        "url": "property-photo/895c5802d/93598305/895c5802dba9c5fa545e45cdc5892bc9.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07284e64a/93598305/07284e64a92709c597432818b0821a27_max_476x317.jpeg",
+        "url": "property-photo/07284e64a/93598305/07284e64a92709c597432818b0821a27.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eaa0795ff/93598305/eaa0795ffb9647e36bf1391749ea8690_max_476x317.jpeg",
+        "url": "property-photo/eaa0795ff/93598305/eaa0795ffb9647e36bf1391749ea8690.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf1b555d9/93598305/bf1b555d9536427753c009f2daa70376_max_476x317.jpeg",
+        "url": "property-photo/bf1b555d9/93598305/bf1b555d9536427753c009f2daa70376.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c52b5127b/93598305/c52b5127bf977512dd698724a42cd6dc_max_476x317.jpeg",
+        "url": "property-photo/c52b5127b/93598305/c52b5127bf977512dd698724a42cd6dc.jpeg",
+        "caption": "DIST"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/951af75d3/93598305/951af75d3d51fa7de174ec52170c1a66_max_476x317.jpeg",
+        "url": "property-photo/951af75d3/93598305/951af75d3d51fa7de174ec52170c1a66.jpeg",
+        "caption": "DIST"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98f0b4f41/93598305/98f0b4f4190637db207561cab4c294db_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by City Relay, London",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

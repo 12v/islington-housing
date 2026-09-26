@@ -1,0 +1,254 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-26T01:22:41.458643+00:00",
+  "postcode": "N19 3JY",
+  "id": 93485430,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "This beautifully presented two bedroom apartment offers a harmonious blend of contemporary style and practical living, set within a sought-after location of North London.",
+  "displayAddress": "Gladsmuir Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.570346,
+    "longitude": -0.134349
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3_max_476x317.png",
+      "url": "property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9aa24f56/93485430/f9aa24f56381fa77e0aec3b95380dc48_max_476x317.png",
+      "url": "property-photo/f9aa24f56/93485430/f9aa24f56381fa77e0aec3b95380dc48.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/546fd5f35/93485430/546fd5f35859522dfd8f42596a7b53dd_max_476x317.png",
+      "url": "property-photo/546fd5f35/93485430/546fd5f35859522dfd8f42596a7b53dd.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc325e1f7/93485430/fc325e1f7aa827f14dd060f39d073c28_max_476x317.png",
+      "url": "property-photo/fc325e1f7/93485430/fc325e1f7aa827f14dd060f39d073c28.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00688503b/93485430/00688503bfd4aa5a361119653c04ed2f_max_476x317.png",
+      "url": "property-photo/00688503b/93485430/00688503bfd4aa5a361119653c04ed2f.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dd548761/93485430/5dd548761c2149bc8377519b11c44dfc_max_476x317.png",
+      "url": "property-photo/5dd548761/93485430/5dd548761c2149bc8377519b11c44dfc.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4c40476e/93485430/a4c40476e3d656f752d2a5e412de8353_max_476x317.png",
+      "url": "property-photo/a4c40476e/93485430/a4c40476e3d656f752d2a5e412de8353.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f2a33e96/93485430/1f2a33e96a96c412a2b461eeed390392_max_476x317.png",
+      "url": "property-photo/1f2a33e96/93485430/1f2a33e96a96c412a2b461eeed390392.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-09-25T11:23:42Z"
+  },
+  "price": {
+    "amount": 2340,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,340 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3540 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84953,
+    "brandPlusLogoURI": "/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "contactTelephone": "020 3840 3854",
+    "branchDisplayName": "David Andrew, Archway",
+    "branchName": "Archway",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Archway-84953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-05T10:14:50Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "570 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93485430#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93485430",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-23T13:57:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-25T11:23:44Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedroom Apartment",
+      "htmlDescription": "Two Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Comprising 53 sq mt / 570 sq ft",
+      "htmlDescription": "Comprising 53 sq mt / 570 sq ft"
+    },
+    {
+      "order": 3,
+      "description": "Spacious Reception Room / Kitchen Area",
+      "htmlDescription": "Spacious Reception Room / Kitchen Area"
+    },
+    {
+      "order": 4,
+      "description": "Fully Fitted Kitchen",
+      "htmlDescription": "Fully Fitted Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Wooden Flooring and Carpets Throughout",
+      "htmlDescription": "Wooden Flooring and Carpets Throughout"
+    },
+    {
+      "order": 6,
+      "description": "Good Natural Light",
+      "htmlDescription": "Good Natural Light"
+    },
+    {
+      "order": 7,
+      "description": "Close to Amenities",
+      "htmlDescription": "Close to Amenities"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance to Upper Holloway and Archway Stations",
+      "htmlDescription": "Walking Distance to Upper Holloway and Archway Stations"
+    },
+    {
+      "order": 9,
+      "description": "Offered Part - Furnished",
+      "htmlDescription": "Offered Part - Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Available 17th of October",
+      "htmlDescription": "Available 17th of October"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3_max_476x317.png",
+        "url": "property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9aa24f56/93485430/f9aa24f56381fa77e0aec3b95380dc48_max_476x317.png",
+        "url": "property-photo/f9aa24f56/93485430/f9aa24f56381fa77e0aec3b95380dc48.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/546fd5f35/93485430/546fd5f35859522dfd8f42596a7b53dd_max_476x317.png",
+        "url": "property-photo/546fd5f35/93485430/546fd5f35859522dfd8f42596a7b53dd.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc325e1f7/93485430/fc325e1f7aa827f14dd060f39d073c28_max_476x317.png",
+        "url": "property-photo/fc325e1f7/93485430/fc325e1f7aa827f14dd060f39d073c28.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00688503b/93485430/00688503bfd4aa5a361119653c04ed2f_max_476x317.png",
+        "url": "property-photo/00688503b/93485430/00688503bfd4aa5a361119653c04ed2f.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5dd548761/93485430/5dd548761c2149bc8377519b11c44dfc_max_476x317.png",
+        "url": "property-photo/5dd548761/93485430/5dd548761c2149bc8377519b11c44dfc.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a4c40476e/93485430/a4c40476e3d656f752d2a5e412de8353_max_476x317.png",
+        "url": "property-photo/a4c40476e/93485430/a4c40476e3d656f752d2a5e412de8353.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1f2a33e96/93485430/1f2a33e96a96c412a2b461eeed390392_max_476x317.png",
+        "url": "property-photo/1f2a33e96/93485430/1f2a33e96a96c412a2b461eeed390392.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/daf5fcf74/93485430/daf5fcf74053aa3f09a7c4c4e39d72e3_max_296x197.png"
+  },
+  "formattedBranchName": " by David Andrew, Archway",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

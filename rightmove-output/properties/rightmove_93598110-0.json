@@ -1,0 +1,234 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-26T02:49:35.191482+00:00",
+  "postcode": "N7 7FJ",
+  "id": 93598110,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Stylish two double-bedroom apartment set within a sought-after modern residential development, spacious open-plan reception room, fully fitted kitchen, modern fitted bathroom suite, lift access.",
+  "displayAddress": "Queensland Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.553385,
+    "longitude": -0.106955
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987_max_476x317.jpeg",
+      "url": "property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987.jpeg",
+      "caption": "A stylish two double-bedroom apartment set within"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9a6e4f55/93598110/e9a6e4f559c8b5c97ffd036846ee5f1d_max_476x317.jpeg",
+      "url": "property-photo/e9a6e4f55/93598110/e9a6e4f559c8b5c97ffd036846ee5f1d.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5db9c7d2f/93598110/5db9c7d2fc3cab6441b61b493ecf4534_max_476x317.jpeg",
+      "url": "property-photo/5db9c7d2f/93598110/5db9c7d2fc3cab6441b61b493ecf4534.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8732ddf58/93598110/8732ddf58f0afe437ee5a06e2b95cb9a_max_476x317.jpeg",
+      "url": "property-photo/8732ddf58/93598110/8732ddf58f0afe437ee5a06e2b95cb9a.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed57db05/93598110/bed57db05c83400ffee11e6c66e97cf5_max_476x317.jpeg",
+      "url": "property-photo/bed57db05/93598110/bed57db05c83400ffee11e6c66e97cf5.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1dab05916/93598110/1dab05916d1f3eec359895116ed927ef_max_476x317.jpeg",
+      "url": "property-photo/1dab05916/93598110/1dab05916d1f3eec359895116ed927ef.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-50"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bbd3a363/93598110/9bbd3a36302dfdc61e62b271e0350425_max_476x317.jpeg",
+      "url": "property-photo/9bbd3a363/93598110/9bbd3a36302dfdc61e62b271e0350425.jpeg",
+      "caption": "Michael Charles  Flat 88  9 Queensland Road-1"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-25T18:37:06Z"
+  },
+  "price": {
+    "amount": 3000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3692 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 85888,
+    "brandPlusLogoURI": "/partner-logo/11709940-PRODUCTS_LOGO-1766061708.jpeg",
+    "contactTelephone": "020 3840 3967",
+    "branchDisplayName": "Michael Charles Lettings, London",
+    "branchName": "London",
+    "brandTradingName": "Michael Charles Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Michael-Charles-Lettings/London-85888.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:24Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11709940-PRODUCTS_LOGO-1766061708.jpeg",
+    "primaryBrandColour": null
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93598110#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93598110",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-25T18:31:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-25T20:19:56Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Close to tranpsport links",
+      "htmlDescription": "Close to tranpsport links"
+    },
+    {
+      "order": 2,
+      "description": "Close to shopping facilities",
+      "htmlDescription": "Close to shopping facilities"
+    },
+    {
+      "order": 3,
+      "description": "Lift",
+      "htmlDescription": "Lift"
+    },
+    {
+      "order": 4,
+      "description": "Modern Sought after development",
+      "htmlDescription": "Modern Sought after development"
+    },
+    {
+      "order": 5,
+      "description": "Stylish",
+      "htmlDescription": "Stylish"
+    },
+    {
+      "order": 6,
+      "description": "Fitted kitchen",
+      "htmlDescription": "Fitted kitchen"
+    },
+    {
+      "order": 7,
+      "description": "Bathroom",
+      "htmlDescription": "Bathroom"
+    },
+    {
+      "order": 8,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987_max_476x317.jpeg",
+        "url": "property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987.jpeg",
+        "caption": "A stylish two double-bedroom apartment set within"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9a6e4f55/93598110/e9a6e4f559c8b5c97ffd036846ee5f1d_max_476x317.jpeg",
+        "url": "property-photo/e9a6e4f55/93598110/e9a6e4f559c8b5c97ffd036846ee5f1d.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5db9c7d2f/93598110/5db9c7d2fc3cab6441b61b493ecf4534_max_476x317.jpeg",
+        "url": "property-photo/5db9c7d2f/93598110/5db9c7d2fc3cab6441b61b493ecf4534.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8732ddf58/93598110/8732ddf58f0afe437ee5a06e2b95cb9a_max_476x317.jpeg",
+        "url": "property-photo/8732ddf58/93598110/8732ddf58f0afe437ee5a06e2b95cb9a.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed57db05/93598110/bed57db05c83400ffee11e6c66e97cf5_max_476x317.jpeg",
+        "url": "property-photo/bed57db05/93598110/bed57db05c83400ffee11e6c66e97cf5.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1dab05916/93598110/1dab05916d1f3eec359895116ed927ef_max_476x317.jpeg",
+        "url": "property-photo/1dab05916/93598110/1dab05916d1f3eec359895116ed927ef.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-50"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bbd3a363/93598110/9bbd3a36302dfdc61e62b271e0350425_max_476x317.jpeg",
+        "url": "property-photo/9bbd3a363/93598110/9bbd3a36302dfdc61e62b271e0350425.jpeg",
+        "caption": "Michael Charles  Flat 88  9 Queensland Road-1"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cb467848/93598110/8cb467848f71eb8a612534c3480e5987_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Michael Charles Lettings, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
