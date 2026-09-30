@@ -1,0 +1,245 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-09-30T03:04:29.340445+00:00",
+  "postcode": "N5 2DT",
+  "id": 93641442,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Alwyne Estates are pleased to present this lovely part-furnished 1-bedroom flat, located less than 10 minutes from Highbury & Islington Station and Upper Street. The property has been recently redecorated throughout and comprises a spacious lounge, separate fully fitted kitchen, double b...",
+  "displayAddress": "Highbury New Park, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.550194,
+    "longitude": -0.094412
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626_max_476x317.jpeg",
+      "url": "property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626.jpeg",
+      "caption": "w03.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49e8918b9/93641442/49e8918b92738fc8ca5c25f190ae2015_max_476x317.jpeg",
+      "url": "property-photo/49e8918b9/93641442/49e8918b92738fc8ca5c25f190ae2015.jpeg",
+      "caption": "w04.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f355048a/93641442/5f355048a6d3b80ad3bf9e4571c44bb9_max_476x317.jpeg",
+      "url": "property-photo/5f355048a/93641442/5f355048a6d3b80ad3bf9e4571c44bb9.jpeg",
+      "caption": "w05.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/012fa74fe/93641442/012fa74fe086b6ec546ffce1c43ef6bc_max_476x317.jpeg",
+      "url": "property-photo/012fa74fe/93641442/012fa74fe086b6ec546ffce1c43ef6bc.jpeg",
+      "caption": "w06.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8615c3c1/93641442/a8615c3c1dee7a7d35eba71f7feddfca_max_476x317.jpeg",
+      "url": "property-photo/a8615c3c1/93641442/a8615c3c1dee7a7d35eba71f7feddfca.jpeg",
+      "caption": "w07.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64ee87dcd/93641442/64ee87dcdaa7d44edb7b482016f6a498_max_476x317.jpeg",
+      "url": "property-photo/64ee87dcd/93641442/64ee87dcdaa7d44edb7b482016f6a498.jpeg",
+      "caption": "w08.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9edab0a3/93641442/b9edab0a31611fdfea97f643ab20ade5_max_476x317.jpeg",
+      "url": "property-photo/b9edab0a3/93641442/b9edab0a31611fdfea97f643ab20ade5.jpeg",
+      "caption": "w09.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc2de33ae/93641442/bc2de33ae4c2394758b22408b90bce8d_max_476x317.jpeg",
+      "url": "property-photo/bc2de33ae/93641442/bc2de33ae4c2394758b22408b90bce8d.jpeg",
+      "caption": "w01.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4da603325/93641442/4da603325f54c84a948c24556a1aed57_max_476x317.jpeg",
+      "url": "property-photo/4da603325/93641442/4da603325f54c84a948c24556a1aed57.jpeg",
+      "caption": "w02.jpg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-25T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-28T10:53:09Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 126928,
+    "brandPlusLogoURI": "/partner-logo/15730606-PRODUCTS_LOGO-1766062549.jpeg",
+    "contactTelephone": "020 3907 2937",
+    "branchDisplayName": "Alwyne Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Alwyne Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alwyne-Estate-Agents/London-126928.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-16T09:23:30Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/15730606-PRODUCTS_LOGO-1766062549.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93641442#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93641442",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-28T10:47:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-28T14:37:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 2,
+      "description": "Close to Local Bars and Shops",
+      "htmlDescription": "Close to Local Bars and Shops"
+    },
+    {
+      "order": 3,
+      "description": "Highbury & Islington Tube",
+      "htmlDescription": "Highbury & Islington Tube"
+    },
+    {
+      "order": 4,
+      "description": "Shops and Amenities Nearby",
+      "htmlDescription": "Shops and Amenities Nearby"
+    },
+    {
+      "order": 5,
+      "description": "Highbury Fields within close proximity",
+      "htmlDescription": "Highbury Fields within close proximity"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626_max_476x317.jpeg",
+        "url": "property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626.jpeg",
+        "caption": "w03.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/49e8918b9/93641442/49e8918b92738fc8ca5c25f190ae2015_max_476x317.jpeg",
+        "url": "property-photo/49e8918b9/93641442/49e8918b92738fc8ca5c25f190ae2015.jpeg",
+        "caption": "w04.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5f355048a/93641442/5f355048a6d3b80ad3bf9e4571c44bb9_max_476x317.jpeg",
+        "url": "property-photo/5f355048a/93641442/5f355048a6d3b80ad3bf9e4571c44bb9.jpeg",
+        "caption": "w05.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/012fa74fe/93641442/012fa74fe086b6ec546ffce1c43ef6bc_max_476x317.jpeg",
+        "url": "property-photo/012fa74fe/93641442/012fa74fe086b6ec546ffce1c43ef6bc.jpeg",
+        "caption": "w06.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8615c3c1/93641442/a8615c3c1dee7a7d35eba71f7feddfca_max_476x317.jpeg",
+        "url": "property-photo/a8615c3c1/93641442/a8615c3c1dee7a7d35eba71f7feddfca.jpeg",
+        "caption": "w07.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/64ee87dcd/93641442/64ee87dcdaa7d44edb7b482016f6a498_max_476x317.jpeg",
+        "url": "property-photo/64ee87dcd/93641442/64ee87dcdaa7d44edb7b482016f6a498.jpeg",
+        "caption": "w08.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9edab0a3/93641442/b9edab0a31611fdfea97f643ab20ade5_max_476x317.jpeg",
+        "url": "property-photo/b9edab0a3/93641442/b9edab0a31611fdfea97f643ab20ade5.jpeg",
+        "caption": "w09.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc2de33ae/93641442/bc2de33ae4c2394758b22408b90bce8d_max_476x317.jpeg",
+        "url": "property-photo/bc2de33ae/93641442/bc2de33ae4c2394758b22408b90bce8d.jpeg",
+        "caption": "w01.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4da603325/93641442/4da603325f54c84a948c24556a1aed57_max_476x317.jpeg",
+        "url": "property-photo/4da603325/93641442/4da603325f54c84a948c24556a1aed57.jpeg",
+        "caption": "w02.jpg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5c812539/93641442/c5c812539d93193b7ab9dedcccc04626_max_296x197.jpeg"
+  },
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "formattedBranchName": " by Alwyne Estate Agents, London",
+  "addedOrReduced": "Added on 28/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
