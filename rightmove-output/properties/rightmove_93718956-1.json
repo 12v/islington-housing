@@ -1,0 +1,245 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-01T00:25:08.842894+00:00",
+  "postcode": "EC1Y 8AB",
+  "id": 93718956,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "NobleDom are delighted to offer this bright and well-presented one-bedroom apartment, ideally located just moments from Barbican Station and perfectly suited for professionals seeking a Central London base.The property",
+  "displayAddress": "Lambs Passage, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.521648,
+    "longitude": -0.091145
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1_max_476x317.png",
+      "url": "property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1.png",
+      "caption": "ONE-BEDROOM APARTMENT IN LAMB&#39;S PASSAGE, MOORGATE"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc13af0b/93718956/8cc13af0bf88c2b272f87cac2982a056_max_476x317.png",
+      "url": "property-photo/8cc13af0b/93718956/8cc13af0bf88c2b272f87cac2982a056.png",
+      "caption": "Aebdf4e28d5c60b2dbf84651386dbb9b"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e2b80849/93718956/3e2b80849656ca348ab846b496b33f7c_max_476x317.png",
+      "url": "property-photo/3e2b80849/93718956/3e2b80849656ca348ab846b496b33f7c.png",
+      "caption": "2e415f0d79b1f78fd69328785472c74a"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e98be8eb/93718956/2e98be8eb0b55c90e94b015bae1b8cd0_max_476x317.png",
+      "url": "property-photo/2e98be8eb/93718956/2e98be8eb0b55c90e94b015bae1b8cd0.png",
+      "caption": "1a7b4db8ff08938065dbd1d05b7e58a5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d44716b3a/93718956/d44716b3a3f49fdfc1b5c7ac17322f4d_max_476x317.png",
+      "url": "property-photo/d44716b3a/93718956/d44716b3a3f49fdfc1b5c7ac17322f4d.png",
+      "caption": "E404d2b48624b2c1852ae7dbd741070f"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a562bbe86/93718956/a562bbe8619f68461c45609978b41e99_max_476x317.png",
+      "url": "property-photo/a562bbe86/93718956/a562bbe8619f68461c45609978b41e99.png",
+      "caption": "C913f322589b18ec3d0534b83f9d3a88"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a265769b9/93718956/a265769b98489567b332f5e8638c9da8_max_476x317.png",
+      "url": "property-photo/a265769b9/93718956/a265769b98489567b332f5e8638c9da8.png",
+      "caption": "D03aba74391702e07035fe781a11081e"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-09-29T18:08:05Z"
+  },
+  "price": {
+    "amount": 2850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3658 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 242789,
+    "brandPlusLogoURI": "/partner-logo/27095411-PRODUCTS_LOGO-1766059926.png",
+    "contactTelephone": "020 3834 8425",
+    "branchDisplayName": "Nobledom, Hounslow",
+    "branchName": "Hounslow",
+    "brandTradingName": "Nobledom",
+    "branchLandingPageUrl": "/estate-agents/agent/Nobledom/Hounslow-242789.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27095411-PRODUCTS_LOGO-1766059926.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": " \tHolding Deposit - to secure a rental; capped at one weeks  rent which is refunded to the tenant within 7 days of the parties entering into a tenancy agreement, or which may be applied to the first instalment of rent/security deposit subject to the consent of the payee\n \tTenancy deposit - capped at five weeks  rent if the yearly rent is less than \u00a350,000 or capped at six weeks  rent if the yearly rent is \u00a350,000 or more\n \tRent and Utility bills - Payable as stated in the Tenancy Agreement\n \tLost Key- Tenants are liable for the cost of replacing any lost keys or security device, including a change of lock or replacement of device if required\n \tAmendments of Tenancy Agreement at Tenants Request - \u00a350 per change\n \tAn early termination fee- in the event the tenant wishes to terminate early but not where the tenant is exercising a break clause. The termination fee must reflect the actual loss suffered by the landlord (for example, loss of rent the landlord would have received) or as a letting agent (referencing and marketing costs)\n \tInterest for late payment of rent - (if the rent is unpaid for more than 14 days).  The rate of interest at 3% above the Bank of England base rate",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93718956#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93718956",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-29T18:02:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-09-29T18:08:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "TV",
+      "htmlDescription": "TV"
+    },
+    {
+      "order": 3,
+      "description": "24/7 Security",
+      "htmlDescription": "24/7 Security"
+    },
+    {
+      "order": 4,
+      "description": "Video Door Entry",
+      "htmlDescription": "Video Door Entry"
+    },
+    {
+      "order": 5,
+      "description": "Concierge services",
+      "htmlDescription": "Concierge services"
+    },
+    {
+      "order": 6,
+      "description": "Fridge Freezer",
+      "htmlDescription": "Fridge Freezer"
+    },
+    {
+      "order": 7,
+      "description": "Microwave",
+      "htmlDescription": "Microwave"
+    },
+    {
+      "order": 8,
+      "description": "Full Double Glazing",
+      "htmlDescription": "Full Double Glazing"
+    },
+    {
+      "order": 9,
+      "description": "Oven/Hob",
+      "htmlDescription": "Oven/Hob"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1_max_476x317.png",
+        "url": "property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1.png",
+        "caption": "ONE-BEDROOM APARTMENT IN LAMB&#39;S PASSAGE, MOORGATE"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cc13af0b/93718956/8cc13af0bf88c2b272f87cac2982a056_max_476x317.png",
+        "url": "property-photo/8cc13af0b/93718956/8cc13af0bf88c2b272f87cac2982a056.png",
+        "caption": "Aebdf4e28d5c60b2dbf84651386dbb9b"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e2b80849/93718956/3e2b80849656ca348ab846b496b33f7c_max_476x317.png",
+        "url": "property-photo/3e2b80849/93718956/3e2b80849656ca348ab846b496b33f7c.png",
+        "caption": "2e415f0d79b1f78fd69328785472c74a"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e98be8eb/93718956/2e98be8eb0b55c90e94b015bae1b8cd0_max_476x317.png",
+        "url": "property-photo/2e98be8eb/93718956/2e98be8eb0b55c90e94b015bae1b8cd0.png",
+        "caption": "1a7b4db8ff08938065dbd1d05b7e58a5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d44716b3a/93718956/d44716b3a3f49fdfc1b5c7ac17322f4d_max_476x317.png",
+        "url": "property-photo/d44716b3a/93718956/d44716b3a3f49fdfc1b5c7ac17322f4d.png",
+        "caption": "E404d2b48624b2c1852ae7dbd741070f"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a562bbe86/93718956/a562bbe8619f68461c45609978b41e99_max_476x317.png",
+        "url": "property-photo/a562bbe86/93718956/a562bbe8619f68461c45609978b41e99.png",
+        "caption": "C913f322589b18ec3d0534b83f9d3a88"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a265769b9/93718956/a265769b98489567b332f5e8638c9da8_max_476x317.png",
+        "url": "property-photo/a265769b9/93718956/a265769b98489567b332f5e8638c9da8.png",
+        "caption": "D03aba74391702e07035fe781a11081e"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/162ea1745/93718956/162ea1745ff578e1156fa9c78c6b2ac1_max_296x197.png"
+  },
+  "formattedBranchName": " by Nobledom, Hounslow",
+  "addedOrReduced": "Added on 29/09/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
