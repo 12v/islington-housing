@@ -1,0 +1,209 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-03T03:48:10.904463+00:00",
+  "postcode": "N7 9SZ",
+  "id": 93822795,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Nice 2 bed flat situated within a private Cul de sac.",
+  "displayAddress": "Heddington Grove, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551551,
+    "longitude": -0.116337
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df_max_476x317.jpeg",
+      "url": "property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5b560255/93822795/f5b5602559ad434b9af830138722f477_max_476x317.jpeg",
+      "url": "property-photo/f5b560255/93822795/f5b5602559ad434b9af830138722f477.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f545135b7/93822795/f545135b777799354e7517a93d70c955_max_476x317.jpeg",
+      "url": "property-photo/f545135b7/93822795/f545135b777799354e7517a93d70c955.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4cb7f3b2/93822795/c4cb7f3b274bb82db08cbee04f5e9d46_max_476x317.jpeg",
+      "url": "property-photo/c4cb7f3b2/93822795/c4cb7f3b274bb82db08cbee04f5e9d46.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3722e8c1d/93822795/3722e8c1d93b3fb3344a1aab3b942f91_max_476x317.jpeg",
+      "url": "property-photo/3722e8c1d/93822795/3722e8c1d93b3fb3344a1aab3b942f91.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a79e43dc/93822795/7a79e43dc6304768c2f1f8e8de635a71_max_476x317.jpeg",
+      "url": "property-photo/7a79e43dc/93822795/7a79e43dc6304768c2f1f8e8de635a71.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69b31fedf/93822795/69b31fedfd6fa187b47e5308efcae4b8_max_476x317.jpeg",
+      "url": "property-photo/69b31fedf/93822795/69b31fedfd6fa187b47e5308efcae4b8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73f30dd5d/93822795/73f30dd5d0aa6364c151318cfa8c04cd_max_476x317.jpeg",
+      "url": "property-photo/73f30dd5d/93822795/73f30dd5d0aa6364c151318cfa8c04cd.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-01T17:26:04Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 78299,
+    "brandPlusLogoURI": "/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "contactTelephone": "020 3835 5699",
+    "branchDisplayName": "MoveHome, London",
+    "branchName": "London",
+    "brandTradingName": "MoveHome",
+    "branchLandingPageUrl": "/estate-agents/agent/MoveHome/London-78299.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-01T09:18:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8567792-PRODUCTS_LOGO-1766065079.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93822795#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93822795",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-01T17:20:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-01T17:32:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df_max_476x317.jpeg",
+        "url": "property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5b560255/93822795/f5b5602559ad434b9af830138722f477_max_476x317.jpeg",
+        "url": "property-photo/f5b560255/93822795/f5b5602559ad434b9af830138722f477.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f545135b7/93822795/f545135b777799354e7517a93d70c955_max_476x317.jpeg",
+        "url": "property-photo/f545135b7/93822795/f545135b777799354e7517a93d70c955.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4cb7f3b2/93822795/c4cb7f3b274bb82db08cbee04f5e9d46_max_476x317.jpeg",
+        "url": "property-photo/c4cb7f3b2/93822795/c4cb7f3b274bb82db08cbee04f5e9d46.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3722e8c1d/93822795/3722e8c1d93b3fb3344a1aab3b942f91_max_476x317.jpeg",
+        "url": "property-photo/3722e8c1d/93822795/3722e8c1d93b3fb3344a1aab3b942f91.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7a79e43dc/93822795/7a79e43dc6304768c2f1f8e8de635a71_max_476x317.jpeg",
+        "url": "property-photo/7a79e43dc/93822795/7a79e43dc6304768c2f1f8e8de635a71.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69b31fedf/93822795/69b31fedfd6fa187b47e5308efcae4b8_max_476x317.jpeg",
+        "url": "property-photo/69b31fedf/93822795/69b31fedfd6fa187b47e5308efcae4b8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73f30dd5d/93822795/73f30dd5d0aa6364c151318cfa8c04cd_max_476x317.jpeg",
+        "url": "property-photo/73f30dd5d/93822795/73f30dd5d0aa6364c151318cfa8c04cd.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/648261841/93822795/648261841fc6fbbe0395497bbcc019df_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MoveHome, London",
+  "addedOrReduced": "Added on 01/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-03T02:49:08.195633+00:00",
+  "postcode": "N4 3FQ",
+  "id": 93842118,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Situated within the landmark City North development in the heart of Finsbury Park, this beautifully presented furnished one-bedroom apartment offers stylish contemporary living with exceptional transport connections across London. The apartment features a bright and well-proportioned o...",
+  "displayAddress": "City North East Tower, 3 City North Place, Finsbury Park, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.565094,
+    "longitude": -0.107536
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa_max_476x317.jpeg",
+      "url": "property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/147cad69b/93842118/147cad69bce592f2d737c85b7f97717e_max_476x317.jpeg",
+      "url": "property-photo/147cad69b/93842118/147cad69bce592f2d737c85b7f97717e.jpeg",
+      "caption": "Picture No. 11"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7396f250/93842118/e7396f250848eadc43495970005f55c5_max_476x317.jpeg",
+      "url": "property-photo/e7396f250/93842118/e7396f250848eadc43495970005f55c5.jpeg",
+      "caption": "Picture No. 14"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/433c73609/93842118/433c736097a17c387f668482ffc4cd64_max_476x317.jpeg",
+      "url": "property-photo/433c73609/93842118/433c736097a17c387f668482ffc4cd64.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37c04c774/93842118/37c04c774bc29246b043e29b7cb66179_max_476x317.jpeg",
+      "url": "property-photo/37c04c774/93842118/37c04c774bc29246b043e29b7cb66179.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bca3f9fa/93842118/0bca3f9fabe5df57064a3f29ffd0a5e8_max_476x317.jpeg",
+      "url": "property-photo/0bca3f9fa/93842118/0bca3f9fabe5df57064a3f29ffd0a5e8.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b22ce7006/93842118/b22ce70069ac655c790e041b681ac9c0_max_476x317.jpeg",
+      "url": "property-photo/b22ce7006/93842118/b22ce70069ac655c790e041b681ac9c0.jpeg",
+      "caption": "Picture No. 18"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-02T10:44:06Z"
+  },
+  "price": {
+    "amount": 2300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3531 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 264878,
+    "brandPlusLogoURI": "/partner-logo/30638114-PRODUCTS_LOGO-1766060623.jpeg",
+    "contactTelephone": "020 3667 9431",
+    "branchDisplayName": "Ernest Brooks International, Canary Wharf",
+    "branchName": "Canary Wharf",
+    "brandTradingName": "Ernest Brooks International",
+    "branchLandingPageUrl": "/estate-agents/agent/Ernest-Brooks-International/Canary-Wharf-264878.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-09-15T14:22:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30638114-PRODUCTS_LOGO-1766060623.jpeg",
+    "primaryBrandColour": "#ffffff",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93842118#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93842118",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-02T10:38:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-02T21:54:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished one-bedroom apartment",
+      "htmlDescription": "Furnished one-bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Landmark City North development",
+      "htmlDescription": "Landmark City North development"
+    },
+    {
+      "order": 3,
+      "description": "Bright open-plan reception and dining area",
+      "htmlDescription": "Bright open-plan reception and dining area"
+    },
+    {
+      "order": 4,
+      "description": "Contemporary integrated kitchen",
+      "htmlDescription": "Contemporary integrated kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Spacious double bedroom with storage",
+      "htmlDescription": "Spacious double bedroom with storage"
+    },
+    {
+      "order": 6,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 7,
+      "description": "Secure entry and lift access",
+      "htmlDescription": "Secure entry and lift access"
+    },
+    {
+      "order": 8,
+      "description": "Moments from Finsbury Park",
+      "htmlDescription": "Moments from Finsbury Park"
+    },
+    {
+      "order": 9,
+      "description": "Finsbury Park Station on the doorstep",
+      "htmlDescription": "Finsbury Park Station on the doorstep"
+    },
+    {
+      "order": 10,
+      "description": "Victoria, Piccadilly and National Rail connections",
+      "htmlDescription": "Victoria, Piccadilly and National Rail connections"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa_max_476x317.jpeg",
+        "url": "property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/147cad69b/93842118/147cad69bce592f2d737c85b7f97717e_max_476x317.jpeg",
+        "url": "property-photo/147cad69b/93842118/147cad69bce592f2d737c85b7f97717e.jpeg",
+        "caption": "Picture No. 11"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e7396f250/93842118/e7396f250848eadc43495970005f55c5_max_476x317.jpeg",
+        "url": "property-photo/e7396f250/93842118/e7396f250848eadc43495970005f55c5.jpeg",
+        "caption": "Picture No. 14"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/433c73609/93842118/433c736097a17c387f668482ffc4cd64_max_476x317.jpeg",
+        "url": "property-photo/433c73609/93842118/433c736097a17c387f668482ffc4cd64.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37c04c774/93842118/37c04c774bc29246b043e29b7cb66179_max_476x317.jpeg",
+        "url": "property-photo/37c04c774/93842118/37c04c774bc29246b043e29b7cb66179.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bca3f9fa/93842118/0bca3f9fabe5df57064a3f29ffd0a5e8_max_476x317.jpeg",
+        "url": "property-photo/0bca3f9fa/93842118/0bca3f9fabe5df57064a3f29ffd0a5e8.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b22ce7006/93842118/b22ce70069ac655c790e041b681ac9c0_max_476x317.jpeg",
+        "url": "property-photo/b22ce7006/93842118/b22ce70069ac655c790e041b681ac9c0.jpeg",
+        "caption": "Picture No. 18"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/544adf31b/93842118/544adf31bfac85c6c2d1a0e182f299aa_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ernest Brooks International, Canary Wharf",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

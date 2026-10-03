@@ -1,0 +1,261 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-03T00:56:49.587757+00:00",
+  "postcode": "N1 1BP",
+  "id": 148638206,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 1,
+  "summary": "A charming, neutrally decorated, one bedroom, raised ground floor apartment located in this peaceful side street in the heart of Barnsbury.",
+  "displayAddress": "Huntingdon Street, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.542013,
+    "longitude": -0.115937
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d_max_476x317.jpeg",
+      "url": "property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb649cd63/148638206/bb649cd630b0cbb3f3f9c9626f351bbf_max_476x317.jpeg",
+      "url": "property-photo/bb649cd63/148638206/bb649cd630b0cbb3f3f9c9626f351bbf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3addf58ca/148638206/3addf58cab5bc8341e6c608131ef3a92_max_476x317.jpeg",
+      "url": "property-photo/3addf58ca/148638206/3addf58cab5bc8341e6c608131ef3a92.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba92f7db0/148638206/ba92f7db080ba51e095ecaf777266d2c_max_476x317.jpeg",
+      "url": "property-photo/ba92f7db0/148638206/ba92f7db080ba51e095ecaf777266d2c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b3a6a388/148638206/8b3a6a38839e067539bc294371af1b44_max_476x317.jpeg",
+      "url": "property-photo/8b3a6a388/148638206/8b3a6a38839e067539bc294371af1b44.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e669d3422/148638206/e669d34223846b984fd27cde4a5a2def_max_476x317.jpeg",
+      "url": "property-photo/e669d3422/148638206/e669d34223846b984fd27cde4a5a2def.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182f408b0/148638206/182f408b07bc4b58dda63478c0fdf084_max_476x317.jpeg",
+      "url": "property-photo/182f408b0/148638206/182f408b07bc4b58dda63478c0fdf084.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9245b6298/148638206/9245b6298f30c45a1cf068f0e9a661a3_max_476x317.jpeg",
+      "url": "property-photo/9245b6298/148638206/9245b6298f30c45a1cf068f0e9a661a3.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23b9d2b22/148638206/23b9d2b228f6511f601cf0aa794f40aa_max_476x317.jpeg",
+      "url": "property-photo/23b9d2b22/148638206/23b9d2b228f6511f601cf0aa794f40aa.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a88961e/148638206/46a88961e629d35699cd0c5ebc120998_max_476x317.jpeg",
+      "url": "property-photo/46a88961e/148638206/46a88961e629d35699cd0c5ebc120998.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-24T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-02T15:16:55Z"
+  },
+  "price": {
+    "amount": 530,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,297 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3530 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 274817,
+    "brandPlusLogoURI": "/partner-logo/32575790-PRODUCTS_LOGO-1766057087.jpeg",
+    "contactTelephone": "020 7046 0256",
+    "branchDisplayName": "Myspace, London",
+    "branchName": "London",
+    "brandTradingName": "Myspace",
+    "branchLandingPageUrl": "/estate-agents/agent/Myspace/London-274817.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-01T09:18:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/32575790-PRODUCTS_LOGO-1766057087.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "In addition to paying rent for the property, you may also be required to make the following permitted payments:<br /><br />Before the tenancy starts: <br />Holding Deposit: 1 week s rent.<br />Tenancy Deposit: 5 weeks rent (or in the case of rental income of more than \u00a350,000 per annum 6 weeks rent).<br /><br />During the tenancy:<br />Payments to other third parties: such as Council Tax, utilities or payments for communications services.<br />Payment of \u00a350 if you want to vary or assign the tenancy<br />Payment of interest for the late payment of rent at a rate of 3% above Bank of England s Base Rate<br />Payment of \u00a315 plus the reasonably incurred costs for the loss of keys/security devices<br />Payment of any reasonable costs associated with your early termination of the tenancy including unpaid rent and/or to cover Landlord losses.<br /><br />Tenant Protection<br /><br />Myspace Properties Limited trading as Myspace Estate Agents are members of The Property Ombudsman Scheme (TPOS), membership number: D01311 and follow their Code of Practice for Residential Lettings and Management.<br /><br />Myspace Properties Limited trading as Myspace Estate Agents are accredited by Safeagent, membership number A5094, and is part of the Safeagent Client Money Protection (CMP) Scheme.",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/148638206#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=148638206",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2024-06-01T10:57:06Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-02T15:17:01Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Fitted Kitchen",
+      "htmlDescription": "Fitted Kitchen"
+    },
+    {
+      "order": 2,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 3,
+      "description": "Shops and amenities nearby",
+      "htmlDescription": "Shops and amenities nearby"
+    },
+    {
+      "order": 4,
+      "description": "Period Features",
+      "htmlDescription": "Period Features"
+    },
+    {
+      "order": 5,
+      "description": "Wood flooring",
+      "htmlDescription": "Wood flooring"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://www.youtube.com/watch?v=M1xaxXhFyrM&t=9s",
+      "provider": "YOUTUBE"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d_max_476x317.jpeg",
+        "url": "property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb649cd63/148638206/bb649cd630b0cbb3f3f9c9626f351bbf_max_476x317.jpeg",
+        "url": "property-photo/bb649cd63/148638206/bb649cd630b0cbb3f3f9c9626f351bbf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3addf58ca/148638206/3addf58cab5bc8341e6c608131ef3a92_max_476x317.jpeg",
+        "url": "property-photo/3addf58ca/148638206/3addf58cab5bc8341e6c608131ef3a92.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba92f7db0/148638206/ba92f7db080ba51e095ecaf777266d2c_max_476x317.jpeg",
+        "url": "property-photo/ba92f7db0/148638206/ba92f7db080ba51e095ecaf777266d2c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b3a6a388/148638206/8b3a6a38839e067539bc294371af1b44_max_476x317.jpeg",
+        "url": "property-photo/8b3a6a388/148638206/8b3a6a38839e067539bc294371af1b44.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e669d3422/148638206/e669d34223846b984fd27cde4a5a2def_max_476x317.jpeg",
+        "url": "property-photo/e669d3422/148638206/e669d34223846b984fd27cde4a5a2def.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/182f408b0/148638206/182f408b07bc4b58dda63478c0fdf084_max_476x317.jpeg",
+        "url": "property-photo/182f408b0/148638206/182f408b07bc4b58dda63478c0fdf084.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9245b6298/148638206/9245b6298f30c45a1cf068f0e9a661a3_max_476x317.jpeg",
+        "url": "property-photo/9245b6298/148638206/9245b6298f30c45a1cf068f0e9a661a3.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/23b9d2b22/148638206/23b9d2b228f6511f601cf0aa794f40aa_max_476x317.jpeg",
+        "url": "property-photo/23b9d2b22/148638206/23b9d2b228f6511f601cf0aa794f40aa.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a88961e/148638206/46a88961e629d35699cd0c5ebc120998_max_476x317.jpeg",
+        "url": "property-photo/46a88961e/148638206/46a88961e629d35699cd0c5ebc120998.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4a3483a1c/148638206/4a3483a1c0d969bc679411c594708e4d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Myspace, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
