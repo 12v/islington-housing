@@ -1,0 +1,270 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-03T23:25:58.513836+00:00",
+  "postcode": "EC1V 4NT",
+  "id": 93860874,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Available from 30th October. A bright two-bedroom unfurnished flat, with patio access, located just a short distance from Angel Station.",
+  "displayAddress": "St John Street, London, EC1V 4NT",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.529146,
+    "longitude": -0.104744
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544_max_476x317.jpeg",
+      "url": "property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544.jpeg",
+      "caption": "Private Patio"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a09c51b85/93860874/a09c51b85b614dea20d5daba79a05602_max_476x317.jpeg",
+      "url": "property-photo/a09c51b85/93860874/a09c51b85b614dea20d5daba79a05602.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/862523c44/93860874/862523c4457e686cde250bc1cef2345d_max_476x317.jpeg",
+      "url": "property-photo/862523c44/93860874/862523c4457e686cde250bc1cef2345d.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d903cf094/93860874/d903cf094053c626dedb63db56bfe761_max_476x317.jpeg",
+      "url": "property-photo/d903cf094/93860874/d903cf094053c626dedb63db56bfe761.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/498a0c32b/93860874/498a0c32b8d84db2c2e1a141d44464bf_max_476x317.jpeg",
+      "url": "property-photo/498a0c32b/93860874/498a0c32b8d84db2c2e1a141d44464bf.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77722efea/93860874/77722efea3b1c1a97d5c44b98228e720_max_476x317.jpeg",
+      "url": "property-photo/77722efea/93860874/77722efea3b1c1a97d5c44b98228e720.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/203e447aa/93860874/203e447aa687ddeb539e111d3915844a_max_476x317.jpeg",
+      "url": "property-photo/203e447aa/93860874/203e447aa687ddeb539e111d3915844a.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bfcc8f8e/93860874/9bfcc8f8e2c5a7902fa5473362dc2f92_max_476x317.jpeg",
+      "url": "property-photo/9bfcc8f8e/93860874/9bfcc8f8e2c5a7902fa5473362dc2f92.jpeg",
+      "caption": "Front Entrance"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0f9ee271/93860874/c0f9ee2715f38530da3cc48cfc5130a2_max_476x317.jpeg",
+      "url": "property-photo/c0f9ee271/93860874/c0f9ee2715f38530da3cc48cfc5130a2.jpeg",
+      "caption": "Private Patio"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c3d833e9/93860874/7c3d833e987cd7b9e80ac7bf503c15d1_max_476x317.jpeg",
+      "url": "property-photo/7c3d833e9/93860874/7c3d833e987cd7b9e80ac7bf503c15d1.jpeg",
+      "caption": "Reception"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": "LEASEHOLD"
+  },
+  "letAvailableDate": "2025-08-15T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-02T15:00:08Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 87247,
+    "brandPlusLogoURI": "/partner-logo/11894584-LOGO-1770972312389.png",
+    "contactTelephone": "020 3889 9013",
+    "branchDisplayName": "Daniel Watney, London",
+    "branchName": "London",
+    "brandTradingName": "Daniel Watney",
+    "branchLandingPageUrl": "/estate-agents/agent/Daniel-Watney/London-87247.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:43Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11894584-LOGO-1770972312389.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "542 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93860874#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93860874",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-02T14:54:14Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-03T09:25:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available From 30th October",
+      "htmlDescription": "Available From 30th October"
+    },
+    {
+      "order": 2,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 3,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Private Patio",
+      "htmlDescription": "Private Patio"
+    },
+    {
+      "order": 5,
+      "description": "542 Sq. Ft",
+      "htmlDescription": "542 Sq. Ft"
+    },
+    {
+      "order": 6,
+      "description": "EPC - C",
+      "htmlDescription": "EPC - C"
+    },
+    {
+      "order": 7,
+      "description": "Council Tax - Band D (Islington)",
+      "htmlDescription": "Council Tax - Band D (Islington)"
+    },
+    {
+      "order": 8,
+      "description": "Deposit - \u00a33,173",
+      "htmlDescription": "Deposit - \u00a33,173"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544_max_476x317.jpeg",
+        "url": "property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544.jpeg",
+        "caption": "Private Patio"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a09c51b85/93860874/a09c51b85b614dea20d5daba79a05602_max_476x317.jpeg",
+        "url": "property-photo/a09c51b85/93860874/a09c51b85b614dea20d5daba79a05602.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/862523c44/93860874/862523c4457e686cde250bc1cef2345d_max_476x317.jpeg",
+        "url": "property-photo/862523c44/93860874/862523c4457e686cde250bc1cef2345d.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d903cf094/93860874/d903cf094053c626dedb63db56bfe761_max_476x317.jpeg",
+        "url": "property-photo/d903cf094/93860874/d903cf094053c626dedb63db56bfe761.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/498a0c32b/93860874/498a0c32b8d84db2c2e1a141d44464bf_max_476x317.jpeg",
+        "url": "property-photo/498a0c32b/93860874/498a0c32b8d84db2c2e1a141d44464bf.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77722efea/93860874/77722efea3b1c1a97d5c44b98228e720_max_476x317.jpeg",
+        "url": "property-photo/77722efea/93860874/77722efea3b1c1a97d5c44b98228e720.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/203e447aa/93860874/203e447aa687ddeb539e111d3915844a_max_476x317.jpeg",
+        "url": "property-photo/203e447aa/93860874/203e447aa687ddeb539e111d3915844a.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9bfcc8f8e/93860874/9bfcc8f8e2c5a7902fa5473362dc2f92_max_476x317.jpeg",
+        "url": "property-photo/9bfcc8f8e/93860874/9bfcc8f8e2c5a7902fa5473362dc2f92.jpeg",
+        "caption": "Front Entrance"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c0f9ee271/93860874/c0f9ee2715f38530da3cc48cfc5130a2_max_476x317.jpeg",
+        "url": "property-photo/c0f9ee271/93860874/c0f9ee2715f38530da3cc48cfc5130a2.jpeg",
+        "caption": "Private Patio"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c3d833e9/93860874/7c3d833e987cd7b9e80ac7bf503c15d1_max_476x317.jpeg",
+        "url": "property-photo/7c3d833e9/93860874/7c3d833e987cd7b9e80ac7bf503c15d1.jpeg",
+        "caption": "Reception"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f04a6f5f6/93860874/f04a6f5f61a506c1db6b6a8b765f6544_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Daniel Watney, London",
+  "addedOrReduced": "Added on 02/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
