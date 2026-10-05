@@ -1,0 +1,260 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-05T03:21:44.708182+00:00",
+  "postcode": "N7 9RN",
+  "id": 93892590,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Christopher Mark are pleased to present this larger than average one-bedroom flat, ideally situated on Caledonian Road, London N7. Offering approximately 614 sq ft of accommodation, this generously proportioned property provides considerably more space than many typical one-bedroom homes in Lond...",
+  "displayAddress": "Caledonian Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.551261,
+    "longitude": -0.118325
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566_max_476x317.jpeg",
+      "url": "property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01fd9c964/93892590/01fd9c964b5db0653fe952923a577791_max_476x317.jpeg",
+      "url": "property-photo/01fd9c964/93892590/01fd9c964b5db0653fe952923a577791.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12449b47c/93892590/12449b47c90cea72e0ed91f6fedb017e_max_476x317.jpeg",
+      "url": "property-photo/12449b47c/93892590/12449b47c90cea72e0ed91f6fedb017e.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b9fab467/93892590/5b9fab467c492de1415f9c712296fb33_max_476x317.jpeg",
+      "url": "property-photo/5b9fab467/93892590/5b9fab467c492de1415f9c712296fb33.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c72fb576f/93892590/c72fb576f563f2b3f2a62df4671d47b6_max_476x317.jpeg",
+      "url": "property-photo/c72fb576f/93892590/c72fb576f563f2b3f2a62df4671d47b6.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08258a61c/93892590/08258a61c982016562736e19db0785d7_max_476x317.jpeg",
+      "url": "property-photo/08258a61c/93892590/08258a61c982016562736e19db0785d7.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cac4e61d6/93892590/cac4e61d61486aff90093801925306b3_max_476x317.jpeg",
+      "url": "property-photo/cac4e61d6/93892590/cac4e61d61486aff90093801925306b3.jpeg",
+      "caption": "WC"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b3aac825/93892590/5b3aac825a3d5f656f667283bb1032ca_max_476x317.jpeg",
+      "url": "property-photo/5b3aac825/93892590/5b3aac825a3d5f656f667283bb1032ca.jpeg",
+      "caption": "Front (Exterior)"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-03T16:13:04Z"
+  },
+  "price": {
+    "amount": 2150,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,150 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3496 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 293183,
+    "brandPlusLogoURI": "/partner-logo/40152236-PRODUCTS_LOGO-1766064077.jpeg",
+    "contactTelephone": "020 7362 4101",
+    "branchDisplayName": "Christopher Mark Estate Agents, London",
+    "branchName": "London",
+    "brandTradingName": "Christopher Mark Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Christopher-Mark-Estate-Agents/London-293183.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-02T12:55:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/40152236-PRODUCTS_LOGO-1766064077.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "614 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93892590#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93892590",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-03T16:07:17Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-03T16:13:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Larger Than Average One-Bedroom Flat",
+      "htmlDescription": "Larger Than Average One-Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "0.2 Miles from Caledonian Road Station",
+      "htmlDescription": "0.2 Miles from Caledonian Road Station"
+    },
+    {
+      "order": 3,
+      "description": "Part Furnished",
+      "htmlDescription": "Part Furnished"
+    },
+    {
+      "order": 4,
+      "description": "Approximately 614 Sq Ft",
+      "htmlDescription": "Approximately 614 Sq Ft"
+    },
+    {
+      "order": 5,
+      "description": "Separate Reception Room",
+      "htmlDescription": "Separate Reception Room"
+    },
+    {
+      "order": 6,
+      "description": "Close to local amenities",
+      "htmlDescription": "Close to local amenities"
+    },
+    {
+      "order": 7,
+      "description": "Close to Shops, Caf\u00e9s & Restaurants",
+      "htmlDescription": "Close to Shops, Caf\u00e9s & Restaurants"
+    },
+    {
+      "order": 8,
+      "description": "Ideal London location",
+      "htmlDescription": "Ideal London location"
+    },
+    {
+      "order": 9,
+      "description": "Ideal for Commuters",
+      "htmlDescription": "Ideal for Commuters"
+    },
+    {
+      "order": 10,
+      "description": "Viewing highly recommended",
+      "htmlDescription": "Viewing highly recommended"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566_max_476x317.jpeg",
+        "url": "property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/01fd9c964/93892590/01fd9c964b5db0653fe952923a577791_max_476x317.jpeg",
+        "url": "property-photo/01fd9c964/93892590/01fd9c964b5db0653fe952923a577791.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/12449b47c/93892590/12449b47c90cea72e0ed91f6fedb017e_max_476x317.jpeg",
+        "url": "property-photo/12449b47c/93892590/12449b47c90cea72e0ed91f6fedb017e.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b9fab467/93892590/5b9fab467c492de1415f9c712296fb33_max_476x317.jpeg",
+        "url": "property-photo/5b9fab467/93892590/5b9fab467c492de1415f9c712296fb33.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c72fb576f/93892590/c72fb576f563f2b3f2a62df4671d47b6_max_476x317.jpeg",
+        "url": "property-photo/c72fb576f/93892590/c72fb576f563f2b3f2a62df4671d47b6.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/08258a61c/93892590/08258a61c982016562736e19db0785d7_max_476x317.jpeg",
+        "url": "property-photo/08258a61c/93892590/08258a61c982016562736e19db0785d7.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cac4e61d6/93892590/cac4e61d61486aff90093801925306b3_max_476x317.jpeg",
+        "url": "property-photo/cac4e61d6/93892590/cac4e61d61486aff90093801925306b3.jpeg",
+        "caption": "WC"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b3aac825/93892590/5b3aac825a3d5f656f667283bb1032ca_max_476x317.jpeg",
+        "url": "property-photo/5b3aac825/93892590/5b3aac825a3d5f656f667283bb1032ca.jpeg",
+        "caption": "Front (Exterior)"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/87c15897f/93892590/87c15897f5da4af4eb6364953474f566_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Christopher Mark Estate Agents, London",
+  "addedOrReduced": "Added on 03/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
