@@ -1,0 +1,199 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-07T00:46:01.941600+00:00",
+  "postcode": "N1 0AA",
+  "id": 93685866,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "The Regency Estate Group are delighted to present this four double bedroom split level apartment ideally located in Islington, moments to Kings Cross and Granary Square. Recently refurbished throughout, the accommodation offers a large eat-in kithen, four good size double bedrooms, fu...",
+  "displayAddress": "Kinross House, Bingfield Street, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.539467,
+    "longitude": -0.117683
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650_max_476x317.jpeg",
+      "url": "property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00738a1b1/93685866/00738a1b11e227e3ec32752f9e5c7b0a_max_476x317.jpeg",
+      "url": "property-photo/00738a1b1/93685866/00738a1b11e227e3ec32752f9e5c7b0a.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0569f7b8a/93685866/0569f7b8abe15ff0264991cbf49e3ba1_max_476x317.jpeg",
+      "url": "property-photo/0569f7b8a/93685866/0569f7b8abe15ff0264991cbf49e3ba1.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eef2901a1/93685866/eef2901a1bd55b3ab4a3743f62ac83e5_max_476x317.jpeg",
+      "url": "property-photo/eef2901a1/93685866/eef2901a1bd55b3ab4a3743f62ac83e5.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6bb1da6b/93685866/c6bb1da6bfec02b334be4df6abcbde76_max_476x317.jpeg",
+      "url": "property-photo/c6bb1da6b/93685866/c6bb1da6bfec02b334be4df6abcbde76.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8be05907c/93685866/8be05907cf3fd47b74df900732af01f2_max_476x317.jpeg",
+      "url": "property-photo/8be05907c/93685866/8be05907cf3fd47b74df900732af01f2.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d3946a3c/93685866/8d3946a3c0b5a34456c2b331ae7c5893_max_476x317.jpeg",
+      "url": "property-photo/8d3946a3c/93685866/8d3946a3c0b5a34456c2b331ae7c5893.jpeg",
+      "caption": "Picture No. 07"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-09-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-10-01T15:23:42Z"
+  },
+  "price": {
+    "amount": 3700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3854 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 286280,
+    "brandPlusLogoURI": "/partner-logo/36421739-PRODUCTS_LOGO-1766059796.png",
+    "contactTelephone": "020 4572 3117",
+    "branchDisplayName": "Regency Estate Group Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Regency Estate Group Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Regency-Estate-Group-Ltd/London-286280.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-13T15:37:21Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/36421739-PRODUCTS_LOGO-1766059796.png",
+    "primaryBrandColour": "#112247",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93685866#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93685866",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-09-29T10:05:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-06T06:31:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650_max_476x317.jpeg",
+        "url": "property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/00738a1b1/93685866/00738a1b11e227e3ec32752f9e5c7b0a_max_476x317.jpeg",
+        "url": "property-photo/00738a1b1/93685866/00738a1b11e227e3ec32752f9e5c7b0a.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0569f7b8a/93685866/0569f7b8abe15ff0264991cbf49e3ba1_max_476x317.jpeg",
+        "url": "property-photo/0569f7b8a/93685866/0569f7b8abe15ff0264991cbf49e3ba1.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eef2901a1/93685866/eef2901a1bd55b3ab4a3743f62ac83e5_max_476x317.jpeg",
+        "url": "property-photo/eef2901a1/93685866/eef2901a1bd55b3ab4a3743f62ac83e5.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6bb1da6b/93685866/c6bb1da6bfec02b334be4df6abcbde76_max_476x317.jpeg",
+        "url": "property-photo/c6bb1da6b/93685866/c6bb1da6bfec02b334be4df6abcbde76.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8be05907c/93685866/8be05907cf3fd47b74df900732af01f2_max_476x317.jpeg",
+        "url": "property-photo/8be05907c/93685866/8be05907cf3fd47b74df900732af01f2.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d3946a3c/93685866/8d3946a3c0b5a34456c2b331ae7c5893_max_476x317.jpeg",
+        "url": "property-photo/8d3946a3c/93685866/8d3946a3c0b5a34456c2b331ae7c5893.jpeg",
+        "caption": "Picture No. 07"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/25ea86580/93685866/25ea86580bf122d38fa1f81477cf5650_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Regency Estate Group Ltd, London",
+  "addedOrReduced": "Reduced on 01/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
