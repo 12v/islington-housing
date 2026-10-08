@@ -1,0 +1,265 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-08T02:12:18.958457+00:00",
+  "postcode": "N1 9HJ",
+  "id": 94049262,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 10,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "LONG LET. This fantastic 2 bedroom flat has just been refurbished, boasting wood floors throughout, separated kitchen, modern bathroom all in a fantastic location.",
+  "displayAddress": "Pentonville Road, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53199,
+    "longitude": -0.10774
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44_max_476x317.jpeg",
+      "url": "property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afef96622/94049262/afef9662202f043177295bcac90e373d_max_476x317.jpeg",
+      "url": "property-photo/afef96622/94049262/afef9662202f043177295bcac90e373d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79f32f451/94049262/79f32f45185941806e40debd1af95426_max_476x317.jpeg",
+      "url": "property-photo/79f32f451/94049262/79f32f45185941806e40debd1af95426.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5278b1334/94049262/5278b133493c6e0ad2af4f62624e3a98_max_476x317.jpeg",
+      "url": "property-photo/5278b1334/94049262/5278b133493c6e0ad2af4f62624e3a98.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d37fb83be/94049262/d37fb83bee84c58181424809a140eb3e_max_476x317.jpeg",
+      "url": "property-photo/d37fb83be/94049262/d37fb83bee84c58181424809a140eb3e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75cd5414f/94049262/75cd5414fad74430965595d36947a0fc_max_476x317.jpeg",
+      "url": "property-photo/75cd5414f/94049262/75cd5414fad74430965595d36947a0fc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf54a5ce6/94049262/bf54a5ce680dc5cda541933a46b1ed47_max_476x317.jpeg",
+      "url": "property-photo/bf54a5ce6/94049262/bf54a5ce680dc5cda541933a46b1ed47.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f110b20d7/94049262/f110b20d7bfc99e1578378847e0d7055_max_476x317.jpeg",
+      "url": "property-photo/f110b20d7/94049262/f110b20d7bfc99e1578378847e0d7055.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1be13905d/94049262/1be13905d3d70b4ff2c98669d0f694a4_max_476x317.jpeg",
+      "url": "property-photo/1be13905d/94049262/1be13905d3d70b4ff2c98669d0f694a4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95151e887/94049262/95151e887d98f91abafac6704eb00310_max_476x317.jpeg",
+      "url": "property-photo/95151e887/94049262/95151e887d98f91abafac6704eb00310.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-07T17:58:37Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 15954,
+    "brandPlusLogoURI": "/partner-logo/23106-PRODUCTS_LOGO-1766060863.jpeg",
+    "contactTelephone": "020 3840 3931",
+    "branchDisplayName": "Foxtons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Foxtons",
+    "branchLandingPageUrl": "/estate-agents/agent/Foxtons/Islington-15954.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23106-PRODUCTS_LOGO-1766060863.jpeg",
+    "primaryBrandColour": "#017163",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<p><b>Deposit:</b> \u00a32,424</p><h2>Other fees</h2><p><b>Contract variation, novation, amendment or change of occupant at the tenant's request within an existing tenancy:</b> \u00a350.</p><p><b>Default fee of interest on late rent:</b> 3% above Bank of England base rate applicable if rent is more than 14 days overdue.</p><p><b>Default fee for lost keys or other respective security devices:</b> actual cost of replacement.</p><h2>Fees for non-Assured Shorthold Tenancies / non-Licences</h2><p><b>Tenant fee:</b> \u00a3250.00 per person.</p><p>This is fixed-cost fee that can cover a variety of works depending on the individual circumstances of each tenancy, including but not limited to conducting viewings, negotiating the tenancy, verifying references, undertaking Right to Rent checks (if applicable) and drawing up contracts. It is charged on a per individual basis - not per tenancy. The charge will not exceed \u00a3250.00 inc VAT per individual and will only be applied to the first four individuals entering into the tenancy where there are more than four individuals taking occupation of the property. The charge will not exceed this sum unless you request or cause one of the specific additional services or fees set out elsewhere in this document.</p><h2>Tenant protection</h2><p>Foxtons' Client Money Protection Scheme is provided by Propertymark. Foxtons is a member of The Property Ombudsman Redress Scheme and subject to its codes of practice and redress scheme.</p>",
+  "displaySize": "366 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94049262#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94049262",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-07T17:52:22Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-07T18:47:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "2nd Floor flat in a purpose-built block",
+      "htmlDescription": "2nd Floor flat in a purpose-built block"
+    },
+    {
+      "order": 2,
+      "description": "Sought after location near vibrant amenities",
+      "htmlDescription": "Sought after location near vibrant amenities"
+    },
+    {
+      "order": 3,
+      "description": "Charming reception with built-in storage",
+      "htmlDescription": "Charming reception with built-in storage"
+    },
+    {
+      "order": 4,
+      "description": "Fully fitted kitchen",
+      "htmlDescription": "Fully fitted kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Located moments from Angel Underground Station",
+      "htmlDescription": "Located moments from Angel Underground Station"
+    },
+    {
+      "order": 6,
+      "description": "Chic tiled bathroom and Wood flooring throughout",
+      "htmlDescription": "Chic tiled bathroom and Wood flooring throughout"
+    },
+    {
+      "order": 7,
+      "description": "Gas central heating and double glazed windows throughout",
+      "htmlDescription": "Gas central heating and double glazed windows throughout"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44_max_476x317.jpeg",
+        "url": "property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afef96622/94049262/afef9662202f043177295bcac90e373d_max_476x317.jpeg",
+        "url": "property-photo/afef96622/94049262/afef9662202f043177295bcac90e373d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79f32f451/94049262/79f32f45185941806e40debd1af95426_max_476x317.jpeg",
+        "url": "property-photo/79f32f451/94049262/79f32f45185941806e40debd1af95426.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5278b1334/94049262/5278b133493c6e0ad2af4f62624e3a98_max_476x317.jpeg",
+        "url": "property-photo/5278b1334/94049262/5278b133493c6e0ad2af4f62624e3a98.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d37fb83be/94049262/d37fb83bee84c58181424809a140eb3e_max_476x317.jpeg",
+        "url": "property-photo/d37fb83be/94049262/d37fb83bee84c58181424809a140eb3e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/75cd5414f/94049262/75cd5414fad74430965595d36947a0fc_max_476x317.jpeg",
+        "url": "property-photo/75cd5414f/94049262/75cd5414fad74430965595d36947a0fc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf54a5ce6/94049262/bf54a5ce680dc5cda541933a46b1ed47_max_476x317.jpeg",
+        "url": "property-photo/bf54a5ce6/94049262/bf54a5ce680dc5cda541933a46b1ed47.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f110b20d7/94049262/f110b20d7bfc99e1578378847e0d7055_max_476x317.jpeg",
+        "url": "property-photo/f110b20d7/94049262/f110b20d7bfc99e1578378847e0d7055.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1be13905d/94049262/1be13905d3d70b4ff2c98669d0f694a4_max_476x317.jpeg",
+        "url": "property-photo/1be13905d/94049262/1be13905d3d70b4ff2c98669d0f694a4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95151e887/94049262/95151e887d98f91abafac6704eb00310_max_476x317.jpeg",
+        "url": "property-photo/95151e887/94049262/95151e887d98f91abafac6704eb00310.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6747e40b/94049262/a6747e40b9615327b286be5d0e6a9f44_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Foxtons, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

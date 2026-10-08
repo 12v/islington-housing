@@ -1,0 +1,280 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-08T01:00:34.712983+00:00",
+  "postcode": "EC2A 1AN",
+  "id": 93916422,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Superbly presented two bedroom apartment, ideally located on the edge of the City of London, moments from the financial district. This apartment offers a brand new furniture pack throughout along with a fresh repaint!",
+  "displayAddress": "Finsbury Square London EC2A",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52168,
+    "longitude": -0.08756
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169_max_476x317.jpeg",
+      "url": "property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11064956b/93916422/11064956b40277f04fbf1a33c39f8390_max_476x317.jpeg",
+      "url": "property-photo/11064956b/93916422/11064956b40277f04fbf1a33c39f8390.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84c499dad/93916422/84c499dad08fad4596cc675517d7106e_max_476x317.jpeg",
+      "url": "property-photo/84c499dad/93916422/84c499dad08fad4596cc675517d7106e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/324a6c1c8/93916422/324a6c1c87c8830567c6e3c14211df97_max_476x317.jpeg",
+      "url": "property-photo/324a6c1c8/93916422/324a6c1c87c8830567c6e3c14211df97.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5359c2fc8/93916422/5359c2fc810f2ea40cf45db3117a2d63_max_476x317.jpeg",
+      "url": "property-photo/5359c2fc8/93916422/5359c2fc810f2ea40cf45db3117a2d63.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41f6f003d/93916422/41f6f003d845e7142b43e469a08d2547_max_476x317.jpeg",
+      "url": "property-photo/41f6f003d/93916422/41f6f003d845e7142b43e469a08d2547.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28cd52316/93916422/28cd52316d69a8a82b023d9f01893c3e_max_476x317.jpeg",
+      "url": "property-photo/28cd52316/93916422/28cd52316d69a8a82b023d9f01893c3e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fff564f1f/93916422/fff564f1ff21cac99819ba710587e53f_max_476x317.jpeg",
+      "url": "property-photo/fff564f1f/93916422/fff564f1ff21cac99819ba710587e53f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c99197887/93916422/c99197887613220e0b864aaa52ae6719_max_476x317.jpeg",
+      "url": "property-photo/c99197887/93916422/c99197887613220e0b864aaa52ae6719.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/67e79a89b/93916422/67e79a89b8c277fa1bba2a8b040397bf_max_476x317.jpeg",
+      "url": "property-photo/67e79a89b/93916422/67e79a89b8c277fa1bba2a8b040397bf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4ad7096f/93916422/b4ad7096ff4faa6372d30f4e71fbe80d_max_476x317.jpeg",
+      "url": "property-photo/b4ad7096f/93916422/b4ad7096ff4faa6372d30f4e71fbe80d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4e13f65d/93916422/f4e13f65dc21c55a82efae91063e2d45_max_476x317.jpeg",
+      "url": "property-photo/f4e13f65d/93916422/f4e13f65dc21c55a82efae91063e2d45.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-05T11:43:28Z"
+  },
+  "price": {
+    "amount": 3800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,800 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3877 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43829,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3870 5615",
+    "branchDisplayName": "Hamptons, City",
+    "branchName": "City",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/City-43829.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-03T08:03:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy information\n\nHamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED PERIODIC TENANCIES:\nHolding Deposit - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place:\nThe annual rent exceeds \u00a3100,000.\nThe property is occupied by an entity (Company let) rather that an individual.\nThe property is not used as a main or primary home.\nThere is a Resident Landlord.\nTenancy Setup Fee - \u00a3360 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee   Per Person \u00a360 inc VAT. Per Company \u00a3120 inc VAT\nTenancy Continuation - \u00a3300 inc VAT.\nChange of (Tenant) Householder - \u00a3300 inc VAT.\nEarly Termination Administration - \u00a3300 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per person, \u00a3120 inc vat per company.\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash.\nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "1 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/93916422#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=93916422",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-05T11:37:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-07T11:50:39Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Bedrooms",
+      "htmlDescription": "Two Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "New Furniture Pack",
+      "htmlDescription": "New Furniture Pack"
+    },
+    {
+      "order": 4,
+      "description": "City Location",
+      "htmlDescription": "City Location"
+    },
+    {
+      "order": 5,
+      "description": "Council Tax Band G",
+      "htmlDescription": "Council Tax Band G"
+    },
+    {
+      "order": 6,
+      "description": "Close to Transport",
+      "htmlDescription": "Close to Transport"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169_max_476x317.jpeg",
+        "url": "property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11064956b/93916422/11064956b40277f04fbf1a33c39f8390_max_476x317.jpeg",
+        "url": "property-photo/11064956b/93916422/11064956b40277f04fbf1a33c39f8390.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/84c499dad/93916422/84c499dad08fad4596cc675517d7106e_max_476x317.jpeg",
+        "url": "property-photo/84c499dad/93916422/84c499dad08fad4596cc675517d7106e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/324a6c1c8/93916422/324a6c1c87c8830567c6e3c14211df97_max_476x317.jpeg",
+        "url": "property-photo/324a6c1c8/93916422/324a6c1c87c8830567c6e3c14211df97.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5359c2fc8/93916422/5359c2fc810f2ea40cf45db3117a2d63_max_476x317.jpeg",
+        "url": "property-photo/5359c2fc8/93916422/5359c2fc810f2ea40cf45db3117a2d63.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41f6f003d/93916422/41f6f003d845e7142b43e469a08d2547_max_476x317.jpeg",
+        "url": "property-photo/41f6f003d/93916422/41f6f003d845e7142b43e469a08d2547.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28cd52316/93916422/28cd52316d69a8a82b023d9f01893c3e_max_476x317.jpeg",
+        "url": "property-photo/28cd52316/93916422/28cd52316d69a8a82b023d9f01893c3e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fff564f1f/93916422/fff564f1ff21cac99819ba710587e53f_max_476x317.jpeg",
+        "url": "property-photo/fff564f1f/93916422/fff564f1ff21cac99819ba710587e53f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c99197887/93916422/c99197887613220e0b864aaa52ae6719_max_476x317.jpeg",
+        "url": "property-photo/c99197887/93916422/c99197887613220e0b864aaa52ae6719.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/67e79a89b/93916422/67e79a89b8c277fa1bba2a8b040397bf_max_476x317.jpeg",
+        "url": "property-photo/67e79a89b/93916422/67e79a89b8c277fa1bba2a8b040397bf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b4ad7096f/93916422/b4ad7096ff4faa6372d30f4e71fbe80d_max_476x317.jpeg",
+        "url": "property-photo/b4ad7096f/93916422/b4ad7096ff4faa6372d30f4e71fbe80d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4e13f65d/93916422/f4e13f65dc21c55a82efae91063e2d45_max_476x317.jpeg",
+        "url": "property-photo/f4e13f65d/93916422/f4e13f65dc21c55a82efae91063e2d45.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d1236484/93916422/0d123648463b05863e536532eabd7169_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, City",
+  "addedOrReduced": "Added on 05/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

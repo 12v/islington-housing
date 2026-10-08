@@ -1,0 +1,220 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-08T03:40:27.792030+00:00",
+  "postcode": "N7 0HH",
+  "id": 94045482,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "The Property Company is pleased to present this generously sized room with a private en-suite bathroom, ideally located in the sought-after Tufnell Park area. The accommodation benefits from a modern en-suite shower room with WC, access to a well-maintained shared kitchen, gas central ...",
+  "displayAddress": "Dalmeny Road, Tufnell Park, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.556117,
+    "longitude": -0.129792
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a_max_476x317.jpeg",
+      "url": "property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a.jpeg",
+      "caption": "Picture No. 10"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0b2c3a53/94045482/a0b2c3a53527303bb02420fef5e3ba95_max_476x317.jpeg",
+      "url": "property-photo/a0b2c3a53/94045482/a0b2c3a53527303bb02420fef5e3ba95.jpeg",
+      "caption": "Picture No. 12"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3702e3a11/94045482/3702e3a115a32f0219eefbcb801e68be_max_476x317.jpeg",
+      "url": "property-photo/3702e3a11/94045482/3702e3a115a32f0219eefbcb801e68be.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5d0f4e04/94045482/c5d0f4e04bdc903b238e4ac769954eec_max_476x317.jpeg",
+      "url": "property-photo/c5d0f4e04/94045482/c5d0f4e04bdc903b238e4ac769954eec.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37a36da81/94045482/37a36da81f84747e13ef0d62fc6c8a06_max_476x317.jpeg",
+      "url": "property-photo/37a36da81/94045482/37a36da81f84747e13ef0d62fc6c8a06.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac81c32d9/94045482/ac81c32d96df8e27cb4f720bf01f1717_max_476x317.jpeg",
+      "url": "property-photo/ac81c32d9/94045482/ac81c32d96df8e27cb4f720bf01f1717.jpeg",
+      "caption": "Picture No. 11"
+    }
+  ],
+  "propertySubType": "House Share",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-09T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-07T16:51:35Z"
+  },
+  "price": {
+    "amount": 1000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,000 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3231 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 76256,
+    "brandPlusLogoURI": "/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "contactTelephone": "020 3870 6387",
+    "branchDisplayName": "The Property Company, Crouch End",
+    "branchName": "Crouch End",
+    "brandTradingName": "The Property Company",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Property-Company/Crouch-End-76256.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-14T12:18:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/8436224-PRODUCTS_LOGO-1766065705.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94045482#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94045482",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-07T16:46:25Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-07T20:48:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious double room with private en-suite bathroom",
+      "htmlDescription": "Spacious double room with private en-suite bathroom"
+    },
+    {
+      "order": 2,
+      "description": "All utility bills included in the rent",
+      "htmlDescription": "All utility bills included in the rent"
+    },
+    {
+      "order": 3,
+      "description": "Access to a fully fitted shared kitchen",
+      "htmlDescription": "Access to a fully fitted shared kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Gas central heating and shared rear garden",
+      "htmlDescription": "Gas central heating and shared rear garden"
+    },
+    {
+      "order": 5,
+      "description": "Quiet residential location",
+      "htmlDescription": "Quiet residential location"
+    },
+    {
+      "order": 6,
+      "description": "Short walk to Tufnell Park Underground Station and local amenities",
+      "htmlDescription": "Short walk to Tufnell Park Underground Station and local amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a_max_476x317.jpeg",
+        "url": "property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a.jpeg",
+        "caption": "Picture No. 10"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a0b2c3a53/94045482/a0b2c3a53527303bb02420fef5e3ba95_max_476x317.jpeg",
+        "url": "property-photo/a0b2c3a53/94045482/a0b2c3a53527303bb02420fef5e3ba95.jpeg",
+        "caption": "Picture No. 12"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3702e3a11/94045482/3702e3a115a32f0219eefbcb801e68be_max_476x317.jpeg",
+        "url": "property-photo/3702e3a11/94045482/3702e3a115a32f0219eefbcb801e68be.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5d0f4e04/94045482/c5d0f4e04bdc903b238e4ac769954eec_max_476x317.jpeg",
+        "url": "property-photo/c5d0f4e04/94045482/c5d0f4e04bdc903b238e4ac769954eec.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37a36da81/94045482/37a36da81f84747e13ef0d62fc6c8a06_max_476x317.jpeg",
+        "url": "property-photo/37a36da81/94045482/37a36da81f84747e13ef0d62fc6c8a06.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac81c32d9/94045482/ac81c32d96df8e27cb4f720bf01f1717_max_476x317.jpeg",
+        "url": "property-photo/ac81c32d9/94045482/ac81c32d96df8e27cb4f720bf01f1717.jpeg",
+        "caption": "Picture No. 11"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/da22f20a3/94045482/da22f20a3e122099b850546dbfff8a2a_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Property Company, Crouch End",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom house share",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

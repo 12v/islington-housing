@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-08T03:43:11.585629+00:00",
+  "postcode": "N7 0QB",
+  "id": 94024227,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright and spacious two bedroom unfurnished apartment within a well kept development.",
+  "displayAddress": "Tufnell Park Road London N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55774,
+    "longitude": -0.1211
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8_max_476x317.jpeg",
+      "url": "property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8.jpeg",
+      "caption": "eDJJF5502_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b357fc80d/94024227/b357fc80dba49aba187fbe5a7a3b4038_max_476x317.jpeg",
+      "url": "property-photo/b357fc80d/94024227/b357fc80dba49aba187fbe5a7a3b4038.jpeg",
+      "caption": "eDJJF5484_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c88fa07c/94024227/4c88fa07c11a103ef6abeb1dd21680ca_max_476x317.jpeg",
+      "url": "property-photo/4c88fa07c/94024227/4c88fa07c11a103ef6abeb1dd21680ca.jpeg",
+      "caption": "eDJJF5509_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d75c9606/94024227/5d75c9606a56fd806a901da95d97f2d3_max_476x317.jpeg",
+      "url": "property-photo/5d75c9606/94024227/5d75c9606a56fd806a901da95d97f2d3.jpeg",
+      "caption": "eDJJF5498_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fb1f4def/94024227/4fb1f4def14176fa87c9413eed38a6ee_max_476x317.jpeg",
+      "url": "property-photo/4fb1f4def/94024227/4fb1f4def14176fa87c9413eed38a6ee.jpeg",
+      "caption": "eDJJF5506_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74277c0a2/94024227/74277c0a2386471b06b4278e21afe9fe_max_476x317.jpeg",
+      "url": "property-photo/74277c0a2/94024227/74277c0a2386471b06b4278e21afe9fe.jpeg",
+      "caption": "eDJJF5511_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f98291dc/94024227/8f98291dc0b686c96e97aff32e042fa4_max_476x317.jpeg",
+      "url": "property-photo/8f98291dc/94024227/8f98291dc0b686c96e97aff32e042fa4.jpeg",
+      "caption": "eDJJF5491_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f62a40fa3/94024227/f62a40fa31ac0472c5340109d095594d_max_476x317.jpeg",
+      "url": "property-photo/f62a40fa3/94024227/f62a40fa31ac0472c5340109d095594d.jpeg",
+      "caption": "eDJJF5495_edited"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ea5f2806/94024227/5ea5f2806a312c7e4823a22d0740e648_max_476x317.jpeg",
+      "url": "property-photo/5ea5f2806/94024227/5ea5f2806a312c7e4823a22d0740e648.jpeg",
+      "caption": "eDJJF5519_edited"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-07T08:54:06Z"
+  },
+  "price": {
+    "amount": 2200,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,200 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3508 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 69292,
+    "brandPlusLogoURI": "/partner-logo/9768853-LOGO-1765976948.png",
+    "contactTelephone": "020 3907 9847",
+    "branchDisplayName": "Cluttons, Islington - Lettings",
+    "branchName": "Islington - Lettings",
+    "brandTradingName": "Cluttons",
+    "branchLandingPageUrl": "/estate-agents/agent/Cluttons/Islington---Lettings-69292.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9768853-LOGO-1765976948.png",
+    "primaryBrandColour": "#00afda",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Permitted payments and tenant protection information\nPermitted payments \nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\n-\tPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\n-\tPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\n-\tReasonable costs for replacement of lost keys or other security devices;\n-\tContractual damages in the event of the tenant's default of a tenancy agreement; and\n-\tAny other permitted payments under the Tenant Fees Act 2019.\n \nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Bill , once enacted, means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments: \n-\tHolding deposits (a maximum of 1 week's rent);\n-\tDeposits;\n-\tUtilities, communication services (eg. telephone, broadband), TV licence and council tax;\n-\tPayments for the late payment of rent;\n-\tA breach of a term of the contract;\n-\tAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Bill and regulations once enacted.\n\nTenant protection \n-\tCluttons is a member of Ombudsman Services: inclusive of VAT Property redress scheme for dealing with complaints. \n-\tCluttons LLP is a firm regulated by the Royal Institution of Chartered Surveyors (RICS) and our annual regulatory review fee covers the Clients  Money Protection Scheme\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94024227#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94024227",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-07T12:05:57Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-08T04:34:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious apartment",
+      "htmlDescription": "Spacious apartment"
+    },
+    {
+      "order": 2,
+      "description": "Wood floors",
+      "htmlDescription": "Wood floors"
+    },
+    {
+      "order": 3,
+      "description": "Good specification",
+      "htmlDescription": "Good specification"
+    },
+    {
+      "order": 4,
+      "description": "Good light",
+      "htmlDescription": "Good light"
+    },
+    {
+      "order": 5,
+      "description": "Well kept development",
+      "htmlDescription": "Well kept development"
+    },
+    {
+      "order": 6,
+      "description": "Parking on a first come first served basis",
+      "htmlDescription": "Parking on a first come first served basis"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8_max_476x317.jpeg",
+        "url": "property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8.jpeg",
+        "caption": "eDJJF5502_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b357fc80d/94024227/b357fc80dba49aba187fbe5a7a3b4038_max_476x317.jpeg",
+        "url": "property-photo/b357fc80d/94024227/b357fc80dba49aba187fbe5a7a3b4038.jpeg",
+        "caption": "eDJJF5484_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4c88fa07c/94024227/4c88fa07c11a103ef6abeb1dd21680ca_max_476x317.jpeg",
+        "url": "property-photo/4c88fa07c/94024227/4c88fa07c11a103ef6abeb1dd21680ca.jpeg",
+        "caption": "eDJJF5509_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d75c9606/94024227/5d75c9606a56fd806a901da95d97f2d3_max_476x317.jpeg",
+        "url": "property-photo/5d75c9606/94024227/5d75c9606a56fd806a901da95d97f2d3.jpeg",
+        "caption": "eDJJF5498_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fb1f4def/94024227/4fb1f4def14176fa87c9413eed38a6ee_max_476x317.jpeg",
+        "url": "property-photo/4fb1f4def/94024227/4fb1f4def14176fa87c9413eed38a6ee.jpeg",
+        "caption": "eDJJF5506_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74277c0a2/94024227/74277c0a2386471b06b4278e21afe9fe_max_476x317.jpeg",
+        "url": "property-photo/74277c0a2/94024227/74277c0a2386471b06b4278e21afe9fe.jpeg",
+        "caption": "eDJJF5511_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f98291dc/94024227/8f98291dc0b686c96e97aff32e042fa4_max_476x317.jpeg",
+        "url": "property-photo/8f98291dc/94024227/8f98291dc0b686c96e97aff32e042fa4.jpeg",
+        "caption": "eDJJF5491_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f62a40fa3/94024227/f62a40fa31ac0472c5340109d095594d_max_476x317.jpeg",
+        "url": "property-photo/f62a40fa3/94024227/f62a40fa31ac0472c5340109d095594d.jpeg",
+        "caption": "eDJJF5495_edited"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ea5f2806/94024227/5ea5f2806a312c7e4823a22d0740e648_max_476x317.jpeg",
+        "url": "property-photo/5ea5f2806/94024227/5ea5f2806a312c7e4823a22d0740e648.jpeg",
+        "caption": "eDJJF5519_edited"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5224d2bc/94024227/c5224d2bc1a76b2aa21b5e6ed7c100a8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Cluttons, Islington - Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
