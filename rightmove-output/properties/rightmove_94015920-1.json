@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-09T03:25:20.926243+00:00",
+  "postcode": "N4 4AU",
+  "id": 94015920,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright furnished one-bedroom flat moments from Crouch Hill station, featuring a spacious open-plan living area, generous private terrace, double bedroom and fitted kitchen. Set within a small building of just two flats and within easy reach of Finsbury Park, Stroud Green and Crouch End. Available...",
+  "displayAddress": "Crouch Hill, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.571035,
+    "longitude": -0.116776
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24_max_476x317.png",
+      "url": "property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24.png",
+      "caption": "Front"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c593c0a9f/94015920/c593c0a9fb076b5e4ae3f43eda34d74b_max_476x317.png",
+      "url": "property-photo/c593c0a9f/94015920/c593c0a9fb076b5e4ae3f43eda34d74b.png",
+      "caption": "Open plan Kitchen-Dining-Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9890bdc26/94015920/9890bdc2656d6835f1dc0663ff4570c8_max_476x317.png",
+      "url": "property-photo/9890bdc26/94015920/9890bdc2656d6835f1dc0663ff4570c8.png",
+      "caption": "Hallway"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b952f6d8c/94015920/b952f6d8c7f59b4ac2b1adbfa71a77e4_max_476x317.png",
+      "url": "property-photo/b952f6d8c/94015920/b952f6d8c7f59b4ac2b1adbfa71a77e4.png",
+      "caption": "Open plan Kitchen-Dining"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21f904587/94015920/21f9045872966863fd3a1acb30eed0ce_max_476x317.png",
+      "url": "property-photo/21f904587/94015920/21f9045872966863fd3a1acb30eed0ce.png",
+      "caption": "Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a9fefab6/94015920/9a9fefab6555c031125aa98423609ffc_max_476x317.png",
+      "url": "property-photo/9a9fefab6/94015920/9a9fefab6555c031125aa98423609ffc.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/946367cfd/94015920/946367cfd3a9329401f96b04ae69eda8_max_476x317.png",
+      "url": "property-photo/946367cfd/94015920/946367cfd3a9329401f96b04ae69eda8.png",
+      "caption": "Bedroom 1-2"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-06T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-07T10:21:37Z"
+  },
+  "price": {
+    "amount": 1700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3392 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 292052,
+    "brandPlusLogoURI": "/partner-logo/39437978-PRODUCTS_LOGO-1770371732854.png",
+    "contactTelephone": "01482 429230",
+    "branchDisplayName": "Annafield & Co, St Neots",
+    "branchName": "St Neots",
+    "brandTradingName": "Annafield & Co",
+    "branchLandingPageUrl": "/estate-agents/agent/Annafield-and-Co/St-Neots-292052.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-04T13:13:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/39437978-PRODUCTS_LOGO-1770371732854.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "431 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94015920#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94015920",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-07T10:16:03Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-07T10:21:37Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished one-bedroom flat",
+      "htmlDescription": "Furnished one-bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Large private terrace",
+      "htmlDescription": "Large private terrace"
+    },
+    {
+      "order": 3,
+      "description": "Moments from Crouch Hill station",
+      "htmlDescription": "Moments from Crouch Hill station"
+    },
+    {
+      "order": 4,
+      "description": "Walking distance to Finsbury Park station",
+      "htmlDescription": "Walking distance to Finsbury Park station"
+    },
+    {
+      "order": 5,
+      "description": "Spacious open-plan living/dining room",
+      "htmlDescription": "Spacious open-plan living/dining room"
+    },
+    {
+      "order": 6,
+      "description": "Fitted kitchen with appliances",
+      "htmlDescription": "Fitted kitchen with appliances"
+    },
+    {
+      "order": 7,
+      "description": "Fridge/freezer & washing machine included",
+      "htmlDescription": "Fridge/freezer & washing machine included"
+    },
+    {
+      "order": 8,
+      "description": "Double bedroom with built-in storage",
+      "htmlDescription": "Double bedroom with built-in storage"
+    },
+    {
+      "order": 9,
+      "description": "Bathroom with shower over bath",
+      "htmlDescription": "Bathroom with shower over bath"
+    },
+    {
+      "order": 10,
+      "description": "Small building comprising only two flats",
+      "htmlDescription": "Small building comprising only two flats"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24_max_476x317.png",
+        "url": "property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24.png",
+        "caption": "Front"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c593c0a9f/94015920/c593c0a9fb076b5e4ae3f43eda34d74b_max_476x317.png",
+        "url": "property-photo/c593c0a9f/94015920/c593c0a9fb076b5e4ae3f43eda34d74b.png",
+        "caption": "Open plan Kitchen-Dining-Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9890bdc26/94015920/9890bdc2656d6835f1dc0663ff4570c8_max_476x317.png",
+        "url": "property-photo/9890bdc26/94015920/9890bdc2656d6835f1dc0663ff4570c8.png",
+        "caption": "Hallway"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b952f6d8c/94015920/b952f6d8c7f59b4ac2b1adbfa71a77e4_max_476x317.png",
+        "url": "property-photo/b952f6d8c/94015920/b952f6d8c7f59b4ac2b1adbfa71a77e4.png",
+        "caption": "Open plan Kitchen-Dining"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21f904587/94015920/21f9045872966863fd3a1acb30eed0ce_max_476x317.png",
+        "url": "property-photo/21f904587/94015920/21f9045872966863fd3a1acb30eed0ce.png",
+        "caption": "Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a9fefab6/94015920/9a9fefab6555c031125aa98423609ffc_max_476x317.png",
+        "url": "property-photo/9a9fefab6/94015920/9a9fefab6555c031125aa98423609ffc.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/946367cfd/94015920/946367cfd3a9329401f96b04ae69eda8_max_476x317.png",
+        "url": "property-photo/946367cfd/94015920/946367cfd3a9329401f96b04ae69eda8.png",
+        "caption": "Bedroom 1-2"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e903c01da/94015920/e903c01da2ef03c23ece8f4a3fcccd24_max_296x197.png"
+  },
+  "formattedBranchName": " by Annafield & Co, St Neots",
+  "addedOrReduced": "Added on 07/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
