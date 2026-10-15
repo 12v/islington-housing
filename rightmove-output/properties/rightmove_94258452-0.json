@@ -1,0 +1,245 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-15T02:47:10.842914+00:00",
+  "postcode": "N7 6JD",
+  "id": 94258452,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Located on Holloway Road N7, we offer you this first floor newly refurbished 1 bed flat, comprising double bedroom, separate spacious living room, fully fitted kitchen with large fridge/ freezer, washing machine & gas hob. Tiled bathroom, lots of storage space , laminate flooring, double gaze...",
+  "displayAddress": "Holloway Road, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55918,
+    "longitude": -0.12118
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611_max_476x317.jpeg",
+      "url": "property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6a163ca3/94258452/c6a163ca31b7f584d9cd0c64c7970664_max_476x317.jpeg",
+      "url": "property-photo/c6a163ca3/94258452/c6a163ca31b7f584d9cd0c64c7970664.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d14212dd/94258452/7d14212dd955a9b65d9d3c673957237a_max_476x317.jpeg",
+      "url": "property-photo/7d14212dd/94258452/7d14212dd955a9b65d9d3c673957237a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4fa72c1/94258452/fe4fa72c12153473787c68a965d1728a_max_476x317.jpeg",
+      "url": "property-photo/fe4fa72c1/94258452/fe4fa72c12153473787c68a965d1728a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f23bc90c/94258452/2f23bc90cf698f39b99e47dd74603d21_max_476x317.jpeg",
+      "url": "property-photo/2f23bc90c/94258452/2f23bc90cf698f39b99e47dd74603d21.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628f03b42/94258452/628f03b42bfc6a2103ca9b4a2ef7df8b_max_476x317.jpeg",
+      "url": "property-photo/628f03b42/94258452/628f03b42bfc6a2103ca9b4a2ef7df8b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb6807c7f/94258452/fb6807c7f9c9495e66d072c815cdff1b_max_476x317.jpeg",
+      "url": "property-photo/fb6807c7f/94258452/fb6807c7f9c9495e66d072c815cdff1b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07c24f161/94258452/07c24f161912adbe971381ec0e73de65_max_476x317.jpeg",
+      "url": "property-photo/07c24f161/94258452/07c24f161912adbe971381ec0e73de65.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-13T15:07:06Z"
+  },
+  "price": {
+    "amount": 1700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,700 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3392 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 195389,
+    "brandPlusLogoURI": "/partner-logo/20472215-LOGO-1765975098.png",
+    "contactTelephone": "020 7272 6464",
+    "branchDisplayName": "Prestige Properties, London Lettings",
+    "branchName": "London Lettings",
+    "brandTradingName": "Prestige Properties",
+    "branchLandingPageUrl": "/estate-agents/agent/Prestige-Properties/London-Lettings-195389.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/20472215-LOGO-1765975098.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following fees will apply to tenants prior to starting the tenancy:\n-\tOne weeks holding deposit to secure the property\n-\tOne month's rental in advance and five weeks deposit. The holding deposit will be deducted from these funds\nThe following fees may apply during the course of the tenancy:\n-\tInterest at the rate of 3% above base rate per annum on any rent in arrears for more than fourteen days calculated from the date upon which such rent was due to the date upon which it is paid\n-\tA fee of \u00a320.00 as charged by NatWest bank for any cheques that are paid into our account that have been returned as unpaid\n-\tA fee of \u00a36.00 for each copy of a tenancy agreement, whether an electronic or hard copy version, due to the tenant/s losing/misplacing the copy provided to them\n-\tIn the event the tenant/s terminate the tenancy early, where a break clause is not being operated, the tenant/s will be liable to pay compensation to the landlord of the let fee that is paid in the sum of \u00a340.00 and rental until the end of the term of the contract, until the end of the correct notice period or until a new tenant has been found by the landlord or their agent \n-\tIn the event of a change of tenant/s during the course of the tenancy, a fee of \u00a350.00 per change will be charged to the incoming tenant/s to cover the cost of tenant checks, credit references and any assignment documentation required\n-\tShould a contractor attend a property for a reported defect that is due to the tenant failing to carry out their obligations, the tenants misuse or negligence, the tenant will be forwarded a copy of the contractor's invoice for payment\n-\tShould the tenant/s lose their key or fob, a fee will be payable for the replacement of the key or fob\nWe are a member of The Property Ombudsman Scheme and the Client Money Protect Scheme\n",
+  "displaySize": "474 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94258452#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94258452",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-13T15:01:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-13T15:07:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "NEWLY REFURBISHED",
+      "htmlDescription": "NEWLY REFURBISHED"
+    },
+    {
+      "order": 2,
+      "description": "WOOD FLOORING",
+      "htmlDescription": "WOOD FLOORING"
+    },
+    {
+      "order": 3,
+      "description": "CLOSE TO MULTIPLE TUBE STATION",
+      "htmlDescription": "CLOSE TO MULTIPLE TUBE STATION"
+    },
+    {
+      "order": 4,
+      "description": "MODERN KITCHEN",
+      "htmlDescription": "MODERN KITCHEN"
+    },
+    {
+      "order": 5,
+      "description": "SPACIOUS AND BRIGHT",
+      "htmlDescription": "SPACIOUS AND BRIGHT "
+    },
+    {
+      "order": 6,
+      "description": "GAS CENTRAL HEATING",
+      "htmlDescription": "GAS CENTRAL HEATING "
+    },
+    {
+      "order": 7,
+      "description": "DOUBLE GLAZING",
+      "htmlDescription": "DOUBLE GLAZING "
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611_max_476x317.jpeg",
+        "url": "property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6a163ca3/94258452/c6a163ca31b7f584d9cd0c64c7970664_max_476x317.jpeg",
+        "url": "property-photo/c6a163ca3/94258452/c6a163ca31b7f584d9cd0c64c7970664.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d14212dd/94258452/7d14212dd955a9b65d9d3c673957237a_max_476x317.jpeg",
+        "url": "property-photo/7d14212dd/94258452/7d14212dd955a9b65d9d3c673957237a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4fa72c1/94258452/fe4fa72c12153473787c68a965d1728a_max_476x317.jpeg",
+        "url": "property-photo/fe4fa72c1/94258452/fe4fa72c12153473787c68a965d1728a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2f23bc90c/94258452/2f23bc90cf698f39b99e47dd74603d21_max_476x317.jpeg",
+        "url": "property-photo/2f23bc90c/94258452/2f23bc90cf698f39b99e47dd74603d21.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628f03b42/94258452/628f03b42bfc6a2103ca9b4a2ef7df8b_max_476x317.jpeg",
+        "url": "property-photo/628f03b42/94258452/628f03b42bfc6a2103ca9b4a2ef7df8b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb6807c7f/94258452/fb6807c7f9c9495e66d072c815cdff1b_max_476x317.jpeg",
+        "url": "property-photo/fb6807c7f/94258452/fb6807c7f9c9495e66d072c815cdff1b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07c24f161/94258452/07c24f161912adbe971381ec0e73de65_max_476x317.jpeg",
+        "url": "property-photo/07c24f161/94258452/07c24f161912adbe971381ec0e73de65.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/259ff98dc/94258452/259ff98dc444d67ec2b646a79af14611_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Prestige Properties, London Lettings",
+  "addedOrReduced": "Added on 13/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
