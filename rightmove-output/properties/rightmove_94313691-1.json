@@ -1,0 +1,230 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-16T01:12:04.559709+00:00",
+  "postcode": "N19 3EW",
+  "id": 94313691,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented one bedroom flat to rent. The property is ideally situated close to the amenities of Archway and just a short walk from Highgate Village.",
+  "displayAddress": "Fairbridge Road, London, N19",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.565566,
+    "longitude": -0.128129
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2_max_476x317.jpeg",
+      "url": "property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2.jpeg",
+      "caption": "Picture No. 09"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/528c7c0f2/94313691/528c7c0f2974adf5ab90714f354f3a7d_max_476x317.jpeg",
+      "url": "property-photo/528c7c0f2/94313691/528c7c0f2974adf5ab90714f354f3a7d.jpeg",
+      "caption": "Picture No. 13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/838e4f604/94313691/838e4f60463d678d5cf9596dfc5350ff_max_476x317.jpeg",
+      "url": "property-photo/838e4f604/94313691/838e4f60463d678d5cf9596dfc5350ff.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0946520d1/94313691/0946520d10f464d0c46c114f36c4c774_max_476x317.jpeg",
+      "url": "property-photo/0946520d1/94313691/0946520d10f464d0c46c114f36c4c774.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72a99e50/94313691/d72a99e5047ad3da2892b1f6456d500d_max_476x317.jpeg",
+      "url": "property-photo/d72a99e50/94313691/d72a99e5047ad3da2892b1f6456d500d.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4af59ed2c/94313691/4af59ed2cdf20125c47195f49cd910db_max_476x317.jpeg",
+      "url": "property-photo/4af59ed2c/94313691/4af59ed2cdf20125c47195f49cd910db.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2b13cf85/94313691/b2b13cf85af95794af7c57b9f62dbfda_max_476x317.jpeg",
+      "url": "property-photo/b2b13cf85/94313691/b2b13cf85af95794af7c57b9f62dbfda.jpeg",
+      "caption": "Picture No. 10"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-14T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-14T16:48:05Z"
+  },
+  "price": {
+    "amount": 1750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,750 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3404 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 111325,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3834 8289",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Highgate",
+    "branchName": "Highgate",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Highgate-111325.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:42:42Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94313691#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94313691",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-14T16:42:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-15T10:35:42Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom apartment",
+      "htmlDescription": "One bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Private ground floor entrance",
+      "htmlDescription": "Private ground floor entrance"
+    },
+    {
+      "order": 3,
+      "description": "Stylish modern kitchen",
+      "htmlDescription": "Stylish modern kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Close to amenities",
+      "htmlDescription": "Close to amenities"
+    },
+    {
+      "order": 5,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 6,
+      "description": "Available now",
+      "htmlDescription": "Available now"
+    }
+  ],
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Highgate",
+  "addedOrReduced": "Added on 14/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2_max_476x317.jpeg",
+        "url": "property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2.jpeg",
+        "caption": "Picture No. 09"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/528c7c0f2/94313691/528c7c0f2974adf5ab90714f354f3a7d_max_476x317.jpeg",
+        "url": "property-photo/528c7c0f2/94313691/528c7c0f2974adf5ab90714f354f3a7d.jpeg",
+        "caption": "Picture No. 13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/838e4f604/94313691/838e4f60463d678d5cf9596dfc5350ff_max_476x317.jpeg",
+        "url": "property-photo/838e4f604/94313691/838e4f60463d678d5cf9596dfc5350ff.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0946520d1/94313691/0946520d10f464d0c46c114f36c4c774_max_476x317.jpeg",
+        "url": "property-photo/0946520d1/94313691/0946520d10f464d0c46c114f36c4c774.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72a99e50/94313691/d72a99e5047ad3da2892b1f6456d500d_max_476x317.jpeg",
+        "url": "property-photo/d72a99e50/94313691/d72a99e5047ad3da2892b1f6456d500d.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4af59ed2c/94313691/4af59ed2cdf20125c47195f49cd910db_max_476x317.jpeg",
+        "url": "property-photo/4af59ed2c/94313691/4af59ed2cdf20125c47195f49cd910db.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2b13cf85/94313691/b2b13cf85af95794af7c57b9f62dbfda_max_476x317.jpeg",
+        "url": "property-photo/b2b13cf85/94313691/b2b13cf85af95794af7c57b9f62dbfda.jpeg",
+        "caption": "Picture No. 10"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/524ff4ba4/94313691/524ff4ba4ca1eb0bd410b82ac0f197f2_max_296x197.jpeg"
+  },
+  "enhancedListing": false
+}
