@@ -1,0 +1,189 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-17T01:45:05.265001+00:00",
+  "postcode": "N4 3JQ",
+  "id": 94376334,
+  "bedrooms": 1,
+  "bathrooms": null,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A well-presented one-bedroom apartment located on Lennox Road, N4, ideal for a single professional, couple or student looking for a well-connected North London home. The property comprises a bright reception room, a well-equipped kitchen, a good-sized double bedroom and a modern bathro...",
+  "displayAddress": "Finsbury Park, London, N4",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.565854,
+    "longitude": -0.109826
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb_max_476x317.jpeg",
+      "url": "property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b4534156/94376334/4b4534156451942469a5d44fd604c362_max_476x317.jpeg",
+      "url": "property-photo/4b4534156/94376334/4b4534156451942469a5d44fd604c362.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72d3c74b/94376334/d72d3c74b0c5d759582befaebef30f7f_max_476x317.jpeg",
+      "url": "property-photo/d72d3c74b/94376334/d72d3c74b0c5d759582befaebef30f7f.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f49368ada/94376334/f49368ada1b8e8c432e797950dc6f133_max_476x317.jpeg",
+      "url": "property-photo/f49368ada/94376334/f49368ada1b8e8c432e797950dc6f133.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b63558eeb/94376334/b63558eeb9c247872890747b8b4e6062_max_476x317.jpeg",
+      "url": "property-photo/b63558eeb/94376334/b63558eeb9c247872890747b8b4e6062.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95b716c4/94376334/e95b716c4bd5b8993caa4459bbb795ef_max_476x317.jpeg",
+      "url": "property-photo/e95b716c4/94376334/e95b716c4bd5b8993caa4459bbb795ef.jpeg",
+      "caption": "Picture No. 06"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-16T09:08:05Z"
+  },
+  "price": {
+    "amount": 1650,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,650 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3381 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": true,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94376334#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94376334",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-16T09:02:09Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-16T09:08:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb_max_476x317.jpeg",
+        "url": "property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b4534156/94376334/4b4534156451942469a5d44fd604c362_max_476x317.jpeg",
+        "url": "property-photo/4b4534156/94376334/4b4534156451942469a5d44fd604c362.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72d3c74b/94376334/d72d3c74b0c5d759582befaebef30f7f_max_476x317.jpeg",
+        "url": "property-photo/d72d3c74b/94376334/d72d3c74b0c5d759582befaebef30f7f.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f49368ada/94376334/f49368ada1b8e8c432e797950dc6f133_max_476x317.jpeg",
+        "url": "property-photo/f49368ada/94376334/f49368ada1b8e8c432e797950dc6f133.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b63558eeb/94376334/b63558eeb9c247872890747b8b4e6062_max_476x317.jpeg",
+        "url": "property-photo/b63558eeb/94376334/b63558eeb9c247872890747b8b4e6062.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e95b716c4/94376334/e95b716c4bd5b8993caa4459bbb795ef_max_476x317.jpeg",
+        "url": "property-photo/e95b716c4/94376334/e95b716c4bd5b8993caa4459bbb795ef.jpeg",
+        "caption": "Picture No. 06"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe4d5f400/94376334/fe4d5f4007fe4d0cfa922974c9cc64bb_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
