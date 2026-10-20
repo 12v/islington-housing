@@ -1,0 +1,209 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-20T02:59:16.491393+00:00",
+  "postcode": "N7 0DT",
+  "id": 94448544,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Short-Let | All bills included | Two-Bedroom Furnished Apartment | Tufnell Park Road Situated on Tufnell Park Road, this beautifully presented two-bedroom property is available for short-let and offers stylish, comfortable accommodation finished to a high standard throughout. ",
+  "displayAddress": "Tufnell Park Road, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.558063,
+    "longitude": -0.126683
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f_max_476x317.jpeg",
+      "url": "property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/efe44bb40/94448544/efe44bb407c76f4b0944fbb2f26a3666_max_476x317.jpeg",
+      "url": "property-photo/efe44bb40/94448544/efe44bb407c76f4b0944fbb2f26a3666.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de1b0955e/94448544/de1b0955e00902437e8108bd60d6661f_max_476x317.jpeg",
+      "url": "property-photo/de1b0955e/94448544/de1b0955e00902437e8108bd60d6661f.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3aad33103/94448544/3aad3310387060d52b9d11cb7531cf90_max_476x317.jpeg",
+      "url": "property-photo/3aad33103/94448544/3aad3310387060d52b9d11cb7531cf90.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/270ef0a61/94448544/270ef0a61a5b9bb002619fc57302e097_max_476x317.jpeg",
+      "url": "property-photo/270ef0a61/94448544/270ef0a61a5b9bb002619fc57302e097.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2c32ef24/94448544/a2c32ef24cbf69dc571937096b5c7978_max_476x317.jpeg",
+      "url": "property-photo/a2c32ef24/94448544/a2c32ef24cbf69dc571937096b5c7978.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a53583c6/94448544/1a53583c68f81883ae997ad3b0ef2a80_max_476x317.jpeg",
+      "url": "property-photo/1a53583c6/94448544/1a53583c68f81883ae997ad3b0ef2a80.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a5536f9/94448544/46a5536f98c18ca383b8a895efb69d2e_max_476x317.jpeg",
+      "url": "property-photo/46a5536f9/94448544/46a5536f98c18ca383b8a895efb69d2e.jpeg",
+      "caption": "Picture No. 04"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-31T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-19T10:07:12Z"
+  },
+  "price": {
+    "amount": 4500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,038 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 47285,
+    "brandPlusLogoURI": "/partner-logo/22334660-PRODUCTS_LOGO-1766061539.jpeg",
+    "contactTelephone": "020 3917 4889",
+    "branchDisplayName": "John D Wood & Co, Docklands & City, Docklands & City",
+    "branchName": "Docklands & City",
+    "brandTradingName": "John D Wood & Co, Docklands & City",
+    "branchLandingPageUrl": "/estate-agents/agent/John-D-Wood-and-Co-Docklands-and-City/Docklands-and-City-47285.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-03T08:03:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22334660-PRODUCTS_LOGO-1766061539.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94448544#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94448544",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-19T10:01:32Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-20T02:54:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f_max_476x317.jpeg",
+        "url": "property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/efe44bb40/94448544/efe44bb407c76f4b0944fbb2f26a3666_max_476x317.jpeg",
+        "url": "property-photo/efe44bb40/94448544/efe44bb407c76f4b0944fbb2f26a3666.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de1b0955e/94448544/de1b0955e00902437e8108bd60d6661f_max_476x317.jpeg",
+        "url": "property-photo/de1b0955e/94448544/de1b0955e00902437e8108bd60d6661f.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3aad33103/94448544/3aad3310387060d52b9d11cb7531cf90_max_476x317.jpeg",
+        "url": "property-photo/3aad33103/94448544/3aad3310387060d52b9d11cb7531cf90.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/270ef0a61/94448544/270ef0a61a5b9bb002619fc57302e097_max_476x317.jpeg",
+        "url": "property-photo/270ef0a61/94448544/270ef0a61a5b9bb002619fc57302e097.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a2c32ef24/94448544/a2c32ef24cbf69dc571937096b5c7978_max_476x317.jpeg",
+        "url": "property-photo/a2c32ef24/94448544/a2c32ef24cbf69dc571937096b5c7978.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a53583c6/94448544/1a53583c68f81883ae997ad3b0ef2a80_max_476x317.jpeg",
+        "url": "property-photo/1a53583c6/94448544/1a53583c68f81883ae997ad3b0ef2a80.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46a5536f9/94448544/46a5536f98c18ca383b8a895efb69d2e_max_476x317.jpeg",
+        "url": "property-photo/46a5536f9/94448544/46a5536f98c18ca383b8a895efb69d2e.jpeg",
+        "caption": "Picture No. 04"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f07a37cf8/94448544/f07a37cf8c4b7fe4d007d129d2226a9f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by John D Wood & Co, Docklands & City, Docklands & City",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "enhancedListing": false
+}

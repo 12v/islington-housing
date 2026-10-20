@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-20T01:32:39.634473+00:00",
+  "postcode": "N1 9LP",
+  "id": 94472892,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Fabulous, immaculately presented one bedroom apartment located moments from Chapel Market, Upper Street and Angel Tube station.",
+  "displayAddress": "Pentonville Road, Angel",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.53155,
+    "longitude": -0.10862
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c_max_476x317.jpeg",
+      "url": "property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02aa5d58f/94472892/02aa5d58f04641c9d8a4ec1f0d425389_max_476x317.jpeg",
+      "url": "property-photo/02aa5d58f/94472892/02aa5d58f04641c9d8a4ec1f0d425389.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab6638ddf/94472892/ab6638ddf03a12441607b39225309336_max_476x317.jpeg",
+      "url": "property-photo/ab6638ddf/94472892/ab6638ddf03a12441607b39225309336.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/365930c4e/94472892/365930c4ea076a7b8b35f3fdbeea9c51_max_476x317.jpeg",
+      "url": "property-photo/365930c4e/94472892/365930c4ea076a7b8b35f3fdbeea9c51.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21eb6c273/94472892/21eb6c2735452bee1acd054fb256abb7_max_476x317.jpeg",
+      "url": "property-photo/21eb6c273/94472892/21eb6c2735452bee1acd054fb256abb7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6894cf73d/94472892/6894cf73db64d112244ecbaa17b115ca_max_476x317.jpeg",
+      "url": "property-photo/6894cf73d/94472892/6894cf73db64d112244ecbaa17b115ca.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40ad8f065/94472892/40ad8f0658650eb3cd767cba61c4b871_max_476x317.jpeg",
+      "url": "property-photo/40ad8f065/94472892/40ad8f0658650eb3cd767cba61c4b871.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-19T15:45:32Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 13147,
+    "brandPlusLogoURI": "/partner-logo/65553-LOGO-1765969453.jpg",
+    "contactTelephone": "020 3835 6264",
+    "branchDisplayName": "Next Move, Stoke Newington",
+    "branchName": "Stoke Newington",
+    "brandTradingName": "Next Move",
+    "branchLandingPageUrl": "/estate-agents/agent/Next-Move/Stoke-Newington-13147.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-19T09:22:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/65553-LOGO-1765969453.jpg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The asking rent does not include charges that may be payable before and/or during the duration of the tenancy, therefore you may be required to make one or more of the following permitted payments:\n__________________________________________________________________________________\n\nA refundable holding deposit (up to 1 week's rent)\nA refundable tenancy deposit (up to 5 weeks' rent (or 6 weeks' rent if the annual rent is \u00a350,000 or more))\nA payment to alter the tenancy agreement, when requested by the tenant (up to \u00a350 inc VAT, or reasonable costs incurred if higher)\nPayments associated with early termination of the tenancy when requested by the tenant\nInterest, at a rate of up to 3% above the Bank of England's base rate, for late payment of rent (which is more than 14 days overdue)\nA default fee for the replacement of a lost key or security device\nPayments to service providers in respect of utilities, communication services, TV licence and council tax\nOther payments, permitted under appropriate legislation, including damages.\n_____________________________________________________________________________________\nA letting or property management agent in England must also be a member of a property redress scheme and a member of a client money protection scheme. For further information, or a copy of their membership certificates, please contact the agent directly.\n\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94472892#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94472892",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-19T15:39:43Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-19T15:45:32Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Conversion - Furnished",
+      "htmlDescription": "Conversion - Furnished"
+    },
+    {
+      "order": 2,
+      "description": "1 Bed + 1 Reception",
+      "htmlDescription": "1 Bed + 1 Reception"
+    },
+    {
+      "order": 3,
+      "description": "1 Bathroom",
+      "htmlDescription": "1 Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Shower",
+      "htmlDescription": "Shower"
+    },
+    {
+      "order": 5,
+      "description": "Energy Rating : D",
+      "htmlDescription": "Energy Rating : D"
+    },
+    {
+      "order": 6,
+      "description": "No special accessibility",
+      "htmlDescription": "No special accessibility"
+    },
+    {
+      "order": 7,
+      "description": "No Parking",
+      "htmlDescription": "No Parking"
+    },
+    {
+      "order": 8,
+      "description": "Garden",
+      "htmlDescription": "Garden"
+    },
+    {
+      "order": 9,
+      "description": "Washing Machine",
+      "htmlDescription": "Washing Machine"
+    },
+    {
+      "order": 10,
+      "description": "Dish Washer",
+      "htmlDescription": "Dish Washer"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c_max_476x317.jpeg",
+        "url": "property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02aa5d58f/94472892/02aa5d58f04641c9d8a4ec1f0d425389_max_476x317.jpeg",
+        "url": "property-photo/02aa5d58f/94472892/02aa5d58f04641c9d8a4ec1f0d425389.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ab6638ddf/94472892/ab6638ddf03a12441607b39225309336_max_476x317.jpeg",
+        "url": "property-photo/ab6638ddf/94472892/ab6638ddf03a12441607b39225309336.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/365930c4e/94472892/365930c4ea076a7b8b35f3fdbeea9c51_max_476x317.jpeg",
+        "url": "property-photo/365930c4e/94472892/365930c4ea076a7b8b35f3fdbeea9c51.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/21eb6c273/94472892/21eb6c2735452bee1acd054fb256abb7_max_476x317.jpeg",
+        "url": "property-photo/21eb6c273/94472892/21eb6c2735452bee1acd054fb256abb7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6894cf73d/94472892/6894cf73db64d112244ecbaa17b115ca_max_476x317.jpeg",
+        "url": "property-photo/6894cf73d/94472892/6894cf73db64d112244ecbaa17b115ca.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40ad8f065/94472892/40ad8f0658650eb3cd767cba61c4b871_max_476x317.jpeg",
+        "url": "property-photo/40ad8f065/94472892/40ad8f0658650eb3cd767cba61c4b871.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/22d694f35/94472892/22d694f357c47b7d0948fcfb8e14d71c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Next Move, Stoke Newington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
