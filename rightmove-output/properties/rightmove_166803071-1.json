@@ -1,0 +1,245 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-22T00:44:39.717055+00:00",
+  "postcode": "N1 2US",
+  "id": 166803071,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A fantastic one double bedroom apartment situated on the first floor of this modern apartment building in the heart of Islington. The property offers an excellent sized double bedroom, modern bathroom suite, fully integrated separate kitchen and spacious reception room leading to a private balcony.",
+  "displayAddress": "Canonbury Street, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.541775,
+    "longitude": -0.094818
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9_max_476x317.jpeg",
+      "url": "property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f2b1cf50/166803071/6f2b1cf5026f7e4996920221c70afbf6_max_476x317.jpeg",
+      "url": "property-photo/6f2b1cf50/166803071/6f2b1cf5026f7e4996920221c70afbf6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70f68a7de/166803071/70f68a7dedb94565495ab014946f9d07_max_476x317.jpeg",
+      "url": "property-photo/70f68a7de/166803071/70f68a7dedb94565495ab014946f9d07.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5604b63e/166803071/c5604b63e0c742e11d77fa4222e943f0_max_476x317.jpeg",
+      "url": "property-photo/c5604b63e/166803071/c5604b63e0c742e11d77fa4222e943f0.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d51c9494c/166803071/d51c9494c3bd7c54f8d045bba5c26c57_max_476x317.jpeg",
+      "url": "property-photo/d51c9494c/166803071/d51c9494c3bd7c54f8d045bba5c26c57.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a6c0810f/166803071/1a6c0810fcb52bd58c0bad91f88c8168_max_476x317.jpeg",
+      "url": "property-photo/1a6c0810f/166803071/1a6c0810fcb52bd58c0bad91f88c8168.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb297e31f/166803071/cb297e31fdcf849a829ccdf9f9af726f_max_476x317.jpeg",
+      "url": "property-photo/cb297e31f/166803071/cb297e31fdcf849a829ccdf9f9af726f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/747769e2b/166803071/747769e2ba1d94bd74d208f4159a8382_max_476x317.jpeg",
+      "url": "property-photo/747769e2b/166803071/747769e2ba1d94bd74d208f4159a8382.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c08d35147/166803071/c08d3514742e396cf48b2689738cedbc_max_476x317.jpeg",
+      "url": "property-photo/c08d35147/166803071/c08d3514742e396cf48b2689738cedbc.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-20T00:15:45Z"
+  },
+  "price": {
+    "amount": 2340,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,340 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3540 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 153164,
+    "brandPlusLogoURI": "/partner-logo/16851143-PRODUCTS_LOGO-1766058911.png",
+    "contactTelephone": "020 3897 0856",
+    "branchDisplayName": "NowProperty, London",
+    "branchName": "London",
+    "brandTradingName": "NowProperty",
+    "branchLandingPageUrl": "/estate-agents/agent/NowProperty/London-153164.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-15T15:15:48Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16851143-PRODUCTS_LOGO-1766058911.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenant Information<br /><br />Before Your Tenancy Begins<br /><br />* Holding Deposit: Equivalent to 1 week s rent (subject to acceptance and referencing).<br />* Advance Rent: The first month s rent is payable before the tenancy commences.<br />* Tenancy Deposit: Equivalent to 5 weeks  rent where the annual rent is below \u00a350,000, or 6 weeks  rent where the annual rent is \u00a350,000 or above.<br /><br />During Your Tenancy<br /><br />* Late Rent Payments: Interest may be charged at 3% above the Bank of England Base Rate on rent more than 14 days overdue.<br />* Lost Keys or Security Devices: Tenants will be responsible for the reasonable cost of replacement keys, security devices, locksmith services, replacement locks, and any associated costs.<br /><br />Permitted Tenant Charges<br /><br />* Tenancy Assignment (Tenant Swap): \u00a350 (including VAT) per request, plus any reasonable costs incurred where higher, subject to landlord consent and satisfactory referencing.<br />* Variation of Contract: \u00a350 (including VAT) per agreed variation, subject to landlord consent.<br />* Early Termination: Where agreed by the landlord, tenants will be liable for the landlord s reasonable costs incurred in re-letting the property, together with rent and other tenancy obligations until a replacement tenancy commences. Charges will not exceed the remaining rent due under the tenancy.<br /><br />Memberships & Protection<br /><br />* Redress Scheme: NowProperty is a member of the The Property Ombudsman (TPO).<br />* Client Money Protection: NowProperty is a member of the Safeagent Client Money Protection Scheme.",
+  "displaySize": "477 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/166803071#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=166803071",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2025-09-10T01:42:48Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-20T00:15:52Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Wooden floor throughout",
+      "htmlDescription": "Wooden floor throughout"
+    },
+    {
+      "order": 2,
+      "description": "Close to public transport",
+      "htmlDescription": "Close to public transport"
+    },
+    {
+      "order": 3,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 4,
+      "description": "Communal garden",
+      "htmlDescription": "Communal garden"
+    },
+    {
+      "order": 5,
+      "description": "Balcony",
+      "htmlDescription": "Balcony"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9_max_476x317.jpeg",
+        "url": "property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f2b1cf50/166803071/6f2b1cf5026f7e4996920221c70afbf6_max_476x317.jpeg",
+        "url": "property-photo/6f2b1cf50/166803071/6f2b1cf5026f7e4996920221c70afbf6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70f68a7de/166803071/70f68a7dedb94565495ab014946f9d07_max_476x317.jpeg",
+        "url": "property-photo/70f68a7de/166803071/70f68a7dedb94565495ab014946f9d07.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5604b63e/166803071/c5604b63e0c742e11d77fa4222e943f0_max_476x317.jpeg",
+        "url": "property-photo/c5604b63e/166803071/c5604b63e0c742e11d77fa4222e943f0.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d51c9494c/166803071/d51c9494c3bd7c54f8d045bba5c26c57_max_476x317.jpeg",
+        "url": "property-photo/d51c9494c/166803071/d51c9494c3bd7c54f8d045bba5c26c57.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1a6c0810f/166803071/1a6c0810fcb52bd58c0bad91f88c8168_max_476x317.jpeg",
+        "url": "property-photo/1a6c0810f/166803071/1a6c0810fcb52bd58c0bad91f88c8168.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cb297e31f/166803071/cb297e31fdcf849a829ccdf9f9af726f_max_476x317.jpeg",
+        "url": "property-photo/cb297e31f/166803071/cb297e31fdcf849a829ccdf9f9af726f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/747769e2b/166803071/747769e2ba1d94bd74d208f4159a8382_max_476x317.jpeg",
+        "url": "property-photo/747769e2b/166803071/747769e2ba1d94bd74d208f4159a8382.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c08d35147/166803071/c08d3514742e396cf48b2689738cedbc_max_476x317.jpeg",
+        "url": "property-photo/c08d35147/166803071/c08d3514742e396cf48b2689738cedbc.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8c5e6df0/166803071/f8c5e6df00f81c1a667b3f2125ee25a9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by NowProperty, London",
+  "addedOrReduced": "Added on 20/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

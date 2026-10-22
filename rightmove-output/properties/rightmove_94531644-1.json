@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-22T00:54:19.860711+00:00",
+  "postcode": "N1 4PE",
+  "id": 94531644,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented two double bedroom apartment in this well maintained purpose build block. The property has recently been decorated to high standard with modern kitchen and bathroom. Mildmay Park is ideally located just off Newington Green, which offers a wide array of caf&eacu...",
+  "displayAddress": "Mildmay Park, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.547061,
+    "longitude": -0.083535
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959_max_476x317.jpeg",
+      "url": "property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959.jpeg",
+      "caption": "6b8b9c53-cfd3-4bc2-8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e291834b/94531644/8e291834bb2787731270eb7e58b58df8_max_476x317.jpeg",
+      "url": "property-photo/8e291834b/94531644/8e291834bb2787731270eb7e58b58df8.jpeg",
+      "caption": "9dc8197d-d264-493b-b"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41870b494/94531644/41870b49413ff5b34e04db50b3f72502_max_476x317.jpeg",
+      "url": "property-photo/41870b494/94531644/41870b49413ff5b34e04db50b3f72502.jpeg",
+      "caption": "8199d6e5-6968-4ba1-b"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20de25e9e/94531644/20de25e9ea5589eb5642ca2d2b610739_max_476x317.jpeg",
+      "url": "property-photo/20de25e9e/94531644/20de25e9ea5589eb5642ca2d2b610739.jpeg",
+      "caption": "1a59a3c1-0f59-48ab-8"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6cd077b24/94531644/6cd077b248ff6ef2b9d8ece828dee144_max_476x317.jpeg",
+      "url": "property-photo/6cd077b24/94531644/6cd077b248ff6ef2b9d8ece828dee144.jpeg",
+      "caption": "6d64e820-cf9e-4d41-9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8303155dc/94531644/8303155dcc219c62cbb38c780db5c669_max_476x317.jpeg",
+      "url": "property-photo/8303155dc/94531644/8303155dcc219c62cbb38c780db5c669.jpeg",
+      "caption": "944ff1fa-5c38-47c2-9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd38603bc/94531644/bd38603bc23574e0157f787130b70ada_max_476x317.jpeg",
+      "url": "property-photo/bd38603bc/94531644/bd38603bc23574e0157f787130b70ada.jpeg",
+      "caption": "35addb21-81cd-4cb2-9"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-26T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-20T18:02:10Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:43:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94531644#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94531644",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-20T17:56:13Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-21T19:22:36Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedroom",
+      "htmlDescription": "Two Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Large semi open plan Reception",
+      "htmlDescription": "Large semi open plan Reception"
+    },
+    {
+      "order": 3,
+      "description": "Wooden Flooring",
+      "htmlDescription": "Wooden Flooring"
+    },
+    {
+      "order": 4,
+      "description": "Modern Bathroom",
+      "htmlDescription": "Modern Bathroom"
+    },
+    {
+      "order": 5,
+      "description": "Modern Kitchen",
+      "htmlDescription": "Modern Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Parking extra \u00a380pcm",
+      "htmlDescription": "Parking extra \u00a380pcm"
+    },
+    {
+      "order": 7,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 8,
+      "description": "EPC Rating C",
+      "htmlDescription": "EPC Rating C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959_max_476x317.jpeg",
+        "url": "property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959.jpeg",
+        "caption": "6b8b9c53-cfd3-4bc2-8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8e291834b/94531644/8e291834bb2787731270eb7e58b58df8_max_476x317.jpeg",
+        "url": "property-photo/8e291834b/94531644/8e291834bb2787731270eb7e58b58df8.jpeg",
+        "caption": "9dc8197d-d264-493b-b"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/41870b494/94531644/41870b49413ff5b34e04db50b3f72502_max_476x317.jpeg",
+        "url": "property-photo/41870b494/94531644/41870b49413ff5b34e04db50b3f72502.jpeg",
+        "caption": "8199d6e5-6968-4ba1-b"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20de25e9e/94531644/20de25e9ea5589eb5642ca2d2b610739_max_476x317.jpeg",
+        "url": "property-photo/20de25e9e/94531644/20de25e9ea5589eb5642ca2d2b610739.jpeg",
+        "caption": "1a59a3c1-0f59-48ab-8"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6cd077b24/94531644/6cd077b248ff6ef2b9d8ece828dee144_max_476x317.jpeg",
+        "url": "property-photo/6cd077b24/94531644/6cd077b248ff6ef2b9d8ece828dee144.jpeg",
+        "caption": "6d64e820-cf9e-4d41-9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8303155dc/94531644/8303155dcc219c62cbb38c780db5c669_max_476x317.jpeg",
+        "url": "property-photo/8303155dc/94531644/8303155dcc219c62cbb38c780db5c669.jpeg",
+        "caption": "944ff1fa-5c38-47c2-9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bd38603bc/94531644/bd38603bc23574e0157f787130b70ada_max_476x317.jpeg",
+        "url": "property-photo/bd38603bc/94531644/bd38603bc23574e0157f787130b70ada.jpeg",
+        "caption": "35addb21-81cd-4cb2-9"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/441313425/94531644/4413134250562aa145fa7a50c7e42959_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Added on 20/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
