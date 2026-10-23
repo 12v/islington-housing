@@ -1,0 +1,280 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-23T00:54:19.382468+00:00",
+  "postcode": "N1 7RU",
+  "id": 94616577,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "On the penthouse level of Baldwin Terrace, this spacious apartment offers flexible living with the option for one or two bedrooms and two bathrooms.",
+  "displayAddress": "Baldwin Terrace, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533166,
+    "longitude": -0.096535
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3_max_476x317.jpeg",
+      "url": "property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3.jpeg",
+      "caption": "Exterior View"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48b51e1c3/94616577/48b51e1c33ebe154ad10517ce363768d_max_476x317.jpeg",
+      "url": "property-photo/48b51e1c3/94616577/48b51e1c33ebe154ad10517ce363768d.jpeg",
+      "caption": "Lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fe24c2ed/94616577/1fe24c2ed7e7488ee69ffe9a3995ea03_max_476x317.jpeg",
+      "url": "property-photo/1fe24c2ed/94616577/1fe24c2ed7e7488ee69ffe9a3995ea03.jpeg",
+      "caption": "Lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1c568c6/94616577/7c1c568c6bf6595c73b145a5692ce108_max_476x317.jpeg",
+      "url": "property-photo/7c1c568c6/94616577/7c1c568c6bf6595c73b145a5692ce108.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cb50446e/94616577/2cb50446e1ae064702d1d7b514f028a2_max_476x317.jpeg",
+      "url": "property-photo/2cb50446e/94616577/2cb50446e1ae064702d1d7b514f028a2.jpeg",
+      "caption": "Lounge / Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3b0892f3/94616577/b3b0892f3db1485e9c02e31af147ed60_max_476x317.jpeg",
+      "url": "property-photo/b3b0892f3/94616577/b3b0892f3db1485e9c02e31af147ed60.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d3870d15/94616577/5d3870d15f39bbb52ba101fe62c85e74_max_476x317.jpeg",
+      "url": "property-photo/5d3870d15/94616577/5d3870d15f39bbb52ba101fe62c85e74.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d9d9afcb/94616577/0d9d9afcb9d7d73c3477f8dd9d70105c_max_476x317.jpeg",
+      "url": "property-photo/0d9d9afcb/94616577/0d9d9afcb9d7d73c3477f8dd9d70105c.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e878970c/94616577/1e878970c481328949df3b08bdce68e4_max_476x317.jpeg",
+      "url": "property-photo/1e878970c/94616577/1e878970c481328949df3b08bdce68e4.jpeg",
+      "caption": "Roof Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea9e211a4/94616577/ea9e211a4953c1d96382b43efceb3770_max_476x317.jpeg",
+      "url": "property-photo/ea9e211a4/94616577/ea9e211a4953c1d96382b43efceb3770.jpeg",
+      "caption": "Roof Terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5977e568/94616577/f5977e568729e8ff9be8f20ba2bf6ed4_max_476x317.jpeg",
+      "url": "property-photo/f5977e568/94616577/f5977e568729e8ff9be8f20ba2bf6ed4.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-22T14:31:14Z"
+  },
+  "price": {
+    "amount": 3300,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,300 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3762 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 226460,
+    "brandPlusLogoURI": "/partner-logo/24791036-LOGO-1765973844.jpg",
+    "contactTelephone": "020 3831 3855",
+    "branchDisplayName": "Story of Home, London",
+    "branchName": "London",
+    "brandTradingName": "Story of Home",
+    "branchLandingPageUrl": "/estate-agents/agent/Story-of-Home/London-226460.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T16:51:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24791036-LOGO-1765973844.jpg",
+    "primaryBrandColour": "#e6e2df",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "753 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94616577#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94616577",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-22T14:25:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-22T14:31:14Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "West Facing Private Terrace",
+      "htmlDescription": "West Facing Private Terrace"
+    },
+    {
+      "order": 3,
+      "description": "EPC C",
+      "htmlDescription": "EPC C"
+    },
+    {
+      "order": 4,
+      "description": "Canal side location",
+      "htmlDescription": "Canal side location"
+    },
+    {
+      "order": 5,
+      "description": "Within easy reach of Angel station",
+      "htmlDescription": "Within easy reach of Angel station"
+    },
+    {
+      "order": 6,
+      "description": "Holding Deposit \u00a3761",
+      "htmlDescription": "Holding Deposit \u00a3761"
+    },
+    {
+      "order": 7,
+      "description": "Security Deposit \u00a33807",
+      "htmlDescription": "Security Deposit \u00a33807"
+    },
+    {
+      "order": 8,
+      "description": "Available January 2027",
+      "htmlDescription": "Available January 2027"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3_max_476x317.jpeg",
+        "url": "property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3.jpeg",
+        "caption": "Exterior View"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48b51e1c3/94616577/48b51e1c33ebe154ad10517ce363768d_max_476x317.jpeg",
+        "url": "property-photo/48b51e1c3/94616577/48b51e1c33ebe154ad10517ce363768d.jpeg",
+        "caption": "Lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1fe24c2ed/94616577/1fe24c2ed7e7488ee69ffe9a3995ea03_max_476x317.jpeg",
+        "url": "property-photo/1fe24c2ed/94616577/1fe24c2ed7e7488ee69ffe9a3995ea03.jpeg",
+        "caption": "Lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c1c568c6/94616577/7c1c568c6bf6595c73b145a5692ce108_max_476x317.jpeg",
+        "url": "property-photo/7c1c568c6/94616577/7c1c568c6bf6595c73b145a5692ce108.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2cb50446e/94616577/2cb50446e1ae064702d1d7b514f028a2_max_476x317.jpeg",
+        "url": "property-photo/2cb50446e/94616577/2cb50446e1ae064702d1d7b514f028a2.jpeg",
+        "caption": "Lounge / Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3b0892f3/94616577/b3b0892f3db1485e9c02e31af147ed60_max_476x317.jpeg",
+        "url": "property-photo/b3b0892f3/94616577/b3b0892f3db1485e9c02e31af147ed60.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d3870d15/94616577/5d3870d15f39bbb52ba101fe62c85e74_max_476x317.jpeg",
+        "url": "property-photo/5d3870d15/94616577/5d3870d15f39bbb52ba101fe62c85e74.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d9d9afcb/94616577/0d9d9afcb9d7d73c3477f8dd9d70105c_max_476x317.jpeg",
+        "url": "property-photo/0d9d9afcb/94616577/0d9d9afcb9d7d73c3477f8dd9d70105c.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e878970c/94616577/1e878970c481328949df3b08bdce68e4_max_476x317.jpeg",
+        "url": "property-photo/1e878970c/94616577/1e878970c481328949df3b08bdce68e4.jpeg",
+        "caption": "Roof Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea9e211a4/94616577/ea9e211a4953c1d96382b43efceb3770_max_476x317.jpeg",
+        "url": "property-photo/ea9e211a4/94616577/ea9e211a4953c1d96382b43efceb3770.jpeg",
+        "caption": "Roof Terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5977e568/94616577/f5977e568729e8ff9be8f20ba2bf6ed4_max_476x317.jpeg",
+        "url": "property-photo/f5977e568/94616577/f5977e568729e8ff9be8f20ba2bf6ed4.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bf3563e54/94616577/bf3563e54376269f008eafdd9b5175a3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Story of Home, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

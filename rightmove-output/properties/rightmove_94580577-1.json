@@ -1,0 +1,255 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-23T00:49:42.877186+00:00",
+  "postcode": "N1 4NT",
+  "id": 94580577,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A spacious two bedroom apartment with a private balcony, set within a secure, low-rise development just 0.4 miles from Dalston Junction. The property features a welcoming entrance hallway leading to two well-proportioned double bedrooms. The principal bedroom benefits from fitted wardr...",
+  "displayAddress": "King Henrys Walk, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54773,
+    "longitude": -0.08055
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606_max_476x317.jpeg",
+      "url": "property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606.jpeg",
+      "caption": "External"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5767f688d/94580577/5767f688d44a6b1774137133d42318b3_max_476x317.jpeg",
+      "url": "property-photo/5767f688d/94580577/5767f688d44a6b1774137133d42318b3.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ec2a3721/94580577/9ec2a372133c3ec6f688ca0cd7ef2238_max_476x317.jpeg",
+      "url": "property-photo/9ec2a3721/94580577/9ec2a372133c3ec6f688ca0cd7ef2238.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6536dd48f/94580577/6536dd48f5f0d84ec885eb8916cb512a_max_476x317.jpeg",
+      "url": "property-photo/6536dd48f/94580577/6536dd48f5f0d84ec885eb8916cb512a.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/293b9852e/94580577/293b9852e0b4f231718b91fe5241cdb8_max_476x317.jpeg",
+      "url": "property-photo/293b9852e/94580577/293b9852e0b4f231718b91fe5241cdb8.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c460056c2/94580577/c460056c2f8eb98bbd16aacdb1d4d18b_max_476x317.jpeg",
+      "url": "property-photo/c460056c2/94580577/c460056c2f8eb98bbd16aacdb1d4d18b.jpeg",
+      "caption": "Balcony"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/477caee69/94580577/477caee69fc6c82a17fb367c4667e4ae_max_476x317.jpeg",
+      "url": "property-photo/477caee69/94580577/477caee69fc6c82a17fb367c4667e4ae.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa4116437/94580577/aa4116437738da71f66c2c2a3925ce3b_max_476x317.jpeg",
+      "url": "property-photo/aa4116437/94580577/aa4116437738da71f66c2c2a3925ce3b.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/973d2480c/94580577/973d2480ce4113fad8c9436fc47e33fd_max_476x317.jpeg",
+      "url": "property-photo/973d2480c/94580577/973d2480ce4113fad8c9436fc47e33fd.jpeg",
+      "caption": "External"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-21T19:08:19Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 95869,
+    "brandPlusLogoURI": "/partner-logo/39414035-PRODUCTS_LOGO-1766065363.jpeg",
+    "contactTelephone": "020 3535 7788",
+    "branchDisplayName": "Keatons, Shoreditch",
+    "branchName": "Shoreditch",
+    "brandTradingName": "Keatons",
+    "branchLandingPageUrl": "/estate-agents/agent/Keatons/Shoreditch-95869.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-07T14:27:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/39414035-PRODUCTS_LOGO-1766065363.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<b>Assured Periodic Tenancy (APT)<b><br /><br />\r\rA holding deposit of one week s rent to reserve a property and will then contribute towards the first month's rent.<br /><br />\r\rThe security deposit, equivalent to five weeks rent, rising to six weeks rent when the annual rent is in excess of \u00a350,000.<br /><br />\r\rThe rent and utility bills as outlined in the Tenancy Agreement.<br /><br />\r\rUnpaid rent will potentially incur interest at 3% above the Bank of England base rate, as outlined in the Tenancy Agreement.<br /><br />\r\rTenants are liable for the cost of replacing any lost keys or security device, including a change of lock or replacement of device if required.<br /><br />\r\rAmendments of Tenancy Agreement at the tenant s request is a minimum of \u00a350 per change which could increase depending on the level of work required to carry out the amendment.<br /><br />\r\rShould a tenant need to surrender the tenancy early and the Landlord agrees to re-let the property, the liability for the payment of rent will end once a new tenant is found and takes up occupation, or once a valid notice has expired. However, the tenant will still need to cover the Landlord s costs for re-letting the property if they vacate prior to the expiration of the notice.<br /><br />\r\rTenancies that are not an Assured Periodic Tenancy<br /><br />\r\rIn addition to the above, the below will be applicable:<br /><br />\r\rA one-off upfront payment of \u00a3180 per tenancy which is a contribution towards processing the application, drawing up the Tenancy Agreement and registering the deposit.<br /><br />\r\rTenant reference charge (\u00a360 per tenant) covers collecting and verifying references from employer/accountant and previous Landlord reference as well as carrying out a credit check and collecting a copy of passport, proof of residency, bank statements and a recent payslip.<br /><br />\r\rGuarantor charge (\u00a360 per guarantor if required) covers credit referencing and preparing a Letter of Guarantee as part of the Tenancy Agreement.<br /><br />\r\rProfessional check-in fee (\u00a3156) enables us to arrange a date and time with the tenant to be checked in at the start of the tenancy and checked out at the end of the tenancy, instruct inventory providers, agree the terms of the security deposit disbursement between Landlord and tenant, return deposit as agreed with the Landlord and tenant to relevant parties, remit any disputed amount to the Tenancy Deposit Scheme for final adjudication, unprotect security deposit, instruct contractors and obtain quotes, organise repairs/replacements/cost of any broken or missing items.<br /><br />\r\rI*f a tenant decides to rent a property through Keatons in the name of a business or company the tenancy administration and reference charge will be \u00a3480 for a new tenancy and \u00a3240 for every renewal.*<br /><br />\r\rShould a tenant need to surrender the tenancy early and the Landlord agrees to re-let the property, the liability for the payment of rent will end once a new tenant is found and takes up occupation, or once a valid Notice to Quit has expired. However, the tenant will still need to cover the Landlord s costs for re-letting the property if they vacate prior to the expiration of the Notice to Quit.<br /><br />\r\rAll prices are inclusive of VAT.<br /><br />\r\rAs a member of The Property Ombudsman (TPO) for sales and lettings we subscribe to TPO's Codes of Practice.<br /><br />\r\rThis Government approved independent redress scheme gives consumers additional protection beyond that required by law. Our clients have peace of mind that there is free and fair redress available in the unlikely event of an unresolved dispute involving our agency.<br /><br />\r\rAs regulated members of Propertymark and the Royal Institute of Chartered Surveyors (RICS) this means that any client monies we hold are insured. This gives our clients peace of mind and financial protection that their money will always be safe in our hands under the RICS Client Money Protection Scheme.<br /></b></b>",
+  "displaySize": "688 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94580577#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94580577",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-21T19:02:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-21T19:08:19Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 3,
+      "description": "Clissold Park",
+      "htmlDescription": "Clissold Park"
+    },
+    {
+      "order": 4,
+      "description": "Dalston Junction Overground",
+      "htmlDescription": "Dalston Junction Overground"
+    },
+    {
+      "order": 5,
+      "description": "Desirable Location",
+      "htmlDescription": "Desirable Location"
+    },
+    {
+      "order": 6,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    },
+    {
+      "order": 7,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606_max_476x317.jpeg",
+        "url": "property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606.jpeg",
+        "caption": "External"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5767f688d/94580577/5767f688d44a6b1774137133d42318b3_max_476x317.jpeg",
+        "url": "property-photo/5767f688d/94580577/5767f688d44a6b1774137133d42318b3.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ec2a3721/94580577/9ec2a372133c3ec6f688ca0cd7ef2238_max_476x317.jpeg",
+        "url": "property-photo/9ec2a3721/94580577/9ec2a372133c3ec6f688ca0cd7ef2238.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6536dd48f/94580577/6536dd48f5f0d84ec885eb8916cb512a_max_476x317.jpeg",
+        "url": "property-photo/6536dd48f/94580577/6536dd48f5f0d84ec885eb8916cb512a.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/293b9852e/94580577/293b9852e0b4f231718b91fe5241cdb8_max_476x317.jpeg",
+        "url": "property-photo/293b9852e/94580577/293b9852e0b4f231718b91fe5241cdb8.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c460056c2/94580577/c460056c2f8eb98bbd16aacdb1d4d18b_max_476x317.jpeg",
+        "url": "property-photo/c460056c2/94580577/c460056c2f8eb98bbd16aacdb1d4d18b.jpeg",
+        "caption": "Balcony"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/477caee69/94580577/477caee69fc6c82a17fb367c4667e4ae_max_476x317.jpeg",
+        "url": "property-photo/477caee69/94580577/477caee69fc6c82a17fb367c4667e4ae.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aa4116437/94580577/aa4116437738da71f66c2c2a3925ce3b_max_476x317.jpeg",
+        "url": "property-photo/aa4116437/94580577/aa4116437738da71f66c2c2a3925ce3b.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/973d2480c/94580577/973d2480ce4113fad8c9436fc47e33fd_max_476x317.jpeg",
+        "url": "property-photo/973d2480c/94580577/973d2480ce4113fad8c9436fc47e33fd.jpeg",
+        "caption": "External"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07e8e5393/94580577/07e8e53937a5fb519c70c3ddd4df2606_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Keatons, Shoreditch",
+  "addedOrReduced": "Added on 21/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
