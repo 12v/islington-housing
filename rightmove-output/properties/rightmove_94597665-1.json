@@ -1,0 +1,290 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-25T00:22:33.301005+00:00",
+  "postcode": "N1 9LY",
+  "id": 94597665,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Nestled in the heart of London, 2 (1) Claremont Square presents a unique opportunity to acquire a charming house in a vibrant and historic neighbourhood. This property is ideally situated, offering both the tranquillity of a residential square and the convenience of city living. Claremo...",
+  "displayAddress": "2 (1) Claremont Square, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.531356,
+    "longitude": -0.111421
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7_max_476x317.jpeg",
+      "url": "property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07ea34984/94597665/07ea349845cd39754fc5cc1182faad7f_max_476x317.jpeg",
+      "url": "property-photo/07ea34984/94597665/07ea349845cd39754fc5cc1182faad7f.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b309be5bc/94597665/b309be5bc6cd8c8c81a2bbef98be0dbf_max_476x317.jpeg",
+      "url": "property-photo/b309be5bc/94597665/b309be5bc6cd8c8c81a2bbef98be0dbf.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c8bb43d9/94597665/5c8bb43d9ee9cec9ffcdae5ce75ff207_max_476x317.jpeg",
+      "url": "property-photo/5c8bb43d9/94597665/5c8bb43d9ee9cec9ffcdae5ce75ff207.jpeg",
+      "caption": "Rear Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/553fd47b5/94597665/553fd47b58bc039639486b4fa693f7b0_max_476x317.jpeg",
+      "url": "property-photo/553fd47b5/94597665/553fd47b58bc039639486b4fa693f7b0.jpeg",
+      "caption": "Rear Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39ae430cf/94597665/39ae430cf2026ddff5abdd73081d8e45_max_476x317.jpeg",
+      "url": "property-photo/39ae430cf/94597665/39ae430cf2026ddff5abdd73081d8e45.jpeg",
+      "caption": "Rear Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a13a902fd/94597665/a13a902fdb1bcaa8a8d209fda79f73da_max_476x317.jpeg",
+      "url": "property-photo/a13a902fd/94597665/a13a902fdb1bcaa8a8d209fda79f73da.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11d4a4aa6/94597665/11d4a4aa6803c7201557c14322e2eae4_max_476x317.jpeg",
+      "url": "property-photo/11d4a4aa6/94597665/11d4a4aa6803c7201557c14322e2eae4.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed9610fc6/94597665/ed9610fc6fb8f0c77d8fb78872c3e7aa_max_476x317.jpeg",
+      "url": "property-photo/ed9610fc6/94597665/ed9610fc6fb8f0c77d8fb78872c3e7aa.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/749bfe751/94597665/749bfe7513db3fab7956b9ff806cbf5b_max_476x317.jpeg",
+      "url": "property-photo/749bfe751/94597665/749bfe7513db3fab7956b9ff806cbf5b.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1597d448/94597665/f1597d448850705f0e2cefd18b9f0072_max_476x317.jpeg",
+      "url": "property-photo/f1597d448/94597665/f1597d448850705f0e2cefd18b9f0072.jpeg",
+      "caption": "Bedroom"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-10-22T10:24:20Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 190457,
+    "brandPlusLogoURI": "/partner-logo/19871432-PRODUCTS_LOGO-1766059596.jpeg",
+    "contactTelephone": "020 3909 8950",
+    "branchDisplayName": "Star Estates & Lettings Ltd, London",
+    "branchName": "London",
+    "brandTradingName": "Star Estates & Lettings Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Star-Estates-and-Lettings-Ltd/London-190457.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-07-09T19:11:25Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/19871432-PRODUCTS_LOGO-1766059596.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "FEES<br />\nSALES FEES<br />\nSole agency sales fee 1%<br />\nMultiple Agency Sales Fee 2%<br />\nLETTINGS FEE<br />\nLet and Management fee (monthly charged) 12%<br />\nMinimum Commission fee 2 weeks<br />\nINVENTORY CHECK IN/OUT.<br />\nINVENTORY FEE \u00a3150<br />\nCHECK OUT FEE \u00a3150<br />\nLANDLORDS ADDITIONAL CHARGES<br />\n? Gas safety check and certificate : \u00a380<br />\n? NIC EIC Electrical check & certificate \u00a3130<br />\n? Portable Appliances Test (PAT): \u00a3120<br />\n? Energy performance certificate (EPC) \u00a3120<br />\n? Fitting one battery smoke alarm \u00a3100<br />\n? Fitting additional battery smoke alarm (per alarm) \u00a340<br />\n? Fitting one battery CO2 alarm \u00a3100<br />\n? Reference admin fee(per tenant/Guarantor) \u00a360<br />\n? Legal immigration Right to Rent Check ( per tenant) \u00a310<br />\n? MyDeposits insured deposit/ re-protection and admin fee \u00a330<br />\n? Download of land registry proof of ownership \u00a315<br />\n? Let only renewal \u00a3300<br />\n? Chaps and International payments \u00a315<br />\n? Serve S21 Notice \u00a3100<br />\n? Serve",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94597665#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94597665",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-22T10:26:37Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-22T10:32:08Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "3 spacious bedrooms",
+      "htmlDescription": "3 spacious bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "2 modern bathrooms",
+      "htmlDescription": "2 modern bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Open-plan kitchen",
+      "htmlDescription": "Open-plan kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Cosy living room",
+      "htmlDescription": "Cosy living room"
+    },
+    {
+      "order": 5,
+      "description": "Private garden",
+      "htmlDescription": "Private garden"
+    },
+    {
+      "order": 6,
+      "description": "Off-street parking",
+      "htmlDescription": "Off-street parking"
+    },
+    {
+      "order": 7,
+      "description": "Charming period features",
+      "htmlDescription": "Charming period features"
+    },
+    {
+      "order": 8,
+      "description": "Detached house",
+      "htmlDescription": "Detached house"
+    },
+    {
+      "order": 9,
+      "description": "Central London location",
+      "htmlDescription": "Central London location"
+    },
+    {
+      "order": 10,
+      "description": "Close to transport links",
+      "htmlDescription": "Close to transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7_max_476x317.jpeg",
+        "url": "property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07ea34984/94597665/07ea349845cd39754fc5cc1182faad7f_max_476x317.jpeg",
+        "url": "property-photo/07ea34984/94597665/07ea349845cd39754fc5cc1182faad7f.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b309be5bc/94597665/b309be5bc6cd8c8c81a2bbef98be0dbf_max_476x317.jpeg",
+        "url": "property-photo/b309be5bc/94597665/b309be5bc6cd8c8c81a2bbef98be0dbf.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5c8bb43d9/94597665/5c8bb43d9ee9cec9ffcdae5ce75ff207_max_476x317.jpeg",
+        "url": "property-photo/5c8bb43d9/94597665/5c8bb43d9ee9cec9ffcdae5ce75ff207.jpeg",
+        "caption": "Rear Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/553fd47b5/94597665/553fd47b58bc039639486b4fa693f7b0_max_476x317.jpeg",
+        "url": "property-photo/553fd47b5/94597665/553fd47b58bc039639486b4fa693f7b0.jpeg",
+        "caption": "Rear Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/39ae430cf/94597665/39ae430cf2026ddff5abdd73081d8e45_max_476x317.jpeg",
+        "url": "property-photo/39ae430cf/94597665/39ae430cf2026ddff5abdd73081d8e45.jpeg",
+        "caption": "Rear Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a13a902fd/94597665/a13a902fdb1bcaa8a8d209fda79f73da_max_476x317.jpeg",
+        "url": "property-photo/a13a902fd/94597665/a13a902fdb1bcaa8a8d209fda79f73da.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/11d4a4aa6/94597665/11d4a4aa6803c7201557c14322e2eae4_max_476x317.jpeg",
+        "url": "property-photo/11d4a4aa6/94597665/11d4a4aa6803c7201557c14322e2eae4.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed9610fc6/94597665/ed9610fc6fb8f0c77d8fb78872c3e7aa_max_476x317.jpeg",
+        "url": "property-photo/ed9610fc6/94597665/ed9610fc6fb8f0c77d8fb78872c3e7aa.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/749bfe751/94597665/749bfe7513db3fab7956b9ff806cbf5b_max_476x317.jpeg",
+        "url": "property-photo/749bfe751/94597665/749bfe7513db3fab7956b9ff806cbf5b.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f1597d448/94597665/f1597d448850705f0e2cefd18b9f0072_max_476x317.jpeg",
+        "url": "property-photo/f1597d448/94597665/f1597d448850705f0e2cefd18b9f0072.jpeg",
+        "caption": "Bedroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b48d4c3af/94597665/b48d4c3af543796f0d1cca0af8bfd1f7_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Star Estates & Lettings Ltd, London",
+  "addedOrReduced": "Reduced on 22/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
