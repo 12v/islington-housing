@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-28T00:17:03.095542+00:00",
+  "postcode": "EC1V 4JH",
+  "id": 94745346,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "This incredibly spacious two double bedroom, two bathroom apartment is situated on the second floor within this highly impressive purpose built development in the heart of Clerkenwell.",
+  "displayAddress": "Brewery Square, \nClerkenwell, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.52387,
+    "longitude": -0.102398
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f_max_476x317.jpeg",
+      "url": "property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f.jpeg",
+      "caption": "External"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2edabe3a/94745346/f2edabe3af546dee0ed23c716d450a73_max_476x317.jpeg",
+      "url": "property-photo/f2edabe3a/94745346/f2edabe3af546dee0ed23c716d450a73.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/275d9e51c/94745346/275d9e51c51232dbbabc89ee24d08165_max_476x317.jpeg",
+      "url": "property-photo/275d9e51c/94745346/275d9e51c51232dbbabc89ee24d08165.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c27890f4e/94745346/c27890f4ed32f21314719cf4b1b0ec0b_max_476x317.jpeg",
+      "url": "property-photo/c27890f4e/94745346/c27890f4ed32f21314719cf4b1b0ec0b.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/30ad79b7f/94745346/30ad79b7f454ef15d760982cc2b6ba94_max_476x317.jpeg",
+      "url": "property-photo/30ad79b7f/94745346/30ad79b7f454ef15d760982cc2b6ba94.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d048ebdfc/94745346/d048ebdfc81529259774dbdea06ff804_max_476x317.jpeg",
+      "url": "property-photo/d048ebdfc/94745346/d048ebdfc81529259774dbdea06ff804.jpeg",
+      "caption": "Bathoom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fc113d9a/94745346/7fc113d9a5e895a765a5b97e9ea5ff8a_max_476x317.jpeg",
+      "url": "property-photo/7fc113d9a/94745346/7fc113d9a5e895a765a5b97e9ea5ff8a.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d18398cc7/94745346/d18398cc7a9d4c75f60098a5f3f69278_max_476x317.jpeg",
+      "url": "property-photo/d18398cc7/94745346/d18398cc7a9d4c75f60098a5f3f69278.jpeg",
+      "caption": "Bedroom"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-26T16:22:07Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 26207,
+    "brandPlusLogoURI": "/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "contactTelephone": "020 3872 5359",
+    "branchDisplayName": "Chestertons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Chestertons",
+    "branchLandingPageUrl": "/estate-agents/agent/Chestertons/Islington-26207.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-14T13:07:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/27011-PRODUCTS_LOGO-1766056097.jpeg",
+    "primaryBrandColour": "#671e75",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nTENANCY INFORMATION<br />\n<br />\nClient money protection (CMP) provided by PropertyMark. <br />\nOmbudsman services provided by the Property Redress Scheme <br />\n<br />\nRules for how fees will be charged for Housing Act Tenancies are different to how fees will be charged for Non-Housing Act Tenancies (NHA). All our fees and charges are shown including VAT.<br />\n<br />\nHOUSING ACT TENANCIES<br />\n<br />\nHolding deposit Equivalent of one weeks rent.<br />\n<br />\nChanging tenancy documents once signed \u00a350, or any reasonable costs incurred if these are higher than \u00a350. This will include but is not limited to where you request to vary the terms of the tenancy agreement, request consent for a pet, or where one or more tenant wishes to be released from their contract by finding a replacement tenant, an additional tenant added or a tenant removed.<br />\n<br />\nDeposit: annual rent less than \u00a350,000 Equivalent to five weeks' rent / annual rent \u00a350,000 or more Equivalent to six weeks' rent<br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000<br />\n<br />\nLate, unpaid, returned rent payments 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nLost keys Any cost for the replacement of keys, fobs, security devices or associated items<br />\n<br />\nNON-HOUSING ACT TENANCIES (NHA)<br />\n<br />\nTenancy Agreement Fee: \u00a3360<br />\n<br />\nReference checks: \u00a360 per reference<br />\n<br />\nDeposit Usually equivalent to six weeks rent.<br />\n<br />\nRight to Rent: \u00a330 per person per check (as required)<br />\n<br />\nCheck-in and/or out from \u00a3120 to \u00a3500 approx. depending on the size of the property. Check your tenancy agreement to confirm who is responsible for paying this charge<br />\n<br />\nLate/unpaid/returned rent payments: \u00a330 per week late payment charge and 3% above the base rate of Bank of England per annum, calculated daily<br />\n<br />\nTenant Swap: \u00a3420 administration fee + references<br />\n<br />\nRenewal: \u00a3210 for each renewal.<br />\n<br />\nChanging tenancy documents once signed: \u00a3150 <br />\n<br />\nEarly termination (at landlord s discretion) All costs incurred by the landlord for allowing early termination including the agent's existing or re-letting fees<br />\n<br />\nStamp Duty Land Tax payable on tenancies where the rent exceeds \u00a3125,000\n",
+  "displaySize": "797 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94745346#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94745346",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-26T16:16:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-27T12:50:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Modern",
+      "htmlDescription": "Modern"
+    },
+    {
+      "order": 4,
+      "description": "Wooden Floors Throughout",
+      "htmlDescription": "Wooden Floors Throughout"
+    },
+    {
+      "order": 5,
+      "description": "Central Clerkenwell Location",
+      "htmlDescription": "Central Clerkenwell Location"
+    },
+    {
+      "order": 6,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f_max_476x317.jpeg",
+        "url": "property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f.jpeg",
+        "caption": "External"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2edabe3a/94745346/f2edabe3af546dee0ed23c716d450a73_max_476x317.jpeg",
+        "url": "property-photo/f2edabe3a/94745346/f2edabe3af546dee0ed23c716d450a73.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/275d9e51c/94745346/275d9e51c51232dbbabc89ee24d08165_max_476x317.jpeg",
+        "url": "property-photo/275d9e51c/94745346/275d9e51c51232dbbabc89ee24d08165.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c27890f4e/94745346/c27890f4ed32f21314719cf4b1b0ec0b_max_476x317.jpeg",
+        "url": "property-photo/c27890f4e/94745346/c27890f4ed32f21314719cf4b1b0ec0b.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/30ad79b7f/94745346/30ad79b7f454ef15d760982cc2b6ba94_max_476x317.jpeg",
+        "url": "property-photo/30ad79b7f/94745346/30ad79b7f454ef15d760982cc2b6ba94.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d048ebdfc/94745346/d048ebdfc81529259774dbdea06ff804_max_476x317.jpeg",
+        "url": "property-photo/d048ebdfc/94745346/d048ebdfc81529259774dbdea06ff804.jpeg",
+        "caption": "Bathoom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fc113d9a/94745346/7fc113d9a5e895a765a5b97e9ea5ff8a_max_476x317.jpeg",
+        "url": "property-photo/7fc113d9a/94745346/7fc113d9a5e895a765a5b97e9ea5ff8a.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d18398cc7/94745346/d18398cc7a9d4c75f60098a5f3f69278_max_476x317.jpeg",
+        "url": "property-photo/d18398cc7/94745346/d18398cc7a9d4c75f60098a5f3f69278.jpeg",
+        "caption": "Bedroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/543ac6af9/94745346/543ac6af9394f5f94f02e6fdaf090c6f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chestertons, Islington",
+  "addedOrReduced": "Added on 26/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
