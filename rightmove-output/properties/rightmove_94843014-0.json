@@ -1,0 +1,250 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-29T02:08:29.146433+00:00",
+  "postcode": "N1 9SG",
+  "id": 94843014,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "One bedroom | One bathroom | Furnished | 2nd floor | Gated development",
+  "displayAddress": "Priory Heights, Wynford Road, Islington, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.533718,
+    "longitude": -0.115747
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2_max_476x317.jpeg",
+      "url": "property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ff064771/94843014/3ff064771da880442d5dd5de27770f43_max_476x317.jpeg",
+      "url": "property-photo/3ff064771/94843014/3ff064771da880442d5dd5de27770f43.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b62c6114/94843014/4b62c6114d4c9f54820fbb3b86fcdf29_max_476x317.jpeg",
+      "url": "property-photo/4b62c6114/94843014/4b62c6114d4c9f54820fbb3b86fcdf29.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d675fd75/94843014/7d675fd756cdcd8c1359ea9900965d3e_max_476x317.jpeg",
+      "url": "property-photo/7d675fd75/94843014/7d675fd756cdcd8c1359ea9900965d3e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b1abc4b/94843014/46b1abc4bc03b7fc6ebdb5f12276b781_max_476x317.jpeg",
+      "url": "property-photo/46b1abc4b/94843014/46b1abc4bc03b7fc6ebdb5f12276b781.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43a8389a5/94843014/43a8389a594519661457290e096a33c4_max_476x317.jpeg",
+      "url": "property-photo/43a8389a5/94843014/43a8389a594519661457290e096a33c4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a6f7d6a1/94843014/8a6f7d6a1c1c3fd9491db5772da04668_max_476x317.jpeg",
+      "url": "property-photo/8a6f7d6a1/94843014/8a6f7d6a1c1c3fd9491db5772da04668.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8288a653f/94843014/8288a653f3289457242ed34b911a3293_max_476x317.jpeg",
+      "url": "property-photo/8288a653f/94843014/8288a653f3289457242ed34b911a3293.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-10-28T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-28T12:58:04Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": "Fixed Price"
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": "Fixed Price"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 49212,
+    "brandPlusLogoURI": "/partner-logo/9136260-PRODUCTS_LOGO-1766063564.png",
+    "contactTelephone": "020 3909 7837",
+    "branchDisplayName": "Filtons Stratford Ltd, Stratford",
+    "branchName": "Stratford",
+    "brandTradingName": "Filtons Stratford Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Filtons-Stratford-Ltd/Stratford-49212.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-05-18T15:40:20Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9136260-PRODUCTS_LOGO-1766063564.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "If you wish to proceed with a property through Filtons, the following payments will apply:\nPermitted Payments:\nHolding Deposit - One week's rent. This is required to reserve the property and submit your offer to the landlord. If the offer is accepted, this amount will be deducted from the total balance due. The holding deposit is refundable if your offer is not accepted.\nDeposit - Equivalent to five weeks' rent (or six weeks' rent if the annual rent exceeds \u00a350,000).\nLate Rent Payment - If rent is owed for more than 14 days, you may be charged interest on the outstanding rent at a rate of 3% above the Bank of England base rate.\nChanges to Tenancy Agreement - A fee of \u00a350.00 will apply for changes such as a change of tenant or permission to keep pets. Reasonable costs may be applied if these exceed \u00a350.00.\nLost Keys or Security Devices - If you lose keys or other security devices, you will be charged reasonable costs incurred by the landlord to replace them or the locks at the property.\nEarly Termination - If you request to terminate the tenancy early, you will be responsible for any re-letting fees and outstanding rent owed to the landlord.\nAdditional Charges - In addition to the above, tenants will be responsible for payments in respect of utilities (e.g., gas, electricity, water), communication services, TV licence, and council tax, as specified in the tenancy agreement.\nFor tenancies with Filtons that started before 1st June 2019, the following charges apply under your tenancy agreement until 31st May 2020:\nTenancy Extension Fee - \u00a3150.00 per tenant\nChange of Occupant During Tenancy - \u00a3300.00 per tenant\nReference Fee - \u00a330.00 per tenant\nAll charges are inclusive of VAT at the prevailing rate.\nFiltons Stratford Ltd is a member of NRLA, UKALA, UKALA CMP Certified, Property Redress Scheme (PRS), Tenancy Deposit Solutions Ltd (MyDeposits.co.uk), and complies with regulations set by Trading Standards and UK law.\n",
+  "displaySize": "484 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94843014#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94843014",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-28T12:52:21Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-28T12:58:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 2,
+      "description": "One Bedroom",
+      "htmlDescription": "One Bedroom "
+    },
+    {
+      "order": 3,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Second Floor",
+      "htmlDescription": "Second Floor"
+    },
+    {
+      "order": 5,
+      "description": "Gated Development",
+      "htmlDescription": "Gated Development"
+    },
+    {
+      "order": 6,
+      "description": "Excellent Transport links",
+      "htmlDescription": "Excellent Transport links"
+    },
+    {
+      "order": 7,
+      "description": "Council Tax Band: C",
+      "htmlDescription": "Council Tax Band: C"
+    },
+    {
+      "order": 8,
+      "description": "EPC: C",
+      "htmlDescription": "EPC: C"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2_max_476x317.jpeg",
+        "url": "property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ff064771/94843014/3ff064771da880442d5dd5de27770f43_max_476x317.jpeg",
+        "url": "property-photo/3ff064771/94843014/3ff064771da880442d5dd5de27770f43.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4b62c6114/94843014/4b62c6114d4c9f54820fbb3b86fcdf29_max_476x317.jpeg",
+        "url": "property-photo/4b62c6114/94843014/4b62c6114d4c9f54820fbb3b86fcdf29.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7d675fd75/94843014/7d675fd756cdcd8c1359ea9900965d3e_max_476x317.jpeg",
+        "url": "property-photo/7d675fd75/94843014/7d675fd756cdcd8c1359ea9900965d3e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46b1abc4b/94843014/46b1abc4bc03b7fc6ebdb5f12276b781_max_476x317.jpeg",
+        "url": "property-photo/46b1abc4b/94843014/46b1abc4bc03b7fc6ebdb5f12276b781.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/43a8389a5/94843014/43a8389a594519661457290e096a33c4_max_476x317.jpeg",
+        "url": "property-photo/43a8389a5/94843014/43a8389a594519661457290e096a33c4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8a6f7d6a1/94843014/8a6f7d6a1c1c3fd9491db5772da04668_max_476x317.jpeg",
+        "url": "property-photo/8a6f7d6a1/94843014/8a6f7d6a1c1c3fd9491db5772da04668.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8288a653f/94843014/8288a653f3289457242ed34b911a3293_max_476x317.jpeg",
+        "url": "property-photo/8288a653f/94843014/8288a653f3289457242ed34b911a3293.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e87d455d3/94843014/e87d455d33c6a7969af748d4b5b591e2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Filtons Stratford Ltd, Stratford",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

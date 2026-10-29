@@ -1,0 +1,199 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-29T00:39:06.783748+00:00",
+  "postcode": "EC1V 7JW",
+  "id": 94846791,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A contemporary apartment situated in a popular development in EC1, within walking distance from Angel Tube Station (Northern Line).",
+  "displayAddress": "Owen Street, London, EC1V",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.531139,
+    "longitude": -0.104883
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421_max_476x317.jpeg",
+      "url": "property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b10ebc3b/94846791/3b10ebc3b3f7b26a55dad0f5c02f1761_max_476x317.jpeg",
+      "url": "property-photo/3b10ebc3b/94846791/3b10ebc3b3f7b26a55dad0f5c02f1761.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2e14a9ac/94846791/f2e14a9aca956cf954b240bc78f92160_max_476x317.jpeg",
+      "url": "property-photo/f2e14a9ac/94846791/f2e14a9aca956cf954b240bc78f92160.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eb8f8a19/94846791/6eb8f8a19cc5bcf147e7d6ea72a9ce6d_max_476x317.jpeg",
+      "url": "property-photo/6eb8f8a19/94846791/6eb8f8a19cc5bcf147e7d6ea72a9ce6d.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48958d5b4/94846791/48958d5b4bb8cff067cb567cf7cda4a5_max_476x317.jpeg",
+      "url": "property-photo/48958d5b4/94846791/48958d5b4bb8cff067cb567cf7cda4a5.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c25ade594/94846791/c25ade5944f90cbb28fa08d9d2ce3833_max_476x317.jpeg",
+      "url": "property-photo/c25ade594/94846791/c25ade5944f90cbb28fa08d9d2ce3833.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6a69cb45/94846791/c6a69cb455665772009a56d0816dee5a_max_476x317.jpeg",
+      "url": "property-photo/c6a69cb45/94846791/c6a69cb455665772009a56d0816dee5a.jpeg",
+      "caption": "Picture No. 04"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-28T13:53:07Z"
+  },
+  "price": {
+    "amount": 3500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3808 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260405,
+    "brandPlusLogoURI": "/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "contactTelephone": "020 4548 1336",
+    "branchDisplayName": "Benham & Reeves - City, City",
+    "branchName": "City",
+    "brandTradingName": "Benham & Reeves - City",
+    "branchLandingPageUrl": "/estate-agents/agent/Benham-and-Reeves---City/City-260405.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-09T16:10:05Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7971482-PRODUCTS_LOGO-1766065694.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94846791#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94846791",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-28T13:47:56Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-28T13:53:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421_max_476x317.jpeg",
+        "url": "property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3b10ebc3b/94846791/3b10ebc3b3f7b26a55dad0f5c02f1761_max_476x317.jpeg",
+        "url": "property-photo/3b10ebc3b/94846791/3b10ebc3b3f7b26a55dad0f5c02f1761.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2e14a9ac/94846791/f2e14a9aca956cf954b240bc78f92160_max_476x317.jpeg",
+        "url": "property-photo/f2e14a9ac/94846791/f2e14a9aca956cf954b240bc78f92160.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6eb8f8a19/94846791/6eb8f8a19cc5bcf147e7d6ea72a9ce6d_max_476x317.jpeg",
+        "url": "property-photo/6eb8f8a19/94846791/6eb8f8a19cc5bcf147e7d6ea72a9ce6d.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48958d5b4/94846791/48958d5b4bb8cff067cb567cf7cda4a5_max_476x317.jpeg",
+        "url": "property-photo/48958d5b4/94846791/48958d5b4bb8cff067cb567cf7cda4a5.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c25ade594/94846791/c25ade5944f90cbb28fa08d9d2ce3833_max_476x317.jpeg",
+        "url": "property-photo/c25ade594/94846791/c25ade5944f90cbb28fa08d9d2ce3833.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c6a69cb45/94846791/c6a69cb455665772009a56d0816dee5a_max_476x317.jpeg",
+        "url": "property-photo/c6a69cb45/94846791/c6a69cb455665772009a56d0816dee5a.jpeg",
+        "caption": "Picture No. 04"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bbe421d74/94846791/bbe421d74db406d8ca10ca91099fb421_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Benham & Reeves - City, City",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
