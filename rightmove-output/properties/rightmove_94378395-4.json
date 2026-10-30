@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-30T03:35:00.156840+00:00",
+  "postcode": "N7 0SH",
+  "id": 94378395,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Amazing one double bedroom first floor flat to rent. The property has been recently redecorated throughout and benefits from a separate kitchen with modern appliances, large living room, large double bedroom and modern bathroom. The flat is walking distance to Holloway Road Station and is locat...",
+  "displayAddress": "Camden Road, Holloway, London",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.55564,
+    "longitude": -0.11902
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2_max_476x317.jpeg",
+      "url": "property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a5b7367f/94378395/6a5b7367f705e4900f9985f1deebfc39_max_476x317.jpeg",
+      "url": "property-photo/6a5b7367f/94378395/6a5b7367f705e4900f9985f1deebfc39.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3864d62dd/94378395/3864d62dddaf69c91e8189a57b949103_max_476x317.jpeg",
+      "url": "property-photo/3864d62dd/94378395/3864d62dddaf69c91e8189a57b949103.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb90a2057/94378395/bb90a205763fc1bd65f1e59e9c8c8178_max_476x317.jpeg",
+      "url": "property-photo/bb90a2057/94378395/bb90a205763fc1bd65f1e59e9c8c8178.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4044aab5/94378395/f4044aab5be92643a1b80650ae24459d_max_476x317.jpeg",
+      "url": "property-photo/f4044aab5/94378395/f4044aab5be92643a1b80650ae24459d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f0ff3970/94378395/3f0ff397049f3b4b51615812588ced34_max_476x317.jpeg",
+      "url": "property-photo/3f0ff3970/94378395/3f0ff397049f3b4b51615812588ced34.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78c60ec40/94378395/78c60ec40b9fbaac37c066c1a5e6751b_max_476x317.jpeg",
+      "url": "property-photo/78c60ec40/94378395/78c60ec40b9fbaac37c066c1a5e6751b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/654ac2bb7/94378395/654ac2bb7389eb89b92ffc616c4dab49_max_476x317.jpeg",
+      "url": "property-photo/654ac2bb7/94378395/654ac2bb7389eb89b92ffc616c4dab49.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-10-28T09:26:59Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 247697,
+    "brandPlusLogoURI": "/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "contactTelephone": "020 3870 5045",
+    "branchDisplayName": "David Astburys, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "David Astburys",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Astburys/Islington-247697.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-04-29T17:15:31Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/28087760-PRODUCTS_LOGO-1766067044.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Company Information\nDavid Astburys N1 Ltd \nCompany Registration Number: 13761424 \nRegistered Office: 27 Mortimer Street, London, W1T 3BL\nTenant Fees / Permitted Payments\n- Holding Deposit: One week's rent\n- Security Deposit: Five weeks' rent (under \u00a350,000 per annum) or six weeks' rent (over \u00a350,000 per annum)\nPermitted payments during the tenancy include:\n- \u00a350 (inc. VAT) for variation of contract\n- \u00a350 (inc. VAT) for change of sharer\n- Interest on unpaid rent at 3% (3.6% inc VAT) above the Bank of England Base Rate (applicable after 14 days)\n- Reasonable costs for lost keys or security devices\n- Reasonable costs associated with early termination of the tenancy\nClient Money Protection\nDavid Astburys is a member of the Propertymark Client Money Protection Scheme.\nOur membership is available on our website .davidastburys.com\nRedress Scheme\nDavid Astburys is a member of The Property Ombudsman Scheme (Membership No. T08450).\nOur membership certificate is available on our website .davidastburys.com\nIf you have any further questions about our fees, please contact a member of staff ",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94378395#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94378395",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-16T09:32:55Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-28T11:02:51Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Flat",
+      "htmlDescription": "One Bedroom Flat"
+    },
+    {
+      "order": 2,
+      "description": "Period Conversion",
+      "htmlDescription": "Period Conversion"
+    },
+    {
+      "order": 3,
+      "description": "Large Reception",
+      "htmlDescription": "Large Reception"
+    },
+    {
+      "order": 4,
+      "description": "Semi Open Plan Kitchen",
+      "htmlDescription": "Semi Open Plan Kitchen"
+    },
+    {
+      "order": 5,
+      "description": "Walking Distance To Holloway Road",
+      "htmlDescription": "Walking Distance To Holloway Road "
+    },
+    {
+      "order": 6,
+      "description": "Walking Distance To Upper Holloway Station",
+      "htmlDescription": "Walking Distance To Upper Holloway Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2_max_476x317.jpeg",
+        "url": "property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6a5b7367f/94378395/6a5b7367f705e4900f9985f1deebfc39_max_476x317.jpeg",
+        "url": "property-photo/6a5b7367f/94378395/6a5b7367f705e4900f9985f1deebfc39.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3864d62dd/94378395/3864d62dddaf69c91e8189a57b949103_max_476x317.jpeg",
+        "url": "property-photo/3864d62dd/94378395/3864d62dddaf69c91e8189a57b949103.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bb90a2057/94378395/bb90a205763fc1bd65f1e59e9c8c8178_max_476x317.jpeg",
+        "url": "property-photo/bb90a2057/94378395/bb90a205763fc1bd65f1e59e9c8c8178.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f4044aab5/94378395/f4044aab5be92643a1b80650ae24459d_max_476x317.jpeg",
+        "url": "property-photo/f4044aab5/94378395/f4044aab5be92643a1b80650ae24459d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3f0ff3970/94378395/3f0ff397049f3b4b51615812588ced34_max_476x317.jpeg",
+        "url": "property-photo/3f0ff3970/94378395/3f0ff397049f3b4b51615812588ced34.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/78c60ec40/94378395/78c60ec40b9fbaac37c066c1a5e6751b_max_476x317.jpeg",
+        "url": "property-photo/78c60ec40/94378395/78c60ec40b9fbaac37c066c1a5e6751b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/654ac2bb7/94378395/654ac2bb7389eb89b92ffc616c4dab49_max_476x317.jpeg",
+        "url": "property-photo/654ac2bb7/94378395/654ac2bb7389eb89b92ffc616c4dab49.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2e0157a45/94378395/2e0157a45890d07ff11a34cf8b2b79d2_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by David Astburys, Islington",
+  "addedOrReduced": "Reduced on 28/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

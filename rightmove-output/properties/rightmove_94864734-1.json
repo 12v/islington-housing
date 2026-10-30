@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-10-30T01:28:04.619340+00:00",
+  "postcode": "N1 2LH",
+  "id": 94864734,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Newly decorated - Private terrace - Open-plan kitchen - Wooden flooring - Un/furnished - Close to Highbury and Islington Station - Professionally Managed",
+  "displayAddress": "St. Pauls Road, Islington, London, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.546256,
+    "longitude": -0.101518
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162_max_476x317.jpeg",
+      "url": "property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae0e5d17c/94864734/ae0e5d17c6a16c16fb7f2d5170a57432_max_476x317.jpeg",
+      "url": "property-photo/ae0e5d17c/94864734/ae0e5d17c6a16c16fb7f2d5170a57432.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/875c40fce/94864734/875c40fce8ae8083c1985c384fbe6a3b_max_476x317.jpeg",
+      "url": "property-photo/875c40fce/94864734/875c40fce8ae8083c1985c384fbe6a3b.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9924c90eb/94864734/9924c90ebdf8af6c9bc3cfd1081c31d0_max_476x317.jpeg",
+      "url": "property-photo/9924c90eb/94864734/9924c90ebdf8af6c9bc3cfd1081c31d0.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aef4407ec/94864734/aef4407ec9c279e6cb8defab6fb2c41e_max_476x317.jpeg",
+      "url": "property-photo/aef4407ec/94864734/aef4407ec9c279e6cb8defab6fb2c41e.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a530ee080/94864734/a530ee0808007509bb33409ee0ed44a0_max_476x317.jpeg",
+      "url": "property-photo/a530ee080/94864734/a530ee0808007509bb33409ee0ed44a0.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc5124d8b/94864734/bc5124d8b37a6ce5cd81fdd137c5f700_max_476x317.jpeg",
+      "url": "property-photo/bc5124d8b/94864734/bc5124d8b37a6ce5cd81fdd137c5f700.jpeg",
+      "caption": "Picture No. 02"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-28T17:37:08Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 50021,
+    "brandPlusLogoURI": "/partner-logo/7362536-PRODUCTS_LOGO-1766060623.png",
+    "contactTelephone": "020 3319 6634",
+    "branchDisplayName": "LDG, London",
+    "branchName": "London",
+    "brandTradingName": "LDG",
+    "branchLandingPageUrl": "/estate-agents/agent/LDG/London-50021.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-29T16:41:26Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7362536-PRODUCTS_LOGO-1766060623.png",
+    "primaryBrandColour": "#ffffff",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "328 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/94864734#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=94864734",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-10-28T17:31:30Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-10-29T15:49:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available 3rd December 2026",
+      "htmlDescription": "Available 3rd December 2026"
+    },
+    {
+      "order": 2,
+      "description": "Newly decorated",
+      "htmlDescription": "Newly decorated"
+    },
+    {
+      "order": 3,
+      "description": "Open-plan kitchen",
+      "htmlDescription": "Open-plan kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Private terrace",
+      "htmlDescription": "Private terrace"
+    },
+    {
+      "order": 5,
+      "description": "Wooden flooring",
+      "htmlDescription": "Wooden flooring"
+    },
+    {
+      "order": 6,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 7,
+      "description": "Shower Room",
+      "htmlDescription": "Shower Room"
+    },
+    {
+      "order": 8,
+      "description": "Highbury & Islington Station",
+      "htmlDescription": "Highbury & Islington Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162_max_476x317.jpeg",
+        "url": "property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ae0e5d17c/94864734/ae0e5d17c6a16c16fb7f2d5170a57432_max_476x317.jpeg",
+        "url": "property-photo/ae0e5d17c/94864734/ae0e5d17c6a16c16fb7f2d5170a57432.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/875c40fce/94864734/875c40fce8ae8083c1985c384fbe6a3b_max_476x317.jpeg",
+        "url": "property-photo/875c40fce/94864734/875c40fce8ae8083c1985c384fbe6a3b.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9924c90eb/94864734/9924c90ebdf8af6c9bc3cfd1081c31d0_max_476x317.jpeg",
+        "url": "property-photo/9924c90eb/94864734/9924c90ebdf8af6c9bc3cfd1081c31d0.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aef4407ec/94864734/aef4407ec9c279e6cb8defab6fb2c41e_max_476x317.jpeg",
+        "url": "property-photo/aef4407ec/94864734/aef4407ec9c279e6cb8defab6fb2c41e.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a530ee080/94864734/a530ee0808007509bb33409ee0ed44a0_max_476x317.jpeg",
+        "url": "property-photo/a530ee080/94864734/a530ee0808007509bb33409ee0ed44a0.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bc5124d8b/94864734/bc5124d8b37a6ce5cd81fdd137c5f700_max_476x317.jpeg",
+        "url": "property-photo/bc5124d8b/94864734/bc5124d8b37a6ce5cd81fdd137c5f700.jpeg",
+        "caption": "Picture No. 02"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7d4f7e66/94864734/d7d4f7e6614b07bae4f91e120dd5f162_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by LDG, London",
+  "addedOrReduced": "Added on 28/10/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
