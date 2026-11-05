@@ -1,0 +1,280 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-05T04:13:06.506686+00:00",
+  "postcode": "N6 5LX",
+  "id": 95045535,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "An extremely spacious one bedroom apartment with a private garden occupying the ground floor of a period conversion situated within close walking distance to Highgate Village.",
+  "displayAddress": "Hornsey Lane, Highgate, N6",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.569955,
+    "longitude": -0.139571
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6_max_476x317.jpeg",
+      "url": "property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d56bbf2c4/95045535/d56bbf2c4e5e9786e567a38259702938_max_476x317.jpeg",
+      "url": "property-photo/d56bbf2c4/95045535/d56bbf2c4e5e9786e567a38259702938.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24ce7339f/95045535/24ce7339f649ecf8ee034c7d92537526_max_476x317.jpeg",
+      "url": "property-photo/24ce7339f/95045535/24ce7339f649ecf8ee034c7d92537526.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94a8882cc/95045535/94a8882cca6399c2ba09b47820c0f04e_max_476x317.jpeg",
+      "url": "property-photo/94a8882cc/95045535/94a8882cca6399c2ba09b47820c0f04e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09cf03f8f/95045535/09cf03f8f8d451429bfdb8b727ba7d32_max_476x317.jpeg",
+      "url": "property-photo/09cf03f8f/95045535/09cf03f8f8d451429bfdb8b727ba7d32.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62aec51d8/95045535/62aec51d82dc374e104345d4450ac84a_max_476x317.jpeg",
+      "url": "property-photo/62aec51d8/95045535/62aec51d82dc374e104345d4450ac84a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe2fe459b/95045535/fe2fe459b3ee5a39c2db0fc9e6798b11_max_476x317.jpeg",
+      "url": "property-photo/fe2fe459b/95045535/fe2fe459b3ee5a39c2db0fc9e6798b11.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad50dcc27/95045535/ad50dcc27c8d9201965eda23f067b76e_max_476x317.jpeg",
+      "url": "property-photo/ad50dcc27/95045535/ad50dcc27c8d9201965eda23f067b76e.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85670f7a5/95045535/85670f7a516db709c9ae45143f90f014_max_476x317.jpeg",
+      "url": "property-photo/85670f7a5/95045535/85670f7a516db709c9ae45143f90f014.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/916720231/95045535/9167202317d03db81929b5f2a8299ce8_max_476x317.jpeg",
+      "url": "property-photo/916720231/95045535/9167202317d03db81929b5f2a8299ce8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba3776602/95045535/ba3776602f37012e365e7a030ce5f919_max_476x317.jpeg",
+      "url": "property-photo/ba3776602/95045535/ba3776602f37012e365e7a030ce5f919.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d6a173ad/95045535/3d6a173ad5534ffbf51a6d780a383903_max_476x317.jpeg",
+      "url": "property-photo/3d6a173ad/95045535/3d6a173ad5534ffbf51a6d780a383903.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-11-03T11:16:45Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 66943,
+    "brandPlusLogoURI": "/partner-logo/7383664-LOGO-1765821444.jpeg",
+    "contactTelephone": "020 3910 6068",
+    "branchDisplayName": "Taylor Gibbs, Highgate",
+    "branchName": "Highgate",
+    "brandTradingName": "Taylor Gibbs",
+    "branchLandingPageUrl": "/estate-agents/agent/Taylor-Gibbs/Highgate-66943.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-18T17:24:36Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/7383664-LOGO-1765821444.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (D01216)<br />Client Money Protection provided by: Property Mark (C0003831)",
+  "displaySize": "787 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95045535#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95045535",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-03T11:01:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-05T03:39:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 2,
+      "description": "Edwardian Period Conversion",
+      "htmlDescription": "Edwardian Period Conversion"
+    },
+    {
+      "order": 3,
+      "description": "Wooden Floors Throughout",
+      "htmlDescription": "Wooden Floors Throughout"
+    },
+    {
+      "order": 4,
+      "description": "Own Entrance",
+      "htmlDescription": "Own Entrance"
+    },
+    {
+      "order": 5,
+      "description": "Close To Highgate Village",
+      "htmlDescription": "Close To Highgate Village"
+    },
+    {
+      "order": 6,
+      "description": "High Ceilings & Period Features",
+      "htmlDescription": "High Ceilings & Period Features"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6_max_476x317.jpeg",
+        "url": "property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d56bbf2c4/95045535/d56bbf2c4e5e9786e567a38259702938_max_476x317.jpeg",
+        "url": "property-photo/d56bbf2c4/95045535/d56bbf2c4e5e9786e567a38259702938.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/24ce7339f/95045535/24ce7339f649ecf8ee034c7d92537526_max_476x317.jpeg",
+        "url": "property-photo/24ce7339f/95045535/24ce7339f649ecf8ee034c7d92537526.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/94a8882cc/95045535/94a8882cca6399c2ba09b47820c0f04e_max_476x317.jpeg",
+        "url": "property-photo/94a8882cc/95045535/94a8882cca6399c2ba09b47820c0f04e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09cf03f8f/95045535/09cf03f8f8d451429bfdb8b727ba7d32_max_476x317.jpeg",
+        "url": "property-photo/09cf03f8f/95045535/09cf03f8f8d451429bfdb8b727ba7d32.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62aec51d8/95045535/62aec51d82dc374e104345d4450ac84a_max_476x317.jpeg",
+        "url": "property-photo/62aec51d8/95045535/62aec51d82dc374e104345d4450ac84a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe2fe459b/95045535/fe2fe459b3ee5a39c2db0fc9e6798b11_max_476x317.jpeg",
+        "url": "property-photo/fe2fe459b/95045535/fe2fe459b3ee5a39c2db0fc9e6798b11.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ad50dcc27/95045535/ad50dcc27c8d9201965eda23f067b76e_max_476x317.jpeg",
+        "url": "property-photo/ad50dcc27/95045535/ad50dcc27c8d9201965eda23f067b76e.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/85670f7a5/95045535/85670f7a516db709c9ae45143f90f014_max_476x317.jpeg",
+        "url": "property-photo/85670f7a5/95045535/85670f7a516db709c9ae45143f90f014.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/916720231/95045535/9167202317d03db81929b5f2a8299ce8_max_476x317.jpeg",
+        "url": "property-photo/916720231/95045535/9167202317d03db81929b5f2a8299ce8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ba3776602/95045535/ba3776602f37012e365e7a030ce5f919_max_476x317.jpeg",
+        "url": "property-photo/ba3776602/95045535/ba3776602f37012e365e7a030ce5f919.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3d6a173ad/95045535/3d6a173ad5534ffbf51a6d780a383903_max_476x317.jpeg",
+        "url": "property-photo/3d6a173ad/95045535/3d6a173ad5534ffbf51a6d780a383903.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/728f2bc35/95045535/728f2bc3554ae8a1d0700845a4bdd7f6_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Taylor Gibbs, Highgate",
+  "addedOrReduced": "Reduced on 03/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

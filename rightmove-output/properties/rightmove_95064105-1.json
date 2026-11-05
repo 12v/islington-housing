@@ -1,0 +1,255 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-05T02:08:53.341899+00:00",
+  "postcode": "N1 1QB",
+  "id": 95064105,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Serene one bedroom flat a short stroll from Highbury & Islington tube and Upper Street.",
+  "displayAddress": "Islington Park Street, Barnsbury, N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.543124,
+    "longitude": -0.104557
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10_max_476x317.jpeg",
+      "url": "property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/060154025/95064105/0601540252e5c802239ec990931c6000_max_476x317.jpeg",
+      "url": "property-photo/060154025/95064105/0601540252e5c802239ec990931c6000.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/072858a2d/95064105/072858a2d5d65e8b9d3ac3bf7dfb2883_max_476x317.jpeg",
+      "url": "property-photo/072858a2d/95064105/072858a2d5d65e8b9d3ac3bf7dfb2883.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2bfe1df8/95064105/f2bfe1df8ebc83101ecbad709249b53c_max_476x317.jpeg",
+      "url": "property-photo/f2bfe1df8/95064105/f2bfe1df8ebc83101ecbad709249b53c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b312e7ba/95064105/2b312e7ba79bc1e1dfa0abdac8237b48_max_476x317.jpeg",
+      "url": "property-photo/2b312e7ba/95064105/2b312e7ba79bc1e1dfa0abdac8237b48.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a33f6c630/95064105/a33f6c63011b9d8050489667d98e3c4d_max_476x317.jpeg",
+      "url": "property-photo/a33f6c630/95064105/a33f6c63011b9d8050489667d98e3c4d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2e1a2f8c/95064105/f2e1a2f8cf654e4856db124cfa58a406_max_476x317.jpeg",
+      "url": "property-photo/f2e1a2f8c/95064105/f2e1a2f8cf654e4856db124cfa58a406.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ae7ca057/95064105/3ae7ca057307736ab846169725788ace_max_476x317.jpeg",
+      "url": "property-photo/3ae7ca057/95064105/3ae7ca057307736ab846169725788ace.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0a9aea07/95064105/d0a9aea073e5f15ce235c36eef310dfd_max_476x317.jpeg",
+      "url": "property-photo/d0a9aea07/95064105/d0a9aea073e5f15ce235c36eef310dfd.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-03T14:51:18Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 107294,
+    "brandPlusLogoURI": "/partner-logo/13473920-PRODUCTS_LOGO-1766066939.jpeg",
+    "contactTelephone": "020 3879 8986",
+    "branchDisplayName": "PG Estates, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "PG Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/PG-Estates/Islington-107294.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13473920-PRODUCTS_LOGO-1766066939.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.<br /><br />Redress scheme provided by: The Property Ombudsman (DO2390)<br />Client Money Protection provided by: Propertymark (ARLA) (C0013958)",
+  "displaySize": "527 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95064105#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95064105",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-03T14:46:12Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-04T16:46:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One double bedroom",
+      "htmlDescription": "One double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Well located",
+      "htmlDescription": "Well located"
+    },
+    {
+      "order": 3,
+      "description": "Shops and amenities nearby",
+      "htmlDescription": "Shops and amenities nearby"
+    },
+    {
+      "order": 4,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 5,
+      "description": "Period features",
+      "htmlDescription": "Period features"
+    },
+    {
+      "order": 6,
+      "description": "Victorian building",
+      "htmlDescription": "Victorian building"
+    },
+    {
+      "order": 7,
+      "description": "Available 16 December 2026",
+      "htmlDescription": "Available 16 December 2026"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10_max_476x317.jpeg",
+        "url": "property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/060154025/95064105/0601540252e5c802239ec990931c6000_max_476x317.jpeg",
+        "url": "property-photo/060154025/95064105/0601540252e5c802239ec990931c6000.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/072858a2d/95064105/072858a2d5d65e8b9d3ac3bf7dfb2883_max_476x317.jpeg",
+        "url": "property-photo/072858a2d/95064105/072858a2d5d65e8b9d3ac3bf7dfb2883.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2bfe1df8/95064105/f2bfe1df8ebc83101ecbad709249b53c_max_476x317.jpeg",
+        "url": "property-photo/f2bfe1df8/95064105/f2bfe1df8ebc83101ecbad709249b53c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b312e7ba/95064105/2b312e7ba79bc1e1dfa0abdac8237b48_max_476x317.jpeg",
+        "url": "property-photo/2b312e7ba/95064105/2b312e7ba79bc1e1dfa0abdac8237b48.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a33f6c630/95064105/a33f6c63011b9d8050489667d98e3c4d_max_476x317.jpeg",
+        "url": "property-photo/a33f6c630/95064105/a33f6c63011b9d8050489667d98e3c4d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f2e1a2f8c/95064105/f2e1a2f8cf654e4856db124cfa58a406_max_476x317.jpeg",
+        "url": "property-photo/f2e1a2f8c/95064105/f2e1a2f8cf654e4856db124cfa58a406.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ae7ca057/95064105/3ae7ca057307736ab846169725788ace_max_476x317.jpeg",
+        "url": "property-photo/3ae7ca057/95064105/3ae7ca057307736ab846169725788ace.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0a9aea07/95064105/d0a9aea073e5f15ce235c36eef310dfd_max_476x317.jpeg",
+        "url": "property-photo/d0a9aea07/95064105/d0a9aea073e5f15ce235c36eef310dfd.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/44b40c80f/95064105/44b40c80f9953af588692ec773a18a10_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by PG Estates, Islington",
+  "addedOrReduced": "Added on 03/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
