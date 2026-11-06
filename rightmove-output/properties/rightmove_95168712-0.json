@@ -1,0 +1,270 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-06T04:29:02.527346+00:00",
+  "postcode": "N7 0SA",
+  "id": 95168712,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A charming and well-presented one-bedroom maisonette, quietly tucked away within a private cul-de-sac in the highly sought-after Hillmarton Conservation Area. The property offers well-proportioned accommodation throughout, comprising a separate reception room, a fitted kitchen, a spaci...",
+  "displayAddress": "Warlters Close, Holloway, London, N7",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.555666,
+    "longitude": -0.119641
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3_max_476x317.jpeg",
+      "url": "property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2931b49b5/95168712/2931b49b53c9934830dd14838a64e456_max_476x317.jpeg",
+      "url": "property-photo/2931b49b5/95168712/2931b49b53c9934830dd14838a64e456.jpeg",
+      "caption": "Picture No. 26"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/352cdd5c0/95168712/352cdd5c0682a4a194879b7c6f9e3f6f_max_476x317.jpeg",
+      "url": "property-photo/352cdd5c0/95168712/352cdd5c0682a4a194879b7c6f9e3f6f.jpeg",
+      "caption": "Picture No. 25"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48815e747/95168712/48815e74706d1e50953ff2b7f3ef0721_max_476x317.jpeg",
+      "url": "property-photo/48815e747/95168712/48815e74706d1e50953ff2b7f3ef0721.jpeg",
+      "caption": "Picture No. 27"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/992c11301/95168712/992c11301a1c6fa5397b64eb195aa285_max_476x317.jpeg",
+      "url": "property-photo/992c11301/95168712/992c11301a1c6fa5397b64eb195aa285.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92d5ea596/95168712/92d5ea5961a2d1f2d7aaa41223cee0c0_max_476x317.jpeg",
+      "url": "property-photo/92d5ea596/95168712/92d5ea5961a2d1f2d7aaa41223cee0c0.jpeg",
+      "caption": "Picture No. 29"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55383692e/95168712/55383692ec2f1c3028da6fec5afb0c50_max_476x317.jpeg",
+      "url": "property-photo/55383692e/95168712/55383692ec2f1c3028da6fec5afb0c50.jpeg",
+      "caption": "Picture No. 28"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06bf840bf/95168712/06bf840bf3e49024fa2b344d9a14720a_max_476x317.jpeg",
+      "url": "property-photo/06bf840bf/95168712/06bf840bf3e49024fa2b344d9a14720a.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4e22b174/95168712/e4e22b174b1e462e63b3706a19300298_max_476x317.jpeg",
+      "url": "property-photo/e4e22b174/95168712/e4e22b174b1e462e63b3706a19300298.jpeg",
+      "caption": "Picture No. 16"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-05T16:56:07Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 54616,
+    "brandPlusLogoURI": "/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "contactTelephone": "020 3909 9690",
+    "branchDisplayName": "Drivers & Norris, Islington- Lettings",
+    "branchName": "Islington- Lettings",
+    "brandTradingName": "Drivers & Norris",
+    "branchLandingPageUrl": "/estate-agents/agent/Drivers-and-Norris/Islington--Lettings-54616.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-01T03:35:36Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/6981562-PRODUCTS_LOGO-1766066515.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95168712#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95168712",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-05T16:50:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-05T19:40:15Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Charming one-bedroom maisonette",
+      "htmlDescription": "Charming one-bedroom maisonette"
+    },
+    {
+      "order": 2,
+      "description": "Quiet private cul-de-sac location",
+      "htmlDescription": "Quiet private cul-de-sac location"
+    },
+    {
+      "order": 3,
+      "description": "Situated within the sought-after Hillmarton Conservation Area",
+      "htmlDescription": "Situated within the sought-after Hillmarton Conservation Area"
+    },
+    {
+      "order": 4,
+      "description": "Separate reception room",
+      "htmlDescription": "Separate reception room"
+    },
+    {
+      "order": 5,
+      "description": "Fitted kitchen",
+      "htmlDescription": "Fitted kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Spacious double bedroom",
+      "htmlDescription": "Spacious double bedroom"
+    },
+    {
+      "order": 7,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    },
+    {
+      "order": 8,
+      "description": "Offered unfurnished",
+      "htmlDescription": "Offered unfurnished"
+    },
+    {
+      "order": 9,
+      "description": "Short walk to Holloway Road Station",
+      "htmlDescription": "Short walk to Holloway Road Station"
+    },
+    {
+      "order": 10,
+      "description": "Close to local shops and amenities",
+      "htmlDescription": "Close to local shops and amenities"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3_max_476x317.jpeg",
+        "url": "property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2931b49b5/95168712/2931b49b53c9934830dd14838a64e456_max_476x317.jpeg",
+        "url": "property-photo/2931b49b5/95168712/2931b49b53c9934830dd14838a64e456.jpeg",
+        "caption": "Picture No. 26"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/352cdd5c0/95168712/352cdd5c0682a4a194879b7c6f9e3f6f_max_476x317.jpeg",
+        "url": "property-photo/352cdd5c0/95168712/352cdd5c0682a4a194879b7c6f9e3f6f.jpeg",
+        "caption": "Picture No. 25"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48815e747/95168712/48815e74706d1e50953ff2b7f3ef0721_max_476x317.jpeg",
+        "url": "property-photo/48815e747/95168712/48815e74706d1e50953ff2b7f3ef0721.jpeg",
+        "caption": "Picture No. 27"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/992c11301/95168712/992c11301a1c6fa5397b64eb195aa285_max_476x317.jpeg",
+        "url": "property-photo/992c11301/95168712/992c11301a1c6fa5397b64eb195aa285.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92d5ea596/95168712/92d5ea5961a2d1f2d7aaa41223cee0c0_max_476x317.jpeg",
+        "url": "property-photo/92d5ea596/95168712/92d5ea5961a2d1f2d7aaa41223cee0c0.jpeg",
+        "caption": "Picture No. 29"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55383692e/95168712/55383692ec2f1c3028da6fec5afb0c50_max_476x317.jpeg",
+        "url": "property-photo/55383692e/95168712/55383692ec2f1c3028da6fec5afb0c50.jpeg",
+        "caption": "Picture No. 28"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/06bf840bf/95168712/06bf840bf3e49024fa2b344d9a14720a_max_476x317.jpeg",
+        "url": "property-photo/06bf840bf/95168712/06bf840bf3e49024fa2b344d9a14720a.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e4e22b174/95168712/e4e22b174b1e462e63b3706a19300298_max_476x317.jpeg",
+        "url": "property-photo/e4e22b174/95168712/e4e22b174b1e462e63b3706a19300298.jpeg",
+        "caption": "Picture No. 16"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f09f55952/95168712/f09f5595239cf0730a2c6d42760ba0f3_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Drivers & Norris, Islington- Lettings",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
