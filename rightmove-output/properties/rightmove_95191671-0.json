@@ -1,0 +1,260 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-07T01:32:49.550927+00:00",
+  "postcode": "N1 2BZ",
+  "id": 95191671,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully presented two bedroom apartment situated on the first floor of this attractive converted period property, ideally located on Pleasant Place in the heart of Islington.",
+  "displayAddress": "Pleasant Place London N1",
+  "countryCode": "GB",
+  "location": {
+    "latitude": 51.54002,
+    "longitude": -0.09861
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4_max_476x317.jpeg",
+      "url": "property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3bdc18df6/95191671/3bdc18df69b6aaa02fd335d5e08d240a_max_476x317.jpeg",
+      "url": "property-photo/3bdc18df6/95191671/3bdc18df69b6aaa02fd335d5e08d240a.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8b8e7e94/95191671/f8b8e7e94d60ee75ecdfdd4e010e71e9_max_476x317.jpeg",
+      "url": "property-photo/f8b8e7e94/95191671/f8b8e7e94d60ee75ecdfdd4e010e71e9.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adff65d3f/95191671/adff65d3f9847c05c5460b0b94a0ca47_max_476x317.jpeg",
+      "url": "property-photo/adff65d3f/95191671/adff65d3f9847c05c5460b0b94a0ca47.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8c617b67/95191671/a8c617b67e5826097245ec4de3e4daca_max_476x317.jpeg",
+      "url": "property-photo/a8c617b67/95191671/a8c617b67e5826097245ec4de3e4daca.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4228f2e4d/95191671/4228f2e4d48eb602cfb3b4c4c2751097_max_476x317.jpeg",
+      "url": "property-photo/4228f2e4d/95191671/4228f2e4d48eb602cfb3b4c4c2751097.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66929c2f8/95191671/66929c2f80a0c7579462c4fb4d5a03e5_max_476x317.jpeg",
+      "url": "property-photo/66929c2f8/95191671/66929c2f80a0c7579462c4fb4d5a03e5.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ab1507fb/95191671/3ab1507fb336270d2f4491a1116f21be_max_476x317.jpeg",
+      "url": "property-photo/3ab1507fb/95191671/3ab1507fb336270d2f4491a1116f21be.jpeg",
+      "caption": "Pleasant Place"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a519ce13/95191671/3a519ce13593166faaa5357a1a314d7a_max_476x317.jpeg",
+      "url": "property-photo/3a519ce13/95191671/3a519ce13593166faaa5357a1a314d7a.jpeg",
+      "caption": "Pleasant Place"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-04T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-06T11:46:11Z"
+  },
+  "price": {
+    "amount": 3400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3785 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 43763,
+    "brandPlusLogoURI": "/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "contactTelephone": "020 3866 5525",
+    "branchDisplayName": "Hamptons, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Hamptons",
+    "branchLandingPageUrl": "/estate-agents/agent/Hamptons/Islington-43763.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-09-14T13:45:57Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/16695795-PRODUCTS_LOGO-1766058375.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Tenancy information\n\nHamptons Fees and Charges in England\n\nPermitted charges in accordance with the Tenant Fee Act 2019 for ASSURED PERIODIC TENANCIES:\nHolding Deposit - Maximum one week s rent (may go on to form part of advance rent)\nFirst month s rent - In advance.\nTenancy Deposit - 5 weeks of agreed rent up to \u00a350k rent per annum or 6 weeks of rent over \u00a350k.\nEarly termination requested by the tenant - A charge not exceeding the financial loss experienced by the landlord.\nLate Rent - Interest charged at 3% above Bank of England base rate, when rent is more than 14 days late.\nLost key or security device - Equivalent to cost incurred.\nChanging the tenancy documents (after the commencement of the tenancy) - \u00a350 inc. VAT.\nNON HOUSING ACT TENANCY fees (not affected by the Tenant Fee Act 2019)\nA Non Housing Act Tenancy is formed when one of the following criteria is in place:\nThe annual rent exceeds \u00a3100,000.\nThe property is occupied by an entity (Company let) rather that an individual.\nThe property is not used as a main or primary home.\nThere is a Resident Landlord.\nTenancy Setup Fee - \u00a3360 inc VAT.\nCheck-in Fee checking into the property and reviewing inventory - Minimum of \u00a3130.80 inc VAT.\nEnhanced Reference Fee   Per Person \u00a360 inc VAT. Per Company \u00a3120 inc VAT\nTenancy Continuation - \u00a3300 inc VAT.\nChange of (Tenant) Householder - \u00a3300 inc VAT.\nEarly Termination Administration - \u00a3300 inc VAT.\nLate payment of rent - Interest will be charged at 3% above the Bank of England base rate.\nGuarantor Referencing Fee - \u00a360 inc VAT per person, \u00a3120 inc vat per company.\nStamp Duty Land Tax Payable on tenancies where the rent exceeds \u00a3125,000\nDuring the tenancy you may expect to pay:\nUtilities (gas, electricity, water)\nCouncil Tax\nBroadband, telephone, television licence\nSubscription to cable/satellite supplier\nInsurance (for your personal and own contents)\nGarden maintenance\nParking permits\n\nPlease note: The Initial Monies will be confirmed and must be paid by debit card or bank transfer. We are unable to accept cash.\nHamptons is a member of Propertymark and your monies are covered by the Propertymark Client Money Protection Scheme and a member of a redress scheme provided by The Property Ombudsman.\n",
+  "displaySize": "1 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95191671#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95191671",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-06T11:40:26Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-06T11:46:18Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "One Bathroom",
+      "htmlDescription": "One Bathroom"
+    },
+    {
+      "order": 3,
+      "description": "Open Plan Reception With Modern Kitchen",
+      "htmlDescription": "Open Plan Reception With Modern Kitchen"
+    },
+    {
+      "order": 4,
+      "description": "Contemporary Fixtures and Fittings",
+      "htmlDescription": "Contemporary Fixtures and Fittings"
+    },
+    {
+      "order": 5,
+      "description": "Fitted Storage",
+      "htmlDescription": "Fitted Storage"
+    },
+    {
+      "order": 6,
+      "description": "Natural Light",
+      "htmlDescription": "Natural Light"
+    },
+    {
+      "order": 7,
+      "description": "Offered Furnished",
+      "htmlDescription": "Offered Furnished"
+    },
+    {
+      "order": 8,
+      "description": "Council Tax - Band D",
+      "htmlDescription": "Council Tax - Band D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4_max_476x317.jpeg",
+        "url": "property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3bdc18df6/95191671/3bdc18df69b6aaa02fd335d5e08d240a_max_476x317.jpeg",
+        "url": "property-photo/3bdc18df6/95191671/3bdc18df69b6aaa02fd335d5e08d240a.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f8b8e7e94/95191671/f8b8e7e94d60ee75ecdfdd4e010e71e9_max_476x317.jpeg",
+        "url": "property-photo/f8b8e7e94/95191671/f8b8e7e94d60ee75ecdfdd4e010e71e9.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adff65d3f/95191671/adff65d3f9847c05c5460b0b94a0ca47_max_476x317.jpeg",
+        "url": "property-photo/adff65d3f/95191671/adff65d3f9847c05c5460b0b94a0ca47.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a8c617b67/95191671/a8c617b67e5826097245ec4de3e4daca_max_476x317.jpeg",
+        "url": "property-photo/a8c617b67/95191671/a8c617b67e5826097245ec4de3e4daca.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4228f2e4d/95191671/4228f2e4d48eb602cfb3b4c4c2751097_max_476x317.jpeg",
+        "url": "property-photo/4228f2e4d/95191671/4228f2e4d48eb602cfb3b4c4c2751097.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66929c2f8/95191671/66929c2f80a0c7579462c4fb4d5a03e5_max_476x317.jpeg",
+        "url": "property-photo/66929c2f8/95191671/66929c2f80a0c7579462c4fb4d5a03e5.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ab1507fb/95191671/3ab1507fb336270d2f4491a1116f21be_max_476x317.jpeg",
+        "url": "property-photo/3ab1507fb/95191671/3ab1507fb336270d2f4491a1116f21be.jpeg",
+        "caption": "Pleasant Place"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3a519ce13/95191671/3a519ce13593166faaa5357a1a314d7a_max_476x317.jpeg",
+        "url": "property-photo/3a519ce13/95191671/3a519ce13593166faaa5357a1a314d7a.jpeg",
+        "caption": "Pleasant Place"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/047f290fc/95191671/047f290fcb961f9074791370f71b3cc4_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hamptons, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
