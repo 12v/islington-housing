@@ -1,0 +1,211 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-12T04:04:03.250564+00:00",
+  "postcode": "N1 9BP",
+  "id": 95345691,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Situated on the sought-after Northdown Street, moments from King\u2019s Cross, this well-proportioned one-bedroom apartment offers approximately 630 sq ft of accommodation, providing an excellent amount of living space in an exceptionally convenient central London location. Set behind...",
+  "displayAddress": "Northdown Street, Kings Cross, London, N1",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.532281,
+    "longitude": -0.119702
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0_max_476x317.jpeg",
+      "url": "property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0.jpeg",
+      "caption": "Picture No. 22"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79cfb2aef/95345691/79cfb2aef9c54601b76fd5a33f26447a_max_476x317.jpeg",
+      "url": "property-photo/79cfb2aef/95345691/79cfb2aef9c54601b76fd5a33f26447a.jpeg",
+      "caption": "Picture No. 21"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f46950b0d/95345691/f46950b0db047c8683e659a9bfaebf64_max_476x317.jpeg",
+      "url": "property-photo/f46950b0d/95345691/f46950b0db047c8683e659a9bfaebf64.jpeg",
+      "caption": "Picture No. 24"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e9dcac7c/95345691/0e9dcac7c4c50b7b3dfd83623e5662e4_max_476x317.jpeg",
+      "url": "property-photo/0e9dcac7c/95345691/0e9dcac7c4c50b7b3dfd83623e5662e4.jpeg",
+      "caption": "Picture No.08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c50c1664/95345691/8c50c16641bec78ba5169fc9542c7acd_max_476x317.jpeg",
+      "url": "property-photo/8c50c1664/95345691/8c50c16641bec78ba5169fc9542c7acd.jpeg",
+      "caption": "Picture No. 23"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d09ea0eda/95345691/d09ea0eda3e19a80c00de9b802810ab9_max_476x317.jpeg",
+      "url": "property-photo/d09ea0eda/95345691/d09ea0eda3e19a80c00de9b802810ab9.jpeg",
+      "caption": "Picture No.13"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/430ed1cee/95345691/430ed1ceee08254c47e6fbb6f2f5cb8e_max_476x317.jpeg",
+      "url": "property-photo/430ed1cee/95345691/430ed1ceee08254c47e6fbb6f2f5cb8e.jpeg",
+      "caption": "Picture No.09"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-11T09:01:09Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 34986,
+    "brandPlusLogoURI": "/partner-logo/15200741-PRODUCTS_LOGO-1766057495.jpeg",
+    "contactTelephone": "020 3834 8468",
+    "branchDisplayName": "Winkworth, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Winkworth",
+    "branchLandingPageUrl": "/estate-agents/agent/Winkworth/Islington-34986.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-09-23T12:23:15Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/15200741-PRODUCTS_LOGO-1766057495.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "<<p>Winkworth Islington</p>\n\t\t<p><b>Tenant Fees Schedule</b></p>\n\t\t<p>NEW ASSURED SHORTHOLD TENANCIES (ASTs) SIGNED ON OR AFTER 1 JUNE 2019</p>\n\t\t<p><b>Holding Deposit (per tenancy) </b></p>\n\t\t<p>One week's rent. This is to reserve a property. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).</p>\n\t\t<p><b>Security Deposit </b>(per tenancy. Rent under \u00a350,000 per year)</p>\n\t\t<p>Five weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\n\t\t<p><b>Security Deposit </b>(per tenancy. Rent of \u00a350,000 or over per year)</p>\n\t\t<p>Six weeks' rent. This covers damages or defaults on the part of the tenant during the tenancy.</p>\n\t\t<p><b>Unpaid Rent</b></p>\n\t\t<p>Interest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please Note: This will not be levied until the rent is more than 14 days in arrears.</p>\n\t\t<p><b>Lost Key(s) or other Security Device(s)</b></p>\n\t\t<p>Tenants are liable to the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord any other persons requiring keys will be charged to the tenant. If extra costs are incurred there will be a charge of \u00a315 per hour (inc. VAT) for the time taken replacing lost key(s) or other security device(s).</p>\n\t\t<p><b>Variation of Contract </b>(Tenant's Request)</p>\n\t\t<p>\u00a350 (inc. VAT) per agreed variation. To cover the costs associated with taking landlord's instructions as well as the preparation and execution of new legal documents.</p>\n\t\t<p><b>Change of Sharer </b>(Tenant's Request)</p>\n\t\t<p>\u00a350 (inc. VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord's instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution of new legal documents.</p>\n\t\t<p><b>Early Termination </b>(Tenant's Request)</p>\n\t\t<p>Should the tenant wish to leave their contract early, they shall be liable to the landlord's costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy.</p>\n\t\t<p>If you have any questions on our fees, please ask a member of staff.</p>\n\t\t<p>Client Money Protection (CMP)<br />The office stated above protect their client money through \n\t\t PropertyMark.</p>\n\t\t <p><i>All Winkworth offices are registered with Property Redress Scheme and a copy of our Dispute Resolution Procedure is available on request.</i></p>",
+  "displaySize": "636 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95345691#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95345691",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-11T08:55:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-11T09:01:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "EPC Rating: C",
+      "htmlDescription": "EPC Rating: C"
+    },
+    {
+      "order": 2,
+      "description": "Council Tax Band: D",
+      "htmlDescription": "Council Tax Band:  D"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0_max_476x317.jpeg",
+        "url": "property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0.jpeg",
+        "caption": "Picture No. 22"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79cfb2aef/95345691/79cfb2aef9c54601b76fd5a33f26447a_max_476x317.jpeg",
+        "url": "property-photo/79cfb2aef/95345691/79cfb2aef9c54601b76fd5a33f26447a.jpeg",
+        "caption": "Picture No. 21"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f46950b0d/95345691/f46950b0db047c8683e659a9bfaebf64_max_476x317.jpeg",
+        "url": "property-photo/f46950b0d/95345691/f46950b0db047c8683e659a9bfaebf64.jpeg",
+        "caption": "Picture No. 24"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0e9dcac7c/95345691/0e9dcac7c4c50b7b3dfd83623e5662e4_max_476x317.jpeg",
+        "url": "property-photo/0e9dcac7c/95345691/0e9dcac7c4c50b7b3dfd83623e5662e4.jpeg",
+        "caption": "Picture No.08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c50c1664/95345691/8c50c16641bec78ba5169fc9542c7acd_max_476x317.jpeg",
+        "url": "property-photo/8c50c1664/95345691/8c50c16641bec78ba5169fc9542c7acd.jpeg",
+        "caption": "Picture No. 23"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d09ea0eda/95345691/d09ea0eda3e19a80c00de9b802810ab9_max_476x317.jpeg",
+        "url": "property-photo/d09ea0eda/95345691/d09ea0eda3e19a80c00de9b802810ab9.jpeg",
+        "caption": "Picture No.13"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/430ed1cee/95345691/430ed1ceee08254c47e6fbb6f2f5cb8e_max_476x317.jpeg",
+        "url": "property-photo/430ed1cee/95345691/430ed1ceee08254c47e6fbb6f2f5cb8e.jpeg",
+        "caption": "Picture No.09"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c02d09e6/95345691/1c02d09e67f49af5c093824c4d4c2bd0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Winkworth, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
