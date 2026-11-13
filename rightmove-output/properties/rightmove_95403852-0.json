@@ -1,0 +1,311 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-13T04:17:46.107430+00:00",
+  "postcode": "N5 1NU",
+  "id": 95403852,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 13,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A bright and spacious two-bedroom, two-bathroom apartment with private balcony situated on the second floor of a modern development (with lift) in a desirable Highbury location. This delightful property has a spacious living area with an open-plan kitchen, dining area and reception space, openin...",
+  "displayAddress": "Drayton Park, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.550739,
+    "longitude": -0.10897
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128_max_476x317.jpeg",
+      "url": "property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128.jpeg",
+      "caption": "Front (Exterior)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60d6b12bf/95403852/60d6b12bf626220aa26e81d3eec8f1e7_max_476x317.jpeg",
+      "url": "property-photo/60d6b12bf/95403852/60d6b12bf626220aa26e81d3eec8f1e7.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea41dcc19/95403852/ea41dcc19cc3a9f803266fb8890309c3_max_476x317.jpeg",
+      "url": "property-photo/ea41dcc19/95403852/ea41dcc19cc3a9f803266fb8890309c3.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc5dad14e/95403852/fc5dad14e1ad0c501d2508d79458267b_max_476x317.jpeg",
+      "url": "property-photo/fc5dad14e/95403852/fc5dad14e1ad0c501d2508d79458267b.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40771dd6e/95403852/40771dd6e9a96881790df078660c7fd4_max_476x317.jpeg",
+      "url": "property-photo/40771dd6e/95403852/40771dd6e9a96881790df078660c7fd4.jpeg",
+      "caption": "Dining Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7f5227f3/95403852/d7f5227f3241bc9784c3299f05096a21_max_476x317.jpeg",
+      "url": "property-photo/d7f5227f3/95403852/d7f5227f3241bc9784c3299f05096a21.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d99d9230e/95403852/d99d9230e1e8416ed3e40640a1584dfe_max_476x317.jpeg",
+      "url": "property-photo/d99d9230e/95403852/d99d9230e1e8416ed3e40640a1584dfe.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9a8375b0/95403852/d9a8375b0b3afac1a8f5acd4180adb19_max_476x317.jpeg",
+      "url": "property-photo/d9a8375b0/95403852/d9a8375b0b3afac1a8f5acd4180adb19.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c813d9651/95403852/c813d965165106ab2eb03564bc00bc2d_max_476x317.jpeg",
+      "url": "property-photo/c813d9651/95403852/c813d965165106ab2eb03564bc00bc2d.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9f849359/95403852/e9f8493597bb343b3e21803374277bc7_max_476x317.jpeg",
+      "url": "property-photo/e9f849359/95403852/e9f8493597bb343b3e21803374277bc7.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/323c5b94b/95403852/323c5b94b5b70a28f7dad4a237f01aca_max_476x317.jpeg",
+      "url": "property-photo/323c5b94b/95403852/323c5b94b5b70a28f7dad4a237f01aca.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0961701d/95403852/b0961701d603215327aaf6eed364ae6f_max_476x317.jpeg",
+      "url": "property-photo/b0961701d/95403852/b0961701d603215327aaf6eed364ae6f.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5e4d3523/95403852/c5e4d35234f257ff08899756e093a739_max_476x317.jpeg",
+      "url": "property-photo/c5e4d3523/95403852/c5e4d35234f257ff08899756e093a739.jpeg",
+      "caption": "Balcony"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-12T12:26:06Z"
+  },
+  "price": {
+    "amount": 3250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3750 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 287624,
+    "brandPlusLogoURI": "/partner-logo/37134146-PRODUCTS_LOGO-1766057617.jpeg",
+    "contactTelephone": "020 7362 7888",
+    "branchDisplayName": "Ashbury London, Covering London",
+    "branchName": "Covering London",
+    "brandTradingName": "Ashbury London",
+    "branchLandingPageUrl": "/estate-agents/agent/Ashbury-London/Covering-London-287624.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-24T15:22:04Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/37134146-PRODUCTS_LOGO-1766057617.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "854 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95403852#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95403852",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-12T12:20:12Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-12T12:26:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two Double Bedrooms",
+      "htmlDescription": "Two Double Bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Two Bathrooms",
+      "htmlDescription": "Two Bathrooms"
+    },
+    {
+      "order": 3,
+      "description": "Spacious Living Area",
+      "htmlDescription": "Spacious Living Area"
+    },
+    {
+      "order": 4,
+      "description": "Fitted Cupboards",
+      "htmlDescription": "Fitted Cupboards"
+    },
+    {
+      "order": 5,
+      "description": "Private South Facing Balcony",
+      "htmlDescription": "Private South Facing Balcony"
+    },
+    {
+      "order": 6,
+      "description": "Wooded Flooring",
+      "htmlDescription": "Wooded Flooring"
+    },
+    {
+      "order": 7,
+      "description": "Excellent Condition",
+      "htmlDescription": "Excellent Condition"
+    },
+    {
+      "order": 8,
+      "description": "Second Floor",
+      "htmlDescription": "Second Floor"
+    },
+    {
+      "order": 9,
+      "description": "Lift",
+      "htmlDescription": "Lift"
+    },
+    {
+      "order": 10,
+      "description": "Abundance of Natural Light",
+      "htmlDescription": "Abundance of Natural Light"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128_max_476x317.jpeg",
+        "url": "property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128.jpeg",
+        "caption": "Front (Exterior)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60d6b12bf/95403852/60d6b12bf626220aa26e81d3eec8f1e7_max_476x317.jpeg",
+        "url": "property-photo/60d6b12bf/95403852/60d6b12bf626220aa26e81d3eec8f1e7.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea41dcc19/95403852/ea41dcc19cc3a9f803266fb8890309c3_max_476x317.jpeg",
+        "url": "property-photo/ea41dcc19/95403852/ea41dcc19cc3a9f803266fb8890309c3.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fc5dad14e/95403852/fc5dad14e1ad0c501d2508d79458267b_max_476x317.jpeg",
+        "url": "property-photo/fc5dad14e/95403852/fc5dad14e1ad0c501d2508d79458267b.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40771dd6e/95403852/40771dd6e9a96881790df078660c7fd4_max_476x317.jpeg",
+        "url": "property-photo/40771dd6e/95403852/40771dd6e9a96881790df078660c7fd4.jpeg",
+        "caption": "Dining Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d7f5227f3/95403852/d7f5227f3241bc9784c3299f05096a21_max_476x317.jpeg",
+        "url": "property-photo/d7f5227f3/95403852/d7f5227f3241bc9784c3299f05096a21.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d99d9230e/95403852/d99d9230e1e8416ed3e40640a1584dfe_max_476x317.jpeg",
+        "url": "property-photo/d99d9230e/95403852/d99d9230e1e8416ed3e40640a1584dfe.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9a8375b0/95403852/d9a8375b0b3afac1a8f5acd4180adb19_max_476x317.jpeg",
+        "url": "property-photo/d9a8375b0/95403852/d9a8375b0b3afac1a8f5acd4180adb19.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c813d9651/95403852/c813d965165106ab2eb03564bc00bc2d_max_476x317.jpeg",
+        "url": "property-photo/c813d9651/95403852/c813d965165106ab2eb03564bc00bc2d.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9f849359/95403852/e9f8493597bb343b3e21803374277bc7_max_476x317.jpeg",
+        "url": "property-photo/e9f849359/95403852/e9f8493597bb343b3e21803374277bc7.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/323c5b94b/95403852/323c5b94b5b70a28f7dad4a237f01aca_max_476x317.jpeg",
+        "url": "property-photo/323c5b94b/95403852/323c5b94b5b70a28f7dad4a237f01aca.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0961701d/95403852/b0961701d603215327aaf6eed364ae6f_max_476x317.jpeg",
+        "url": "property-photo/b0961701d/95403852/b0961701d603215327aaf6eed364ae6f.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c5e4d3523/95403852/c5e4d35234f257ff08899756e093a739_max_476x317.jpeg",
+        "url": "property-photo/c5e4d3523/95403852/c5e4d35234f257ff08899756e093a739.jpeg",
+        "caption": "Balcony"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2316a993/95403852/b2316a99346bdabad1ff418771ef8128_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Ashbury London, Covering London",
+  "addedOrReduced": "Added yesterday",
+  "heading": "",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,401 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-13T01:32:00.697404+00:00",
+  "postcode": "EC1V 2AP",
+  "id": 95347281,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 22,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A modern, bright two-bedroom furnished apartment situated in the City of London with a backdrop of London. Located in Zone 1, 250 City Road.",
+  "displayAddress": "Valencia Tower, 250 City Road",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.528903,
+    "longitude": -0.095103
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf_max_476x317.jpeg",
+      "url": "property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf.jpeg",
+      "caption": "DH-20211.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9484ee7e/95347281/d9484ee7e4c0de587632374d6c83e323_max_476x317.jpeg",
+      "url": "property-photo/d9484ee7e/95347281/d9484ee7e4c0de587632374d6c83e323.jpeg",
+      "caption": "DH-20211 (3).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a014ba894/95347281/a014ba894063fe38b698b6fd5af69996_max_476x317.jpeg",
+      "url": "property-photo/a014ba894/95347281/a014ba894063fe38b698b6fd5af69996.jpeg",
+      "caption": "c68fb355694a836e36e2757419d95eaa-min.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f167c92ed/95347281/f167c92ed0ec0bf811c8fd17ed9895db_max_476x317.jpeg",
+      "url": "property-photo/f167c92ed/95347281/f167c92ed0ec0bf811c8fd17ed9895db.jpeg",
+      "caption": "DH-20211 (2).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/836981bb5/95347281/836981bb5bdc795d4715016b3c9a5bf4_max_476x317.jpeg",
+      "url": "property-photo/836981bb5/95347281/836981bb5bdc795d4715016b3c9a5bf4.jpeg",
+      "caption": "DH-20211 (4).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1e72da9f/95347281/b1e72da9fc311c532a7b2ea3650fe348_max_476x317.jpeg",
+      "url": "property-photo/b1e72da9f/95347281/b1e72da9fc311c532a7b2ea3650fe348.jpeg",
+      "caption": "VT-2014 (8).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acde4a7d4/95347281/acde4a7d4f976ac08c5d40aed448b180_max_476x317.jpeg",
+      "url": "property-photo/acde4a7d4/95347281/acde4a7d4f976ac08c5d40aed448b180.jpeg",
+      "caption": "VT-2014 (20).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26ea941c4/95347281/26ea941c46886dde29a768338835b933_max_476x317.jpeg",
+      "url": "property-photo/26ea941c4/95347281/26ea941c46886dde29a768338835b933.jpeg",
+      "caption": "VT-2014 (3).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fc6b3149/95347281/4fc6b314969b90b119273e841f2c3ad3_max_476x317.jpeg",
+      "url": "property-photo/4fc6b3149/95347281/4fc6b314969b90b119273e841f2c3ad3.jpeg",
+      "caption": "VT-2014 (4).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72d5cbc4/95347281/d72d5cbc45e1c19d8d28c598e4fa5054_max_476x317.jpeg",
+      "url": "property-photo/d72d5cbc4/95347281/d72d5cbc45e1c19d8d28c598e4fa5054.jpeg",
+      "caption": "9.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b9d45fb/95347281/e8b9d45fb70d9279de452115447947ae_max_476x317.jpeg",
+      "url": "property-photo/e8b9d45fb/95347281/e8b9d45fb70d9279de452115447947ae.jpeg",
+      "caption": "VT-2014 (6).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb5972008/95347281/fb5972008c8a8c81a6d5d8891dda8a34_max_476x317.jpeg",
+      "url": "property-photo/fb5972008/95347281/fb5972008c8a8c81a6d5d8891dda8a34.jpeg",
+      "caption": "VT-2014 (7).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/807a9c27d/95347281/807a9c27d7d56f853aa6a577ccd0ef20_max_476x317.jpeg",
+      "url": "property-photo/807a9c27d/95347281/807a9c27d7d56f853aa6a577ccd0ef20.jpeg",
+      "caption": "VT-2014 (10).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1757cac3/95347281/b1757cac3567f91ec6bed86d35041bd5_max_476x317.jpeg",
+      "url": "property-photo/b1757cac3/95347281/b1757cac3567f91ec6bed86d35041bd5.jpeg",
+      "caption": "VT-2014 (13).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4631f51ff/95347281/4631f51fff359a0ea278ce7fd3264e95_max_476x317.jpeg",
+      "url": "property-photo/4631f51ff/95347281/4631f51fff359a0ea278ce7fd3264e95.jpeg",
+      "caption": "VT-2014 (16).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c96dc8aa2/95347281/c96dc8aa2bf014f2e47aed02863b4770_max_476x317.jpeg",
+      "url": "property-photo/c96dc8aa2/95347281/c96dc8aa2bf014f2e47aed02863b4770.jpeg",
+      "caption": "VT-2014 (19).jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4ee302e/95347281/7c4ee302ec4b40e58d3ee75c1b04a630_max_476x317.jpeg",
+      "url": "property-photo/7c4ee302e/95347281/7c4ee302ec4b40e58d3ee75c1b04a630.jpeg",
+      "caption": "Cinema .jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6fcd7ed4/95347281/d6fcd7ed4bdbea609de2a148356c3340_max_476x317.jpeg",
+      "url": "property-photo/d6fcd7ed4/95347281/d6fcd7ed4bdbea609de2a148356c3340.jpeg",
+      "caption": "Gym .jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ce5dbe5a/95347281/6ce5dbe5afa62823d35fe3e64a15cb15_max_476x317.jpeg",
+      "url": "property-photo/6ce5dbe5a/95347281/6ce5dbe5afa62823d35fe3e64a15cb15.jpeg",
+      "caption": "Gym 1.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5ff45bbb/95347281/e5ff45bbb989c51f1b67b6a572dcabb1_max_476x317.jpeg",
+      "url": "property-photo/e5ff45bbb/95347281/e5ff45bbb989c51f1b67b6a572dcabb1.jpeg",
+      "caption": "gym 2.jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14f7339ae/95347281/14f7339ae50fbc6723b5f75b4ac4076e_max_476x317.jpeg",
+      "url": "property-photo/14f7339ae/95347281/14f7339ae50fbc6723b5f75b4ac4076e.jpeg",
+      "caption": "Lounge .jpeg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40da10ced/95347281/40da10ced2c11480ad58a0e2fb3ec883_max_476x317.jpeg",
+      "url": "property-photo/40da10ced/95347281/40da10ced2c11480ad58a0e2fb3ec883.jpeg",
+      "caption": "swiming pool .jpeg"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-10T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-11T09:25:07Z"
+  },
+  "price": {
+    "amount": 5500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a35,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,269 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 267257,
+    "brandPlusLogoURI": "/partner-logo/31210049-PRODUCTS_LOGO-1766063179.png",
+    "contactTelephone": "020 4538 1957",
+    "branchDisplayName": "CROWN LUXURY HOMES LIMITED, London",
+    "branchName": "London",
+    "brandTradingName": "CROWN LUXURY HOMES LIMITED",
+    "branchLandingPageUrl": "/estate-agents/agent/CROWN-LUXURY-HOMES-LIMITED/London-267257.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31210049-PRODUCTS_LOGO-1766063179.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "904 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95347281#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95347281",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-11T09:19:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-12T05:31:50Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "9th Floor",
+      "htmlDescription": "9th Floor"
+    },
+    {
+      "order": 2,
+      "description": "Furnished",
+      "htmlDescription": "Furnished"
+    },
+    {
+      "order": 3,
+      "description": "Floor-to-ceiling windows",
+      "htmlDescription": "Floor-to-ceiling windows"
+    },
+    {
+      "order": 4,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 5,
+      "description": "Residents' Gym",
+      "htmlDescription": "Residents' Gym"
+    },
+    {
+      "order": 6,
+      "description": "Residents' Swimming Pool",
+      "htmlDescription": "Residents' Swimming Pool"
+    },
+    {
+      "order": 7,
+      "description": "Residents' Lounge",
+      "htmlDescription": "Residents' Lounge"
+    },
+    {
+      "order": 8,
+      "description": "Residents' Spa",
+      "htmlDescription": "Residents' Spa"
+    },
+    {
+      "order": 9,
+      "description": "Residents' Cinema",
+      "htmlDescription": "Residents' Cinema"
+    },
+    {
+      "order": 10,
+      "description": "Near Old Street Station",
+      "htmlDescription": "Near Old Street Station"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf_max_476x317.jpeg",
+        "url": "property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf.jpeg",
+        "caption": "DH-20211.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9484ee7e/95347281/d9484ee7e4c0de587632374d6c83e323_max_476x317.jpeg",
+        "url": "property-photo/d9484ee7e/95347281/d9484ee7e4c0de587632374d6c83e323.jpeg",
+        "caption": "DH-20211 (3).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a014ba894/95347281/a014ba894063fe38b698b6fd5af69996_max_476x317.jpeg",
+        "url": "property-photo/a014ba894/95347281/a014ba894063fe38b698b6fd5af69996.jpeg",
+        "caption": "c68fb355694a836e36e2757419d95eaa-min.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f167c92ed/95347281/f167c92ed0ec0bf811c8fd17ed9895db_max_476x317.jpeg",
+        "url": "property-photo/f167c92ed/95347281/f167c92ed0ec0bf811c8fd17ed9895db.jpeg",
+        "caption": "DH-20211 (2).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/836981bb5/95347281/836981bb5bdc795d4715016b3c9a5bf4_max_476x317.jpeg",
+        "url": "property-photo/836981bb5/95347281/836981bb5bdc795d4715016b3c9a5bf4.jpeg",
+        "caption": "DH-20211 (4).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1e72da9f/95347281/b1e72da9fc311c532a7b2ea3650fe348_max_476x317.jpeg",
+        "url": "property-photo/b1e72da9f/95347281/b1e72da9fc311c532a7b2ea3650fe348.jpeg",
+        "caption": "VT-2014 (8).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/acde4a7d4/95347281/acde4a7d4f976ac08c5d40aed448b180_max_476x317.jpeg",
+        "url": "property-photo/acde4a7d4/95347281/acde4a7d4f976ac08c5d40aed448b180.jpeg",
+        "caption": "VT-2014 (20).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/26ea941c4/95347281/26ea941c46886dde29a768338835b933_max_476x317.jpeg",
+        "url": "property-photo/26ea941c4/95347281/26ea941c46886dde29a768338835b933.jpeg",
+        "caption": "VT-2014 (3).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4fc6b3149/95347281/4fc6b314969b90b119273e841f2c3ad3_max_476x317.jpeg",
+        "url": "property-photo/4fc6b3149/95347281/4fc6b314969b90b119273e841f2c3ad3.jpeg",
+        "caption": "VT-2014 (4).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d72d5cbc4/95347281/d72d5cbc45e1c19d8d28c598e4fa5054_max_476x317.jpeg",
+        "url": "property-photo/d72d5cbc4/95347281/d72d5cbc45e1c19d8d28c598e4fa5054.jpeg",
+        "caption": "9.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8b9d45fb/95347281/e8b9d45fb70d9279de452115447947ae_max_476x317.jpeg",
+        "url": "property-photo/e8b9d45fb/95347281/e8b9d45fb70d9279de452115447947ae.jpeg",
+        "caption": "VT-2014 (6).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fb5972008/95347281/fb5972008c8a8c81a6d5d8891dda8a34_max_476x317.jpeg",
+        "url": "property-photo/fb5972008/95347281/fb5972008c8a8c81a6d5d8891dda8a34.jpeg",
+        "caption": "VT-2014 (7).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/807a9c27d/95347281/807a9c27d7d56f853aa6a577ccd0ef20_max_476x317.jpeg",
+        "url": "property-photo/807a9c27d/95347281/807a9c27d7d56f853aa6a577ccd0ef20.jpeg",
+        "caption": "VT-2014 (10).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b1757cac3/95347281/b1757cac3567f91ec6bed86d35041bd5_max_476x317.jpeg",
+        "url": "property-photo/b1757cac3/95347281/b1757cac3567f91ec6bed86d35041bd5.jpeg",
+        "caption": "VT-2014 (13).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4631f51ff/95347281/4631f51fff359a0ea278ce7fd3264e95_max_476x317.jpeg",
+        "url": "property-photo/4631f51ff/95347281/4631f51fff359a0ea278ce7fd3264e95.jpeg",
+        "caption": "VT-2014 (16).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c96dc8aa2/95347281/c96dc8aa2bf014f2e47aed02863b4770_max_476x317.jpeg",
+        "url": "property-photo/c96dc8aa2/95347281/c96dc8aa2bf014f2e47aed02863b4770.jpeg",
+        "caption": "VT-2014 (19).jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c4ee302e/95347281/7c4ee302ec4b40e58d3ee75c1b04a630_max_476x317.jpeg",
+        "url": "property-photo/7c4ee302e/95347281/7c4ee302ec4b40e58d3ee75c1b04a630.jpeg",
+        "caption": "Cinema .jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d6fcd7ed4/95347281/d6fcd7ed4bdbea609de2a148356c3340_max_476x317.jpeg",
+        "url": "property-photo/d6fcd7ed4/95347281/d6fcd7ed4bdbea609de2a148356c3340.jpeg",
+        "caption": "Gym .jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ce5dbe5a/95347281/6ce5dbe5afa62823d35fe3e64a15cb15_max_476x317.jpeg",
+        "url": "property-photo/6ce5dbe5a/95347281/6ce5dbe5afa62823d35fe3e64a15cb15.jpeg",
+        "caption": "Gym 1.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e5ff45bbb/95347281/e5ff45bbb989c51f1b67b6a572dcabb1_max_476x317.jpeg",
+        "url": "property-photo/e5ff45bbb/95347281/e5ff45bbb989c51f1b67b6a572dcabb1.jpeg",
+        "caption": "gym 2.jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14f7339ae/95347281/14f7339ae50fbc6723b5f75b4ac4076e_max_476x317.jpeg",
+        "url": "property-photo/14f7339ae/95347281/14f7339ae50fbc6723b5f75b4ac4076e.jpeg",
+        "caption": "Lounge .jpeg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40da10ced/95347281/40da10ced2c11480ad58a0e2fb3ec883_max_476x317.jpeg",
+        "url": "property-photo/40da10ced/95347281/40da10ced2c11480ad58a0e2fb3ec883.jpeg",
+        "caption": "swiming pool .jpeg"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/adc5e6fcb/95347281/adc5e6fcb63fb7ae85554109f5d845bf_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by CROWN LUXURY HOMES LIMITED, London",
+  "addedOrReduced": "Added on 11/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,240 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-13T04:02:38.399697+00:00",
+  "postcode": "N4 2DR",
+  "id": 95378364,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Wilkinson Byrne are delighted to offer for rent this above average sized furnished one bedroom split level flat converted from a Victorian building and with the use of a wonderful garden. Briefly comprising of a large reception room, double size bedroom with built in wardrobes, bathroom with wind...",
+  "displayAddress": "Blackstock Road, Finsbury Park ",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.56209,
+    "longitude": -0.10072
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12_max_476x317.jpeg",
+      "url": "property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d19a88c3/95378364/8d19a88c309e9a41e4f79418629df09b_max_476x317.jpeg",
+      "url": "property-photo/8d19a88c3/95378364/8d19a88c309e9a41e4f79418629df09b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/356edb97c/95378364/356edb97c8464c240af78af275ae4ec7_max_476x317.jpeg",
+      "url": "property-photo/356edb97c/95378364/356edb97c8464c240af78af275ae4ec7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d7c70f88/95378364/6d7c70f8809e3d79e0114af9f3d619d1_max_476x317.jpeg",
+      "url": "property-photo/6d7c70f88/95378364/6d7c70f8809e3d79e0114af9f3d619d1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36220636e/95378364/36220636e4e0d54cfc79e2fd7a2d52c4_max_476x317.jpeg",
+      "url": "property-photo/36220636e/95378364/36220636e4e0d54cfc79e2fd7a2d52c4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e7aeb7f4/95378364/4e7aeb7f4f072cf2757bc260ee9e41ed_max_476x317.jpeg",
+      "url": "property-photo/4e7aeb7f4/95378364/4e7aeb7f4f072cf2757bc260ee9e41ed.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c974b2709/95378364/c974b27099dd8dd70d976e113a43e354_max_476x317.jpeg",
+      "url": "property-photo/c974b2709/95378364/c974b27099dd8dd70d976e113a43e354.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/211a238df/95378364/211a238dfc3b1d3667eada3de077df34_max_476x317.jpeg",
+      "url": "property-photo/211a238df/95378364/211a238dfc3b1d3667eada3de077df34.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b8396beb/95378364/0b8396beb374f719f9b66229ca7b4d5c_max_476x317.jpeg",
+      "url": "property-photo/0b8396beb/95378364/0b8396beb374f719f9b66229ca7b4d5c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b40a69c6/95378364/2b40a69c6ed4086f89bbf74c9cd83238_max_476x317.jpeg",
+      "url": "property-photo/2b40a69c6/95378364/2b40a69c6ed4086f89bbf74c9cd83238.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ccd7b4b9/95378364/9ccd7b4b90c49e3be8bc997d9d695b63_max_476x317.jpeg",
+      "url": "property-photo/9ccd7b4b9/95378364/9ccd7b4b90c49e3be8bc997d9d695b63.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-11T17:00:13Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 14497,
+    "brandPlusLogoURI": "/partner-logo/22992-PRODUCTS_LOGO-1766066966.png",
+    "contactTelephone": "020 3834 7951",
+    "branchDisplayName": "Wilkinson Byrne, Harringay",
+    "branchName": "Harringay",
+    "brandTradingName": "Wilkinson Byrne",
+    "branchLandingPageUrl": "/estate-agents/agent/Wilkinson-Byrne/Harringay-14497.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-01T03:17:14Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/22992-PRODUCTS_LOGO-1766066966.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95378364#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95378364",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-11T16:54:29Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-13T03:33:45Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12_max_476x317.jpeg",
+        "url": "property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d19a88c3/95378364/8d19a88c309e9a41e4f79418629df09b_max_476x317.jpeg",
+        "url": "property-photo/8d19a88c3/95378364/8d19a88c309e9a41e4f79418629df09b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/356edb97c/95378364/356edb97c8464c240af78af275ae4ec7_max_476x317.jpeg",
+        "url": "property-photo/356edb97c/95378364/356edb97c8464c240af78af275ae4ec7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d7c70f88/95378364/6d7c70f8809e3d79e0114af9f3d619d1_max_476x317.jpeg",
+        "url": "property-photo/6d7c70f88/95378364/6d7c70f8809e3d79e0114af9f3d619d1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/36220636e/95378364/36220636e4e0d54cfc79e2fd7a2d52c4_max_476x317.jpeg",
+        "url": "property-photo/36220636e/95378364/36220636e4e0d54cfc79e2fd7a2d52c4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e7aeb7f4/95378364/4e7aeb7f4f072cf2757bc260ee9e41ed_max_476x317.jpeg",
+        "url": "property-photo/4e7aeb7f4/95378364/4e7aeb7f4f072cf2757bc260ee9e41ed.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c974b2709/95378364/c974b27099dd8dd70d976e113a43e354_max_476x317.jpeg",
+        "url": "property-photo/c974b2709/95378364/c974b27099dd8dd70d976e113a43e354.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/211a238df/95378364/211a238dfc3b1d3667eada3de077df34_max_476x317.jpeg",
+        "url": "property-photo/211a238df/95378364/211a238dfc3b1d3667eada3de077df34.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0b8396beb/95378364/0b8396beb374f719f9b66229ca7b4d5c_max_476x317.jpeg",
+        "url": "property-photo/0b8396beb/95378364/0b8396beb374f719f9b66229ca7b4d5c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2b40a69c6/95378364/2b40a69c6ed4086f89bbf74c9cd83238_max_476x317.jpeg",
+        "url": "property-photo/2b40a69c6/95378364/2b40a69c6ed4086f89bbf74c9cd83238.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9ccd7b4b9/95378364/9ccd7b4b90c49e3be8bc997d9d695b63_max_476x317.jpeg",
+        "url": "property-photo/9ccd7b4b9/95378364/9ccd7b4b90c49e3be8bc997d9d695b63.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af400e755/95378364/af400e7554c0ed1403c27922b0cc7f12_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Wilkinson Byrne, Harringay",
+  "addedOrReduced": "Added on 11/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

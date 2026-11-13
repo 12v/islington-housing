@@ -1,0 +1,226 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-13T05:01:03.900770+00:00",
+  "postcode": "N7 9JF",
+  "id": 95406750,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "## AVAILABLE 05TH OF JANUARY ## Alex Marks are pleased to present this large 1 double bedroom flat in a period building which is located within easy reach of Caledonian Road tube station. The flat offers a large double bedroom, separate lounge, separate modern kitchen, 1 fully fitted bathroom. Th...",
+  "displayAddress": "Hillmarton Road, Caledonian Road, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.551403,
+    "longitude": -0.120842
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd_max_476x317.jpeg",
+      "url": "property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c086bc15/95406750/0c086bc158a566a7cdb88bfc56566c61_max_476x317.jpeg",
+      "url": "property-photo/0c086bc15/95406750/0c086bc158a566a7cdb88bfc56566c61.jpeg",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc1322714/95406750/dc1322714eea059abee743cf7c18b9fc_max_476x317.jpeg",
+      "url": "property-photo/dc1322714/95406750/dc1322714eea059abee743cf7c18b9fc.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7778088ab/95406750/7778088abc607ca292b7607b6657c257_max_476x317.jpeg",
+      "url": "property-photo/7778088ab/95406750/7778088abc607ca292b7607b6657c257.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c30e5dabd/95406750/c30e5dabdc4e2c5af8de54fbf532e873_max_476x317.jpeg",
+      "url": "property-photo/c30e5dabd/95406750/c30e5dabdc4e2c5af8de54fbf532e873.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7354b18b4/95406750/7354b18b453ae0d60d04dfd2589c3a57_max_476x317.jpeg",
+      "url": "property-photo/7354b18b4/95406750/7354b18b453ae0d60d04dfd2589c3a57.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aad332bde/95406750/aad332bdeb2dd893f620753d29519158_max_476x317.jpeg",
+      "url": "property-photo/aad332bde/95406750/aad332bdeb2dd893f620753d29519158.jpeg",
+      "caption": "Bathroom"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-12T13:14:05Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 90731,
+    "brandPlusLogoURI": "/partner-logo/10033556-LOGO-1765963282.png",
+    "contactTelephone": "020 3872 5262",
+    "branchDisplayName": "Alex Marks, London",
+    "branchName": "London",
+    "brandTradingName": "Alex Marks",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Marks/London-90731.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-01T09:18:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10033556-LOGO-1765963282.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95406750#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95406750",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-12T13:08:15Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-12T13:14:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Period building",
+      "htmlDescription": "Period building"
+    },
+    {
+      "order": 2,
+      "description": "Tree lined street",
+      "htmlDescription": "Tree lined street"
+    },
+    {
+      "order": 3,
+      "description": "Minutes to Caledonian Road",
+      "htmlDescription": "Minutes to Caledonian Road"
+    },
+    {
+      "order": 4,
+      "description": "Plenty of natural light",
+      "htmlDescription": "Plenty of natural light"
+    },
+    {
+      "order": 5,
+      "description": "Consevation area",
+      "htmlDescription": "Consevation area"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd_max_476x317.jpeg",
+        "url": "property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0c086bc15/95406750/0c086bc158a566a7cdb88bfc56566c61_max_476x317.jpeg",
+        "url": "property-photo/0c086bc15/95406750/0c086bc158a566a7cdb88bfc56566c61.jpeg",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dc1322714/95406750/dc1322714eea059abee743cf7c18b9fc_max_476x317.jpeg",
+        "url": "property-photo/dc1322714/95406750/dc1322714eea059abee743cf7c18b9fc.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7778088ab/95406750/7778088abc607ca292b7607b6657c257_max_476x317.jpeg",
+        "url": "property-photo/7778088ab/95406750/7778088abc607ca292b7607b6657c257.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c30e5dabd/95406750/c30e5dabdc4e2c5af8de54fbf532e873_max_476x317.jpeg",
+        "url": "property-photo/c30e5dabd/95406750/c30e5dabdc4e2c5af8de54fbf532e873.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7354b18b4/95406750/7354b18b453ae0d60d04dfd2589c3a57_max_476x317.jpeg",
+        "url": "property-photo/7354b18b4/95406750/7354b18b453ae0d60d04dfd2589c3a57.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aad332bde/95406750/aad332bdeb2dd893f620753d29519158_max_476x317.jpeg",
+        "url": "property-photo/aad332bde/95406750/aad332bdeb2dd893f620753d29519158.jpeg",
+        "caption": "Bathroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8dc025db5/95406750/8dc025db56935fbf1c4d73b50179ecdd_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Marks, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,256 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-13T01:03:38.318870+00:00",
+  "postcode": "EC1M 5NY",
+  "id": 95402025,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A beautifully bright and welcoming, split-level mezzanine apartment, set on Britton Street, one of Clerkenwell's most scenic locations. The property is also moments from Farringdon Tube with excellent restaurants, shops and amenities nearby. This desirable apartment is ideal for ...",
+  "displayAddress": "Britton Street, Clerkenwell, London, EC1M",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.521552,
+    "longitude": -0.10385
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d_max_476x317.jpeg",
+      "url": "property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d.jpeg",
+      "caption": "Picture No. 18"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bfd146cf/95402025/6bfd146cfe320a36320788565c3f8870_max_476x317.jpeg",
+      "url": "property-photo/6bfd146cf/95402025/6bfd146cfe320a36320788565c3f8870.jpeg",
+      "caption": "Picture No. 15"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c48918c1a/95402025/c48918c1a31ea6c4e6c81cf42eb79fee_max_476x317.jpeg",
+      "url": "property-photo/c48918c1a/95402025/c48918c1a31ea6c4e6c81cf42eb79fee.jpeg",
+      "caption": "Picture No. 20"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51c54bb02/95402025/51c54bb0291e1d747700e3b398de70d3_max_476x317.jpeg",
+      "url": "property-photo/51c54bb02/95402025/51c54bb0291e1d747700e3b398de70d3.jpeg",
+      "caption": "Picture No. 19"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/287394437/95402025/287394437adccf1af0e2fd4ee0843c86_max_476x317.jpeg",
+      "url": "property-photo/287394437/95402025/287394437adccf1af0e2fd4ee0843c86.jpeg",
+      "caption": "Picture No. 16"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8af8a4610/95402025/8af8a461083a97a6e49def4080829c0b_max_476x317.jpeg",
+      "url": "property-photo/8af8a4610/95402025/8af8a461083a97a6e49def4080829c0b.jpeg",
+      "caption": "Picture No. 17"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20a0a7aad/95402025/20a0a7aad7e7ceb28afbdbdec85eab30_max_476x317.jpeg",
+      "url": "property-photo/20a0a7aad/95402025/20a0a7aad7e7ceb28afbdbdec85eab30.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d96b8eb3/95402025/8d96b8eb352e525f5835a9e9814f8f01_max_476x317.jpeg",
+      "url": "property-photo/8d96b8eb3/95402025/8d96b8eb352e525f5835a9e9814f8f01.jpeg",
+      "caption": "Picture No. 13"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-12T11:59:07Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 57949,
+    "brandPlusLogoURI": "/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "contactTelephone": "020 3835 3519",
+    "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Islington-57949.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-10T12:43:56Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/43105061-PRODUCTS_LOGO-1770220787963.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "465 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95402025#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95402025",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-12T11:53:52Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-12T18:18:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Mezzanine double bedroom",
+      "htmlDescription": "Mezzanine double bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Generous reception",
+      "htmlDescription": "Generous reception"
+    },
+    {
+      "order": 3,
+      "description": "Double-height, loft-style",
+      "htmlDescription": "Double-height, loft-style"
+    },
+    {
+      "order": 4,
+      "description": "Built in under stair storage",
+      "htmlDescription": "Built in under stair storage"
+    },
+    {
+      "order": 5,
+      "description": "Concierge",
+      "htmlDescription": "Concierge"
+    },
+    {
+      "order": 6,
+      "description": "Extra \u00a3100pcm for heating & Hot Water",
+      "htmlDescription": "Extra \u00a3100pcm for heating & Hot Water"
+    },
+    {
+      "order": 7,
+      "description": "Peaceful location, Farringdon Tube 200m",
+      "htmlDescription": "Peaceful location, Farringdon Tube 200m"
+    },
+    {
+      "order": 8,
+      "description": "EPC rating: C",
+      "htmlDescription": "EPC rating: C"
+    },
+    {
+      "order": 9,
+      "description": "Available Now",
+      "htmlDescription": "Available Now"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d_max_476x317.jpeg",
+        "url": "property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d.jpeg",
+        "caption": "Picture No. 18"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6bfd146cf/95402025/6bfd146cfe320a36320788565c3f8870_max_476x317.jpeg",
+        "url": "property-photo/6bfd146cf/95402025/6bfd146cfe320a36320788565c3f8870.jpeg",
+        "caption": "Picture No. 15"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c48918c1a/95402025/c48918c1a31ea6c4e6c81cf42eb79fee_max_476x317.jpeg",
+        "url": "property-photo/c48918c1a/95402025/c48918c1a31ea6c4e6c81cf42eb79fee.jpeg",
+        "caption": "Picture No. 20"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51c54bb02/95402025/51c54bb0291e1d747700e3b398de70d3_max_476x317.jpeg",
+        "url": "property-photo/51c54bb02/95402025/51c54bb0291e1d747700e3b398de70d3.jpeg",
+        "caption": "Picture No. 19"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/287394437/95402025/287394437adccf1af0e2fd4ee0843c86_max_476x317.jpeg",
+        "url": "property-photo/287394437/95402025/287394437adccf1af0e2fd4ee0843c86.jpeg",
+        "caption": "Picture No. 16"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8af8a4610/95402025/8af8a461083a97a6e49def4080829c0b_max_476x317.jpeg",
+        "url": "property-photo/8af8a4610/95402025/8af8a461083a97a6e49def4080829c0b.jpeg",
+        "caption": "Picture No. 17"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20a0a7aad/95402025/20a0a7aad7e7ceb28afbdbdec85eab30_max_476x317.jpeg",
+        "url": "property-photo/20a0a7aad/95402025/20a0a7aad7e7ceb28afbdbdec85eab30.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8d96b8eb3/95402025/8d96b8eb352e525f5835a9e9814f8f01_max_476x317.jpeg",
+        "url": "property-photo/8d96b8eb3/95402025/8d96b8eb352e525f5835a9e9814f8f01.jpeg",
+        "caption": "Picture No. 13"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/445bcb491/95402025/445bcb491fb3e99a02b1cc68f0d8863d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Islington",
+  "addedOrReduced": "Added yesterday",
+  "heading": "",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
