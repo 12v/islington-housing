@@ -1,0 +1,206 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-14T02:10:01.060417+00:00",
+  "postcode": "N1 1PG",
+  "id": 95467041,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 4,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "All bills included \u2013 beautifully renovated one-bedroom flat in the heart of islington A fantastic opportunity to rent this bright and beautifully renovated one-bedroom flat, ideally situated in the highly desirable area of Islington. The property is flooded with natura...",
+  "displayAddress": "Offord Road, Islington, London, N1",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.543476,
+    "longitude": -0.112601
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9_max_476x317.jpeg",
+      "url": "property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40ba0bbe5/95467041/40ba0bbe5e82905d58dcef28aaf9181b_max_476x317.jpeg",
+      "url": "property-photo/40ba0bbe5/95467041/40ba0bbe5e82905d58dcef28aaf9181b.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef6e6341e/95467041/ef6e6341e3fa8e580be782c49a643c3d_max_476x317.jpeg",
+      "url": "property-photo/ef6e6341e/95467041/ef6e6341e3fa8e580be782c49a643c3d.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53cf99e78/95467041/53cf99e7866b69704dcb11786d357da8_max_476x317.jpeg",
+      "url": "property-photo/53cf99e78/95467041/53cf99e7866b69704dcb11786d357da8.jpeg",
+      "caption": "Picture No. 03"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-16T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-13T17:47:10Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95467041#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95467041",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-13T17:42:05Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-13T17:47:10Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom flat",
+      "htmlDescription": "One bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "All bills included",
+      "htmlDescription": "All bills included"
+    },
+    {
+      "order": 3,
+      "description": "Modern fitted kitchen and luxury bathroom",
+      "htmlDescription": "Modern fitted kitchen and luxury bathroom"
+    },
+    {
+      "order": 4,
+      "description": "Less than 5 minutes' walk to Highbury & Islington Station (Victoria Line & Overground).",
+      "htmlDescription": "Less than 5 minutes' walk to Highbury & Islington Station (Victoria Line & Overground)."
+    },
+    {
+      "order": 5,
+      "description": "Moments from Upper Street's bars, restaurants and caf\u00e9s",
+      "htmlDescription": "Moments from Upper Street's bars, restaurants and caf\u00e9s"
+    },
+    {
+      "order": 6,
+      "description": "Shared garden",
+      "htmlDescription": "Shared garden"
+    },
+    {
+      "order": 7,
+      "description": "Close to Highbury Fields and Clissold Park.",
+      "htmlDescription": "Close to Highbury Fields and Clissold Park."
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9_max_476x317.jpeg",
+        "url": "property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40ba0bbe5/95467041/40ba0bbe5e82905d58dcef28aaf9181b_max_476x317.jpeg",
+        "url": "property-photo/40ba0bbe5/95467041/40ba0bbe5e82905d58dcef28aaf9181b.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef6e6341e/95467041/ef6e6341e3fa8e580be782c49a643c3d_max_476x317.jpeg",
+        "url": "property-photo/ef6e6341e/95467041/ef6e6341e3fa8e580be782c49a643c3d.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53cf99e78/95467041/53cf99e7866b69704dcb11786d357da8_max_476x317.jpeg",
+        "url": "property-photo/53cf99e78/95467041/53cf99e7866b69704dcb11786d357da8.jpeg",
+        "caption": "Picture No. 03"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/60a373fd7/95467041/60a373fd79ed01af08337805ad06f7a9_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

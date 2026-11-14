@@ -1,0 +1,236 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-14T04:43:35.610884+00:00",
+  "postcode": "N7 9AH",
+  "id": 95089203,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "A fantastic opportunity to rent this spacious four-bedroom property, ideally located on York Way, London, N7 9AH. The property comprises four good-sized bedrooms, a separate living room and a fully separate kitchen, providing comfortable and practical living accommodation. The separate...",
+  "displayAddress": "York Way, London, N7",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.54264,
+    "longitude": -0.123783
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d_max_476x317.jpeg",
+      "url": "property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11fc0d15/95089203/d11fc0d1555a2174e6e4897ad7eb1deb_max_476x317.jpeg",
+      "url": "property-photo/d11fc0d15/95089203/d11fc0d1555a2174e6e4897ad7eb1deb.jpeg",
+      "caption": "Picture No. 01"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e241dda/95089203/02e241dda80d94c9bb87d04d2cd6a967_max_476x317.jpeg",
+      "url": "property-photo/02e241dda/95089203/02e241dda80d94c9bb87d04d2cd6a967.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3d763bb4/95089203/b3d763bb433fee2dbe7b626c1feaf3ec_max_476x317.jpeg",
+      "url": "property-photo/b3d763bb4/95089203/b3d763bb433fee2dbe7b626c1feaf3ec.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ca1e9702/95089203/0ca1e9702a55714fe176d6cfc6da9af1_max_476x317.jpeg",
+      "url": "property-photo/0ca1e9702/95089203/0ca1e9702a55714fe176d6cfc6da9af1.jpeg",
+      "caption": "Picture No. 05"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32103f31b/95089203/32103f31b240648f8739f20563d6018b_max_476x317.jpeg",
+      "url": "property-photo/32103f31b/95089203/32103f31b240648f8739f20563d6018b.jpeg",
+      "caption": "Picture No. 06"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-12T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-11-10T12:56:24Z"
+  },
+  "price": {
+    "amount": 3250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,250 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3750 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 222842,
+    "brandPlusLogoURI": "/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "contactTelephone": "01483 967984",
+    "branchDisplayName": "The Chant Group, Bank",
+    "branchName": "Bank",
+    "brandTradingName": "The Chant Group",
+    "branchLandingPageUrl": "/estate-agents/agent/The-Chant-Group/Bank-222842.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:40:40Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/24059822-PRODUCTS_LOGO-1766059131.png",
+    "primaryBrandColour": "#e4dfd2",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95089203#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95089203",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-04T09:05:54Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-13T05:30:43Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious four-bedroom property.",
+      "htmlDescription": "Spacious four-bedroom property."
+    },
+    {
+      "order": 2,
+      "description": "Four separate good-sized bedrooms.",
+      "htmlDescription": "Four separate good-sized bedrooms."
+    },
+    {
+      "order": 3,
+      "description": "Separate living room.",
+      "htmlDescription": "Separate living room."
+    },
+    {
+      "order": 4,
+      "description": "Separate fully fitted kitchen.",
+      "htmlDescription": "Separate fully fitted kitchen."
+    },
+    {
+      "order": 5,
+      "description": "Excellent location in North London.",
+      "htmlDescription": "Excellent location in North London."
+    },
+    {
+      "order": 6,
+      "description": "Approximately 10 minutes' walk to Caledonian Road Underground Station (Piccadilly Line).",
+      "htmlDescription": "Approximately 10 minutes' walk to Caledonian Road Underground Station (Piccadilly Line)."
+    },
+    {
+      "order": 7,
+      "description": "Approximately 7\u201310 minutes' walk to Caledonian Road & Barnsbury Overground Station.",
+      "htmlDescription": "Approximately 7\u201310 minutes' walk to Caledonian Road & Barnsbury Overground Station."
+    },
+    {
+      "order": 8,
+      "description": "Easy access to King's Cross and St Pancras International.",
+      "htmlDescription": "Easy access to King's Cross and St Pancras International."
+    },
+    {
+      "order": 9,
+      "description": "Close to local shops, supermarkets, restaurants and bus routes.",
+      "htmlDescription": "Close to local shops, supermarkets, restaurants and bus routes."
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d_max_476x317.jpeg",
+        "url": "property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d11fc0d15/95089203/d11fc0d1555a2174e6e4897ad7eb1deb_max_476x317.jpeg",
+        "url": "property-photo/d11fc0d15/95089203/d11fc0d1555a2174e6e4897ad7eb1deb.jpeg",
+        "caption": "Picture No. 01"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e241dda/95089203/02e241dda80d94c9bb87d04d2cd6a967_max_476x317.jpeg",
+        "url": "property-photo/02e241dda/95089203/02e241dda80d94c9bb87d04d2cd6a967.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3d763bb4/95089203/b3d763bb433fee2dbe7b626c1feaf3ec_max_476x317.jpeg",
+        "url": "property-photo/b3d763bb4/95089203/b3d763bb433fee2dbe7b626c1feaf3ec.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0ca1e9702/95089203/0ca1e9702a55714fe176d6cfc6da9af1_max_476x317.jpeg",
+        "url": "property-photo/0ca1e9702/95089203/0ca1e9702a55714fe176d6cfc6da9af1.jpeg",
+        "caption": "Picture No. 05"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32103f31b/95089203/32103f31b240648f8739f20563d6018b_max_476x317.jpeg",
+        "url": "property-photo/32103f31b/95089203/32103f31b240648f8739f20563d6018b.jpeg",
+        "caption": "Picture No. 06"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7581f7dcd/95089203/7581f7dcdbe3debafce66af49efd431d_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by The Chant Group, Bank",
+  "addedOrReduced": "Reduced on 10/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "4 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

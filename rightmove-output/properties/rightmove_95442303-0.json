@@ -1,0 +1,210 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-14T04:32:11.265352+00:00",
+  "postcode": "N7 7LD",
+  "id": 95442303,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Bright & Airy One-Bedroom First-Floor Flat \u2013 Isledon Road, London N7\n",
+  "displayAddress": "First Floor Flat, Isledon Road, Islington, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.559545,
+    "longitude": -0.111274
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51_max_476x317.png",
+      "url": "property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/741b84378/95442303/741b84378eb15504672154c2a6e825a0_max_476x317.png",
+      "url": "property-photo/741b84378/95442303/741b84378eb15504672154c2a6e825a0.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1d1aa720/95442303/a1d1aa720f96f2c58a12abef80989564_max_476x317.png",
+      "url": "property-photo/a1d1aa720/95442303/a1d1aa720f96f2c58a12abef80989564.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10d0dce3f/95442303/10d0dce3fbb408c19e6b927aa279fd89_max_476x317.png",
+      "url": "property-photo/10d0dce3f/95442303/10d0dce3fbb408c19e6b927aa279fd89.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4b971cad/95442303/d4b971cad5f4b161104eb3f8b16bb9fc_max_476x317.png",
+      "url": "property-photo/d4b971cad/95442303/d4b971cad5f4b161104eb3f8b16bb9fc.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed49277f/95442303/bed49277f3f556ab242c7ed3b5e7d0a5_max_476x317.png",
+      "url": "property-photo/bed49277f/95442303/bed49277f3f556ab242c7ed3b5e7d0a5.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b2fdab67/95442303/8b2fdab67182e4dd200c13be0a8b717d_max_476x317.png",
+      "url": "property-photo/8b2fdab67/95442303/8b2fdab67182e4dd200c13be0a8b717d.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9c16efc2/95442303/e9c16efc2c57728006032c8d85382ae5_max_476x317.png",
+      "url": "property-photo/e9c16efc2/95442303/e9c16efc2c57728006032c8d85382ae5.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-19T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-13T11:56:06Z"
+  },
+  "price": {
+    "amount": 1500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,500 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a3346 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 292889,
+    "brandPlusLogoURI": "/partner-logo/39948377-PRODUCTS_LOGO-1766067934.jpeg",
+    "contactTelephone": "020 3835 4686",
+    "branchDisplayName": "HomePride Lets, London",
+    "branchName": "London",
+    "brandTradingName": "HomePride Lets",
+    "branchLandingPageUrl": "/estate-agents/agent/HomePride-Lets/London-292889.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-01T09:18:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/39948377-PRODUCTS_LOGO-1766067934.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95442303#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95442303",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-13T11:50:22Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-13T11:56:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51_max_476x317.png",
+        "url": "property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/741b84378/95442303/741b84378eb15504672154c2a6e825a0_max_476x317.png",
+        "url": "property-photo/741b84378/95442303/741b84378eb15504672154c2a6e825a0.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a1d1aa720/95442303/a1d1aa720f96f2c58a12abef80989564_max_476x317.png",
+        "url": "property-photo/a1d1aa720/95442303/a1d1aa720f96f2c58a12abef80989564.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/10d0dce3f/95442303/10d0dce3fbb408c19e6b927aa279fd89_max_476x317.png",
+        "url": "property-photo/10d0dce3f/95442303/10d0dce3fbb408c19e6b927aa279fd89.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d4b971cad/95442303/d4b971cad5f4b161104eb3f8b16bb9fc_max_476x317.png",
+        "url": "property-photo/d4b971cad/95442303/d4b971cad5f4b161104eb3f8b16bb9fc.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/bed49277f/95442303/bed49277f3f556ab242c7ed3b5e7d0a5_max_476x317.png",
+        "url": "property-photo/bed49277f/95442303/bed49277f3f556ab242c7ed3b5e7d0a5.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b2fdab67/95442303/8b2fdab67182e4dd200c13be0a8b717d_max_476x317.png",
+        "url": "property-photo/8b2fdab67/95442303/8b2fdab67182e4dd200c13be0a8b717d.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e9c16efc2/95442303/e9c16efc2c57728006032c8d85382ae5_max_476x317.png",
+        "url": "property-photo/e9c16efc2/95442303/e9c16efc2c57728006032c8d85382ae5.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/930df0671/95442303/930df067152e082f8ded7d0e10b76a51_max_296x197.png"
+  },
+  "formattedBranchName": " by HomePride Lets, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

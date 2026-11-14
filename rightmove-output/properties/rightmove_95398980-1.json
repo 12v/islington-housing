@@ -1,0 +1,210 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-14T01:20:08.292524+00:00",
+  "postcode": "EC1V 2AD",
+  "id": 95398980,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 8,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Located on the 11th floor, this beautifully presented furnished two-bedroom apartment is available on a short-let basis and offers exceptional city living.",
+  "displayAddress": "Bollinder Place, Carrara Tower, EC1V",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.529257,
+    "longitude": -0.096727
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f_max_476x317.jpeg",
+      "url": "property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1e714e2d/95398980/c1e714e2d77026963ea7110492fd1fdd_max_476x317.jpeg",
+      "url": "property-photo/c1e714e2d/95398980/c1e714e2d77026963ea7110492fd1fdd.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98440d136/95398980/98440d136e3efe81a80fc0dbb801369b_max_476x317.jpeg",
+      "url": "property-photo/98440d136/95398980/98440d136e3efe81a80fc0dbb801369b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02d619879/95398980/02d61987971fdea6857e877c2bd65baf_max_476x317.jpeg",
+      "url": "property-photo/02d619879/95398980/02d61987971fdea6857e877c2bd65baf.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f1ec052b/95398980/4f1ec052b0764d68f41e6f8255ca2949_max_476x317.jpeg",
+      "url": "property-photo/4f1ec052b/95398980/4f1ec052b0764d68f41e6f8255ca2949.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62e764960/95398980/62e76496099984faba7cc1278525842d_max_476x317.jpeg",
+      "url": "property-photo/62e764960/95398980/62e76496099984faba7cc1278525842d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/129598dbc/95398980/129598dbc1032b5ac0c8295d41797350_max_476x317.jpeg",
+      "url": "property-photo/129598dbc/95398980/129598dbc1032b5ac0c8295d41797350.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af30177e0/95398980/af30177e05c82f146c58f2e68a724928_max_476x317.jpeg",
+      "url": "property-photo/af30177e0/95398980/af30177e05c82f146c58f2e68a724928.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": null,
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-12T11:12:11Z"
+  },
+  "price": {
+    "amount": 4600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,600 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,062 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 105559,
+    "brandPlusLogoURI": "/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "contactTelephone": "020 3834 8041",
+    "branchDisplayName": "Austin Homes London, London",
+    "branchName": "London",
+    "brandTradingName": "Austin Homes London",
+    "branchLandingPageUrl": "/estate-agents/agent/Austin-Homes-London/London-105559.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:41:13Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/14006755-PRODUCTS_LOGO-1766056410.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95398980#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95398980",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-12T11:07:01Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-12T11:12:11Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f_max_476x317.jpeg",
+        "url": "property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c1e714e2d/95398980/c1e714e2d77026963ea7110492fd1fdd_max_476x317.jpeg",
+        "url": "property-photo/c1e714e2d/95398980/c1e714e2d77026963ea7110492fd1fdd.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/98440d136/95398980/98440d136e3efe81a80fc0dbb801369b_max_476x317.jpeg",
+        "url": "property-photo/98440d136/95398980/98440d136e3efe81a80fc0dbb801369b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02d619879/95398980/02d61987971fdea6857e877c2bd65baf_max_476x317.jpeg",
+        "url": "property-photo/02d619879/95398980/02d61987971fdea6857e877c2bd65baf.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f1ec052b/95398980/4f1ec052b0764d68f41e6f8255ca2949_max_476x317.jpeg",
+        "url": "property-photo/4f1ec052b/95398980/4f1ec052b0764d68f41e6f8255ca2949.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/62e764960/95398980/62e76496099984faba7cc1278525842d_max_476x317.jpeg",
+        "url": "property-photo/62e764960/95398980/62e76496099984faba7cc1278525842d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/129598dbc/95398980/129598dbc1032b5ac0c8295d41797350_max_476x317.jpeg",
+        "url": "property-photo/129598dbc/95398980/129598dbc1032b5ac0c8295d41797350.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/af30177e0/95398980/af30177e05c82f146c58f2e68a724928_max_476x317.jpeg",
+        "url": "property-photo/af30177e0/95398980/af30177e05c82f146c58f2e68a724928.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/95501bfe7/95398980/95501bfe71c54129ecb3f6a112c05a6f_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Austin Homes London, London",
+  "addedOrReduced": "Added on 12/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": ""
+}
