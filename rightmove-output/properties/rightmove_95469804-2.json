@@ -1,0 +1,271 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-17T03:59:48.075026+00:00",
+  "postcode": "N1 0JW",
+  "id": 95469804,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A generously-proportioned 3 bedroom apartment in a well-maintained (mostly owner-occupied) modern building, offering a peaceful retreat in the heart of Zone 1. Newly refurbished, full of stylish features and luxury additions (previously owner-occupied). Spanning an impressive 1,206 square feet, t...",
+  "displayAddress": "Copenhagen Street, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.536849,
+    "longitude": -0.113368
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a_max_476x317.png",
+      "url": "property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a.png",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/769a98780/95469804/769a98780675324d4c7c468f3312e1da_max_476x317.png",
+      "url": "property-photo/769a98780/95469804/769a98780675324d4c7c468f3312e1da.png",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e08bdb34/95469804/4e08bdb34a19175e13f0cadc0be35012_max_476x317.png",
+      "url": "property-photo/4e08bdb34/95469804/4e08bdb34a19175e13f0cadc0be35012.png",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c6c5547f/95469804/1c6c5547fceb1faf80d5e70d782a6c20_max_476x317.png",
+      "url": "property-photo/1c6c5547f/95469804/1c6c5547fceb1faf80d5e70d782a6c20.png",
+      "caption": "Living Room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2707d1b93/95469804/2707d1b9332e8645e8554c34deb6fea4_max_476x317.png",
+      "url": "property-photo/2707d1b93/95469804/2707d1b9332e8645e8554c34deb6fea4.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bca5f8e3/95469804/7bca5f8e3566dbe08a46075162050a84_max_476x317.png",
+      "url": "property-photo/7bca5f8e3/95469804/7bca5f8e3566dbe08a46075162050a84.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e12ead8ff/95469804/e12ead8ff32ce1ab0d17dde5a68a299f_max_476x317.png",
+      "url": "property-photo/e12ead8ff/95469804/e12ead8ff32ce1ab0d17dde5a68a299f.png",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aea165b16/95469804/aea165b1612b6c820b2ccaab982ad6f9_max_476x317.png",
+      "url": "property-photo/aea165b16/95469804/aea165b1612b6c820b2ccaab982ad6f9.png",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ca8542d2/95469804/2ca8542d24179e66c5396164a55866b2_max_476x317.png",
+      "url": "property-photo/2ca8542d2/95469804/2ca8542d24179e66c5396164a55866b2.png",
+      "caption": "Bathroom"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-13T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-13T19:10:04Z"
+  },
+  "price": {
+    "amount": 4975,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a34,975 pcm",
+        "displayPriceQualifier": ""
+      },
+      {
+        "displayPrice": "\u00a31,148 pw",
+        "displayPriceQualifier": ""
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 143252,
+    "brandPlusLogoURI": "/partner-logo/15735410-PRODUCTS_LOGO-1766064300.png",
+    "contactTelephone": "020 3832 6324",
+    "branchDisplayName": "Andrews And Stacey Ltd, Shepherds Bush",
+    "branchName": "Shepherds Bush",
+    "brandTradingName": "Andrews And Stacey Ltd",
+    "branchLandingPageUrl": "/estate-agents/agent/Andrews-And-Stacey-Ltd/Shepherds-Bush-143252.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-12-04T16:08:37Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/15735410-PRODUCTS_LOGO-1766064300.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "1,206 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95469804#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95469804",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-13T20:33:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-16T10:07:00Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious 3-bedroom flat",
+      "htmlDescription": "Spacious 3-bedroom flat"
+    },
+    {
+      "order": 2,
+      "description": "Newly renovated",
+      "htmlDescription": "Newly renovated"
+    },
+    {
+      "order": 3,
+      "description": "Two reception rooms",
+      "htmlDescription": "Two reception rooms"
+    },
+    {
+      "order": 4,
+      "description": "Three modern bathrooms",
+      "htmlDescription": "Three modern bathrooms"
+    },
+    {
+      "order": 5,
+      "description": "Modern, High-Spec Kitchen",
+      "htmlDescription": "Modern, High-Spec Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "1,206 sq ft of space",
+      "htmlDescription": "1,206 sq ft of space"
+    },
+    {
+      "order": 7,
+      "description": "Contemporary flat design & Outside courtyard for quiet relaxation",
+      "htmlDescription": "Contemporary flat design & Outside courtyard for quiet relaxation"
+    },
+    {
+      "order": 8,
+      "description": "Moments from both Kings Cross and Angel stations",
+      "htmlDescription": "Moments from both Kings Cross and Angel stations"
+    },
+    {
+      "order": 9,
+      "description": "Ideal for families",
+      "htmlDescription": "Ideal for families"
+    },
+    {
+      "order": 10,
+      "description": "Directly overlooking Barnard Park",
+      "htmlDescription": "Directly overlooking Barnard Park"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a_max_476x317.png",
+        "url": "property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a.png",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/769a98780/95469804/769a98780675324d4c7c468f3312e1da_max_476x317.png",
+        "url": "property-photo/769a98780/95469804/769a98780675324d4c7c468f3312e1da.png",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e08bdb34/95469804/4e08bdb34a19175e13f0cadc0be35012_max_476x317.png",
+        "url": "property-photo/4e08bdb34/95469804/4e08bdb34a19175e13f0cadc0be35012.png",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1c6c5547f/95469804/1c6c5547fceb1faf80d5e70d782a6c20_max_476x317.png",
+        "url": "property-photo/1c6c5547f/95469804/1c6c5547fceb1faf80d5e70d782a6c20.png",
+        "caption": "Living Room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2707d1b93/95469804/2707d1b9332e8645e8554c34deb6fea4_max_476x317.png",
+        "url": "property-photo/2707d1b93/95469804/2707d1b9332e8645e8554c34deb6fea4.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bca5f8e3/95469804/7bca5f8e3566dbe08a46075162050a84_max_476x317.png",
+        "url": "property-photo/7bca5f8e3/95469804/7bca5f8e3566dbe08a46075162050a84.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e12ead8ff/95469804/e12ead8ff32ce1ab0d17dde5a68a299f_max_476x317.png",
+        "url": "property-photo/e12ead8ff/95469804/e12ead8ff32ce1ab0d17dde5a68a299f.png",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/aea165b16/95469804/aea165b1612b6c820b2ccaab982ad6f9_max_476x317.png",
+        "url": "property-photo/aea165b16/95469804/aea165b1612b6c820b2ccaab982ad6f9.png",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2ca8542d2/95469804/2ca8542d24179e66c5396164a55866b2_max_476x317.png",
+        "url": "property-photo/2ca8542d2/95469804/2ca8542d24179e66c5396164a55866b2.png",
+        "caption": "Bathroom"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a706055a/95469804/9a706055a553bfeaa9683c6cb476388a_max_296x197.png"
+  },
+  "formattedBranchName": " by Andrews And Stacey Ltd, Shepherds Bush",
+  "addedOrReduced": "Added on 13/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
