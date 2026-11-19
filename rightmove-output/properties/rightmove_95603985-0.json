@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-19T05:34:54.703658+00:00",
+  "postcode": "N7 8GQ",
+  "id": 95603985,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Alex Crown are delighted to present this spacious and well-presented two-bedroom, two-bathroom apartment, ideally situated within the sought-after Buckler Court development on Eden Grove, Holloway, N7. Offering approximately 799 sq. ft. (74.2 sq. m.",
+  "displayAddress": "Buckler Court, Eden Grove, Holloway",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.55106,
+    "longitude": -0.11416
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc_max_476x317.jpeg",
+      "url": "property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0c76f628/95603985/b0c76f628fbe680cf63b033d55054c44_max_476x317.jpeg",
+      "url": "property-photo/b0c76f628/95603985/b0c76f628fbe680cf63b033d55054c44.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7758c75d/95603985/b7758c75d4c900817ec74ff1275aeb06_max_476x317.jpeg",
+      "url": "property-photo/b7758c75d/95603985/b7758c75d4c900817ec74ff1275aeb06.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32ba73810/95603985/32ba738102cf1ef6bedef202b78494f5_max_476x317.jpeg",
+      "url": "property-photo/32ba73810/95603985/32ba738102cf1ef6bedef202b78494f5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/150285ce5/95603985/150285ce5e69844863aa4d2180e67940_max_476x317.jpeg",
+      "url": "property-photo/150285ce5/95603985/150285ce5e69844863aa4d2180e67940.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f47af10f/95603985/8f47af10fa1a1996bec117f5965ceba7_max_476x317.jpeg",
+      "url": "property-photo/8f47af10f/95603985/8f47af10fa1a1996bec117f5965ceba7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef5427002/95603985/ef54270028f9e7c12389d8eb46d62ffa_max_476x317.jpeg",
+      "url": "property-photo/ef5427002/95603985/ef54270028f9e7c12389d8eb46d62ffa.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-01T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-18T11:50:11Z"
+  },
+  "price": {
+    "amount": 2450,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,450 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a30"
+      },
+      {
+        "displayPrice": "\u00a3565 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a30"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 102122,
+    "brandPlusLogoURI": "/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "contactTelephone": "020 3834 8137",
+    "branchDisplayName": "Alex Crown Lettings & Estate Agents, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Alex Crown Lettings & Estate Agents",
+    "branchLandingPageUrl": "/estate-agents/agent/Alex-Crown-Lettings-and-Estate-Agents/Islington-102122.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-06-16T17:11:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/12681590-PRODUCTS_LOGO-1766060374.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3565.38) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a32826.92) \n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n\nAlex Crown Lettings & Estate Agents is a member of PI+CMP which is a client money protection scheme, and also a member of The Property Ombudsman which is a redress scheme.\n",
+  "displaySize": "799 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95603985#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95603985",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-18T11:44:36Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-18T15:41:48Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Spacious two-double-bedroom apartment",
+      "htmlDescription": "Spacious two-double-bedroom apartment"
+    },
+    {
+      "order": 2,
+      "description": "Two modern bathrooms, including en-suite",
+      "htmlDescription": "Two modern bathrooms, including en-suite"
+    },
+    {
+      "order": 3,
+      "description": "Generous 799 sq. ft. modern apartment",
+      "htmlDescription": "Generous 799 sq. ft. modern apartment"
+    },
+    {
+      "order": 4,
+      "description": "Impressive open-plan living and dining area",
+      "htmlDescription": "Impressive open-plan living and dining area"
+    },
+    {
+      "order": 5,
+      "description": "Contemporary fitted kitchen with integrated appliances",
+      "htmlDescription": "Contemporary fitted kitchen with integrated appliances"
+    },
+    {
+      "order": 6,
+      "description": "Bright, well-proportioned accommodation throughout",
+      "htmlDescription": "Bright, well-proportioned accommodation throughout"
+    },
+    {
+      "order": 7,
+      "description": "Access to beautifully maintained communal gardens",
+      "htmlDescription": "Access to beautifully maintained communal gardens"
+    },
+    {
+      "order": 8,
+      "description": "Exclusive residents' gym and concierge service",
+      "htmlDescription": "Exclusive residents' gym and concierge service"
+    },
+    {
+      "order": 9,
+      "description": "Situated within the sought-after Buckler Court development",
+      "htmlDescription": "Situated within the sought-after Buckler Court development"
+    },
+    {
+      "order": 10,
+      "description": "Moments from Holloway Road Station (Piccadilly Line)",
+      "htmlDescription": "Moments from Holloway Road Station (Piccadilly Line)"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc_max_476x317.jpeg",
+        "url": "property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b0c76f628/95603985/b0c76f628fbe680cf63b033d55054c44_max_476x317.jpeg",
+        "url": "property-photo/b0c76f628/95603985/b0c76f628fbe680cf63b033d55054c44.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7758c75d/95603985/b7758c75d4c900817ec74ff1275aeb06_max_476x317.jpeg",
+        "url": "property-photo/b7758c75d/95603985/b7758c75d4c900817ec74ff1275aeb06.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/32ba73810/95603985/32ba738102cf1ef6bedef202b78494f5_max_476x317.jpeg",
+        "url": "property-photo/32ba73810/95603985/32ba738102cf1ef6bedef202b78494f5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/150285ce5/95603985/150285ce5e69844863aa4d2180e67940_max_476x317.jpeg",
+        "url": "property-photo/150285ce5/95603985/150285ce5e69844863aa4d2180e67940.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8f47af10f/95603985/8f47af10fa1a1996bec117f5965ceba7_max_476x317.jpeg",
+        "url": "property-photo/8f47af10f/95603985/8f47af10fa1a1996bec117f5965ceba7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef5427002/95603985/ef54270028f9e7c12389d8eb46d62ffa_max_476x317.jpeg",
+        "url": "property-photo/ef5427002/95603985/ef54270028f9e7c12389d8eb46d62ffa.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/615b9beb6/95603985/615b9beb6bc766202e1f380b59087dcc_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Alex Crown Lettings & Estate Agents, Islington",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
