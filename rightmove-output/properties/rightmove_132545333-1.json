@@ -1,0 +1,278 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-21T04:42:55.568472+00:00",
+  "postcode": "N7 0HN",
+  "id": 132545333,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A modern three bedroom apartment located in a new build development of nine exclusive flats. The first floor apartment comprises of three double bedrooms, two bathrooms (one being an en-suite) and a spacious open living room to a contemporary kitchen with premium appliances.**AVAILABLE 27/01/2027**",
+  "displayAddress": "Hilldrop Lane, Islington, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.551498,
+    "longitude": -0.127085
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e_max_476x317.jpeg",
+      "url": "property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e.jpeg",
+      "caption": "Building view"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f405b46f4/132545333/f405b46f4c150e5170f165d60d0adcc4_max_476x317.jpeg",
+      "url": "property-photo/f405b46f4/132545333/f405b46f4c150e5170f165d60d0adcc4.jpeg",
+      "caption": "Living room 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8432dcbaa/132545333/8432dcbaa74e9faf4e5386839d5621d0_max_476x317.jpeg",
+      "url": "property-photo/8432dcbaa/132545333/8432dcbaa74e9faf4e5386839d5621d0.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/addd1968a/132545333/addd1968a4d02c86f508f133cab8c38b_max_476x317.jpeg",
+      "url": "property-photo/addd1968a/132545333/addd1968a4d02c86f508f133cab8c38b.jpeg",
+      "caption": "Main bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afcec6caf/132545333/afcec6caf3c67aa691e19172d5f8e507_max_476x317.jpeg",
+      "url": "property-photo/afcec6caf/132545333/afcec6caf3c67aa691e19172d5f8e507.jpeg",
+      "caption": "Garden view 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81c5da6e4/132545333/81c5da6e4c0876ce4490b184e085a759_max_476x317.jpeg",
+      "url": "property-photo/81c5da6e4/132545333/81c5da6e4c0876ce4490b184e085a759.jpeg",
+      "caption": "Living room"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b7c33fca/132545333/5b7c33fca9f7c4fe477864a1fa4850b1_max_476x317.jpeg",
+      "url": "property-photo/5b7c33fca/132545333/5b7c33fca9f7c4fe477864a1fa4850b1.jpeg",
+      "caption": "Bedroom 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bdfb388c/132545333/7bdfb388c399af897156d6c38a601827_max_476x317.jpeg",
+      "url": "property-photo/7bdfb388c/132545333/7bdfb388c399af897156d6c38a601827.jpeg",
+      "caption": "En-Suite"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/608715489/132545333/608715489df3be4a9ec4b3b561092bc3_max_476x317.jpeg",
+      "url": "property-photo/608715489/132545333/608715489df3be4a9ec4b3b561092bc3.jpeg",
+      "caption": "Garden view 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a2d941f4/132545333/9a2d941f45d356e4b41d7b4991e8d0b6_max_476x317.jpeg",
+      "url": "property-photo/9a2d941f4/132545333/9a2d941f45d356e4b41d7b4991e8d0b6.jpeg",
+      "caption": "Bedroom 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f70a3919f/132545333/f70a3919fdf77804d052b0f62d05dfef_max_476x317.jpeg",
+      "url": "property-photo/f70a3919f/132545333/f70a3919fdf77804d052b0f62d05dfef.jpeg",
+      "caption": "Bedroom 3"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-27T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-19T11:41:01Z"
+  },
+  "price": {
+    "amount": 3600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,600 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a33.6k"
+      },
+      {
+        "displayPrice": "\u00a3831 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a33.6k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 174359,
+    "brandPlusLogoURI": "/partner-logo/18492020-PRODUCTS_LOGO-1766064784.png",
+    "contactTelephone": "020 3005 3474",
+    "branchDisplayName": "MBR Property Management, London",
+    "branchName": "London",
+    "brandTradingName": "MBR Property Management",
+    "branchLandingPageUrl": "/estate-agents/agent/MBR-Property-Management/London-174359.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-01T09:18:12Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/18492020-PRODUCTS_LOGO-1766064784.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "As well as paying the rent, you may also be required to make the following permitted payments.\n\nPermitted payments\nFor properties in England, the Tenant Fees Act 2019 means that in addition to rent, lettings agents can only charge tenants (or anyone acting on the tenant's behalf) the following permitted payments:\n\nHolding deposits (a maximum of 1 week's rent);\nDeposits (a maximum deposit of 5 weeks' rent for annual rent below \u00a350,000, or 6 weeks' rent for annual rental of \u00a350,000 and above);\nPayments to change a tenancy agreement eg. change of sharer (capped at \u00a350 or, if higher, any reasonable costs);\nPayments associated with early termination of a tenancy (capped at the landlord's loss or the agent's reasonably incurred costs);\nWhere required, utilities (electricity, gas or other fuel, water, sewerage), communication services (telephone, internet, cable/satellite television), TV licence;\nCouncil tax (payable to the billing authority);\nInterest payments for the late payment of rent (up to 3% above Bank of England's annual percentage rate);\nReasonable costs for replacement of lost keys or other security devices;\nContractual damages in the event of the tenant's default of a tenancy agreement; and\nAny other permitted payments under the Tenant Fees Act 2019 and regulations applicable at the relevant time.\n\nFor properties in Wales, the Renting Homes (Fees etc.) (Wales) Act 2019 means that in addition to rent, lettings agents can only charge tenants the following permitted payments\n\nHolding deposits (a maximum of 1 week's rent);\nSecurity deposits;\nWhere required, utilities (electricity, gas or other fuel, water, sewerage), communication services (telephone, internet, cable/satellite television), TV licence;\nCouncil tax (payable to the billing authority);\nPayments for the late payment of rent (where required under the tenancy agreement);\nA breach of a term of the contract (where required under the tenancy agreement); and\nAny other permitted payments under the Renting Homes (Fees etc.) (Wales) Act and regulations applicable at the relevant time.\n\nTenant protection\nIn addition to publishing relevant fees, lettings agents are also required to publish details of:\n\nthe redress scheme they are a member of; and\nthe name of the approved or designated Client Money Protection scheme they are a member of (if any).\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/132545333#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=132545333",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2023-03-23T09:52:44Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-19T13:57:09Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Modern Development",
+      "htmlDescription": "Modern Development"
+    },
+    {
+      "order": 2,
+      "description": "Walking distance to local amenities and shops",
+      "htmlDescription": "Walking distance to local amenities and shops"
+    },
+    {
+      "order": 3,
+      "description": "Private Garden",
+      "htmlDescription": "Private Garden"
+    },
+    {
+      "order": 4,
+      "description": "Three double bedrooms",
+      "htmlDescription": "Three double bedrooms"
+    },
+    {
+      "order": 5,
+      "description": "En-suite bathroom",
+      "htmlDescription": "En-suite bathroom"
+    },
+    {
+      "order": 6,
+      "description": "EPC Band B",
+      "htmlDescription": "EPC Band B"
+    },
+    {
+      "order": 7,
+      "description": "Great transport links",
+      "htmlDescription": "Great transport links"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e_max_476x317.jpeg",
+        "url": "property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e.jpeg",
+        "caption": "Building view"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f405b46f4/132545333/f405b46f4c150e5170f165d60d0adcc4_max_476x317.jpeg",
+        "url": "property-photo/f405b46f4/132545333/f405b46f4c150e5170f165d60d0adcc4.jpeg",
+        "caption": "Living room 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8432dcbaa/132545333/8432dcbaa74e9faf4e5386839d5621d0_max_476x317.jpeg",
+        "url": "property-photo/8432dcbaa/132545333/8432dcbaa74e9faf4e5386839d5621d0.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/addd1968a/132545333/addd1968a4d02c86f508f133cab8c38b_max_476x317.jpeg",
+        "url": "property-photo/addd1968a/132545333/addd1968a4d02c86f508f133cab8c38b.jpeg",
+        "caption": "Main bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/afcec6caf/132545333/afcec6caf3c67aa691e19172d5f8e507_max_476x317.jpeg",
+        "url": "property-photo/afcec6caf/132545333/afcec6caf3c67aa691e19172d5f8e507.jpeg",
+        "caption": "Garden view 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/81c5da6e4/132545333/81c5da6e4c0876ce4490b184e085a759_max_476x317.jpeg",
+        "url": "property-photo/81c5da6e4/132545333/81c5da6e4c0876ce4490b184e085a759.jpeg",
+        "caption": "Living room"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b7c33fca/132545333/5b7c33fca9f7c4fe477864a1fa4850b1_max_476x317.jpeg",
+        "url": "property-photo/5b7c33fca/132545333/5b7c33fca9f7c4fe477864a1fa4850b1.jpeg",
+        "caption": "Bedroom 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7bdfb388c/132545333/7bdfb388c399af897156d6c38a601827_max_476x317.jpeg",
+        "url": "property-photo/7bdfb388c/132545333/7bdfb388c399af897156d6c38a601827.jpeg",
+        "caption": "En-Suite"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/608715489/132545333/608715489df3be4a9ec4b3b561092bc3_max_476x317.jpeg",
+        "url": "property-photo/608715489/132545333/608715489df3be4a9ec4b3b561092bc3.jpeg",
+        "caption": "Garden view 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9a2d941f4/132545333/9a2d941f45d356e4b41d7b4991e8d0b6_max_476x317.jpeg",
+        "url": "property-photo/9a2d941f4/132545333/9a2d941f45d356e4b41d7b4991e8d0b6.jpeg",
+        "caption": "Bedroom 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f70a3919f/132545333/f70a3919fdf77804d052b0f62d05dfef_max_476x317.jpeg",
+        "url": "property-photo/f70a3919f/132545333/f70a3919fdf77804d052b0f62d05dfef.jpeg",
+        "caption": "Bedroom 3"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5bb8aebae/132545333/5bb8aebae9e7e2a662a332cf6226514e_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by MBR Property Management, London",
+  "addedOrReduced": "Added on 19/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "3 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

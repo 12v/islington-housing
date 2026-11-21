@@ -1,0 +1,263 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-21T04:23:07.821849+00:00",
+  "postcode": "N5 1AN",
+  "id": 95567178,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 2,
+  "summary": "One bedroom apartment with it's own external space. A short level walk to Holloway Road and Arsenal (Piccadilly Line) tube stations and Drayton Park National Rail (Moorgate)",
+  "displayAddress": "Drayton Park, London, N5 - EPC rating D",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.553759,
+    "longitude": -0.105439
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4_max_476x317.jpeg",
+      "url": "property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4.jpeg",
+      "caption": " (Main)"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/102cedb99/95567178/102cedb99bcc203e8e0c6fa3594943f7_max_476x317.jpeg",
+      "url": "property-photo/102cedb99/95567178/102cedb99bcc203e8e0c6fa3594943f7.jpeg",
+      "caption": "Garden"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45bf54b5a/95567178/45bf54b5a23d7f2322cd921c7cdf67a0_max_476x317.jpeg",
+      "url": "property-photo/45bf54b5a/95567178/45bf54b5a23d7f2322cd921c7cdf67a0.jpeg",
+      "caption": "Reception"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d68cc0fa8/95567178/d68cc0fa81dfd8c3130704002aeef660_max_476x317.jpeg",
+      "url": "property-photo/d68cc0fa8/95567178/d68cc0fa81dfd8c3130704002aeef660.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e71307d/95567178/52e71307dd058a2773a520aae935aed9_max_476x317.jpeg",
+      "url": "property-photo/52e71307d/95567178/52e71307dd058a2773a520aae935aed9.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a5a38c84/95567178/2a5a38c84147141ed7d1114710a82adc_max_476x317.jpeg",
+      "url": "property-photo/2a5a38c84/95567178/2a5a38c84147141ed7d1114710a82adc.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/415b275d0/95567178/415b275d0491af0ea80420720eaa8e4a_max_476x317.jpeg",
+      "url": "property-photo/415b275d0/95567178/415b275d0491af0ea80420720eaa8e4a.jpeg",
+      "caption": "Other"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff188e9a8/95567178/ff188e9a8c2da7569e542d25e00cce12_max_476x317.jpeg",
+      "url": "property-photo/ff188e9a8/95567178/ff188e9a8c2da7569e542d25e00cce12.jpeg",
+      "caption": "Location"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18f09c835/95567178/18f09c8353c61231b6de9494d4dc3e03_max_476x317.jpeg",
+      "url": "property-photo/18f09c835/95567178/18f09c8353c61231b6de9494d4dc3e03.jpeg",
+      "caption": "Fees"
+    }
+  ],
+  "propertySubType": "Ground Maisonette",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-17T13:39:07Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 34775,
+    "brandPlusLogoURI": "/partner-logo/10499-LOGO-1765970464.jpg",
+    "contactTelephone": "020 3872 3510",
+    "branchDisplayName": "Stadium Residential, Islington",
+    "branchName": "Islington",
+    "brandTradingName": "Stadium Residential",
+    "branchLandingPageUrl": "/estate-agents/agent/Stadium-Residential/Islington-34775.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-01T03:02:19Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10499-LOGO-1765970464.jpg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95567178#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95567178",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-17T13:33:35Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-19T09:24:22Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Double Bedroom",
+      "htmlDescription": "Double Bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Open plan living room/kitchen",
+      "htmlDescription": "Open plan living room/kitchen"
+    },
+    {
+      "order": 3,
+      "description": "Electric heating",
+      "htmlDescription": "Electric heating"
+    },
+    {
+      "order": 4,
+      "description": "Quality integrated kitchen appliances",
+      "htmlDescription": "Quality integrated kitchen appliances"
+    },
+    {
+      "order": 5,
+      "description": "Fantastic public transport links",
+      "htmlDescription": "Fantastic public transport links"
+    },
+    {
+      "order": 6,
+      "description": "Available December 18th",
+      "htmlDescription": "Available December 18th"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://kuula.co/share/collection/79Q0H?logo=0&info=1&fs=1&vr=1&sd=1&thumbs=1",
+      "provider": "OTHER"
+    },
+    {
+      "url": "https://player.vimeo.com/video/905764902?h=ded915db7d",
+      "provider": "VIMEO"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4_max_476x317.jpeg",
+        "url": "property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4.jpeg",
+        "caption": " (Main)"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/102cedb99/95567178/102cedb99bcc203e8e0c6fa3594943f7_max_476x317.jpeg",
+        "url": "property-photo/102cedb99/95567178/102cedb99bcc203e8e0c6fa3594943f7.jpeg",
+        "caption": "Garden"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45bf54b5a/95567178/45bf54b5a23d7f2322cd921c7cdf67a0_max_476x317.jpeg",
+        "url": "property-photo/45bf54b5a/95567178/45bf54b5a23d7f2322cd921c7cdf67a0.jpeg",
+        "caption": "Reception"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d68cc0fa8/95567178/d68cc0fa81dfd8c3130704002aeef660_max_476x317.jpeg",
+        "url": "property-photo/d68cc0fa8/95567178/d68cc0fa81dfd8c3130704002aeef660.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e71307d/95567178/52e71307dd058a2773a520aae935aed9_max_476x317.jpeg",
+        "url": "property-photo/52e71307d/95567178/52e71307dd058a2773a520aae935aed9.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a5a38c84/95567178/2a5a38c84147141ed7d1114710a82adc_max_476x317.jpeg",
+        "url": "property-photo/2a5a38c84/95567178/2a5a38c84147141ed7d1114710a82adc.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/415b275d0/95567178/415b275d0491af0ea80420720eaa8e4a_max_476x317.jpeg",
+        "url": "property-photo/415b275d0/95567178/415b275d0491af0ea80420720eaa8e4a.jpeg",
+        "caption": "Other"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff188e9a8/95567178/ff188e9a8c2da7569e542d25e00cce12_max_476x317.jpeg",
+        "url": "property-photo/ff188e9a8/95567178/ff188e9a8c2da7569e542d25e00cce12.jpeg",
+        "caption": "Location"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/18f09c835/95567178/18f09c8353c61231b6de9494d4dc3e03_max_476x317.jpeg",
+        "url": "property-photo/18f09c835/95567178/18f09c8353c61231b6de9494d4dc3e03.jpeg",
+        "caption": "Fees"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7f316604f/95567178/7f316604fd927debd39b49711d4dead4_max_296x197.jpeg"
+  },
+  "heading": "",
+  "formattedBranchName": " by Stadium Residential, Islington",
+  "addedOrReduced": "Added on 17/11/2026",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "1 bedroom ground maisonette",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

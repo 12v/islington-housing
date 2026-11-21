@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-21T03:00:05.056387+00:00",
+  "postcode": "N1 4PU",
+  "id": 95621997,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "First floor Period conversion on a beautiful residential road in Newington Green with high ceilings and large windows. This property boasts a spacious light and airy open plan living room and kitchen, large bedroom, and a quirky bathroom.",
+  "displayAddress": "Mildmay Road, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.55004,
+    "longitude": -0.082068
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c_max_476x317.jpeg",
+      "url": "property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c.jpeg",
+      "caption": "PIC 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fcda8c6d/95621997/7fcda8c6d3b341089d554563b284bc74_max_476x317.jpeg",
+      "url": "property-photo/7fcda8c6d/95621997/7fcda8c6d3b341089d554563b284bc74.jpeg",
+      "caption": "PIC 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29ae467bf/95621997/29ae467bfff14bd63ca220f76c4a08d2_max_476x317.jpeg",
+      "url": "property-photo/29ae467bf/95621997/29ae467bfff14bd63ca220f76c4a08d2.jpeg",
+      "caption": "PIC 1"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d847cbeb/95621997/6d847cbeb4dd002bf776eaa486829d2e_max_476x317.jpeg",
+      "url": "property-photo/6d847cbeb/95621997/6d847cbeb4dd002bf776eaa486829d2e.jpeg",
+      "caption": "PIC 3"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed684e22f/95621997/ed684e22f9de3251bbb454e80bc96480_max_476x317.jpeg",
+      "url": "property-photo/ed684e22f/95621997/ed684e22f9de3251bbb454e80bc96480.jpeg",
+      "caption": "PIC 4"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f66a788b/95621997/0f66a788b2a2884c17c4aeb53a5b07ac_max_476x317.jpeg",
+      "url": "property-photo/0f66a788b/95621997/0f66a788b2a2884c17c4aeb53a5b07ac.jpeg",
+      "caption": "PIC 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fce2ca282/95621997/fce2ca282abb49705c247e28c94b790b_max_476x317.jpeg",
+      "url": "property-photo/fce2ca282/95621997/fce2ca282abb49705c247e28c94b790b.jpeg",
+      "caption": "PIC 7"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-18T00:00:00Z"
+  },
+  "price": {
+    "amount": 2100,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,100 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.1k"
+      },
+      {
+        "displayPrice": "\u00a3485 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.1k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 267176,
+    "brandPlusLogoURI": "/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "contactTelephone": "020 7870 1269",
+    "branchDisplayName": "Nova Realty, London",
+    "branchName": "London",
+    "brandTradingName": "Nova Realty",
+    "branchLandingPageUrl": "/estate-agents/agent/Nova-Realty/London-267176.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-11T15:48:47Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31201496-PRODUCTS_LOGO-1766062467.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95621997#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95621997",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-18T16:22:02Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-20T12:00:34Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Natural Lighting",
+      "htmlDescription": "Natural Lighting"
+    },
+    {
+      "order": 2,
+      "description": "Great Location",
+      "htmlDescription": "Great Location"
+    },
+    {
+      "order": 3,
+      "description": "Fantastic Storage",
+      "htmlDescription": "Fantastic Storage"
+    },
+    {
+      "order": 4,
+      "description": "Open plan living room",
+      "htmlDescription": "Open plan living room"
+    },
+    {
+      "order": 5,
+      "description": "High Ceilings",
+      "htmlDescription": "High Ceilings"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c_max_476x317.jpeg",
+        "url": "property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c.jpeg",
+        "caption": "PIC 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fcda8c6d/95621997/7fcda8c6d3b341089d554563b284bc74_max_476x317.jpeg",
+        "url": "property-photo/7fcda8c6d/95621997/7fcda8c6d3b341089d554563b284bc74.jpeg",
+        "caption": "PIC 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/29ae467bf/95621997/29ae467bfff14bd63ca220f76c4a08d2_max_476x317.jpeg",
+        "url": "property-photo/29ae467bf/95621997/29ae467bfff14bd63ca220f76c4a08d2.jpeg",
+        "caption": "PIC 1"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d847cbeb/95621997/6d847cbeb4dd002bf776eaa486829d2e_max_476x317.jpeg",
+        "url": "property-photo/6d847cbeb/95621997/6d847cbeb4dd002bf776eaa486829d2e.jpeg",
+        "caption": "PIC 3"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ed684e22f/95621997/ed684e22f9de3251bbb454e80bc96480_max_476x317.jpeg",
+        "url": "property-photo/ed684e22f/95621997/ed684e22f9de3251bbb454e80bc96480.jpeg",
+        "caption": "PIC 4"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0f66a788b/95621997/0f66a788b2a2884c17c4aeb53a5b07ac_max_476x317.jpeg",
+        "url": "property-photo/0f66a788b/95621997/0f66a788b2a2884c17c4aeb53a5b07ac.jpeg",
+        "caption": "PIC 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fce2ca282/95621997/fce2ca282abb49705c247e28c94b790b_max_476x317.jpeg",
+        "url": "property-photo/fce2ca282/95621997/fce2ca282abb49705c247e28c94b790b.jpeg",
+        "caption": "PIC 7"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/963d1ee59/95621997/963d1ee597a4c9a58489e41561c96a7c_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Nova Realty, London",
+  "addedOrReduced": "Added on 18/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

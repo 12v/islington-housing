@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-21T01:53:45.564391+00:00",
+  "postcode": "EC1V 7NS",
+  "id": 95551740,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A freshly refurbished one bedroom flat, situated on a quiet residential street in the heart of Islington\u2019s sought after Angel.",
+  "displayAddress": "Friend Street, London, EC1V",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.530012,
+    "longitude": -0.104075
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0_max_476x317.jpeg",
+      "url": "property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0.jpeg",
+      "caption": "Photo 6"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/994bcc375/95551740/994bcc37514fad73096b7edbc44f6247_max_476x317.jpeg",
+      "url": "property-photo/994bcc375/95551740/994bcc37514fad73096b7edbc44f6247.jpeg",
+      "caption": "Photo 2"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66054aad4/95551740/66054aad4283dc80ce3a3b9408b82626_max_476x317.jpeg",
+      "url": "property-photo/66054aad4/95551740/66054aad4283dc80ce3a3b9408b82626.jpeg",
+      "caption": "Photo 5"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7fba8ef7/95551740/c7fba8ef7ba26a5d37fd5e106d0b7a90_max_476x317.jpeg",
+      "url": "property-photo/c7fba8ef7/95551740/c7fba8ef7ba26a5d37fd5e106d0b7a90.jpeg",
+      "caption": "Photo 7"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9f87537e/95551740/b9f87537eb5f0f08255ef3008020f794_max_476x317.jpeg",
+      "url": "property-photo/b9f87537e/95551740/b9f87537eb5f0f08255ef3008020f794.jpeg",
+      "caption": "Photo 9"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/621c2502f/95551740/621c2502f0eaa9988e461800ee07c0de_max_476x317.jpeg",
+      "url": "property-photo/621c2502f/95551740/621c2502f0eaa9988e461800ee07c0de.jpeg",
+      "caption": "Photo 13"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-30T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-17T10:26:08Z"
+  },
+  "price": {
+    "amount": 1950,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,950 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      },
+      {
+        "displayPrice": "\u00a3450 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 87247,
+    "brandPlusLogoURI": "/partner-logo/11894584-LOGO-1770972312389.png",
+    "contactTelephone": "020 3889 9013",
+    "branchDisplayName": "Daniel Watney, London",
+    "branchName": "London",
+    "brandTradingName": "Daniel Watney",
+    "branchLandingPageUrl": "/estate-agents/agent/Daniel-Watney/London-87247.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-02T09:58:52Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11894584-LOGO-1770972312389.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95551740#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95551740",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-17T10:20:39Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-17T12:10:49Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Available from the 30th November",
+      "htmlDescription": "Available from the 30th November"
+    },
+    {
+      "order": 2,
+      "description": "Available Unfurnished",
+      "htmlDescription": "Available Unfurnished"
+    },
+    {
+      "order": 3,
+      "description": "Freshly Refurbished Throughout",
+      "htmlDescription": "Freshly Refurbished Throughout"
+    },
+    {
+      "order": 4,
+      "description": "One Bedroom",
+      "htmlDescription": "One Bedroom"
+    },
+    {
+      "order": 5,
+      "description": "EPC - NEW EPC PENDING",
+      "htmlDescription": "EPC - NEW EPC PENDING"
+    },
+    {
+      "order": 6,
+      "description": "305 Sq. Ft",
+      "htmlDescription": "305 Sq. Ft"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0_max_476x317.jpeg",
+        "url": "property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0.jpeg",
+        "caption": "Photo 6"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/994bcc375/95551740/994bcc37514fad73096b7edbc44f6247_max_476x317.jpeg",
+        "url": "property-photo/994bcc375/95551740/994bcc37514fad73096b7edbc44f6247.jpeg",
+        "caption": "Photo 2"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/66054aad4/95551740/66054aad4283dc80ce3a3b9408b82626_max_476x317.jpeg",
+        "url": "property-photo/66054aad4/95551740/66054aad4283dc80ce3a3b9408b82626.jpeg",
+        "caption": "Photo 5"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7fba8ef7/95551740/c7fba8ef7ba26a5d37fd5e106d0b7a90_max_476x317.jpeg",
+        "url": "property-photo/c7fba8ef7/95551740/c7fba8ef7ba26a5d37fd5e106d0b7a90.jpeg",
+        "caption": "Photo 7"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b9f87537e/95551740/b9f87537eb5f0f08255ef3008020f794_max_476x317.jpeg",
+        "url": "property-photo/b9f87537e/95551740/b9f87537eb5f0f08255ef3008020f794.jpeg",
+        "caption": "Photo 9"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/621c2502f/95551740/621c2502f0eaa9988e461800ee07c0de_max_476x317.jpeg",
+        "url": "property-photo/621c2502f/95551740/621c2502f0eaa9988e461800ee07c0de.jpeg",
+        "caption": "Photo 13"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2a61d0686/95551740/2a61d06862874fa6f1cff1a185e7d5f0_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Daniel Watney, London",
+  "addedOrReduced": "Added on 17/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
