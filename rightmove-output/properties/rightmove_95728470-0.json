@@ -1,0 +1,228 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-22T01:36:06.125455+00:00",
+  "postcode": "N1 1ZT",
+  "id": 95728470,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A luxury, one bedroom apartment set within Islington Square development. The property features large living/dining area, fully integrated kitchen, sizable master bedroom with fitted wardrobes and an abundance of natural light.",
+  "displayAddress": "Islington Square, 17 Esther Anne Place, London, N1",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.53891,
+    "longitude": -0.116323
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729_max_476x317.jpeg",
+      "url": "property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/59a867c31/95728470/59a867c311301561f35b50a80bf025e3_max_476x317.jpeg",
+      "url": "property-photo/59a867c31/95728470/59a867c311301561f35b50a80bf025e3.jpeg",
+      "caption": "Living Area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/864c3939b/95728470/864c3939bddfe7ea787117d77d10c491_max_476x317.jpeg",
+      "url": "property-photo/864c3939b/95728470/864c3939bddfe7ea787117d77d10c491.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34d376ece/95728470/34d376ece8002326411426b0b410351e_max_476x317.jpeg",
+      "url": "property-photo/34d376ece/95728470/34d376ece8002326411426b0b410351e.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20746d028/95728470/20746d028b9a3031b0f7b65dd69995a1_max_476x317.jpeg",
+      "url": "property-photo/20746d028/95728470/20746d028b9a3031b0f7b65dd69995a1.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fca3062c4/95728470/fca3062c4c62a47c84151f20ea4b97e2_max_476x317.jpeg",
+      "url": "property-photo/fca3062c4/95728470/fca3062c4c62a47c84151f20ea4b97e2.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c914e45a/95728470/2c914e45ad610ed8b85e3aed418091b7_max_476x317.jpeg",
+      "url": "property-photo/2c914e45a/95728470/2c914e45ad610ed8b85e3aed418091b7.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-23T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-21T18:41:02Z"
+  },
+  "price": {
+    "amount": 740,
+    "frequency": "weekly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a33,207 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a33.2k"
+      },
+      {
+        "displayPrice": "\u00a3740 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a3740"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 97423,
+    "brandPlusLogoURI": "/partner-logo/13243285-LOGO-1765963581.jpg",
+    "contactTelephone": "020 3840 4014",
+    "branchDisplayName": "Chase Evans, City & Aldgate",
+    "branchName": "City & Aldgate",
+    "brandTradingName": "Chase Evans",
+    "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:39:16Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/13243285-LOGO-1765963581.jpg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "544 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95728470#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95728470",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-21T18:35:31Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-21T18:41:02Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "LUXURY ONE BEDROOM APARTMENT",
+      "htmlDescription": "LUXURY ONE BEDROOM APARTMENT"
+    },
+    {
+      "order": 2,
+      "description": "24-HOUR CONCIERGE",
+      "htmlDescription": "24-HOUR CONCIERGE"
+    },
+    {
+      "order": 3,
+      "description": "COMMUNAL GARDENS",
+      "htmlDescription": "COMMUNAL GARDENS"
+    },
+    {
+      "order": 4,
+      "description": "GREAT LOCAL AMENITIES",
+      "htmlDescription": "GREAT LOCAL AMENITIES"
+    },
+    {
+      "order": 5,
+      "description": "EXCELLENT TRANSPORT LINKS",
+      "htmlDescription": "EXCELLENT TRANSPORT LINKS"
+    }
+  ],
+  "enhancedListing": false,
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729_max_476x317.jpeg",
+        "url": "property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/59a867c31/95728470/59a867c311301561f35b50a80bf025e3_max_476x317.jpeg",
+        "url": "property-photo/59a867c31/95728470/59a867c311301561f35b50a80bf025e3.jpeg",
+        "caption": "Living Area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/864c3939b/95728470/864c3939bddfe7ea787117d77d10c491_max_476x317.jpeg",
+        "url": "property-photo/864c3939b/95728470/864c3939bddfe7ea787117d77d10c491.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34d376ece/95728470/34d376ece8002326411426b0b410351e_max_476x317.jpeg",
+        "url": "property-photo/34d376ece/95728470/34d376ece8002326411426b0b410351e.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/20746d028/95728470/20746d028b9a3031b0f7b65dd69995a1_max_476x317.jpeg",
+        "url": "property-photo/20746d028/95728470/20746d028b9a3031b0f7b65dd69995a1.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fca3062c4/95728470/fca3062c4c62a47c84151f20ea4b97e2_max_476x317.jpeg",
+        "url": "property-photo/fca3062c4/95728470/fca3062c4c62a47c84151f20ea4b97e2.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c914e45a/95728470/2c914e45ad610ed8b85e3aed418091b7_max_476x317.jpeg",
+        "url": "property-photo/2c914e45a/95728470/2c914e45ad610ed8b85e3aed418091b7.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/878ea860c/95728470/878ea860c7d5bf54a5bcd8753043f729_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Chase Evans, City & Aldgate"
+}

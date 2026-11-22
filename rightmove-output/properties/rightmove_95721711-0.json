@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-22T01:14:32.442419+00:00",
+  "postcode": "N1 0AP",
+  "id": 95721711,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 9,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "*AVAILABLE FROM 3rd December* THE PROPERTY: New to the market is this well located & contemporary Studio flat available in the Kings Cross area. The property benefits from full bathroom in st... ** Property Reference: 3120245 **",
+  "displayAddress": "Rufford Street, London, N1",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.53989,
+    "longitude": -0.121858
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8_max_476x317.jpeg",
+      "url": "property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8.jpeg",
+      "caption": "Living Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e6955fa6/95721711/4e6955fa6abbc238cb07eb90c6143072_max_476x317.jpeg",
+      "url": "property-photo/4e6955fa6/95721711/4e6955fa6abbc238cb07eb90c6143072.jpeg",
+      "caption": "Living Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b529421a4/95721711/b529421a4fdb7d94f8f0b0d630e1acb4_max_476x317.jpeg",
+      "url": "property-photo/b529421a4/95721711/b529421a4fdb7d94f8f0b0d630e1acb4.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dc2d9f53/95721711/6dc2d9f53280cbe35473319f9269d768_max_476x317.jpeg",
+      "url": "property-photo/6dc2d9f53/95721711/6dc2d9f53280cbe35473319f9269d768.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a32ae3146/95721711/a32ae3146c1ae01edc6a8d3cb491a9b2_max_476x317.jpeg",
+      "url": "property-photo/a32ae3146/95721711/a32ae3146c1ae01edc6a8d3cb491a9b2.jpeg",
+      "caption": "Living Space"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9787db50b/95721711/9787db50b91c29e7dfc67252c315989a_max_476x317.jpeg",
+      "url": "property-photo/9787db50b/95721711/9787db50b91c29e7dfc67252c315989a.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/933157d7f/95721711/933157d7f2a3b8a225d45f7ee3754e96_max_476x317.jpeg",
+      "url": "property-photo/933157d7f/95721711/933157d7f2a3b8a225d45f7ee3754e96.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/693424924/95721711/6934249243ac953ad54dfbc02ed55dd8_max_476x317.jpeg",
+      "url": "property-photo/693424924/95721711/6934249243ac953ad54dfbc02ed55dd8.jpeg",
+      "caption": "Storage "
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e65e3cceb/95721711/e65e3cceb789e89d0e8041d14cfd2425_max_476x317.jpeg",
+      "url": "property-photo/e65e3cceb/95721711/e65e3cceb789e89d0e8041d14cfd2425.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Studio",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-21T10:13:05Z"
+  },
+  "price": {
+    "amount": 1375,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,375 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.4k"
+      },
+      {
+        "displayPrice": "\u00a3317 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.4k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 96668,
+    "brandPlusLogoURI": "/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "contactTelephone": "020 3322 3265",
+    "branchDisplayName": "OpenRent, London",
+    "branchName": "London",
+    "brandTradingName": "OpenRent",
+    "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-12T13:02:54Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/11437829-PRODUCTS_LOGO-1766057581.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "OpenRent is the UK's largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95721711#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95721711",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-21T10:07:54Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-21T10:13:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "No Agent Fees",
+      "htmlDescription": "No Agent Fees"
+    },
+    {
+      "order": 2,
+      "description": "Students Can Enquire",
+      "htmlDescription": "Students Can Enquire"
+    },
+    {
+      "order": 3,
+      "description": "Bills Included",
+      "htmlDescription": "Bills Included"
+    },
+    {
+      "order": 4,
+      "description": "Property Reference Number: 3120245",
+      "htmlDescription": "Property Reference Number: 3120245"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8_max_476x317.jpeg",
+        "url": "property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8.jpeg",
+        "caption": "Living Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e6955fa6/95721711/4e6955fa6abbc238cb07eb90c6143072_max_476x317.jpeg",
+        "url": "property-photo/4e6955fa6/95721711/4e6955fa6abbc238cb07eb90c6143072.jpeg",
+        "caption": "Living Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b529421a4/95721711/b529421a4fdb7d94f8f0b0d630e1acb4_max_476x317.jpeg",
+        "url": "property-photo/b529421a4/95721711/b529421a4fdb7d94f8f0b0d630e1acb4.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6dc2d9f53/95721711/6dc2d9f53280cbe35473319f9269d768_max_476x317.jpeg",
+        "url": "property-photo/6dc2d9f53/95721711/6dc2d9f53280cbe35473319f9269d768.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a32ae3146/95721711/a32ae3146c1ae01edc6a8d3cb491a9b2_max_476x317.jpeg",
+        "url": "property-photo/a32ae3146/95721711/a32ae3146c1ae01edc6a8d3cb491a9b2.jpeg",
+        "caption": "Living Space"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9787db50b/95721711/9787db50b91c29e7dfc67252c315989a_max_476x317.jpeg",
+        "url": "property-photo/9787db50b/95721711/9787db50b91c29e7dfc67252c315989a.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/933157d7f/95721711/933157d7f2a3b8a225d45f7ee3754e96_max_476x317.jpeg",
+        "url": "property-photo/933157d7f/95721711/933157d7f2a3b8a225d45f7ee3754e96.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/693424924/95721711/6934249243ac953ad54dfbc02ed55dd8_max_476x317.jpeg",
+        "url": "property-photo/693424924/95721711/6934249243ac953ad54dfbc02ed55dd8.jpeg",
+        "caption": "Storage "
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e65e3cceb/95721711/e65e3cceb789e89d0e8041d14cfd2425_max_476x317.jpeg",
+        "url": "property-photo/e65e3cceb/95721711/e65e3cceb789e89d0e8041d14cfd2425.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e768af7d5/95721711/e768af7d571fa04cc396c4efe4eedab8_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by OpenRent, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "Studio flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
