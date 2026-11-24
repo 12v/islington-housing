@@ -1,0 +1,238 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-24T08:39:41.282442+00:00",
+  "postcode": "N7 9HP",
+  "id": 95753688,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "24 hours Concierge Balcony Terrace Residents' gym Sky Garden Bicycle storage Eco-friendly development",
+  "displayAddress": "Copper House, Market Road, London, N7",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.54686,
+    "longitude": -0.11908
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea_max_476x317.jpeg",
+      "url": "property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea.jpeg",
+      "caption": "Picture No. 02"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9fe978601/95753688/9fe97860189a996acab454b8e26aa46d_max_476x317.jpeg",
+      "url": "property-photo/9fe978601/95753688/9fe97860189a996acab454b8e26aa46d.jpeg",
+      "caption": "Picture No. 03"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34f086616/95753688/34f086616f774e8a7a918624cc10c334_max_476x317.jpeg",
+      "url": "property-photo/34f086616/95753688/34f086616f774e8a7a918624cc10c334.jpeg",
+      "caption": "Picture No. 04"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9af9f4631/95753688/9af9f46312ed5427746a15f7b05a722b_max_476x317.jpeg",
+      "url": "property-photo/9af9f4631/95753688/9af9f46312ed5427746a15f7b05a722b.jpeg",
+      "caption": "Picture No. 06"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c9f3eb02/95753688/3c9f3eb02170c806b1de9c8ef67155e2_max_476x317.jpeg",
+      "url": "property-photo/3c9f3eb02/95753688/3c9f3eb02170c806b1de9c8ef67155e2.jpeg",
+      "caption": "Picture No. 07"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d85d71f4/95753688/4d85d71f44b7a84d17ec3ae0bc7fd00a_max_476x317.jpeg",
+      "url": "property-photo/4d85d71f4/95753688/4d85d71f44b7a84d17ec3ae0bc7fd00a.jpeg",
+      "caption": "Picture No. 08"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14cd2d218/95753688/14cd2d21869f9c9050ec4481c748a97c_max_476x317.jpeg",
+      "url": "property-photo/14cd2d218/95753688/14cd2d21869f9c9050ec4481c748a97c.jpeg",
+      "caption": "Picture No. 01"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-29T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-10-23T10:57:06Z"
+  },
+  "price": {
+    "amount": 2900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,900 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.9k"
+      },
+      {
+        "displayPrice": "\u00a3669 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.9k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 260504,
+    "brandPlusLogoURI": "/partner-logo/30045185-PRODUCTS_LOGO-1766062607.jpeg",
+    "contactTelephone": "020 4652 8777",
+    "branchDisplayName": "Regent Letting and Property Management, West London and Home Counties",
+    "branchName": "West London and Home Counties",
+    "brandTradingName": "Regent Letting and Property Management",
+    "branchLandingPageUrl": "/estate-agents/agent/Regent-Letting-and-Property-Management/West-London-and-Home-Counties-260504.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-23T13:21:44Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/30045185-PRODUCTS_LOGO-1766062607.jpeg",
+    "primaryBrandColour": "#0e2924",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95753688#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95753688",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-23T13:29:59Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-23T17:08:59Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Sky Garden",
+      "htmlDescription": "Sky Garden"
+    },
+    {
+      "order": 2,
+      "description": "Bicycle storage",
+      "htmlDescription": "Bicycle storage"
+    },
+    {
+      "order": 3,
+      "description": "Residents' gym",
+      "htmlDescription": "Residents' gym"
+    },
+    {
+      "order": 4,
+      "description": "Excellent transport links",
+      "htmlDescription": "Excellent transport links"
+    },
+    {
+      "order": 5,
+      "description": "24 hours Concierge",
+      "htmlDescription": "24 hours Concierge"
+    },
+    {
+      "order": 6,
+      "description": "Eco-friendly development",
+      "htmlDescription": "Eco-friendly development"
+    },
+    {
+      "order": 7,
+      "description": "Balcony Terrace",
+      "htmlDescription": "Balcony Terrace"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea_max_476x317.jpeg",
+        "url": "property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea.jpeg",
+        "caption": "Picture No. 02"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9fe978601/95753688/9fe97860189a996acab454b8e26aa46d_max_476x317.jpeg",
+        "url": "property-photo/9fe978601/95753688/9fe97860189a996acab454b8e26aa46d.jpeg",
+        "caption": "Picture No. 03"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34f086616/95753688/34f086616f774e8a7a918624cc10c334_max_476x317.jpeg",
+        "url": "property-photo/34f086616/95753688/34f086616f774e8a7a918624cc10c334.jpeg",
+        "caption": "Picture No. 04"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/9af9f4631/95753688/9af9f46312ed5427746a15f7b05a722b_max_476x317.jpeg",
+        "url": "property-photo/9af9f4631/95753688/9af9f46312ed5427746a15f7b05a722b.jpeg",
+        "caption": "Picture No. 06"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c9f3eb02/95753688/3c9f3eb02170c806b1de9c8ef67155e2_max_476x317.jpeg",
+        "url": "property-photo/3c9f3eb02/95753688/3c9f3eb02170c806b1de9c8ef67155e2.jpeg",
+        "caption": "Picture No. 07"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4d85d71f4/95753688/4d85d71f44b7a84d17ec3ae0bc7fd00a_max_476x317.jpeg",
+        "url": "property-photo/4d85d71f4/95753688/4d85d71f44b7a84d17ec3ae0bc7fd00a.jpeg",
+        "caption": "Picture No. 08"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/14cd2d218/95753688/14cd2d21869f9c9050ec4481c748a97c_max_476x317.jpeg",
+        "url": "property-photo/14cd2d218/95753688/14cd2d21869f9c9050ec4481c748a97c.jpeg",
+        "caption": "Picture No. 01"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6459c0b75/95753688/6459c0b7565723027e502526d1b7a0ea_max_296x197.jpeg"
+  },
+  "heading": "",
+  "formattedBranchName": " by Regent Letting and Property Management, West London and Home Counties",
+  "addedOrReduced": "Added on 23/10/2026",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,293 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-24T05:21:57.574627+00:00",
+  "postcode": "EC1V 7DX",
+  "id": 95778456,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Please Quote AK0951 For All Enquiries. Spacious One Bedroom Ground Floor Flat With Underground Parking In EC1V Offering A Well Laid Out 637 Sq Ft Of Living Space Within A Secure Development On Goswell Road",
+  "displayAddress": "Goswell Court, 154 Goswell Road, London, EC1V 7DX",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.525703,
+    "longitude": -0.099569
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d_max_476x317.jpeg",
+      "url": "property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fb91b77f/95778456/7fb91b77fc4ad4f531762e225caaf63b_max_476x317.jpeg",
+      "url": "property-photo/7fb91b77f/95778456/7fb91b77fc4ad4f531762e225caaf63b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf6076c3b/95778456/cf6076c3b0b521b6417c16c0e2149975_max_476x317.jpeg",
+      "url": "property-photo/cf6076c3b/95778456/cf6076c3b0b521b6417c16c0e2149975.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a9cb66f/95778456/91a9cb66ff433decd698ff61bf3b44c7_max_476x317.jpeg",
+      "url": "property-photo/91a9cb66f/95778456/91a9cb66ff433decd698ff61bf3b44c7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/619b104c1/95778456/619b104c16dd982b20174f0ba5a1caf8_max_476x317.jpeg",
+      "url": "property-photo/619b104c1/95778456/619b104c16dd982b20174f0ba5a1caf8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ac1304d6/95778456/5ac1304d6d3b529895f357e3054be85d_max_476x317.jpeg",
+      "url": "property-photo/5ac1304d6/95778456/5ac1304d6d3b529895f357e3054be85d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9a22fcf7/95778456/f9a22fcf73e52769c8ec50dedd490b68_max_476x317.jpeg",
+      "url": "property-photo/f9a22fcf7/95778456/f9a22fcf73e52769c8ec50dedd490b68.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ea10e575/95778456/5ea10e575c37aa3d7c485d6832dfef5d_max_476x317.jpeg",
+      "url": "property-photo/5ea10e575/95778456/5ea10e575c37aa3d7c485d6832dfef5d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6217e9d4/95778456/a6217e9d45618160cd8f51126d9bf272_max_476x317.jpeg",
+      "url": "property-photo/a6217e9d4/95778456/a6217e9d45618160cd8f51126d9bf272.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d1052b0e/95778456/6d1052b0ea62d3a3e889ccc7b2ea4b9d_max_476x317.jpeg",
+      "url": "property-photo/6d1052b0e/95778456/6d1052b0ea62d3a3e889ccc7b2ea4b9d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45b11c1ce/95778456/45b11c1cef81d7658160d66b3d7a7762_max_476x317.jpeg",
+      "url": "property-photo/45b11c1ce/95778456/45b11c1cef81d7658160d66b3d7a7762.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-11-25T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-23T22:06:06Z"
+  },
+  "price": {
+    "amount": 2500,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,500 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.5k"
+      },
+      {
+        "displayPrice": "\u00a3577 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.5k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 238265,
+    "brandPlusLogoURI": "/partner-logo/26366348-PRODUCTS_LOGO-1776862929057.png",
+    "contactTelephone": "03330 499885",
+    "branchDisplayName": "eXp UK, London",
+    "branchName": "London",
+    "brandTradingName": "eXp UK",
+    "branchLandingPageUrl": "/estate-agents/agent/eXp-UK/London-238265.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-29T15:49:51Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/26366348-PRODUCTS_LOGO-1776862929057.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "637 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95778456#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95778456",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-23T22:00:51Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-23T22:06:06Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Please Quote AK0951 For All Enquiries",
+      "htmlDescription": "Please Quote AK0951 For All Enquiries"
+    },
+    {
+      "order": 2,
+      "description": "Guide Price: \u00a3450,000 - \u00a3500,000",
+      "htmlDescription": "Guide Price: \u00a3450,000 - \u00a3500,000"
+    },
+    {
+      "order": 3,
+      "description": "One Bedroom Ground Floor Flat",
+      "htmlDescription": "One Bedroom Ground Floor Flat"
+    },
+    {
+      "order": 4,
+      "description": "Approx 637 Sq Ft",
+      "htmlDescription": "Approx 637 Sq Ft"
+    },
+    {
+      "order": 5,
+      "description": "Underground Parking Space Included",
+      "htmlDescription": "Underground Parking Space Included"
+    },
+    {
+      "order": 6,
+      "description": "Separate Large Kitchen",
+      "htmlDescription": "Separate Large Kitchen"
+    },
+    {
+      "order": 7,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    },
+    {
+      "order": 8,
+      "description": "Three Piece Bathroom With Bathtub",
+      "htmlDescription": "Three Piece Bathroom With Bathtub"
+    },
+    {
+      "order": 9,
+      "description": "Secure Entry Development",
+      "htmlDescription": "Secure Entry Development"
+    },
+    {
+      "order": 10,
+      "description": "Prime EC1V Central Location",
+      "htmlDescription": "Prime EC1V Central Location"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d_max_476x317.jpeg",
+        "url": "property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7fb91b77f/95778456/7fb91b77fc4ad4f531762e225caaf63b_max_476x317.jpeg",
+        "url": "property-photo/7fb91b77f/95778456/7fb91b77fc4ad4f531762e225caaf63b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf6076c3b/95778456/cf6076c3b0b521b6417c16c0e2149975_max_476x317.jpeg",
+        "url": "property-photo/cf6076c3b/95778456/cf6076c3b0b521b6417c16c0e2149975.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/91a9cb66f/95778456/91a9cb66ff433decd698ff61bf3b44c7_max_476x317.jpeg",
+        "url": "property-photo/91a9cb66f/95778456/91a9cb66ff433decd698ff61bf3b44c7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/619b104c1/95778456/619b104c16dd982b20174f0ba5a1caf8_max_476x317.jpeg",
+        "url": "property-photo/619b104c1/95778456/619b104c16dd982b20174f0ba5a1caf8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ac1304d6/95778456/5ac1304d6d3b529895f357e3054be85d_max_476x317.jpeg",
+        "url": "property-photo/5ac1304d6/95778456/5ac1304d6d3b529895f357e3054be85d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f9a22fcf7/95778456/f9a22fcf73e52769c8ec50dedd490b68_max_476x317.jpeg",
+        "url": "property-photo/f9a22fcf7/95778456/f9a22fcf73e52769c8ec50dedd490b68.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ea10e575/95778456/5ea10e575c37aa3d7c485d6832dfef5d_max_476x317.jpeg",
+        "url": "property-photo/5ea10e575/95778456/5ea10e575c37aa3d7c485d6832dfef5d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a6217e9d4/95778456/a6217e9d45618160cd8f51126d9bf272_max_476x317.jpeg",
+        "url": "property-photo/a6217e9d4/95778456/a6217e9d45618160cd8f51126d9bf272.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6d1052b0e/95778456/6d1052b0ea62d3a3e889ccc7b2ea4b9d_max_476x317.jpeg",
+        "url": "property-photo/6d1052b0e/95778456/6d1052b0ea62d3a3e889ccc7b2ea4b9d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/45b11c1ce/95778456/45b11c1cef81d7658160d66b3d7a7762_max_476x317.jpeg",
+        "url": "property-photo/45b11c1ce/95778456/45b11c1cef81d7658160d66b3d7a7762.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/69dc3b959/95778456/69dc3b959039c3811cb26b13084f368d_max_296x197.jpeg"
+  },
+  "heading": "",
+  "formattedBranchName": " by eXp UK, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
