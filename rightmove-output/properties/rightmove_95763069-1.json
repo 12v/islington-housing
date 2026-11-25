@@ -1,0 +1,224 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-25T05:23:51.155237+00:00",
+  "postcode": "N1 8JL",
+  "id": 95763069,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "Fully Furnished 1 Bedroom Flat In Grantbridge Street, Angel/Islington - \u00a31900pcm The flat is fully furnished, with modern bathroom, modern open plan living area and kitchen and spacious bedroom. It is perfectly located with just a 5 minute walk from a high street of shops, cafes, coffee sho...",
+  "displayAddress": "Grantbridge Street, London, N1",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.534386,
+    "longitude": -0.100205
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740_max_476x317.jpeg",
+      "url": "property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff812aacb/95763069/ff812aacb61b6ed89526f71311743bda_max_476x317.jpeg",
+      "url": "property-photo/ff812aacb/95763069/ff812aacb61b6ed89526f71311743bda.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/555d79d97/95763069/555d79d97d70489823bbb763e007d235_max_476x317.jpeg",
+      "url": "property-photo/555d79d97/95763069/555d79d97d70489823bbb763e007d235.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8af1ebd03/95763069/8af1ebd031a668d43037ad437e1d8814_max_476x317.jpeg",
+      "url": "property-photo/8af1ebd03/95763069/8af1ebd031a668d43037ad437e1d8814.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40658f6b6/95763069/40658f6b6da17fc9b80f620a2fb9c6d1_max_476x317.jpeg",
+      "url": "property-photo/40658f6b6/95763069/40658f6b6da17fc9b80f620a2fb9c6d1.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a23662bff/95763069/a23662bffecc143966bde935741ef960_max_476x317.jpeg",
+      "url": "property-photo/a23662bff/95763069/a23662bffecc143966bde935741ef960.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34c72c2fc/95763069/34c72c2fc4e9f4419b127d54cdb4b7c4_max_476x317.jpeg",
+      "url": "property-photo/34c72c2fc/95763069/34c72c2fc4e9f4419b127d54cdb4b7c4.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-23T16:05:04Z"
+  },
+  "price": {
+    "amount": 1900,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,900 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.9k"
+      },
+      {
+        "displayPrice": "\u00a3438 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.9k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 221711,
+    "brandPlusLogoURI": "/partner-logo/23896037-PRODUCTS_LOGO-1766056336.jpeg",
+    "contactTelephone": "020 3909 7829",
+    "branchDisplayName": "Hello Neighbour, London",
+    "branchName": "London",
+    "brandTradingName": "Hello Neighbour",
+    "branchLandingPageUrl": "/estate-agents/agent/Hello-Neighbour/London-221711.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-05T14:26:23Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/23896037-PRODUCTS_LOGO-1766056336.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "326 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95763069#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95763069",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-23T15:59:24Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-23T16:05:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Fully furnished",
+      "htmlDescription": "Fully furnished"
+    },
+    {
+      "order": 2,
+      "description": "Close to local amenities",
+      "htmlDescription": "Close to local amenities"
+    },
+    {
+      "order": 3,
+      "description": "To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min",
+      "htmlDescription": "To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://youtu.be/SFAsjTAegE8",
+      "provider": "YOUTUBE"
+    }
+  ],
+  "enhancedListing": false,
+  "formattedBranchName": " by Hello Neighbour, London",
+  "addedOrReduced": "Added on 23/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740_max_476x317.jpeg",
+        "url": "property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ff812aacb/95763069/ff812aacb61b6ed89526f71311743bda_max_476x317.jpeg",
+        "url": "property-photo/ff812aacb/95763069/ff812aacb61b6ed89526f71311743bda.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/555d79d97/95763069/555d79d97d70489823bbb763e007d235_max_476x317.jpeg",
+        "url": "property-photo/555d79d97/95763069/555d79d97d70489823bbb763e007d235.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8af1ebd03/95763069/8af1ebd031a668d43037ad437e1d8814_max_476x317.jpeg",
+        "url": "property-photo/8af1ebd03/95763069/8af1ebd031a668d43037ad437e1d8814.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/40658f6b6/95763069/40658f6b6da17fc9b80f620a2fb9c6d1_max_476x317.jpeg",
+        "url": "property-photo/40658f6b6/95763069/40658f6b6da17fc9b80f620a2fb9c6d1.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a23662bff/95763069/a23662bffecc143966bde935741ef960_max_476x317.jpeg",
+        "url": "property-photo/a23662bff/95763069/a23662bffecc143966bde935741ef960.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34c72c2fc/95763069/34c72c2fc4e9f4419b127d54cdb4b7c4_max_476x317.jpeg",
+        "url": "property-photo/34c72c2fc/95763069/34c72c2fc4e9f4419b127d54cdb4b7c4.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8b6c9f63d/95763069/8b6c9f63db7b87e663c97e84f06b8740_max_296x197.jpeg"
+  },
+  "propertyTypeFullDescription": "1 bedroom apartment"
+}

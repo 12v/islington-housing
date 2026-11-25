@@ -1,0 +1,233 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-25T06:52:00.366267+00:00",
+  "postcode": "N5 2HP",
+  "id": 95057214,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Set on a most sought after residential street and located in between vibrant Canonbury and Highbury is this cosy one bedroom flat ideal for a single occupant or couple. Hugely benefits from the rent being inclusive of Gas, Electricity, Water Rates and free Internet access.",
+  "displayAddress": "Petherton Road, Canonbury, Highbury & Islington, London, N5",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.5499,
+    "longitude": -0.091321
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5_max_476x317.jpeg",
+      "url": "property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0e18edf5/95057214/d0e18edf5a0a3f620f4dd752de5e2b28_max_476x317.jpeg",
+      "url": "property-photo/d0e18edf5/95057214/d0e18edf5a0a3f620f4dd752de5e2b28.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2549585f3/95057214/2549585f332e96c045e16d0cffb1d8a6_max_476x317.jpeg",
+      "url": "property-photo/2549585f3/95057214/2549585f332e96c045e16d0cffb1d8a6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eb424b3c/95057214/2eb424b3c90262493939195391084779_max_476x317.jpeg",
+      "url": "property-photo/2eb424b3c/95057214/2eb424b3c90262493939195391084779.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5b67b05a/95057214/a5b67b05ac6c6ea0f66e25b1fdc7d44c_max_476x317.jpeg",
+      "url": "property-photo/a5b67b05a/95057214/a5b67b05ac6c6ea0f66e25b1fdc7d44c.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54079cd85/95057214/54079cd8549a38f423a4d772ee7d2f86_max_476x317.jpeg",
+      "url": "property-photo/54079cd85/95057214/54079cd8549a38f423a4d772ee7d2f86.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eab60675/95057214/2eab60675d6aaebaa1a67a4e1bb97a25_max_476x317.jpeg",
+      "url": "property-photo/2eab60675/95057214/2eab60675d6aaebaa1a67a4e1bb97a25.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-03T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "price_reduced",
+    "listingUpdateDate": "2026-11-24T14:12:40Z"
+  },
+  "price": {
+    "amount": 1850,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,850 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.9k"
+      },
+      {
+        "displayPrice": "\u00a3427 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.9k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 87953,
+    "brandPlusLogoURI": "/partner-logo/9327512-LOGO-1765962790.png",
+    "contactTelephone": "020 3834 8078",
+    "branchDisplayName": "Dimension Estates, London",
+    "branchName": "London",
+    "brandTradingName": "Dimension Estates",
+    "branchLandingPageUrl": "/estate-agents/agent/Dimension-Estates/London-87953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2025-09-09T10:07:53Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9327512-LOGO-1765962790.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "No admin fees applicable.",
+  "displaySize": "341 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95057214#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95057214",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-03T13:46:38Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-24T17:26:04Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Only Short Walk Away From The Bustling Bars And Eateries Along Famous Upper Street",
+      "htmlDescription": "Only Short Walk Away From The Bustling Bars And Eateries Along Famous Upper Street"
+    },
+    {
+      "order": 2,
+      "description": "This Property Would Be Ideal For A Single Occupant Or A Couple",
+      "htmlDescription": "This Property Would Be Ideal For A Single Occupant Or A Couple"
+    },
+    {
+      "order": 3,
+      "description": "Cosy One Bedroom Flat In Desirable Canonbury And Highbury",
+      "htmlDescription": "Cosy One Bedroom Flat In Desirable Canonbury And Highbury"
+    },
+    {
+      "order": 4,
+      "description": "Moments From Canonbury Station And Highbury",
+      "htmlDescription": "Moments From Canonbury Station And Highbury"
+    },
+    {
+      "order": 5,
+      "description": "Highbury Fields Park And Clissold Park Are Only A Short Walk Away",
+      "htmlDescription": "Highbury Fields Park And Clissold Park Are Only A Short Walk Away"
+    },
+    {
+      "order": 6,
+      "description": "Rent Incusive Of Gas, Water, Electricity And Free Internet Access",
+      "htmlDescription": "Rent Incusive Of Gas, Water, Electricity And Free Internet Access"
+    }
+  ],
+  "enhancedListing": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5_max_476x317.jpeg",
+        "url": "property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0e18edf5/95057214/d0e18edf5a0a3f620f4dd752de5e2b28_max_476x317.jpeg",
+        "url": "property-photo/d0e18edf5/95057214/d0e18edf5a0a3f620f4dd752de5e2b28.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2549585f3/95057214/2549585f332e96c045e16d0cffb1d8a6_max_476x317.jpeg",
+        "url": "property-photo/2549585f3/95057214/2549585f332e96c045e16d0cffb1d8a6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eb424b3c/95057214/2eb424b3c90262493939195391084779_max_476x317.jpeg",
+        "url": "property-photo/2eb424b3c/95057214/2eb424b3c90262493939195391084779.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a5b67b05a/95057214/a5b67b05ac6c6ea0f66e25b1fdc7d44c_max_476x317.jpeg",
+        "url": "property-photo/a5b67b05a/95057214/a5b67b05ac6c6ea0f66e25b1fdc7d44c.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54079cd85/95057214/54079cd8549a38f423a4d772ee7d2f86_max_476x317.jpeg",
+        "url": "property-photo/54079cd85/95057214/54079cd8549a38f423a4d772ee7d2f86.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2eab60675/95057214/2eab60675d6aaebaa1a67a4e1bb97a25_max_476x317.jpeg",
+        "url": "property-photo/2eab60675/95057214/2eab60675d6aaebaa1a67a4e1bb97a25.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5b94ccddb/95057214/5b94ccddbfbbdd5603ea85cd51f158f5_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Dimension Estates, London",
+  "addedOrReduced": "Reduced yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true
+}
