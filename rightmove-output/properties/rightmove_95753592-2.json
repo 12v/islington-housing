@@ -1,0 +1,393 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-26T03:16:32.141483+00:00",
+  "postcode": "EC1V 1AD",
+  "id": 95753592,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "numberOfImages": 23,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Regent Property are proud to offer this bright and airy studio apartment in the heart of the stunning Canaletto Tower, EC1V.",
+  "displayAddress": "Canaletto Tower, 257 City Road, London, EC1V",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.52956,
+    "longitude": -0.09562
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba_max_476x317.jpeg",
+      "url": "property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba.jpeg",
+      "caption": "Studio"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9147e88e/95753592/d9147e88e70524dd991ef3445b30918c_max_476x317.jpeg",
+      "url": "property-photo/d9147e88e/95753592/d9147e88e70524dd991ef3445b30918c.jpeg",
+      "caption": "Studio"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38a4a53b5/95753592/38a4a53b5ff7cff1310bf35a1d506854_max_476x317.jpeg",
+      "url": "property-photo/38a4a53b5/95753592/38a4a53b5ff7cff1310bf35a1d506854.jpeg",
+      "caption": "Open plan"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8d251db7/95753592/e8d251db741db9684ccd87f6076894e8_max_476x317.jpeg",
+      "url": "property-photo/e8d251db7/95753592/e8d251db741db9684ccd87f6076894e8.jpeg",
+      "caption": "Open plan"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77dcbcc1d/95753592/77dcbcc1d54bdb5dfbfc6a81301cad67_max_476x317.jpeg",
+      "url": "property-photo/77dcbcc1d/95753592/77dcbcc1d54bdb5dfbfc6a81301cad67.jpeg",
+      "caption": "Bedroom area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50abe70a8/95753592/50abe70a8a850b27a0b43bedc96797f8_max_476x317.jpeg",
+      "url": "property-photo/50abe70a8/95753592/50abe70a8a850b27a0b43bedc96797f8.jpeg",
+      "caption": "Dining area"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa3d37cc3/95753592/fa3d37cc3fb10c5580c0cd848d6f72db_max_476x317.jpeg",
+      "url": "property-photo/fa3d37cc3/95753592/fa3d37cc3fb10c5580c0cd848d6f72db.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2debe2788/95753592/2debe27888dce040a9dc8b5b998da1da_max_476x317.jpeg",
+      "url": "property-photo/2debe2788/95753592/2debe27888dce040a9dc8b5b998da1da.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ac4ac2b5/95753592/3ac4ac2b5b3ae02e79e0dc5563163189_max_476x317.jpeg",
+      "url": "property-photo/3ac4ac2b5/95753592/3ac4ac2b5b3ae02e79e0dc5563163189.jpeg",
+      "caption": "Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628f4c9eb/95753592/628f4c9eb834d42756559032ad373af4_max_476x317.jpeg",
+      "url": "property-photo/628f4c9eb/95753592/628f4c9eb834d42756559032ad373af4.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e47ec6eb/95753592/4e47ec6eb0c70917d04a6c22d3449797_max_476x317.jpeg",
+      "url": "property-photo/4e47ec6eb/95753592/4e47ec6eb0c70917d04a6c22d3449797.jpeg",
+      "caption": "Balcony"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387afc193/95753592/387afc1939bfd3f1edf7f5d094ab3666_max_476x317.jpeg",
+      "url": "property-photo/387afc193/95753592/387afc1939bfd3f1edf7f5d094ab3666.jpeg",
+      "caption": "Concierge service"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e80328cc3/95753592/e80328cc3b85299c6dc3e550abc3eaaf_max_476x317.jpeg",
+      "url": "property-photo/e80328cc3/95753592/e80328cc3b85299c6dc3e550abc3eaaf.jpeg",
+      "caption": "Gym"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a00421e03/95753592/a00421e035075728512e337e4ec7f9cb_max_476x317.jpeg",
+      "url": "property-photo/a00421e03/95753592/a00421e035075728512e337e4ec7f9cb.jpeg",
+      "caption": "Cinema"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bbfa18b/95753592/b7bbfa18b334b9d6c6e18c3af1132939_max_476x317.jpeg",
+      "url": "property-photo/b7bbfa18b/95753592/b7bbfa18b334b9d6c6e18c3af1132939.jpeg",
+      "caption": "Swimming pool"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e8fd8556/95753592/6e8fd855604b91d1f64af67bf1947f1b_max_476x317.jpeg",
+      "url": "property-photo/6e8fd8556/95753592/6e8fd855604b91d1f64af67bf1947f1b.jpeg",
+      "caption": "Spa"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4f883366/95753592/c4f883366a3b83d6df5d9a4885bf4262_max_476x317.jpeg",
+      "url": "property-photo/c4f883366/95753592/c4f883366a3b83d6df5d9a4885bf4262.jpeg",
+      "caption": "Residents&#39; lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aa53dde9/95753592/8aa53dde99d4ce08e279b3aef5fee03d_max_476x317.jpeg",
+      "url": "property-photo/8aa53dde9/95753592/8aa53dde99d4ce08e279b3aef5fee03d.jpeg",
+      "caption": "Residents&#39; lounge"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09c7cf9cf/95753592/09c7cf9cf4e24f8d34c145d6c73929f0_max_476x317.jpeg",
+      "url": "property-photo/09c7cf9cf/95753592/09c7cf9cf4e24f8d34c145d6c73929f0.jpeg",
+      "caption": "Residents&#39; bar"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3475fb684/95753592/3475fb68450cc0aa9634dae99283da8a_max_476x317.jpeg",
+      "url": "property-photo/3475fb684/95753592/3475fb68450cc0aa9634dae99283da8a.jpeg",
+      "caption": "Rooftop terrace"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34def1a20/95753592/34def1a208be731d3abb028ff486bb21_max_476x317.jpeg",
+      "url": "property-photo/34def1a20/95753592/34def1a208be731d3abb028ff486bb21.jpeg",
+      "caption": "External view"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4be26ef72/95753592/4be26ef72eca0a81668977b3aa0ce813_max_476x317.jpeg",
+      "url": "property-photo/4be26ef72/95753592/4be26ef72eca0a81668977b3aa0ce813.jpeg",
+      "caption": "Canaletto Tower"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/121200ddb/95753592/121200ddb29f7003aa944e752fbed5d9_max_476x317.jpeg",
+      "url": "property-photo/121200ddb/95753592/121200ddb29f7003aa944e752fbed5d9.jpeg",
+      "caption": "Canaletto Tower"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-07T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-23T13:35:08Z"
+  },
+  "price": {
+    "amount": 2400,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,400 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.4k"
+      },
+      {
+        "displayPrice": "\u00a3554 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.4k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84960,
+    "brandPlusLogoURI": "/partner-logo/33880410-PRODUCTS_LOGO-1785319386474.jpeg",
+    "contactTelephone": "020 4652 6695",
+    "branchDisplayName": "Regent Letting and Property Management, East London and Home Counties",
+    "branchName": "East London and Home Counties",
+    "brandTradingName": "Regent Letting and Property Management",
+    "branchLandingPageUrl": "/estate-agents/agent/Regent-Letting-and-Property-Management/East-London-and-Home-Counties-84960.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-11-23T13:19:34Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/33880410-PRODUCTS_LOGO-1785319386474.jpeg",
+    "primaryBrandColour": "#0e2924",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95753592#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95753592",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-23T13:29:20Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-25T13:02:33Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Jacuzzi & Spa",
+      "htmlDescription": "Jacuzzi & Spa"
+    },
+    {
+      "order": 2,
+      "description": "Cinema",
+      "htmlDescription": "Cinema"
+    },
+    {
+      "order": 3,
+      "description": "24H Concierge",
+      "htmlDescription": "24H Concierge"
+    },
+    {
+      "order": 4,
+      "description": "Swimming pool",
+      "htmlDescription": "Swimming pool"
+    },
+    {
+      "order": 5,
+      "description": "Residents' lounge",
+      "htmlDescription": "Residents' lounge"
+    },
+    {
+      "order": 6,
+      "description": "Gym",
+      "htmlDescription": "Gym"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba_max_476x317.jpeg",
+        "url": "property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba.jpeg",
+        "caption": "Studio"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d9147e88e/95753592/d9147e88e70524dd991ef3445b30918c_max_476x317.jpeg",
+        "url": "property-photo/d9147e88e/95753592/d9147e88e70524dd991ef3445b30918c.jpeg",
+        "caption": "Studio"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38a4a53b5/95753592/38a4a53b5ff7cff1310bf35a1d506854_max_476x317.jpeg",
+        "url": "property-photo/38a4a53b5/95753592/38a4a53b5ff7cff1310bf35a1d506854.jpeg",
+        "caption": "Open plan"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e8d251db7/95753592/e8d251db741db9684ccd87f6076894e8_max_476x317.jpeg",
+        "url": "property-photo/e8d251db7/95753592/e8d251db741db9684ccd87f6076894e8.jpeg",
+        "caption": "Open plan"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/77dcbcc1d/95753592/77dcbcc1d54bdb5dfbfc6a81301cad67_max_476x317.jpeg",
+        "url": "property-photo/77dcbcc1d/95753592/77dcbcc1d54bdb5dfbfc6a81301cad67.jpeg",
+        "caption": "Bedroom area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/50abe70a8/95753592/50abe70a8a850b27a0b43bedc96797f8_max_476x317.jpeg",
+        "url": "property-photo/50abe70a8/95753592/50abe70a8a850b27a0b43bedc96797f8.jpeg",
+        "caption": "Dining area"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fa3d37cc3/95753592/fa3d37cc3fb10c5580c0cd848d6f72db_max_476x317.jpeg",
+        "url": "property-photo/fa3d37cc3/95753592/fa3d37cc3fb10c5580c0cd848d6f72db.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2debe2788/95753592/2debe27888dce040a9dc8b5b998da1da_max_476x317.jpeg",
+        "url": "property-photo/2debe2788/95753592/2debe27888dce040a9dc8b5b998da1da.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ac4ac2b5/95753592/3ac4ac2b5b3ae02e79e0dc5563163189_max_476x317.jpeg",
+        "url": "property-photo/3ac4ac2b5/95753592/3ac4ac2b5b3ae02e79e0dc5563163189.jpeg",
+        "caption": "Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/628f4c9eb/95753592/628f4c9eb834d42756559032ad373af4_max_476x317.jpeg",
+        "url": "property-photo/628f4c9eb/95753592/628f4c9eb834d42756559032ad373af4.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e47ec6eb/95753592/4e47ec6eb0c70917d04a6c22d3449797_max_476x317.jpeg",
+        "url": "property-photo/4e47ec6eb/95753592/4e47ec6eb0c70917d04a6c22d3449797.jpeg",
+        "caption": "Balcony"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/387afc193/95753592/387afc1939bfd3f1edf7f5d094ab3666_max_476x317.jpeg",
+        "url": "property-photo/387afc193/95753592/387afc1939bfd3f1edf7f5d094ab3666.jpeg",
+        "caption": "Concierge service"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e80328cc3/95753592/e80328cc3b85299c6dc3e550abc3eaaf_max_476x317.jpeg",
+        "url": "property-photo/e80328cc3/95753592/e80328cc3b85299c6dc3e550abc3eaaf.jpeg",
+        "caption": "Gym"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a00421e03/95753592/a00421e035075728512e337e4ec7f9cb_max_476x317.jpeg",
+        "url": "property-photo/a00421e03/95753592/a00421e035075728512e337e4ec7f9cb.jpeg",
+        "caption": "Cinema"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b7bbfa18b/95753592/b7bbfa18b334b9d6c6e18c3af1132939_max_476x317.jpeg",
+        "url": "property-photo/b7bbfa18b/95753592/b7bbfa18b334b9d6c6e18c3af1132939.jpeg",
+        "caption": "Swimming pool"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e8fd8556/95753592/6e8fd855604b91d1f64af67bf1947f1b_max_476x317.jpeg",
+        "url": "property-photo/6e8fd8556/95753592/6e8fd855604b91d1f64af67bf1947f1b.jpeg",
+        "caption": "Spa"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c4f883366/95753592/c4f883366a3b83d6df5d9a4885bf4262_max_476x317.jpeg",
+        "url": "property-photo/c4f883366/95753592/c4f883366a3b83d6df5d9a4885bf4262.jpeg",
+        "caption": "Residents&#39; lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aa53dde9/95753592/8aa53dde99d4ce08e279b3aef5fee03d_max_476x317.jpeg",
+        "url": "property-photo/8aa53dde9/95753592/8aa53dde99d4ce08e279b3aef5fee03d.jpeg",
+        "caption": "Residents&#39; lounge"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/09c7cf9cf/95753592/09c7cf9cf4e24f8d34c145d6c73929f0_max_476x317.jpeg",
+        "url": "property-photo/09c7cf9cf/95753592/09c7cf9cf4e24f8d34c145d6c73929f0.jpeg",
+        "caption": "Residents&#39; bar"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3475fb684/95753592/3475fb68450cc0aa9634dae99283da8a_max_476x317.jpeg",
+        "url": "property-photo/3475fb684/95753592/3475fb68450cc0aa9634dae99283da8a.jpeg",
+        "caption": "Rooftop terrace"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/34def1a20/95753592/34def1a208be731d3abb028ff486bb21_max_476x317.jpeg",
+        "url": "property-photo/34def1a20/95753592/34def1a208be731d3abb028ff486bb21.jpeg",
+        "caption": "External view"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4be26ef72/95753592/4be26ef72eca0a81668977b3aa0ce813_max_476x317.jpeg",
+        "url": "property-photo/4be26ef72/95753592/4be26ef72eca0a81668977b3aa0ce813.jpeg",
+        "caption": "Canaletto Tower"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/121200ddb/95753592/121200ddb29f7003aa944e752fbed5d9_max_476x317.jpeg",
+        "url": "property-photo/121200ddb/95753592/121200ddb29f7003aa944e752fbed5d9.jpeg",
+        "caption": "Canaletto Tower"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a630e4575/95753592/a630e45750b0e27b4be7aca0e7e529ba_max_296x197.jpeg"
+  },
+  "heading": "",
+  "formattedBranchName": " by Regent Letting and Property Management, East London and Home Counties",
+  "addedOrReduced": "Added on 23/11/2026",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "Studio apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

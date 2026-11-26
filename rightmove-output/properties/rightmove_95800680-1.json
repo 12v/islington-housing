@@ -1,0 +1,253 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-26T05:07:35.221186+00:00",
+  "postcode": "N19 4AS",
+  "id": 95800680,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Set within a modern building, this one bedroom apartment with a private balcony offers 42 sq m (452 sq ft) of thoughtfully arranged living space in North London.",
+  "displayAddress": "Elthorne Road, N19 4AS",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.566309,
+    "longitude": -0.129882
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330_max_476x317.jpeg",
+      "url": "property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba451392/95800680/5ba451392e4e3eb144efed0e592f887a_max_476x317.jpeg",
+      "url": "property-photo/5ba451392/95800680/5ba451392e4e3eb144efed0e592f887a.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224f7656b/95800680/224f7656b0c048d4d6372fec58c73fc4_max_476x317.jpeg",
+      "url": "property-photo/224f7656b/95800680/224f7656b0c048d4d6372fec58c73fc4.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1aaf50230/95800680/1aaf50230c34092f0fdd810fb51bab2d_max_476x317.jpeg",
+      "url": "property-photo/1aaf50230/95800680/1aaf50230c34092f0fdd810fb51bab2d.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/677d45f4b/95800680/677d45f4b0785b501d0ee0aade44a554_max_476x317.jpeg",
+      "url": "property-photo/677d45f4b/95800680/677d45f4b0785b501d0ee0aade44a554.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/073978b47/95800680/073978b47c841b311e1303f66858b92b_max_476x317.jpeg",
+      "url": "property-photo/073978b47/95800680/073978b47c841b311e1303f66858b92b.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/badbf3c37/95800680/badbf3c37c450a77b52efd6b73b717f8_max_476x317.jpeg",
+      "url": "property-photo/badbf3c37/95800680/badbf3c37c450a77b52efd6b73b717f8.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-24T13:28:06Z"
+  },
+  "price": {
+    "amount": 2000,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,000 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      },
+      {
+        "displayPrice": "\u00a3462 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32k"
+      }
+    ]
+  },
+  "premiumListing": true,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 84953,
+    "brandPlusLogoURI": "/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "contactTelephone": "020 3840 3854",
+    "branchDisplayName": "David Andrew, Archway",
+    "branchName": "Archway",
+    "brandTradingName": "David Andrew",
+    "branchLandingPageUrl": "/estate-agents/agent/David-Andrew/Archway-84953.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-05T10:14:50Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/9079283-PRODUCTS_LOGO-1766063425.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": "Premium Listing",
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "451 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95800680#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95800680",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-24T13:22:16Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-25T05:31:03Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One Bedroom Apartment",
+      "htmlDescription": "One Bedroom Apartment"
+    },
+    {
+      "order": 2,
+      "description": "Private Balcony",
+      "htmlDescription": "Private Balcony"
+    },
+    {
+      "order": 3,
+      "description": "Comprising 42 sq mt / 452 sq ft",
+      "htmlDescription": "Comprising 42 sq mt / 452 sq ft"
+    },
+    {
+      "order": 4,
+      "description": "Spacious Reception Room / Kitchen Area",
+      "htmlDescription": "Spacious Reception Room / Kitchen Area"
+    },
+    {
+      "order": 5,
+      "description": "Fully Fitted Modern Kitchen",
+      "htmlDescription": "Fully Fitted Modern Kitchen"
+    },
+    {
+      "order": 6,
+      "description": "Wooden Flooring Throughout",
+      "htmlDescription": "Wooden Flooring Throughout"
+    },
+    {
+      "order": 7,
+      "description": "Bike Storage",
+      "htmlDescription": "Bike Storage"
+    },
+    {
+      "order": 8,
+      "description": "Walking Distance To Archway & Upper Holloway Stations",
+      "htmlDescription": "Walking Distance To Archway & Upper Holloway Stations"
+    },
+    {
+      "order": 9,
+      "description": "Offered Part - Furnished",
+      "htmlDescription": "Offered Part - Furnished"
+    },
+    {
+      "order": 10,
+      "description": "Available 20th of January",
+      "htmlDescription": "Available 20th of January"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330_max_476x317.jpeg",
+        "url": "property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5ba451392/95800680/5ba451392e4e3eb144efed0e592f887a_max_476x317.jpeg",
+        "url": "property-photo/5ba451392/95800680/5ba451392e4e3eb144efed0e592f887a.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/224f7656b/95800680/224f7656b0c048d4d6372fec58c73fc4_max_476x317.jpeg",
+        "url": "property-photo/224f7656b/95800680/224f7656b0c048d4d6372fec58c73fc4.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1aaf50230/95800680/1aaf50230c34092f0fdd810fb51bab2d_max_476x317.jpeg",
+        "url": "property-photo/1aaf50230/95800680/1aaf50230c34092f0fdd810fb51bab2d.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/677d45f4b/95800680/677d45f4b0785b501d0ee0aade44a554_max_476x317.jpeg",
+        "url": "property-photo/677d45f4b/95800680/677d45f4b0785b501d0ee0aade44a554.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/073978b47/95800680/073978b47c841b311e1303f66858b92b_max_476x317.jpeg",
+        "url": "property-photo/073978b47/95800680/073978b47c841b311e1303f66858b92b.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/badbf3c37/95800680/badbf3c37c450a77b52efd6b73b717f8_max_476x317.jpeg",
+        "url": "property-photo/badbf3c37/95800680/badbf3c37c450a77b52efd6b73b717f8.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/48cdbf392/95800680/48cdbf3925852c9ffa051e9267347330_max_296x197.jpeg"
+  },
+  "heading": "",
+  "formattedBranchName": " by David Andrew, Archway",
+  "addedOrReduced": "Added on 24/11/2026",
+  "formattedDistance": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
