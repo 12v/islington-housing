@@ -1,0 +1,283 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-27T06:42:09.432933+00:00",
+  "postcode": "N7 9LR",
+  "id": 95889054,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 12,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A delightful one-bedroom apartment, ideally situated in this vibrant and sought-after location, available for long-term rental.",
+  "displayAddress": "York Way, London N7",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 55.378051,
+    "longitude": -3.435973
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73_max_476x317.jpeg",
+      "url": "property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e811429d/95889054/1e811429d963921d6152a529708eca96_max_476x317.jpeg",
+      "url": "property-photo/1e811429d/95889054/1e811429d963921d6152a529708eca96.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51531ee6b/95889054/51531ee6b800ff1a398c7d078ead9251_max_476x317.jpeg",
+      "url": "property-photo/51531ee6b/95889054/51531ee6b800ff1a398c7d078ead9251.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d02b2c21/95889054/0d02b2c214428c50c7df24d76e0c3053_max_476x317.jpeg",
+      "url": "property-photo/0d02b2c21/95889054/0d02b2c214428c50c7df24d76e0c3053.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f583a0f09/95889054/f583a0f091b98ebe763a7a5ca61b5473_max_476x317.jpeg",
+      "url": "property-photo/f583a0f09/95889054/f583a0f091b98ebe763a7a5ca61b5473.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/008e11982/95889054/008e11982de7981dfd58be14f0ad1054_max_476x317.jpeg",
+      "url": "property-photo/008e11982/95889054/008e11982de7981dfd58be14f0ad1054.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c5c4ea4d/95889054/7c5c4ea4dcbb2ed03fde7c36ddd8e312_max_476x317.jpeg",
+      "url": "property-photo/7c5c4ea4d/95889054/7c5c4ea4dcbb2ed03fde7c36ddd8e312.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd477cdc4/95889054/fd477cdc4b82b0c8c9bf873bd41ce543_max_476x317.jpeg",
+      "url": "property-photo/fd477cdc4/95889054/fd477cdc4b82b0c8c9bf873bd41ce543.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/424bdd451/95889054/424bdd451784d82686964a91684de51f_max_476x317.jpeg",
+      "url": "property-photo/424bdd451/95889054/424bdd451784d82686964a91684de51f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d650aee65/95889054/d650aee65099f4a0d8937d65503695c7_max_476x317.jpeg",
+      "url": "property-photo/d650aee65/95889054/d650aee65099f4a0d8937d65503695c7.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0940445df/95889054/0940445df563606daf0dfbeef62c0e95_max_476x317.jpeg",
+      "url": "property-photo/0940445df/95889054/0940445df563606daf0dfbeef62c0e95.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e9663977/95889054/4e9663977b4cb301199dbd1c2e45e350_max_476x317.jpeg",
+      "url": "property-photo/4e9663977/95889054/4e9663977b4cb301199dbd1c2e45e350.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-20T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-26T15:51:05Z"
+  },
+  "price": {
+    "amount": 2250,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,250 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.3k"
+      },
+      {
+        "displayPrice": "\u00a3519 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.3k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 90902,
+    "brandPlusLogoURI": "/partner-logo/10081511-PRODUCTS_LOGO-1766067580.jpeg",
+    "contactTelephone": "020 3909 9655",
+    "branchDisplayName": "GMS, London",
+    "branchName": "London",
+    "brandTradingName": "GMS",
+    "branchLandingPageUrl": "/estate-agents/agent/GMS/London-90902.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-03T14:51:11Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/10081511-PRODUCTS_LOGO-1766067580.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "The following are permitted payments which we may request from you:<br /><br />a) The rent<br />b) A refundable tenancy deposit (reserved for any damages or defaults on the part of the tenant) capped at no more than five weeks' rent where the annual rent is less than \u00a350,000, or six weeks' rent where the total annual rent is \u00a350,000 or above<br />c) A refundable holding deposit (to reserve a property) capped at no more than one week's rent<br />d) Payments to change the tenancy when requested by the tenant, capped at \u00a350, or reasonable costs incurred if higher<br />e) Payments associated with early termination of the tenancy, when requested by the tenant<br />f) Payments in respect of utilities, communication services, TV licence and council tax; and<br />g) A default fee for late payment of rent and replacement of a lost key/security device, where required under a tenancy agreement<br /><br />Please call us if you wish to discuss this further.",
+  "displaySize": "517 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95889054#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95889054",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-26T15:45:13Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-26T15:51:05Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Top floor",
+      "htmlDescription": "Top floor"
+    },
+    {
+      "order": 2,
+      "description": "Recently renovated",
+      "htmlDescription": "Recently renovated"
+    },
+    {
+      "order": 3,
+      "description": "Great location",
+      "htmlDescription": "Great location"
+    },
+    {
+      "order": 4,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 5,
+      "description": "517 sq ft",
+      "htmlDescription": "517 sq ft"
+    },
+    {
+      "order": 6,
+      "description": "Available 20th January",
+      "htmlDescription": "Available 20th January"
+    }
+  ],
+  "enhancedListing": false,
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73_max_476x317.jpeg",
+        "url": "property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e811429d/95889054/1e811429d963921d6152a529708eca96_max_476x317.jpeg",
+        "url": "property-photo/1e811429d/95889054/1e811429d963921d6152a529708eca96.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/51531ee6b/95889054/51531ee6b800ff1a398c7d078ead9251_max_476x317.jpeg",
+        "url": "property-photo/51531ee6b/95889054/51531ee6b800ff1a398c7d078ead9251.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0d02b2c21/95889054/0d02b2c214428c50c7df24d76e0c3053_max_476x317.jpeg",
+        "url": "property-photo/0d02b2c21/95889054/0d02b2c214428c50c7df24d76e0c3053.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f583a0f09/95889054/f583a0f091b98ebe763a7a5ca61b5473_max_476x317.jpeg",
+        "url": "property-photo/f583a0f09/95889054/f583a0f091b98ebe763a7a5ca61b5473.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/008e11982/95889054/008e11982de7981dfd58be14f0ad1054_max_476x317.jpeg",
+        "url": "property-photo/008e11982/95889054/008e11982de7981dfd58be14f0ad1054.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7c5c4ea4d/95889054/7c5c4ea4dcbb2ed03fde7c36ddd8e312_max_476x317.jpeg",
+        "url": "property-photo/7c5c4ea4d/95889054/7c5c4ea4dcbb2ed03fde7c36ddd8e312.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fd477cdc4/95889054/fd477cdc4b82b0c8c9bf873bd41ce543_max_476x317.jpeg",
+        "url": "property-photo/fd477cdc4/95889054/fd477cdc4b82b0c8c9bf873bd41ce543.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/424bdd451/95889054/424bdd451784d82686964a91684de51f_max_476x317.jpeg",
+        "url": "property-photo/424bdd451/95889054/424bdd451784d82686964a91684de51f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d650aee65/95889054/d650aee65099f4a0d8937d65503695c7_max_476x317.jpeg",
+        "url": "property-photo/d650aee65/95889054/d650aee65099f4a0d8937d65503695c7.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0940445df/95889054/0940445df563606daf0dfbeef62c0e95_max_476x317.jpeg",
+        "url": "property-photo/0940445df/95889054/0940445df563606daf0dfbeef62c0e95.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4e9663977/95889054/4e9663977b4cb301199dbd1c2e45e350_max_476x317.jpeg",
+        "url": "property-photo/4e9663977/95889054/4e9663977b4cb301199dbd1c2e45e350.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b3f84ffbc/95889054/b3f84ffbc3909cadfabd04c5f9937e73_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by GMS, London"
+}

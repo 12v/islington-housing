@@ -1,0 +1,243 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-27T06:05:05.495888+00:00",
+  "postcode": "N5 2LJ",
+  "id": 95891043,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "Fantastic two-bedroom flat with open plan kitchen living room located in the heart of Highbury. Situated closeby Arsenal Station (Piccadilly Line) and Canonbury (Overground) Station.",
+  "displayAddress": "Highbury New Park, Highbury",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.55683,
+    "longitude": -0.09286
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9_max_476x317.png",
+      "url": "property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61614b959/95891043/61614b9596cd764ec4b54dea5850de5c_max_476x317.png",
+      "url": "property-photo/61614b959/95891043/61614b9596cd764ec4b54dea5850de5c.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07454ab06/95891043/07454ab060eae7310ff5e9182bc48196_max_476x317.png",
+      "url": "property-photo/07454ab06/95891043/07454ab060eae7310ff5e9182bc48196.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea81d9c5d/95891043/ea81d9c5d796f44fd5942f7bade745ff_max_476x317.png",
+      "url": "property-photo/ea81d9c5d/95891043/ea81d9c5d796f44fd5942f7bade745ff.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16499b9ca/95891043/16499b9ca34f7eaaf730f5ffb0055248_max_476x317.png",
+      "url": "property-photo/16499b9ca/95891043/16499b9ca34f7eaaf730f5ffb0055248.png",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df41c70b0/95891043/df41c70b0981fade0ef9c524a61cbae2_max_476x317.png",
+      "url": "property-photo/df41c70b0/95891043/df41c70b0981fade0ef9c524a61cbae2.png",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-17T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-26T16:27:06Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.6k"
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.6k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 21035,
+    "brandPlusLogoURI": "/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "contactTelephone": "020 3907 9773",
+    "branchDisplayName": "Ariston Property, London",
+    "branchName": "London",
+    "brandTradingName": "Ariston Property",
+    "branchLandingPageUrl": "/estate-agents/agent/Ariston-Property/London-21035.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-03-26T17:35:35Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/4740-PRODUCTS_LOGO-1766055850.png",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "\nWe require a Holding Deposit equal to 1 week's rent (approx \u00a3600.00) to secure the property. This holding deposit will be used towards the security deposit and rent in advance if the tenancy proceeds.\n\nThis property requires a Security Deposit of 5 week's rent (approx  \u00a33000.00) \n\n\nThe following fees may also be charged during your tenancy\n\nLost/replacement keys/security fobs\nRent arrears fees/charges\nChange of tenancy\nEarly termination fee\n\n",
+  "displaySize": "635 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95891043#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95891043",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-26T16:21:19Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-26T18:05:42Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two-bedroom flat in the heart of Highbury",
+      "htmlDescription": "Two-bedroom flat in the heart of Highbury"
+    },
+    {
+      "order": 2,
+      "description": "Spacious open-plan kitchen and living area",
+      "htmlDescription": "Spacious open-plan kitchen and living area"
+    },
+    {
+      "order": 3,
+      "description": "White goods included",
+      "htmlDescription": "White goods included"
+    },
+    {
+      "order": 4,
+      "description": "Washer-dryer provided",
+      "htmlDescription": "Washer-dryer provided"
+    },
+    {
+      "order": 5,
+      "description": "Gas Central Heating",
+      "htmlDescription": "Gas Central Heating"
+    },
+    {
+      "order": 6,
+      "description": "Double-glazed windows",
+      "htmlDescription": "Double-glazed windows"
+    },
+    {
+      "order": 7,
+      "description": "Close to Arsenal (Piccadilly line), Canonbury (Overground) and Finsbury Park (Piccadilly and Victoria lines) stations",
+      "htmlDescription": "Close to Arsenal (Piccadilly line), Canonbury (Overground) and Finsbury Park (Piccadilly and Victoria lines) stations"
+    },
+    {
+      "order": 8,
+      "description": "EPC rating C",
+      "htmlDescription": "EPC rating C"
+    },
+    {
+      "order": 9,
+      "description": "Council Tax Band D",
+      "htmlDescription": "Council Tax Band D"
+    },
+    {
+      "order": 10,
+      "description": "Let unfurnished",
+      "htmlDescription": "Let unfurnished"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9_max_476x317.png",
+        "url": "property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/61614b959/95891043/61614b9596cd764ec4b54dea5850de5c_max_476x317.png",
+        "url": "property-photo/61614b959/95891043/61614b9596cd764ec4b54dea5850de5c.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07454ab06/95891043/07454ab060eae7310ff5e9182bc48196_max_476x317.png",
+        "url": "property-photo/07454ab06/95891043/07454ab060eae7310ff5e9182bc48196.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea81d9c5d/95891043/ea81d9c5d796f44fd5942f7bade745ff_max_476x317.png",
+        "url": "property-photo/ea81d9c5d/95891043/ea81d9c5d796f44fd5942f7bade745ff.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/16499b9ca/95891043/16499b9ca34f7eaaf730f5ffb0055248_max_476x317.png",
+        "url": "property-photo/16499b9ca/95891043/16499b9ca34f7eaaf730f5ffb0055248.png",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df41c70b0/95891043/df41c70b0981fade0ef9c524a61cbae2_max_476x317.png",
+        "url": "property-photo/df41c70b0/95891043/df41c70b0981fade0ef9c524a61cbae2.png",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9_max_476x317.png",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/57900f154/95891043/57900f1546b2145770d8b109db50b1e9_max_296x197.png"
+  },
+  "formattedBranchName": " by Ariston Property, London",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}
