@@ -1,0 +1,223 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-28T06:04:45.466036+00:00",
+  "postcode": "N5 2LJ",
+  "id": 95886537,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 0,
+  "summary": "A fantastic two double bedroom second floor period conversion situated in Highbury. This beautifully presented property has been re decorated throughout and offers a very peaceful home. The property comprises two good sized double-bedrooms, modern bathroom and an oversized open plan kitc...",
+  "displayAddress": "Highbury New Park, London, N5",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.556732,
+    "longitude": -0.092333
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb_max_476x317.jpeg",
+      "url": "property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb.jpeg",
+      "caption": "IMG_3058.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92e3fb60e/95886537/92e3fb60e257fdc645d51d11f827880c_max_476x317.jpeg",
+      "url": "property-photo/92e3fb60e/95886537/92e3fb60e257fdc645d51d11f827880c.jpeg",
+      "caption": "IMG_3059.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2aba26c88/95886537/2aba26c886e04d0ac5d1bb4abb9dd2ea_max_476x317.jpeg",
+      "url": "property-photo/2aba26c88/95886537/2aba26c886e04d0ac5d1bb4abb9dd2ea.jpeg",
+      "caption": "IMG_3057.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79426e630/95886537/79426e6305759d4d20ca009641ef16a2_max_476x317.jpeg",
+      "url": "property-photo/79426e630/95886537/79426e6305759d4d20ca009641ef16a2.jpeg",
+      "caption": "IMG_3054.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ed0d9dfa/95886537/3ed0d9dfa6759e9e6c4c010ebe17c71f_max_476x317.jpeg",
+      "url": "property-photo/3ed0d9dfa/95886537/3ed0d9dfa6759e9e6c4c010ebe17c71f.jpeg",
+      "caption": "IMG_3052.jpg"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e9fd64b/95886537/52e9fd64b6b6c2fdb7645b9dcfaf99b8_max_476x317.jpeg",
+      "url": "property-photo/52e9fd64b/95886537/52e9fd64b6b6c2fdb7645b9dcfaf99b8.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b78df5e62/95886537/b78df5e627072f4b5d84170c3fe3c8d1_max_476x317.jpeg",
+      "url": "property-photo/b78df5e62/95886537/b78df5e627072f4b5d84170c3fe3c8d1.jpeg",
+      "caption": "fb669e1c-5211-44dc-a898-bdcd41dae5ccBHHMF - 7, 137"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-26T15:12:06Z"
+  },
+  "price": {
+    "amount": 2600,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,600 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.6k"
+      },
+      {
+        "displayPrice": "\u00a3600 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.6k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 201083,
+    "brandPlusLogoURI": "/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "contactTelephone": "020 3840 3380",
+    "branchDisplayName": "Hemmingfords, London",
+    "branchName": "London",
+    "brandTradingName": "Hemmingfords",
+    "branchLandingPageUrl": "/estate-agents/agent/Hemmingfords/London-201083.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-29T17:00:08Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/21790121-PRODUCTS_LOGO-1766056998.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "637 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95886537#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95886537",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-26T15:06:23Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-27T08:54:26Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Two double bedrooms",
+      "htmlDescription": "Two double bedrooms"
+    },
+    {
+      "order": 2,
+      "description": "Period conversion",
+      "htmlDescription": "Period conversion"
+    },
+    {
+      "order": 3,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 4,
+      "description": "Large windows allowing plenty of natural light",
+      "htmlDescription": "Large windows allowing plenty of natural light"
+    }
+  ],
+  "enhancedListing": false,
+  "hasBrandPlus": true,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb_max_476x317.jpeg",
+        "url": "property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb.jpeg",
+        "caption": "IMG_3058.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/92e3fb60e/95886537/92e3fb60e257fdc645d51d11f827880c_max_476x317.jpeg",
+        "url": "property-photo/92e3fb60e/95886537/92e3fb60e257fdc645d51d11f827880c.jpeg",
+        "caption": "IMG_3059.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2aba26c88/95886537/2aba26c886e04d0ac5d1bb4abb9dd2ea_max_476x317.jpeg",
+        "url": "property-photo/2aba26c88/95886537/2aba26c886e04d0ac5d1bb4abb9dd2ea.jpeg",
+        "caption": "IMG_3057.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/79426e630/95886537/79426e6305759d4d20ca009641ef16a2_max_476x317.jpeg",
+        "url": "property-photo/79426e630/95886537/79426e6305759d4d20ca009641ef16a2.jpeg",
+        "caption": "IMG_3054.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3ed0d9dfa/95886537/3ed0d9dfa6759e9e6c4c010ebe17c71f_max_476x317.jpeg",
+        "url": "property-photo/3ed0d9dfa/95886537/3ed0d9dfa6759e9e6c4c010ebe17c71f.jpeg",
+        "caption": "IMG_3052.jpg"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/52e9fd64b/95886537/52e9fd64b6b6c2fdb7645b9dcfaf99b8_max_476x317.jpeg",
+        "url": "property-photo/52e9fd64b/95886537/52e9fd64b6b6c2fdb7645b9dcfaf99b8.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b78df5e62/95886537/b78df5e627072f4b5d84170c3fe3c8d1_max_476x317.jpeg",
+        "url": "property-photo/b78df5e62/95886537/b78df5e627072f4b5d84170c3fe3c8d1.jpeg",
+        "caption": "fb669e1c-5211-44dc-a898-bdcd41dae5ccBHHMF - 7, 137"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/de66869cb/95886537/de66869cb8fc1ade580d2f4099250efb_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Hemmingfords, London",
+  "addedOrReduced": "Added on 26/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false
+}

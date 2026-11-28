@@ -1,0 +1,202 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-28T05:49:05.856580+00:00",
+  "postcode": "N4 3QL",
+  "id": 95927379,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "numberOfImages": 7,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Andrew Lloyd are delighted to offer a recently refurbished split level 2 Bedroom 2 Bathroom flat split over 3 floors. Ideally located moments away from Finsbury Park Station with many local shops and amenities on your doorstep. This flat consists of a large open plan kitchen dining area wit...",
+  "displayAddress": "2 Bedroom Flat \u2013 Marriott Road, Finsbury Park N4",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.56789,
+    "longitude": -0.11476
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec_max_476x317.jpeg",
+      "url": "property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cbfc7d342/95927379/cbfc7d342026971f80f0cb7339349f70_max_476x317.jpeg",
+      "url": "property-photo/cbfc7d342/95927379/cbfc7d342026971f80f0cb7339349f70.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37aa26443/95927379/37aa26443964ec782bc4ed71a7caef9f_max_476x317.jpeg",
+      "url": "property-photo/37aa26443/95927379/37aa26443964ec782bc4ed71a7caef9f.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/899852171/95927379/899852171dccf32c80e88d5f7b9d8b17_max_476x317.jpeg",
+      "url": "property-photo/899852171/95927379/899852171dccf32c80e88d5f7b9d8b17.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53009f8f8/95927379/53009f8f8756f3dc7cbcbfb3264fa7e6_max_476x317.jpeg",
+      "url": "property-photo/53009f8f8/95927379/53009f8f8756f3dc7cbcbfb3264fa7e6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38ff63142/95927379/38ff6314224d27bc0c9c19e067bee5eb_max_476x317.jpeg",
+      "url": "property-photo/38ff63142/95927379/38ff6314224d27bc0c9c19e067bee5eb.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73efbc408/95927379/73efbc40887147aff5c92458eb636c0f_max_476x317.jpeg",
+      "url": "property-photo/73efbc408/95927379/73efbc40887147aff5c92458eb636c0f.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Flat",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2026-12-18T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-27T16:35:07Z"
+  },
+  "price": {
+    "amount": 2700,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,700 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.7k"
+      },
+      {
+        "displayPrice": "\u00a3623 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.7k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 25238,
+    "brandPlusLogoURI": "/partner-logo/86865-PRODUCTS_LOGO-1766062601.jpeg",
+    "contactTelephone": "020 3871 3432",
+    "branchDisplayName": "Andrew Lloyd Estates Limited, Tottenham",
+    "branchName": "Tottenham",
+    "brandTradingName": "Andrew Lloyd Estates Limited",
+    "branchLandingPageUrl": "/estate-agents/agent/Andrew-Lloyd-Estates-Limited/Tottenham-25238.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-09-07T08:34:05Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/86865-PRODUCTS_LOGO-1766062601.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "Relevant letting fees and tenant protection information\n\nAs well as paying the rent, you may also be required to make the following permitted payments.\n\nPermitted payments\n\nBefore the tenancy starts (payable to Andrew Lloyd Estates 'the Agent')\nHolding Deposit: 1 week's rent\nDeposit: Up to 5 Weeks rent\n\nDuring the tenancy (payable to the provider) if permitted and applicable\nUtilities i.e. gas, electricity, water\nCommunications   telephone and broadband\nInstallation of cable/satellite\nSubscription to cable/satellite supplier\nTelevision licence\nCouncil Tax\n\nOther permitted payments\n\nAny other permitted payments, not included above, under the relevant legislation including contractual damages.\n\nTenant protection\n\nAndrew Lloyd Estates is a member of MyDeposits, which is a client money protection scheme, and also a member of The Property Ombudsman, which is a redress scheme. You can find out more details on the agent s website or by contacting the agent directly.\n\n--------------------------------------",
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95927379#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95927379",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-27T16:29:42Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-27T16:35:07Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec_max_476x317.jpeg",
+        "url": "property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cbfc7d342/95927379/cbfc7d342026971f80f0cb7339349f70_max_476x317.jpeg",
+        "url": "property-photo/cbfc7d342/95927379/cbfc7d342026971f80f0cb7339349f70.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/37aa26443/95927379/37aa26443964ec782bc4ed71a7caef9f_max_476x317.jpeg",
+        "url": "property-photo/37aa26443/95927379/37aa26443964ec782bc4ed71a7caef9f.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/899852171/95927379/899852171dccf32c80e88d5f7b9d8b17_max_476x317.jpeg",
+        "url": "property-photo/899852171/95927379/899852171dccf32c80e88d5f7b9d8b17.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/53009f8f8/95927379/53009f8f8756f3dc7cbcbfb3264fa7e6_max_476x317.jpeg",
+        "url": "property-photo/53009f8f8/95927379/53009f8f8756f3dc7cbcbfb3264fa7e6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/38ff63142/95927379/38ff6314224d27bc0c9c19e067bee5eb_max_476x317.jpeg",
+        "url": "property-photo/38ff63142/95927379/38ff6314224d27bc0c9c19e067bee5eb.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/73efbc408/95927379/73efbc40887147aff5c92458eb636c0f_max_476x317.jpeg",
+        "url": "property-photo/73efbc408/95927379/73efbc40887147aff5c92458eb636c0f.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8cee38fe5/95927379/8cee38fe54b9bdab94358afe9eeab1ec_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Andrew Lloyd Estates Limited, Tottenham",
+  "addedOrReduced": "Added yesterday",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "2 bedroom flat",
+  "displayStatus": "",
+  "isRecent": true,
+  "hasBrandPlus": true
+}

@@ -1,0 +1,208 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-28T03:05:11.899349+00:00",
+  "postcode": "EC1V 0ES",
+  "id": 95627853,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 6,
+  "numberOfFloorplans": 0,
+  "numberOfVirtualTours": 0,
+  "summary": "Charming studio apartment forming part of Georgian conversion over looking Northampton Square",
+  "displayAddress": "Northampton Square, London",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.526964,
+    "longitude": -0.102541
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de_max_476x317.jpeg",
+      "url": "property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6756c483a/95627853/6756c483ac97aa39ab51edc0a13ac9d6_max_476x317.jpeg",
+      "url": "property-photo/6756c483a/95627853/6756c483ac97aa39ab51edc0a13ac9d6.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7fc00ea9/95627853/a7fc00ea9f8cfc621dfa35cb94a4c2de_max_476x317.jpeg",
+      "url": "property-photo/a7fc00ea9/95627853/a7fc00ea9f8cfc621dfa35cb94a4c2de.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/108383f01/95627853/108383f01b446357a456da734a472d48_max_476x317.jpeg",
+      "url": "property-photo/108383f01/95627853/108383f01b446357a456da734a472d48.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/042229384/95627853/0422293846c0c53be3b84e1b8c500d05_max_476x317.jpeg",
+      "url": "property-photo/042229384/95627853/0422293846c0c53be3b84e1b8c500d05.jpeg",
+      "caption": null
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54f35f1f5/95627853/54f35f1f54dd1c53a63b02b3ab15c5c6_max_476x317.jpeg",
+      "url": "property-photo/54f35f1f5/95627853/54f35f1f54dd1c53a63b02b3ab15c5c6.jpeg",
+      "caption": null
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-01-08T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-18T18:14:02Z"
+  },
+  "price": {
+    "amount": 1800,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a31,800 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.8k"
+      },
+      {
+        "displayPrice": "\u00a3415 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a31.8k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 11478,
+    "brandPlusLogoURI": "/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "contactTelephone": "020 3840 3862",
+    "branchDisplayName": "Felicity J Lord, Clerkenwell Lettings",
+    "branchName": "Clerkenwell Lettings",
+    "brandTradingName": "Felicity J Lord",
+    "branchLandingPageUrl": "/estate-agents/agent/Felicity-J-Lord/Clerkenwell-Lettings-11478.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-10-26T12:10:52Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/89550-PRODUCTS_LOGO-1766056431.jpeg",
+    "primaryBrandColour": null,
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": null,
+  "displaySize": "",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95627853#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95627853",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-18T18:08:26Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-27T21:59:46Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "Unfurnished",
+      "htmlDescription": "Unfurnished"
+    },
+    {
+      "order": 2,
+      "description": "High ceiling",
+      "htmlDescription": "High ceiling"
+    },
+    {
+      "order": 3,
+      "description": "Separate kitchen",
+      "htmlDescription": "Separate kitchen"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de_max_476x317.jpeg",
+        "url": "property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6756c483a/95627853/6756c483ac97aa39ab51edc0a13ac9d6_max_476x317.jpeg",
+        "url": "property-photo/6756c483a/95627853/6756c483ac97aa39ab51edc0a13ac9d6.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a7fc00ea9/95627853/a7fc00ea9f8cfc621dfa35cb94a4c2de_max_476x317.jpeg",
+        "url": "property-photo/a7fc00ea9/95627853/a7fc00ea9f8cfc621dfa35cb94a4c2de.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/108383f01/95627853/108383f01b446357a456da734a472d48_max_476x317.jpeg",
+        "url": "property-photo/108383f01/95627853/108383f01b446357a456da734a472d48.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/042229384/95627853/0422293846c0c53be3b84e1b8c500d05_max_476x317.jpeg",
+        "url": "property-photo/042229384/95627853/0422293846c0c53be3b84e1b8c500d05.jpeg",
+        "caption": null
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/54f35f1f5/95627853/54f35f1f54dd1c53a63b02b3ab15c5c6_max_476x317.jpeg",
+        "url": "property-photo/54f35f1f5/95627853/54f35f1f54dd1c53a63b02b3ab15c5c6.jpeg",
+        "caption": null
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6e467baf0/95627853/6e467baf0cd4f9432edd6378c9b140de_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Felicity J Lord, Clerkenwell Lettings",
+  "addedOrReduced": "Added on 18/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}

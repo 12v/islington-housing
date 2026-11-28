@@ -1,0 +1,274 @@
+{
+  "source": "rightmove",
+  "scraped_at": "2026-11-28T03:18:17.499002+00:00",
+  "postcode": "EC1V 8BG",
+  "id": 95864475,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "numberOfImages": 11,
+  "numberOfFloorplans": 1,
+  "numberOfVirtualTours": 1,
+  "summary": "No Deposit Option Available For Tenants. A stunning one bedroom apartment in a modern block close to Old Street. The property is exceptionally well presented and offers a spacious reception/dining area with wood flooring, open-plan kitchen with granite worktops, lovely bathroom and a g...",
+  "displayAddress": "Lever Street, London, EC1V",
+  "countryCode": "GB",
+  "ukCountry": "England",
+  "location": {
+    "latitude": 51.527808,
+    "longitude": -0.091855
+  },
+  "images": [
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb_max_476x317.jpeg",
+      "url": "property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb.jpeg",
+      "caption": "Reception/Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/706915ac6/95864475/706915ac6ef3828c3ecbf8fd82b0d235_max_476x317.jpeg",
+      "url": "property-photo/706915ac6/95864475/706915ac6ef3828c3ecbf8fd82b0d235.jpeg",
+      "caption": "Reception/Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf067297d/95864475/cf067297d36d6ddb3a273185db004830_max_476x317.jpeg",
+      "url": "property-photo/cf067297d/95864475/cf067297d36d6ddb3a273185db004830.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c56118a5/95864475/2c56118a5f45d484cb5ab944c10fd81e_max_476x317.jpeg",
+      "url": "property-photo/2c56118a5/95864475/2c56118a5f45d484cb5ab944c10fd81e.jpeg",
+      "caption": "Bathroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0114527c1/95864475/0114527c135680ebf1f567e8a07bcb30_max_476x317.jpeg",
+      "url": "property-photo/0114527c1/95864475/0114527c135680ebf1f567e8a07bcb30.jpeg",
+      "caption": "Reception/Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe7d46a37/95864475/fe7d46a371d95e460dee835125ff3e84_max_476x317.jpeg",
+      "url": "property-photo/fe7d46a37/95864475/fe7d46a371d95e460dee835125ff3e84.jpeg",
+      "caption": "Reception/Kitchen"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5619220/95864475/1b56192205765729f5af3c91f226ac19_max_476x317.jpeg",
+      "url": "property-photo/1b5619220/95864475/1b56192205765729f5af3c91f226ac19.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27ab9a7c0/95864475/27ab9a7c074d27806d713716bb713144_max_476x317.jpeg",
+      "url": "property-photo/27ab9a7c0/95864475/27ab9a7c074d27806d713716bb713144.jpeg",
+      "caption": "Bedroom"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f748fd6b/95864475/6f748fd6b797b9a684f52a28b37428b4_max_476x317.jpeg",
+      "url": "property-photo/6f748fd6b/95864475/6f748fd6b797b9a684f52a28b37428b4.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/608e9a0d5/95864475/608e9a0d5674386dc90998d7e6dbc5ec_max_476x317.jpeg",
+      "url": "property-photo/608e9a0d5/95864475/608e9a0d5674386dc90998d7e6dbc5ec.jpeg",
+      "caption": "Exterior"
+    },
+    {
+      "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef2e4c642/95864475/ef2e4c642113aca038c8b63bc8c9929f_max_476x317.jpeg",
+      "url": "property-photo/ef2e4c642/95864475/ef2e4c642113aca038c8b63bc8c9929f.jpeg",
+      "caption": "Exterior"
+    }
+  ],
+  "propertySubType": "Apartment",
+  "tenure": {
+    "tenureType": null
+  },
+  "letAvailableDate": "2027-02-05T00:00:00Z",
+  "listingUpdate": {
+    "listingUpdateReason": "new",
+    "listingUpdateDate": "2026-11-26T08:23:05Z"
+  },
+  "price": {
+    "amount": 2750,
+    "frequency": "monthly",
+    "currencyCode": "GBP",
+    "displayPrices": [
+      {
+        "displayPrice": "\u00a32,750 pcm",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.8k"
+      },
+      {
+        "displayPrice": "\u00a3635 pw",
+        "displayPriceQualifier": "",
+        "abbreviatedPrice": "\u00a32.8k"
+      }
+    ]
+  },
+  "premiumListing": false,
+  "featuredProperty": false,
+  "commercialSearchProminenceSelected": false,
+  "customer": {
+    "branchId": 77493,
+    "brandPlusLogoURI": "/partner-logo/31823069-PRODUCTS_LOGO-1766065943.jpeg",
+    "contactTelephone": "020 3889 9167",
+    "branchDisplayName": "Stirling Ackroyd Lettings, Clerkenwell",
+    "branchName": "Clerkenwell",
+    "brandTradingName": "Stirling Ackroyd Lettings",
+    "branchLandingPageUrl": "/estate-agents/agent/Stirling-Ackroyd-Lettings/Clerkenwell-77493.html",
+    "development": false,
+    "mediaServerUrl": "https://media.rightmove.co.uk:443",
+    "showReducedProperties": true,
+    "hasBrandPlus": true,
+    "commercial": false,
+    "showOnMap": true,
+    "enhancedListing": false,
+    "buildToRentListing": false,
+    "developmentContent": null,
+    "buildToRent": false,
+    "buildToRentBenefits": [],
+    "updateDate": "2026-08-03T08:03:55Z",
+    "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/partner-logo/31823069-PRODUCTS_LOGO-1766065943.jpeg",
+    "primaryBrandColour": "#1e2245",
+    "premiumListingFeatures": [
+      "KEY_FEATURES",
+      "VIDEO",
+      "LARGER_LISTING",
+      "MAP"
+    ]
+  },
+  "distance": null,
+  "transactionType": "rent",
+  "productLabel": {
+    "productLabelText": null,
+    "spotlightLabel": false
+  },
+  "commercial": false,
+  "development": false,
+  "residential": true,
+  "students": false,
+  "auction": false,
+  "feesApply": true,
+  "feesApplyText": "We are a member of Propertymark (which includes their Client Money Protection Scheme) and The Property Ombudsman. The information given below is provided to ensure you are fully informed of any fees and costs involved in renting a property. All fees & charges are shown inc VAT.<br /><br /> <b><u>Holding deposit (per tenancy):</u></b> <br /><br />One week s rent. Please Note: This will be withheld if any relevant person (including any guarantor(s)) withdraw from the tenancy, fail a Right-to-Rent check, provide materially significant false or misleading information, or fail to sign their tenancy agreement (and / or Deed of Guarantee) within 15 calendar days (or other Deadline for Agreement as mutually agreed in writing).<br /><br /> Security Deposit (per tenancy, Rent of less than \u00a350,000 per year):Five weeks  rent. This covers damage or defaults on the part of the tenant during the tenancy.<br /><br /> Security Deposit (per tenancy, Rent of \u00a350,000 or over per year):Six weeks  rent. This covers damages or defaults on the part of the tenant during the tenancy.<br /><br /> <b><u>Unpaid Rent:</u></b> <br /><br />\rInterest at 3% above the Bank of England Base Rate from Rent Due Date until paid in order to pursue non-payment of rent. Please note: This will not be levied until the rent is more than 14 days in arrears.<br /><br /> <b><u>Lost Key(s) or other Security Device(s):</u></b> <br /><br /> Tenants are liable for the actual cost of replacing any lost key(s) or other security device(s). If the loss results in locks needing to be changed, the actual costs of a locksmith, new lock and replacement keys for the tenant, landlord and any other persons requiring keys will be charged to the tenant.<br /><br /> <b><u>Variation of Contract (Tenant s Request):</u></b> <br /><br /> \u00a350 (inc VAT) per agreed variation. To cover the costs associated with taking landlord s instructions as well as the preparation and execution of new legal documents.<br /><br /> <b><u>Change of sharer (Tenant s Request):</u></b> <br /><br />\r\u00a350 (inc VAT) per replacement tenant or any reasonable costs incurred if higher. To cover the costs associated with taking landlord s instructions, new tenant referencing and Right-to-Rent checks, deposit registration as well as the preparation and execution.<br /><br /> <b><u>Early Termination (Tenant s Request):</u></b> <br /><br />Should the tenant wish to leave their contract early, they shall be liable to the landlord s costs in re-letting the property as well as all rent due under the tenancy until the start date of the replacement tenancy. These costs will be no more than the maximum amount of rent outstanding on the tenancy <br /><br /> <b><u>No Deposit Option:</u></b> <br /><br />\rOur No Deposit Option (NDO) is part of the Residency membership. With this option the tenant can pay the monthly membership fee and not need to have the traditional deposit amount tied up for the duration of the tenancy. The tenant will still be liable for any damages at the end of the tenancy. <br /><br />",
+  "displaySize": "625 sq. ft.",
+  "showOnMap": true,
+  "propertyUrl": "/properties/95864475#/?channel=RES_LET",
+  "contactUrl": "/property-to-rent/contactBranch.html?propertyId=95864475",
+  "staticMapUrl": null,
+  "channel": "RENT",
+  "firstVisibleDate": "2026-11-26T08:17:27Z",
+  "keywords": [],
+  "tags": [],
+  "keywordMatchType": "no_keyword",
+  "saved": false,
+  "hidden": false,
+  "onlineViewingsAvailable": false,
+  "lozengeModel": {
+    "matchingLozenges": []
+  },
+  "streetView": {
+    "showStreetView": true
+  },
+  "enquiredTimestamp": null,
+  "updateDate": "2026-11-26T22:13:22Z",
+  "enquiryAddedTimestamp": null,
+  "enquiryCalledTimestamp": null,
+  "reviews": null,
+  "keyFeatures": [
+    {
+      "order": 1,
+      "description": "One bedroom",
+      "htmlDescription": "One bedroom"
+    },
+    {
+      "order": 2,
+      "description": "Close to Old Street",
+      "htmlDescription": "Close to Old Street"
+    },
+    {
+      "order": 3,
+      "description": "Open-plan living",
+      "htmlDescription": "Open-plan living"
+    },
+    {
+      "order": 4,
+      "description": "Excellent decorative order",
+      "htmlDescription": "Excellent decorative order"
+    },
+    {
+      "order": 5,
+      "description": "Modern bathroom",
+      "htmlDescription": "Modern bathroom"
+    }
+  ],
+  "virtualTours": [
+    {
+      "url": "https://player.vimeo.com/video/773370593",
+      "provider": "VIMEO"
+    }
+  ],
+  "enhancedListing": false,
+  "propertyImages": {
+    "images": [
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb_max_476x317.jpeg",
+        "url": "property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb.jpeg",
+        "caption": "Reception/Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/706915ac6/95864475/706915ac6ef3828c3ecbf8fd82b0d235_max_476x317.jpeg",
+        "url": "property-photo/706915ac6/95864475/706915ac6ef3828c3ecbf8fd82b0d235.jpeg",
+        "caption": "Reception/Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/cf067297d/95864475/cf067297d36d6ddb3a273185db004830_max_476x317.jpeg",
+        "url": "property-photo/cf067297d/95864475/cf067297d36d6ddb3a273185db004830.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/2c56118a5/95864475/2c56118a5f45d484cb5ab944c10fd81e_max_476x317.jpeg",
+        "url": "property-photo/2c56118a5/95864475/2c56118a5f45d484cb5ab944c10fd81e.jpeg",
+        "caption": "Bathroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0114527c1/95864475/0114527c135680ebf1f567e8a07bcb30_max_476x317.jpeg",
+        "url": "property-photo/0114527c1/95864475/0114527c135680ebf1f567e8a07bcb30.jpeg",
+        "caption": "Reception/Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/fe7d46a37/95864475/fe7d46a371d95e460dee835125ff3e84_max_476x317.jpeg",
+        "url": "property-photo/fe7d46a37/95864475/fe7d46a371d95e460dee835125ff3e84.jpeg",
+        "caption": "Reception/Kitchen"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b5619220/95864475/1b56192205765729f5af3c91f226ac19_max_476x317.jpeg",
+        "url": "property-photo/1b5619220/95864475/1b56192205765729f5af3c91f226ac19.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/27ab9a7c0/95864475/27ab9a7c074d27806d713716bb713144_max_476x317.jpeg",
+        "url": "property-photo/27ab9a7c0/95864475/27ab9a7c074d27806d713716bb713144.jpeg",
+        "caption": "Bedroom"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6f748fd6b/95864475/6f748fd6b797b9a684f52a28b37428b4_max_476x317.jpeg",
+        "url": "property-photo/6f748fd6b/95864475/6f748fd6b797b9a684f52a28b37428b4.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/608e9a0d5/95864475/608e9a0d5674386dc90998d7e6dbc5ec_max_476x317.jpeg",
+        "url": "property-photo/608e9a0d5/95864475/608e9a0d5674386dc90998d7e6dbc5ec.jpeg",
+        "caption": "Exterior"
+      },
+      {
+        "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef2e4c642/95864475/ef2e4c642113aca038c8b63bc8c9929f_max_476x317.jpeg",
+        "url": "property-photo/ef2e4c642/95864475/ef2e4c642113aca038c8b63bc8c9929f.jpeg",
+        "caption": "Exterior"
+      }
+    ],
+    "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb_max_476x317.jpeg",
+    "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/02e2e3a8d/95864475/02e2e3a8db771988082f10a43360cffb_max_296x197.jpeg"
+  },
+  "formattedBranchName": " by Stirling Ackroyd Lettings, Clerkenwell",
+  "addedOrReduced": "Added on 26/11/2026",
+  "formattedDistance": "",
+  "heading": "",
+  "propertyTypeFullDescription": "1 bedroom apartment",
+  "displayStatus": "",
+  "isRecent": false,
+  "hasBrandPlus": true
+}
